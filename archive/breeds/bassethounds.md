@@ -3,7 +3,7 @@ title: "Basset Hounds"
 breed_slug: "bassethounds"
 component_count: 5
 unique_content_sections: 5
-generated_at: "2026-08-10T14:10:26+00:00"
+generated_at: "2026-08-10T13:30:31+00:00"
 source_urls:
   - "https://www.yourpurebredpuppy.com/reviews/bassethounds.html"
   - "https://www.yourpurebredpuppy.com/buying/bassethounds.html"

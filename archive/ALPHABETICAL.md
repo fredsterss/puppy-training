@@ -2,7 +2,7 @@
 
 Documents: 303
 
-[Return to the topic index](INDEX.md)
+[Return to the structural source index](SOURCE_INDEX.md)
 
 - [11 Things You Must Do Right To Keep Your Dog Healthy and Happy](pages/books/11T.md)
 - [3 Best Ways To Feed Your Dog Healthy Food](pages/health/articles/feeding-healthy-natural-dog-food.md)

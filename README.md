@@ -13,8 +13,11 @@ SQLite and Markdown.
 - Result: 1,023 archived source pages consolidated into 303
   browsable documents, with one complete Markdown guide per breed; 11 unavailable
   archive URLs and 4 external redirects are recorded separately
-- Outputs: `archive/site.db`, `archive/pages/**/*.md`, the topic-based
-  `archive/INDEX.md`, `archive/ALPHABETICAL.md`, and `archive/CRAWL_REPORT.md`
+- Outputs: `archive/site.db`, `archive/pages/**/*.md`, the curated
+  `archive/INDEX.md`, `archive/APPENDIX.md`, `archive/SOURCE_INDEX.md`,
+  `archive/ALPHABETICAL.md`, `archive/CATEGORY_AUDIT.md`,
+  `archive/CONTENT_CATALOG.csv`, `archive/CONTENT_CATALOG.json`, and
+  `archive/CRAWL_REPORT.md`
 - Resume behavior: completed and failed URLs remain indexed; rerunning retries
   retryable failures and continues queued links
 
@@ -53,6 +56,8 @@ Useful options:
 - `queue`: crawl state (`pending`, `processing`, `done`, `failed`, `skipped`)
 - `meta`: crawl configuration and timestamps
 - `breed_pages`: 177 generated breed guides and their component source URLs
+- `content_catalog`: editorial topic, utility tier, format, caution, and rationale
+  for every browsable document
 
 Markdown files include YAML front matter with source and replay metadata. Their
 paths mirror the original site. Directory URLs become `index.md`; query strings
@@ -61,6 +66,9 @@ receive a short hash suffix so filenames remain collision-free.
 Breed-specific review, buying, training, health, FAQ, and legacy pages are kept
 as source records in SQLite but exported as one combined file per breed under
 `archive/breeds/`. Each guide lists every retained source URL and capture time.
+
+Run `.venv/bin/python categorize_collection.py` to regenerate the editorial
+audit and the CSV/JSON content catalogs after changing the exported collection.
 
 ## Scope and caveats
 

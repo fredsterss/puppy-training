@@ -342,6 +342,7 @@ def export_index(db: sqlite3.Connection, archive_dir: Path) -> None:
         heading_anchor = anchor(f"{section} {count}")
         lines.append(f"- [{section}](#{heading_anchor}) ({count})")
     lines.extend([
+        "- [Editorial category audit](CATEGORY_AUDIT.md)",
         "- [All pages alphabetically](ALPHABETICAL.md)", "",
     ])
     for section, groups in sections.items():
@@ -352,12 +353,12 @@ def export_index(db: sqlite3.Connection, archive_dir: Path) -> None:
     alphabetical = [
         "# All archived pages — alphabetical", "",
         f"Documents: {len(all_rows)}", "",
-        "[Return to the topic index](INDEX.md)", "",
+        "[Return to the structural source index](SOURCE_INDEX.md)", "",
     ]
     alphabetical.extend(f"- [{title}]({relative})" for title, _, relative, _ in all_rows)
     alphabetical.append("")
 
-    (archive_dir / "INDEX.md").write_text("\n".join(lines), encoding="utf-8")
+    (archive_dir / "SOURCE_INDEX.md").write_text("\n".join(lines), encoding="utf-8")
     (archive_dir / "ALPHABETICAL.md").write_text("\n".join(alphabetical), encoding="utf-8")
 
 
@@ -442,8 +443,6 @@ def export_breed_pages(db: sqlite3.Connection, archive_dir: Path) -> tuple[set[s
         "health": (4, "Health and feeding"),
         "faq": (5, "Frequently asked questions"),
     }
-    generated_at = utc_now()
-
     for slug, components in groups.items():
         review = components[0]
         name = re.split(r":\s*What(?:'|’)s Good About", review[0], maxsplit=1, flags=re.I)[0].strip()
@@ -471,6 +470,7 @@ def export_breed_pages(db: sqlite3.Connection, archive_dir: Path) -> tuple[set[s
             body_lines.append(f"- [{title}]({url}) — capture `{captured or 'unknown'}`{duplicate_note}")
         body_lines.append("")
         source_urls = [row[1] for row in ordered]
+        generated_at = max((row[5] for row in ordered if row[5]), default=utc_now())
         header = [
             "---",
             f"title: {yaml_string(name)}",

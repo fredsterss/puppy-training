@@ -1,0 +1,3035 @@
+{
+  "generated_at": "2026-08-10T14:21:43+00:00",
+  "documents": [
+    {
+      "path": "breeds/affenpinschers.md",
+      "title": "Affenpinschers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/afghanhounds.md",
+      "title": "Afghan Hounds",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/airedales.md",
+      "title": "Airedale Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/akitas.md",
+      "title": "Akitas",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/alaskanmalamutes.md",
+      "title": "Alaskan Malamutes",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/americanbulldogs.md",
+      "title": "American Bulldogs",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/americancockerspaniels.md",
+      "title": "American Cocker Spaniels",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/americaneskimodogs.md",
+      "title": "American Eskimo Dogs",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/americanpitbullterriers.md",
+      "title": "American Pit Bull Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/americanstaffordshireterriers.md",
+      "title": "American Staffordshire Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/americanwaterspaniels.md",
+      "title": "American Water Spaniels",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/anatolianshepherddogs.md",
+      "title": "Anatolian Shepherds",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/appenzellermountaindogs.md",
+      "title": "Appenzeller Sennenhund (Mountain Dog)",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/australiancattledogs.md",
+      "title": "Australian Cattle Dogs",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/australiankelpies.md",
+      "title": "Australian Kelpies",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/australianshepherds.md",
+      "title": "Australian Shepherds",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/australianterriers.md",
+      "title": "Australian Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/basenjis.md",
+      "title": "Basenjis",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/bassethounds.md",
+      "title": "Basset Hounds",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/beagles.md",
+      "title": "Beagles",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/beardedcollies.md",
+      "title": "Bearded Collies",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/beaucerons.md",
+      "title": "Beaucerons",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/bedlingtonterriers.md",
+      "title": "Bedlington Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/belgianshepherds.md",
+      "title": "Belgian Shepherds",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/bernesemountaindogs.md",
+      "title": "Bernese Mountain Dogs",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/bichonfrise.md",
+      "title": "Bichon Frise",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/bloodhounds.md",
+      "title": "Bloodhounds",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/bolognese.md",
+      "title": "Bolognese",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/bordercollies.md",
+      "title": "Border Collies",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/borderterriers.md",
+      "title": "Border Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/borzoi.md",
+      "title": "Borzois",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/bostonterriers.md",
+      "title": "Boston Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/bouvierdesflandres.md",
+      "title": "Bouvier des Flandres",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/boxers.md",
+      "title": "Boxer Dogs",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/briards.md",
+      "title": "Briards",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/brittanys.md",
+      "title": "Brittanys",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/brusselsgriffons.md",
+      "title": "Brussels Griffons",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/bulldogs.md",
+      "title": "English Bulldogs",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/bullmastiffs.md",
+      "title": "Bullmastiffs",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/bullterriers.md",
+      "title": "English Bull Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/cairnterriers.md",
+      "title": "Cairn Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/canaandogs.md",
+      "title": "Canaan Dogs",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/canecorsos.md",
+      "title": "Cane Corsos",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/cardiganwelshcorgis.md",
+      "title": "Cardigan Welsh Corgis",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/cavalierkingcharlesspaniels.md",
+      "title": "Cavalier King Charles Spaniels",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/ceskyterriers.md",
+      "title": "Cesky Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/chesapeakebayretrievers.md",
+      "title": "Chesapeake Bay Retrievers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/chihuahuas.md",
+      "title": "Chihuahuas",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/chinesecresteds.md",
+      "title": "Chinese Cresteds",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/chinesesharpei.md",
+      "title": "Chinese Shar-peis",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/chinooks.md",
+      "title": "Chinook Dogs",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/chowchows.md",
+      "title": "Chow Chows",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/clumberspaniels.md",
+      "title": "Clumber Spaniels",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/collies.md",
+      "title": "Rough & Smooth Collies",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/coonhounds.md",
+      "title": "Coonhounds",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/cotondetulear.md",
+      "title": "Coton de Tulear",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/curlycoatedretrievers.md",
+      "title": "Curly-Coated Retrievers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/dachshunds.md",
+      "title": "Dachshunds",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/dalmatians.md",
+      "title": "Dalmatians",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/dandiedinmontterriers.md",
+      "title": "Dandie Dinmont Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/dobermanpinschers.md",
+      "title": "Doberman Pinschers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/dogoargentino.md",
+      "title": "Dogo Argentino",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/doguedebordeaux.md",
+      "title": "Dogue de Bordeaux",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/englishcockerspaniels.md",
+      "title": "English Cocker Spaniels",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/englishsetters.md",
+      "title": "English Setters",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/englishshepherds.md",
+      "title": "English Shepherds",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/englishspringerspaniels.md",
+      "title": "English Springer Spaniels",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/englishtoyspaniels.md",
+      "title": "English Toy Spaniels",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/entlebuchermountaindogs.md",
+      "title": "Entlebucher Mountain Dogs",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/fieldspaniels.md",
+      "title": "Field Spaniels",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/filabrasileiro.md",
+      "title": "Fila Brasileiro",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/finnishspitz.md",
+      "title": "Finnish Spitz",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/flatcoatedretrievers.md",
+      "title": "Flat-Coated Retrievers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/foxterriers.md",
+      "title": "Wire & Smooth Fox Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/frenchbulldogs.md",
+      "title": "French Bulldogs",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/germanpinschers.md",
+      "title": "German Pinschers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/germanshepherds.md",
+      "title": "German Shepherds",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/germanshorthairedpointers.md",
+      "title": "German Shorthaired Pointers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/germanwirehairedpointers.md",
+      "title": "German Wirehaired Pointers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/giantschnauzers.md",
+      "title": "Giant Schnauzers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/glenofimaalterriers.md",
+      "title": "Glen of Imaal Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/goldenretrievers.md",
+      "title": "Golden Retrievers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/gordonsetters.md",
+      "title": "Gordon Setters",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/greatdanes.md",
+      "title": "Great Danes",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/greaterswissmountaindogs.md",
+      "title": "Greater Swiss Mountain Dogs",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/greatpyrenees.md",
+      "title": "Great Pyrenees",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/greyhounds.md",
+      "title": "Greyhounds",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/havanese.md",
+      "title": "Havanese",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/ibizanhounds.md",
+      "title": "Ibizan Hounds",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/irishsetters.md",
+      "title": "Irish Setters",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/irishterriers.md",
+      "title": "Irish Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/irishwaterspaniels.md",
+      "title": "Irish Water Spaniels",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/irishwolfhounds.md",
+      "title": "Irish Wolfhounds",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/italiangreyhounds.md",
+      "title": "Italian Greyhounds",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/jackrussellterriers.md",
+      "title": "Jack Russell Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/japanesechin.md",
+      "title": "Japanese Chin",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/keeshonds.md",
+      "title": "Keeshonds",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/kerryblueterriers.md",
+      "title": "Kerry Blue Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/komondors.md",
+      "title": "Komondors",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/kuvasz.md",
+      "title": "Kuvasz",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/labradorretrievers.md",
+      "title": "Labrador Retrievers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/lagotto-romagnolo.md",
+      "title": "Lagotto Romagnolo",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/lakelandterriers.md",
+      "title": "Lakeland Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/leonbergers.md",
+      "title": "Leonbergers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/lhasaapsos.md",
+      "title": "Lhasa Apsos",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/louisianacatahoulaleoparddogs.md",
+      "title": "Louisiana Catahoula Leopard Dogs",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/lowchen.md",
+      "title": "Lowchen",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/maltese.md",
+      "title": "Maltese",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/manchesterterriers.md",
+      "title": "Manchester Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/mastiffs.md",
+      "title": "Old English Mastiffs",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/miniaturepinschers.md",
+      "title": "Miniature Pinschers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/miniaturepoodles.md",
+      "title": "Miniature Poodles",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/miniatureschnauzers.md",
+      "title": "Miniature Schnauzers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/mixedbreeddogs.md",
+      "title": "Mixed Breed Dogs",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/neapolitanmastiffs.md",
+      "title": "Neapolitan Mastiffs",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/newfoundlands.md",
+      "title": "Newfoundlands",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/norfolkterriers.md",
+      "title": "Norfolk Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/norwegianbuhunds.md",
+      "title": "Norwegian Buhunds",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/norwegianelkhounds.md",
+      "title": "Norwegian Elkhounds",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/norwegianlundehunds.md",
+      "title": "Norwegian Lundehunds",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/norwichterriers.md",
+      "title": "Norwich Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/novascotiaducktollingretrievers.md",
+      "title": "Nova Scotia Duck Tolling Retrievers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/oldenglishsheepdogs.md",
+      "title": "Old English Sheepdogs",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/otterhounds.md",
+      "title": "Otterhounds",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/papillons.md",
+      "title": "Papillons",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/pekingese.md",
+      "title": "Pekingese",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/pembrokewelshcorgis.md",
+      "title": "Pembroke Welsh Corgis",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/petitbassetgriffonvendeen.md",
+      "title": "Petit Basset Griffon Vendeen",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/pharaohhounds.md",
+      "title": "Pharaoh Hounds",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/pointers.md",
+      "title": "English Pointers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/polishlowlandsheepdogs.md",
+      "title": "Polish Lowland Sheepdogs",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/pomeranians.md",
+      "title": "Pomeranians",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/portuguesewaterdogs.md",
+      "title": "Portuguese Water Dogs",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/pugs.md",
+      "title": "Pugs",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/pulis.md",
+      "title": "Pulis",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/ratterriers.md",
+      "title": "Rat Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/rhodesianridgebacks.md",
+      "title": "Rhodesian Ridgebacks",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/rottweilers.md",
+      "title": "Rottweilers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/saintbernards.md",
+      "title": "Saint Bernards",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/salukis.md",
+      "title": "Salukis",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/samoyeds.md",
+      "title": "Samoyeds",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/schipperkes.md",
+      "title": "Schipperkes",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/scottishdeerhounds.md",
+      "title": "Scottish Deerhounds",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/scottishterriers.md",
+      "title": "Scottish Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/sealyhamterriers.md",
+      "title": "Sealyham Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/shelties.md",
+      "title": "Shetland Sheepdogs",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/shibainu.md",
+      "title": "Shiba Inus",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/shihtzu.md",
+      "title": "Shih Tzus",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/shilohshepherds.md",
+      "title": "Shiloh Shepherds",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/siberianhuskies.md",
+      "title": "Siberian Huskies",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/silkyterriers.md",
+      "title": "Silky Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/skyeterriers.md",
+      "title": "Skye Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/sloughis.md",
+      "title": "Sloughis",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/softcoatedwheatenterriers.md",
+      "title": "Soft-Coated Wheaten Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/spinoneitaliano.md",
+      "title": "Spinone Italiano",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/staffordshirebullterriers.md",
+      "title": "Staffordshire Bull Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/standardpoodles.md",
+      "title": "Standard Poodles",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/standardschnauzers.md",
+      "title": "Standard Schnauzers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/sussexspaniels.md",
+      "title": "Sussex Spaniels",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/swedishvallhunds.md",
+      "title": "Swedish Vallhunds",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/tibetanmastiffs.md",
+      "title": "Tibetan Mastiffs",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/tibetanspaniels.md",
+      "title": "Tibetan Spaniels",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/tibetanterriers.md",
+      "title": "Tibetan Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/tosainu.md",
+      "title": "Tosa Inu",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/toyfoxterriers.md",
+      "title": "Toy Fox Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/toypoodles.md",
+      "title": "Toy Poodles",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/transylvaniangriffinfinches.md",
+      "title": "Transylvanian Griffinfinch",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/vizslas.md",
+      "title": "Vizslas",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/weimaraners.md",
+      "title": "Weimaraners",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/welshspringerspaniels.md",
+      "title": "Welsh Springer Spaniels",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/welshterriers.md",
+      "title": "Welsh Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/westhighlandwhiteterriers.md",
+      "title": "West Highland White Terriers",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/whippets.md",
+      "title": "Whippets",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/whiteshepherds.md",
+      "title": "White Shepherds",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/wirehairedpointinggriffons.md",
+      "title": "Wirehaired Pointing Griffons",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/xoloitzcuintle.md",
+      "title": "Xoloitzcuintli",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "breeds/yorkshireterriers.md",
+      "title": "Yorkshire Terriers (Yorkies)",
+      "topic": "Breed guides",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Consolidated reference",
+      "caution": "",
+      "rationale": "Combined breed overview, acquisition, training, health, and FAQ material."
+    },
+    {
+      "path": "pages/about.md",
+      "title": "About Michele Welton | Your Purebred Puppy",
+      "topic": "Navigation and administrative material",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Author biography",
+      "caution": "",
+      "rationale": "Background about the author rather than dog-care guidance."
+    },
+    {
+      "path": "pages/books/11T.md",
+      "title": "11 Things You Must Do Right To Keep Your Dog Healthy and Happy",
+      "topic": "Commercial books and services",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Book sales/support page",
+      "caution": "",
+      "rationale": "Promotes, describes, downloads, or supports the author's commercial books."
+    },
+    {
+      "path": "pages/books/DQ.md",
+      "title": "So you want to get a dog.... great! I'll guide you through your journey of choosing and finding the best dog for your family.",
+      "topic": "Commercial books and services",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Book sales/support page",
+      "caution": "",
+      "rationale": "Promotes, describes, downloads, or supports the author's commercial books."
+    },
+    {
+      "path": "pages/books/RTA.md",
+      "title": "Respect Training For Adult Dogs: 30 Seconds to a Calm, Polite, Well-Behaved Dog",
+      "topic": "Commercial books and services",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Book sales/support page",
+      "caution": "",
+      "rationale": "Promotes, describes, downloads, or supports the author's commercial books."
+    },
+    {
+      "path": "pages/books/RTP.md",
+      "title": "Respect Training For Puppies: 30 Seconds to a Calm, Polite, Well-Behaved Puppy",
+      "topic": "Commercial books and services",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Book sales/support page",
+      "caution": "",
+      "rationale": "Promotes, describes, downloads, or supports the author's commercial books."
+    },
+    {
+      "path": "pages/books/TYD.md",
+      "title": "A dog who respects you will do what you say, and will stop what he's doing when you tell him \"No.\" I will show you how to teach YOUR dog to be a respectful dog who listens to you and does what you say.",
+      "topic": "Commercial books and services",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Book sales/support page",
+      "caution": "",
+      "rationale": "Promotes, describes, downloads, or supports the author's commercial books."
+    },
+    {
+      "path": "pages/books/box_faq.md",
+      "title": "Frequently asked questions about ebooks",
+      "topic": "Commercial books and services",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Book sales/support page",
+      "caution": "",
+      "rationale": "Promotes, describes, downloads, or supports the author's commercial books."
+    },
+    {
+      "path": "pages/books/index.md",
+      "title": "Dog Books by Michele Welton",
+      "topic": "Commercial books and services",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Book sales/support page",
+      "caution": "",
+      "rationale": "Promotes, describes, downloads, or supports the author's commercial books."
+    },
+    {
+      "path": "pages/books/practice.md",
+      "title": "Let's practice a download.... it's easy!",
+      "topic": "Commercial books and services",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Book sales/support page",
+      "caution": "",
+      "rationale": "Promotes, describes, downloads, or supports the author's commercial books."
+    },
+    {
+      "path": "pages/breedconsulting/box_whyfencedyard.md",
+      "title": "Why Your Children Must Be At Least Age Ten",
+      "topic": "Commercial books and services",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Consulting sales/support page",
+      "caution": "",
+      "rationale": "Supports or promotes the author's paid breed-consulting service."
+    },
+    {
+      "path": "pages/breedconsulting/box_whyhome.md",
+      "title": "Why An Adult Must Be Home During the Day",
+      "topic": "Commercial books and services",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Consulting sales/support page",
+      "caution": "",
+      "rationale": "Supports or promotes the author's paid breed-consulting service."
+    },
+    {
+      "path": "pages/breedconsulting/box_whyindoors.md",
+      "title": "Why Your Dog Should Live Indoors",
+      "topic": "Commercial books and services",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Consulting sales/support page",
+      "caution": "",
+      "rationale": "Supports or promotes the author's paid breed-consulting service."
+    },
+    {
+      "path": "pages/breedconsulting/index.md",
+      "title": "Personal service to help you choose the right dog breed",
+      "topic": "Commercial books and services",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Consulting sales/support page",
+      "caution": "",
+      "rationale": "Supports or promotes the author's paid breed-consulting service."
+    },
+    {
+      "path": "pages/buying/articles/AKC-registered-puppies.md",
+      "title": "AKC Registered Puppies: Are AKC Papers Important?",
+      "topic": "Choosing and acquiring a dog",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Acquisition guide",
+      "caution": "",
+      "rationale": "Practical guidance on breeders, shelters, rescues, registration, or puppy selection."
+    },
+    {
+      "path": "pages/buying/articles/animal-shelters.md",
+      "title": "Adopting a Dog From the Animal Shelter or Humane Society",
+      "topic": "Choosing and acquiring a dog",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Acquisition guide",
+      "caution": "",
+      "rationale": "Practical guidance on breeders, shelters, rescues, registration, or puppy selection."
+    },
+    {
+      "path": "pages/buying/articles/crossbred-dogs.md",
+      "title": "The Truth About Crossbred Dogs",
+      "topic": "Choosing and acquiring a dog",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Opinionated acquisition guide",
+      "caution": "",
+      "rationale": "Useful acquisition context presented with strong authorial judgments."
+    },
+    {
+      "path": "pages/buying/articles/do-dogs-need-fenced-yard.md",
+      "title": "Do Dogs Need a Fenced Yard?",
+      "topic": "Breed and lifestyle selection",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Decision guide",
+      "caution": "",
+      "rationale": "Helps match a dog or breed to household, lifestyle, and preferences."
+    },
+    {
+      "path": "pages/buying/articles/dog-breed-rescue.md",
+      "title": "Adopting a Dog From Dog Breed Rescue",
+      "topic": "Choosing and acquiring a dog",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Acquisition guide",
+      "caution": "",
+      "rationale": "Practical guidance on breeders, shelters, rescues, registration, or puppy selection."
+    },
+    {
+      "path": "pages/buying/articles/dog-breed-traits-aggression-cats.md",
+      "title": "Dog Breeds That Are (Usually) Good With Cats",
+      "topic": "Breed and lifestyle selection",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Decision guide",
+      "caution": "",
+      "rationale": "Helps match a dog or breed to household, lifestyle, and preferences."
+    },
+    {
+      "path": "pages/buying/articles/dog-breed-traits-aggression-dogs.md",
+      "title": "Which Breeds Are Aggressive (or Peaceful) With Other Dogs",
+      "topic": "Breed and lifestyle selection",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Decision guide",
+      "caution": "",
+      "rationale": "Helps match a dog or breed to household, lifestyle, and preferences."
+    },
+    {
+      "path": "pages/buying/articles/dog-breed-traits-aggression-people.md",
+      "title": "These Dog Breeds Can Be Aggressive Toward People",
+      "topic": "Breed and lifestyle selection",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Decision guide",
+      "caution": "",
+      "rationale": "Helps match a dog or breed to household, lifestyle, and preferences."
+    },
+    {
+      "path": "pages/buying/articles/dog-breed-traits-appearance.md",
+      "title": "Choosing a Dog Breed Based on its Appearance",
+      "topic": "Breed and lifestyle selection",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Decision guide",
+      "caution": "",
+      "rationale": "Helps match a dog or breed to household, lifestyle, and preferences."
+    },
+    {
+      "path": "pages/buying/articles/dog-breed-traits-children.md",
+      "title": "You Want a Dog... But You Have Children",
+      "topic": "Breed and lifestyle selection",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Decision guide",
+      "caution": "",
+      "rationale": "Helps match a dog or breed to household, lifestyle, and preferences."
+    },
+    {
+      "path": "pages/buying/articles/dog-breed-traits-exercise.md",
+      "title": "How Much Exercise For Different Dog Breeds",
+      "topic": "Breed and lifestyle selection",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Decision guide",
+      "caution": "",
+      "rationale": "Helps match a dog or breed to household, lifestyle, and preferences."
+    },
+    {
+      "path": "pages/buying/articles/dog-breed-traits-fencing.md",
+      "title": "The Best and Worst Fences For Dogs",
+      "topic": "Breed and lifestyle selection",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Decision guide",
+      "caution": "",
+      "rationale": "Helps match a dog or breed to household, lifestyle, and preferences."
+    },
+    {
+      "path": "pages/buying/articles/dog-breed-traits-grooming.md",
+      "title": "Dog Breed Traits: Grooming",
+      "topic": "Breed and lifestyle selection",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Decision guide",
+      "caution": "",
+      "rationale": "Helps match a dog or breed to household, lifestyle, and preferences."
+    },
+    {
+      "path": "pages/buying/articles/dog-breed-traits-shedding.md",
+      "title": "Dog Breed Traits: Shedding and Allergies",
+      "topic": "Breed and lifestyle selection",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Decision guide",
+      "caution": "",
+      "rationale": "Helps match a dog or breed to household, lifestyle, and preferences."
+    },
+    {
+      "path": "pages/buying/articles/dog-breed-traits-size.md",
+      "title": "Which Size Dog is Right For You?",
+      "topic": "Breed and lifestyle selection",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Decision guide",
+      "caution": "",
+      "rationale": "Helps match a dog or breed to household, lifestyle, and preferences."
+    },
+    {
+      "path": "pages/buying/articles/dog-breed-traits-trainability.md",
+      "title": "Dog Breeds That Are Easy (or Challenging) To Train",
+      "topic": "Breed and lifestyle selection",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Decision guide",
+      "caution": "",
+      "rationale": "Helps match a dog or breed to household, lifestyle, and preferences."
+    },
+    {
+      "path": "pages/buying/articles/dog-breed-traits.md",
+      "title": "Which Dog Breed Traits Are Right For You?",
+      "topic": "Breed and lifestyle selection",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Decision guide",
+      "caution": "",
+      "rationale": "Helps match a dog or breed to household, lifestyle, and preferences."
+    },
+    {
+      "path": "pages/buying/articles/dog-breeders.md",
+      "title": "Dog Breeders: How To Find a Good Dog Breeder",
+      "topic": "Choosing and acquiring a dog",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Acquisition guide",
+      "caution": "",
+      "rationale": "Practical guidance on breeders, shelters, rescues, registration, or puppy selection."
+    },
+    {
+      "path": "pages/buying/articles/dog-if-you-work-all-day.md",
+      "title": "Should You Get a Dog If You Work All Day?",
+      "topic": "Breed and lifestyle selection",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Decision guide",
+      "caution": "",
+      "rationale": "Helps match a dog or breed to household, lifestyle, and preferences."
+    },
+    {
+      "path": "pages/buying/articles/how-to-choose-a-puppy.md",
+      "title": "Choosing the Best Puppy in a Litter",
+      "topic": "Choosing and acquiring a dog",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Acquisition guide",
+      "caution": "",
+      "rationale": "Practical guidance on breeders, shelters, rescues, registration, or puppy selection."
+    },
+    {
+      "path": "pages/buying/articles/male-female-dogs.md",
+      "title": "Male Dogs versus Female Dogs: Which Makes a Better Pet?",
+      "topic": "Breed and lifestyle selection",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Decision guide",
+      "caution": "",
+      "rationale": "Helps match a dog or breed to household, lifestyle, and preferences."
+    },
+    {
+      "path": "pages/buying/articles/mixed-breed-dogs.md",
+      "title": "The Truth About Mixed Breed Dogs",
+      "topic": "Choosing and acquiring a dog",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Opinionated acquisition guide",
+      "caution": "",
+      "rationale": "Useful acquisition context presented with strong authorial judgments."
+    },
+    {
+      "path": "pages/buying/articles/petshops-and-pet-stores.md",
+      "title": "Pet Shop Puppies: Buying a Puppy From a Pet Store",
+      "topic": "Choosing and acquiring a dog",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Opinionated acquisition guide",
+      "caution": "",
+      "rationale": "Useful acquisition context presented with strong authorial judgments."
+    },
+    {
+      "path": "pages/buying/articles/puppy-or-adult-dog.md",
+      "title": "Puppies vs Adult Dogs: Pros and Cons of Different Ages",
+      "topic": "Breed and lifestyle selection",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Decision guide",
+      "caution": "",
+      "rationale": "Helps match a dog or breed to household, lifestyle, and preferences."
+    },
+    {
+      "path": "pages/buying/articles/purebred-dogs.md",
+      "title": "The Truth About Purebred Dogs",
+      "topic": "Choosing and acquiring a dog",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Opinionated acquisition guide",
+      "caution": "",
+      "rationale": "Useful acquisition context presented with strong authorial judgments."
+    },
+    {
+      "path": "pages/buying/articles/should-you-get-a-dog.md",
+      "title": "Should You Get a Dog? Pros and Cons of Owning a Dog",
+      "topic": "Breed and lifestyle selection",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Decision guide",
+      "caution": "",
+      "rationale": "Helps match a dog or breed to household, lifestyle, and preferences."
+    },
+    {
+      "path": "pages/buying/articles/what-a-dog-is-like.md",
+      "title": "A Practical, Close-Up Look At What a Dog Is Like",
+      "topic": "Breed and lifestyle selection",
+      "tier": "R",
+      "tier_label": "Breed, selection, and acquisition reference",
+      "content_form": "Decision guide",
+      "caution": "",
+      "rationale": "Helps match a dog or breed to household, lifestyle, and preferences."
+    },
+    {
+      "path": "pages/buying/index.md",
+      "title": "Choosing & Finding a Good Dog",
+      "topic": "Navigation and administrative material",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Section landing page",
+      "caution": "",
+      "rationale": "Primarily an index to acquisition and selection content."
+    },
+    {
+      "path": "pages/cdn-cgi/l/email-protection.md",
+      "title": "Email Protection",
+      "topic": "Navigation and administrative material",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Site administration or navigation",
+      "caution": "",
+      "rationale": "Homepage, FAQ, sitemap, legal/privacy text, or technical remnant."
+    },
+    {
+      "path": "pages/dogbreeds/index-giant-dog-breeds.md",
+      "title": "Dog Breed Reviews: Giant Dog Breeds",
+      "topic": "Navigation and administrative material",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Breed index",
+      "caution": "",
+      "rationale": "Legacy size/category index superseded by the consolidated breed guides."
+    },
+    {
+      "path": "pages/dogbreeds/index-large-dog-breeds.md",
+      "title": "Dog Breed Reviews: Large Dog Breeds",
+      "topic": "Navigation and administrative material",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Breed index",
+      "caution": "",
+      "rationale": "Legacy size/category index superseded by the consolidated breed guides."
+    },
+    {
+      "path": "pages/dogbreeds/index-medium-dog-breeds.md",
+      "title": "Dog Breed Reviews: Medium Dog Breeds",
+      "topic": "Navigation and administrative material",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Breed index",
+      "caution": "",
+      "rationale": "Legacy size/category index superseded by the consolidated breed guides."
+    },
+    {
+      "path": "pages/dogbreeds/index-midsize-dog-breeds.md",
+      "title": "Dog Breed Reviews: Midsize Dog Breeds",
+      "topic": "Navigation and administrative material",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Breed index",
+      "caution": "",
+      "rationale": "Legacy size/category index superseded by the consolidated breed guides."
+    },
+    {
+      "path": "pages/dogbreeds/index-small-dog-breeds.md",
+      "title": "Dog Breed Reviews: Small Dog Breeds",
+      "topic": "Navigation and administrative material",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Breed index",
+      "caution": "",
+      "rationale": "Legacy size/category index superseded by the consolidated breed guides."
+    },
+    {
+      "path": "pages/dogbreeds/index-tiny-toy-dog-breeds.md",
+      "title": "Dog Breed Reviews: Tiny and Toy Dog Breeds",
+      "topic": "Navigation and administrative material",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Breed index",
+      "caution": "",
+      "rationale": "Legacy size/category index superseded by the consolidated breed guides."
+    },
+    {
+      "path": "pages/dogbreeds/index.md",
+      "title": "Dog Breed Reviews: Honest Reviews of 180 Dog Breeds",
+      "topic": "Navigation and administrative material",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Breed index",
+      "caution": "",
+      "rationale": "Legacy size/category index superseded by the consolidated breed guides."
+    },
+    {
+      "path": "pages/faq.md",
+      "title": "Frequently Asked Questions (FAQ)",
+      "topic": "Navigation and administrative material",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Site administration or navigation",
+      "caution": "",
+      "rationale": "Homepage, FAQ, sitemap, legal/privacy text, or technical remnant."
+    },
+    {
+      "path": "pages/health/articles/assisi-loop-review.md",
+      "title": "My Honest Assisi Loop Review – Electromagnetic Field Therapy For Dogs",
+      "topic": "Personal stories, reviews, and polemics",
+      "tier": "C",
+      "tier_label": "Opinion, personal story, review, or polemic",
+      "content_form": "Review or polemic",
+      "caution": "Archived health-related opinion; verify claims with current veterinary sources.",
+      "rationale": "Personal account of treating the author's dog and reviewing a device."
+    },
+    {
+      "path": "pages/health/articles/dog-health-care-intro.md",
+      "title": "Dog Health Care and Feeding – The Sensible Way",
+      "topic": "Veterinary and preventive health",
+      "tier": "B",
+      "tier_label": "Useful supplemental",
+      "content_form": "Health guidance",
+      "caution": "Archived medical content; consult a veterinarian and current guidelines.",
+      "rationale": "Potentially useful background, but medical recommendations may be dated."
+    },
+    {
+      "path": "pages/health/articles/dog-lifespan-quiz.md",
+      "title": "Help Your Dog Live Longer",
+      "topic": "Veterinary and preventive health",
+      "tier": "B",
+      "tier_label": "Useful supplemental",
+      "content_form": "Health guidance",
+      "caution": "Archived medical content; consult a veterinarian and current guidelines.",
+      "rationale": "Potentially useful background, but medical recommendations may be dated."
+    },
+    {
+      "path": "pages/health/articles/dog-lifespan.md",
+      "title": "How Long Do Dogs Live? (Dog Lifespan)",
+      "topic": "Veterinary and preventive health",
+      "tier": "B",
+      "tier_label": "Useful supplemental",
+      "content_form": "Health guidance",
+      "caution": "Archived medical content; consult a veterinarian and current guidelines.",
+      "rationale": "Potentially useful background, but medical recommendations may be dated."
+    },
+    {
+      "path": "pages/health/articles/feeding-commercial-raw-dog-food.md",
+      "title": "5 Best Raw Dog Foods – Frozen and Freeze-Dried",
+      "topic": "Nutrition and feeding",
+      "tier": "B",
+      "tier_label": "Useful supplemental",
+      "content_form": "Feeding guidance",
+      "caution": "Archived nutrition content; verify safety and current evidence with a veterinarian.",
+      "rationale": "Substantive feeding advice, but strongly reflects the author's dietary viewpoint."
+    },
+    {
+      "path": "pages/health/articles/feeding-dog-food-package.md",
+      "title": "Truth and Lies on Dog Food Packages – Secrets the Dog Food Companies Don't Want You to Know",
+      "topic": "Personal stories, reviews, and polemics",
+      "tier": "C",
+      "tier_label": "Opinion, personal story, review, or polemic",
+      "content_form": "Review or polemic",
+      "caution": "Archived health-related opinion; verify claims with current veterinary sources.",
+      "rationale": "Sensationalized critique of pet-food labeling and manufacturers."
+    },
+    {
+      "path": "pages/health/articles/feeding-grain-free-dog-food.md",
+      "title": "5 Reasons Not To Feed Your Dog Grains",
+      "topic": "Personal stories, reviews, and polemics",
+      "tier": "C",
+      "tier_label": "Opinion, personal story, review, or polemic",
+      "content_form": "Review or polemic",
+      "caution": "Archived health-related opinion; verify claims with current veterinary sources.",
+      "rationale": "Dated and controversial nutrition claims presented prescriptively."
+    },
+    {
+      "path": "pages/health/articles/feeding-healthy-natural-dog-food.md",
+      "title": "3 Best Ways To Feed Your Dog Healthy Food",
+      "topic": "Nutrition and feeding",
+      "tier": "B",
+      "tier_label": "Useful supplemental",
+      "content_form": "Feeding guidance",
+      "caution": "Archived nutrition content; verify safety and current evidence with a veterinarian.",
+      "rationale": "Substantive feeding advice, but strongly reflects the author's dietary viewpoint."
+    },
+    {
+      "path": "pages/health/articles/feeding-homemade-dog-food-delivered.md",
+      "title": "Feed Homemade Dog Food – Without Needing To Make It",
+      "topic": "Personal stories, reviews, and polemics",
+      "tier": "C",
+      "tier_label": "Opinion, personal story, review, or polemic",
+      "content_form": "Review or polemic",
+      "caution": "Archived health-related opinion; verify claims with current veterinary sources.",
+      "rationale": "Commercial food-service recommendation/review."
+    },
+    {
+      "path": "pages/health/articles/feeding-homemade-dog-food.md",
+      "title": "A Quick Way To Make Homemade Dog Food",
+      "topic": "Nutrition and feeding",
+      "tier": "B",
+      "tier_label": "Useful supplemental",
+      "content_form": "Feeding guidance",
+      "caution": "Archived nutrition content; verify safety and current evidence with a veterinarian.",
+      "rationale": "Substantive feeding advice, but strongly reflects the author's dietary viewpoint."
+    },
+    {
+      "path": "pages/health/articles/feeding-is-dog-food-safe.md",
+      "title": "Is Your Dog's Food Safe? Concerns About Pet Food Recalls",
+      "topic": "Nutrition and feeding",
+      "tier": "B",
+      "tier_label": "Useful supplemental",
+      "content_form": "Feeding guidance",
+      "caution": "Archived nutrition content; verify safety and current evidence with a veterinarian.",
+      "rationale": "Substantive feeding advice, but strongly reflects the author's dietary viewpoint."
+    },
+    {
+      "path": "pages/health/articles/feeding-kibble-canned-dog-food.md",
+      "title": "5 Best Kibble and Canned Dog Foods",
+      "topic": "Personal stories, reviews, and polemics",
+      "tier": "C",
+      "tier_label": "Opinion, personal story, review, or polemic",
+      "content_form": "Review or polemic",
+      "caution": "Archived health-related opinion; verify claims with current veterinary sources.",
+      "rationale": "Ranked commercial food recommendations."
+    },
+    {
+      "path": "pages/health/articles/feeding-my-vet-says-about-dog-food.md",
+      "title": "Two Shocking Reasons Vets Recommend Kibble and Canned Dog Food",
+      "topic": "Personal stories, reviews, and polemics",
+      "tier": "C",
+      "tier_label": "Opinion, personal story, review, or polemic",
+      "content_form": "Review or polemic",
+      "caution": "Archived health-related opinion; verify claims with current veterinary sources.",
+      "rationale": "Polemic about veterinarians, pet-food education, and profit motives."
+    },
+    {
+      "path": "pages/health/articles/feeding-puppy-food.md",
+      "title": "What Every Puppy Owner Should Know About Feeding",
+      "topic": "Nutrition and feeding",
+      "tier": "B",
+      "tier_label": "Useful supplemental",
+      "content_form": "Feeding guidance",
+      "caution": "Archived nutrition content; verify safety and current evidence with a veterinarian.",
+      "rationale": "Substantive feeding advice, but strongly reflects the author's dietary viewpoint."
+    },
+    {
+      "path": "pages/health/articles/feeding-raw-vs-cooked-dog-food.md",
+      "title": "Should Your Dog's Food Be Raw or Cooked? Pros and Cons",
+      "topic": "Nutrition and feeding",
+      "tier": "B",
+      "tier_label": "Useful supplemental",
+      "content_form": "Feeding guidance",
+      "caution": "Archived nutrition content; verify safety and current evidence with a veterinarian.",
+      "rationale": "Substantive feeding advice, but strongly reflects the author's dietary viewpoint."
+    },
+    {
+      "path": "pages/health/articles/feeding-weight-loss-dog-food.md",
+      "title": "How To Tell If Your Dog Is Overweight – And What To Do About It",
+      "topic": "Nutrition and feeding",
+      "tier": "B",
+      "tier_label": "Useful supplemental",
+      "content_form": "Feeding guidance",
+      "caution": "Archived nutrition content; verify safety and current evidence with a veterinarian.",
+      "rationale": "Substantive feeding advice, but strongly reflects the author's dietary viewpoint."
+    },
+    {
+      "path": "pages/health/articles/feeding-what-makes-dog-food-good.md",
+      "title": "What Makes a Dog Food Good – or Awful",
+      "topic": "Nutrition and feeding",
+      "tier": "B",
+      "tier_label": "Useful supplemental",
+      "content_form": "Feeding guidance",
+      "caution": "Archived nutrition content; verify safety and current evidence with a veterinarian.",
+      "rationale": "Substantive feeding advice, but strongly reflects the author's dietary viewpoint."
+    },
+    {
+      "path": "pages/health/articles/finding-the-best-dog-vet.md",
+      "title": "Think Your Veterinarian Is Good? Here's How To Tell",
+      "topic": "Veterinary and preventive health",
+      "tier": "B",
+      "tier_label": "Useful supplemental",
+      "content_form": "Health guidance",
+      "caution": "Archived medical content; consult a veterinarian and current guidelines.",
+      "rationale": "Potentially useful background, but medical recommendations may be dated."
+    },
+    {
+      "path": "pages/health/articles/neutering-male-dog.md",
+      "title": "Neutering Your Male Dog – Pros and Cons (for FEMALE dogs, click here.)",
+      "topic": "Veterinary and preventive health",
+      "tier": "B",
+      "tier_label": "Useful supplemental",
+      "content_form": "Health guidance",
+      "caution": "Archived medical content; consult a veterinarian and current guidelines.",
+      "rationale": "Potentially useful background, but medical recommendations may be dated."
+    },
+    {
+      "path": "pages/health/articles/pet-insurance.md",
+      "title": "Should You Buy Pet Insurance? An Honest Review",
+      "topic": "Personal stories, reviews, and polemics",
+      "tier": "C",
+      "tier_label": "Opinion, personal story, review, or polemic",
+      "content_form": "Review or polemic",
+      "caution": "Archived health-related opinion; verify claims with current veterinary sources.",
+      "rationale": "Consumer product review rather than general veterinary guidance."
+    },
+    {
+      "path": "pages/health/articles/puppy-shots-and-dog-vaccinations.md",
+      "title": "Puppy Shots and Dog Vaccinations: Needed or Not?",
+      "topic": "Veterinary and preventive health",
+      "tier": "B",
+      "tier_label": "Useful supplemental",
+      "content_form": "Health guidance",
+      "caution": "Archived medical content; consult a veterinarian and current guidelines.",
+      "rationale": "Potentially useful background, but medical recommendations may be dated."
+    },
+    {
+      "path": "pages/health/articles/spaying-female-dog.md",
+      "title": "Spaying Your Female Dog – Pros and Cons (for MALE dogs, click here.)",
+      "topic": "Veterinary and preventive health",
+      "tier": "B",
+      "tier_label": "Useful supplemental",
+      "content_form": "Health guidance",
+      "caution": "Archived medical content; consult a veterinarian and current guidelines.",
+      "rationale": "Potentially useful background, but medical recommendations may be dated."
+    },
+    {
+      "path": "pages/health/index.md",
+      "title": "How To Feed & Care For Your Dog",
+      "topic": "Navigation and administrative material",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Section landing page",
+      "caution": "",
+      "rationale": "Primarily routes readers to health, feeding, and commercial material."
+    },
+    {
+      "path": "pages/health/lifespan/goldenretrievers.md",
+      "title": "Help Your Dog Live Longer",
+      "topic": "Navigation and administrative material",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Interactive quiz remnant",
+      "caution": "Archived health content; not a lifespan prediction tool.",
+      "rationale": "Static fragment of an interactive lifespan questionnaire; little standalone value."
+    },
+    {
+      "path": "pages/health/lifespan/shihtzu.md",
+      "title": "Help Your Dog Live Longer",
+      "topic": "Navigation and administrative material",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Interactive quiz remnant",
+      "caution": "Archived health content; not a lifespan prediction tool.",
+      "rationale": "Static fragment of an interactive lifespan questionnaire; little standalone value."
+    },
+    {
+      "path": "pages/index.md",
+      "title": "Your Purebred Puppy Michele Welton's Honest Advice about Dogs",
+      "topic": "Navigation and administrative material",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Site administration or navigation",
+      "caution": "",
+      "rationale": "Homepage, FAQ, sitemap, legal/privacy text, or technical remnant."
+    },
+    {
+      "path": "pages/legal.md",
+      "title": "Terms of use agreement (in plain English)",
+      "topic": "Navigation and administrative material",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Site administration or navigation",
+      "caution": "",
+      "rationale": "Homepage, FAQ, sitemap, legal/privacy text, or technical remnant."
+    },
+    {
+      "path": "pages/privacy.md",
+      "title": "Privacy Policy",
+      "topic": "Navigation and administrative material",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Site administration or navigation",
+      "caution": "",
+      "rationale": "Homepage, FAQ, sitemap, legal/privacy text, or technical remnant."
+    },
+    {
+      "path": "pages/sitemap.md",
+      "title": "Site Map",
+      "topic": "Navigation and administrative material",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Site administration or navigation",
+      "caution": "",
+      "rationale": "Homepage, FAQ, sitemap, legal/privacy text, or technical remnant."
+    },
+    {
+      "path": "pages/terms-of-use.md",
+      "title": "Terms of Use",
+      "topic": "Navigation and administrative material",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Site administration or navigation",
+      "caution": "",
+      "rationale": "Homepage, FAQ, sitemap, legal/privacy text, or technical remnant."
+    },
+    {
+      "path": "pages/training/articles/23-steps-to-perfect-puppy-manners.md",
+      "title": "Perfect Puppy Manners, Just 23 Steps",
+      "topic": "Core practical training",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Step-by-step training guide",
+      "caution": "",
+      "rationale": "Directly actionable puppy or dog training instruction."
+    },
+    {
+      "path": "pages/training/articles/7-mistakes-teaching-no.md",
+      "title": "Teaching \"No\" to Your Dog | Don't Make These 7 Mistakes",
+      "topic": "Core practical training",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Step-by-step training guide",
+      "caution": "",
+      "rationale": "Directly actionable puppy or dog training instruction."
+    },
+    {
+      "path": "pages/training/articles/abused-rescue-dogs.md",
+      "title": "Was Your Dog Really Abused?",
+      "topic": "Behavior and socialization",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Practical guidance",
+      "caution": "",
+      "rationale": "Action-oriented behavior management or socialization material."
+    },
+    {
+      "path": "pages/training/articles/aggression.md",
+      "title": "Aggression or Reactivity Toward People or Other Dogs",
+      "topic": "Behavior and socialization",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Practical guidance",
+      "caution": "",
+      "rationale": "Action-oriented behavior management or socialization material."
+    },
+    {
+      "path": "pages/training/articles/all-a-dog-needs-is-love.md",
+      "title": "All a Dog Needs is Love",
+      "topic": "Training philosophy and resources",
+      "tier": "B",
+      "tier_label": "Useful supplemental",
+      "content_form": "Essay or resource guide",
+      "caution": "",
+      "rationale": "Training philosophy presented as opinionated supporting context."
+    },
+    {
+      "path": "pages/training/articles/calmness-indoors.md",
+      "title": "Teach Your Pup to be Calm Indoors",
+      "topic": "Behavior and socialization",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Practical guidance",
+      "caution": "",
+      "rationale": "Action-oriented behavior management or socialization material."
+    },
+    {
+      "path": "pages/training/articles/cats-and-dogs-together.md",
+      "title": "Can Cats and Dogs Live Happily Together?",
+      "topic": "Behavior and socialization",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Practical guidance",
+      "caution": "",
+      "rationale": "Action-oriented behavior management or socialization material."
+    },
+    {
+      "path": "pages/training/articles/come-when-called.md",
+      "title": "Teach Your Puppy to Come When Called",
+      "topic": "Core practical training",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Step-by-step training guide",
+      "caution": "",
+      "rationale": "Directly actionable puppy or dog training instruction."
+    },
+    {
+      "path": "pages/training/articles/crate-training.md",
+      "title": "Crate Training | Go Into Your Crate and Stay Quietly",
+      "topic": "Core practical training",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Step-by-step training guide",
+      "caution": "",
+      "rationale": "Directly actionable puppy or dog training instruction."
+    },
+    {
+      "path": "pages/training/articles/dog-behavior-problems.md",
+      "title": "Solving Dog Behavior Problems – Dog Training That Works",
+      "topic": "Behavior and socialization",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Practical guidance",
+      "caution": "",
+      "rationale": "Action-oriented behavior management or socialization material."
+    },
+    {
+      "path": "pages/training/articles/dog-housebreaking.md",
+      "title": "Housebreaking (Potty Training) For Puppies and Adult Dogs",
+      "topic": "Core practical training",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Step-by-step training guide",
+      "caution": "",
+      "rationale": "Directly actionable puppy or dog training instruction."
+    },
+    {
+      "path": "pages/training/articles/dog-respect-training.md",
+      "title": "Teaching Your Dog To Respect You",
+      "topic": "Training philosophy and resources",
+      "tier": "B",
+      "tier_label": "Useful supplemental",
+      "content_form": "Essay or resource guide",
+      "caution": "",
+      "rationale": "Author's overarching training philosophy; useful context but not a neutral protocol."
+    },
+    {
+      "path": "pages/training/articles/dog-socializing-n.md",
+      "title": "Socializing Your Pup to Get Along With the World",
+      "topic": "Behavior and socialization",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Practical guidance",
+      "caution": "",
+      "rationale": "Action-oriented behavior management or socialization material."
+    },
+    {
+      "path": "pages/training/articles/dog-socializing.md",
+      "title": "Socializing Your Puppy or Adult Dog To Get Along With The World",
+      "topic": "Behavior and socialization",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Practical guidance",
+      "caution": "",
+      "rationale": "Action-oriented behavior management or socialization material."
+    },
+    {
+      "path": "pages/training/articles/dog-training-help.md",
+      "title": "You need dog training help.... but from where? private lessons? public classes? dog training books? dog training videos?",
+      "topic": "Training philosophy and resources",
+      "tier": "B",
+      "tier_label": "Useful supplemental",
+      "content_form": "Essay or resource guide",
+      "caution": "",
+      "rationale": "Advice for selecting training help; partly evaluative and promotional."
+    },
+    {
+      "path": "pages/training/articles/dog-training-methods.md",
+      "title": "Dog Training – What Works and What Doesn't",
+      "topic": "Training philosophy and resources",
+      "tier": "B",
+      "tier_label": "Useful supplemental",
+      "content_form": "Essay or resource guide",
+      "caution": "",
+      "rationale": "Comparison of training methods from the author's viewpoint."
+    },
+    {
+      "path": "pages/training/articles/dog-training-videos.md",
+      "title": "These Dog Training Videos Turned Buddy Into a Good Dog",
+      "topic": "Personal stories, reviews, and polemics",
+      "tier": "C",
+      "tier_label": "Opinion, personal story, review, or polemic",
+      "content_form": "Affiliate-style review",
+      "caution": "",
+      "rationale": "Personal results story and recommendation for a commercial video service."
+    },
+    {
+      "path": "pages/training/articles/easy-gentleness.md",
+      "title": "Teach Your Puppy Gentleness",
+      "topic": "Core practical training",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Step-by-step training guide",
+      "caution": "",
+      "rationale": "Directly actionable puppy or dog training instruction."
+    },
+    {
+      "path": "pages/training/articles/excitable-submissive-urination.md",
+      "title": "Urinating When Excited or Nervous",
+      "topic": "Behavior and socialization",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Practical guidance",
+      "caution": "",
+      "rationale": "Action-oriented behavior management or socialization material."
+    },
+    {
+      "path": "pages/training/articles/family-consistency.md",
+      "title": "All family members should be on the same page",
+      "topic": "Behavior and socialization",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Practical guidance",
+      "caution": "",
+      "rationale": "Action-oriented behavior management or socialization material."
+    },
+    {
+      "path": "pages/training/articles/games.md",
+      "title": "Games to Play (and Not Play) With Your Puppy",
+      "topic": "Core practical training",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Step-by-step training guide",
+      "caution": "",
+      "rationale": "Directly actionable puppy or dog training instruction."
+    },
+    {
+      "path": "pages/training/articles/give-drop-things.md",
+      "title": "Teach Your Pup to Drop Things When Told",
+      "topic": "Core practical training",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Step-by-step training guide",
+      "caution": "",
+      "rationale": "Directly actionable puppy or dog training instruction."
+    },
+    {
+      "path": "pages/training/articles/go-to-your-bed-and-stay-there.md",
+      "title": "Go To Your Bed and Stay There",
+      "topic": "Core practical training",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Step-by-step training guide",
+      "caution": "",
+      "rationale": "Directly actionable puppy or dog training instruction."
+    },
+    {
+      "path": "pages/training/articles/handling-grooming.md",
+      "title": "Teach Your Puppy to Accept Handling",
+      "topic": "Core practical training",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Step-by-step training guide",
+      "caution": "",
+      "rationale": "Directly actionable puppy or dog training instruction."
+    },
+    {
+      "path": "pages/training/articles/leash-training-intro.md",
+      "title": "Beginning Leash Training – Introducing Your Puppy to a Leash",
+      "topic": "Core practical training",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Step-by-step training guide",
+      "caution": "",
+      "rationale": "Directly actionable puppy or dog training instruction."
+    },
+    {
+      "path": "pages/training/articles/leash-training.md",
+      "title": "Leash Training – Walk Nicely on Leash",
+      "topic": "Core practical training",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Step-by-step training guide",
+      "caution": "",
+      "rationale": "Directly actionable puppy or dog training instruction."
+    },
+    {
+      "path": "pages/training/articles/leave-it.md",
+      "title": "Teach Your Puppy to Leave It",
+      "topic": "Core practical training",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Step-by-step training guide",
+      "caution": "",
+      "rationale": "Directly actionable puppy or dog training instruction."
+    },
+    {
+      "path": "pages/training/articles/multiple-dogs.md",
+      "title": "Living With Multiple Dogs",
+      "topic": "Behavior and socialization",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Practical guidance",
+      "caution": "",
+      "rationale": "Action-oriented behavior management or socialization material."
+    },
+    {
+      "path": "pages/training/articles/puppy-training-made-easy.md",
+      "title": "Puppy Training Made Easy - 4 Things You MUST Do Right",
+      "topic": "Core practical training",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Step-by-step training guide",
+      "caution": "",
+      "rationale": "Directly actionable puppy or dog training instruction."
+    },
+    {
+      "path": "pages/training/articles/puppy-training-schedule.md",
+      "title": "Puppy Training Schedule: What to Teach Puppies, and When",
+      "topic": "Core practical training",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Step-by-step training guide",
+      "caution": "",
+      "rationale": "Directly actionable puppy or dog training instruction."
+    },
+    {
+      "path": "pages/training/articles/sit-stay.md",
+      "title": "Teach Your Pup to Sit and Stay",
+      "topic": "Core practical training",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Step-by-step training guide",
+      "caution": "",
+      "rationale": "Directly actionable puppy or dog training instruction."
+    },
+    {
+      "path": "pages/training/articles/stop-demanding-behaviors.md",
+      "title": "Stop Over-Dependency and Demanding Behaviors",
+      "topic": "Behavior and socialization",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Practical guidance",
+      "caution": "",
+      "rationale": "Action-oriented behavior management or socialization material."
+    },
+    {
+      "path": "pages/training/articles/stop-puppy-barking.md",
+      "title": "Stop Your Puppy's Barking",
+      "topic": "Behavior and socialization",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Practical guidance",
+      "caution": "",
+      "rationale": "Action-oriented behavior management or socialization material."
+    },
+    {
+      "path": "pages/training/articles/stop-puppy-jumping.md",
+      "title": "Teach Your Puppy to Stop Jumping on People",
+      "topic": "Behavior and socialization",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Practical guidance",
+      "caution": "",
+      "rationale": "Action-oriented behavior management or socialization material."
+    },
+    {
+      "path": "pages/training/articles/stop-puppy-nipping-biting.md",
+      "title": "Stop Puppy's Nipping and Biting",
+      "topic": "Behavior and socialization",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Practical guidance",
+      "caution": "",
+      "rationale": "Action-oriented behavior management or socialization material."
+    },
+    {
+      "path": "pages/training/articles/structured-walk.md",
+      "title": "Take Your Dog for a Structured Walk",
+      "topic": "Core practical training",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Step-by-step training guide",
+      "caution": "",
+      "rationale": "Directly actionable puppy or dog training instruction."
+    },
+    {
+      "path": "pages/training/articles/take-charge-of-doorbell.md",
+      "title": "Stop Puppy From Rushing the Doorbell",
+      "topic": "Core practical training",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Step-by-step training guide",
+      "caution": "",
+      "rationale": "Directly actionable puppy or dog training instruction."
+    },
+    {
+      "path": "pages/training/articles/take-charge-of-food.md",
+      "title": "Take Charge of Your Pup's Feeding Routine",
+      "topic": "Core practical training",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Step-by-step training guide",
+      "caution": "",
+      "rationale": "Directly actionable puppy or dog training instruction."
+    },
+    {
+      "path": "pages/training/articles/take-charge-of-sleeping-places.md",
+      "title": "Where Should Your Puppy Sleep?",
+      "topic": "Core practical training",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Step-by-step training guide",
+      "caution": "",
+      "rationale": "Directly actionable puppy or dog training instruction."
+    },
+    {
+      "path": "pages/training/articles/take-charge-of-toys.md",
+      "title": "Take Charge of Your Pup's Toys",
+      "topic": "Core practical training",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Step-by-step training guide",
+      "caution": "",
+      "rationale": "Directly actionable puppy or dog training instruction."
+    },
+    {
+      "path": "pages/training/articles/teach-your-dog-words.md",
+      "title": "Words To Teach Your Dog – Training Your Dog By Teaching Specific Words",
+      "topic": "Core practical training",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Step-by-step training guide",
+      "caution": "",
+      "rationale": "Directly actionable puppy or dog training instruction."
+    },
+    {
+      "path": "pages/training/articles/teaching-dog-no.md",
+      "title": "Teaching Your Dog No",
+      "topic": "Core practical training",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Step-by-step training guide",
+      "caution": "",
+      "rationale": "Directly actionable puppy or dog training instruction."
+    },
+    {
+      "path": "pages/training/articles/teaching-dog-wait.md",
+      "title": "Teach Your Dog to \"Wait\" for Permission Before Going Through Doors and Gates",
+      "topic": "Core practical training",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Step-by-step training guide",
+      "caution": "",
+      "rationale": "Directly actionable puppy or dog training instruction."
+    },
+    {
+      "path": "pages/training/articles/teaching-puppy-name.md",
+      "title": "Your Puppy Should Look at You When You Say His Name",
+      "topic": "Core practical training",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Step-by-step training guide",
+      "caution": "",
+      "rationale": "Directly actionable puppy or dog training instruction."
+    },
+    {
+      "path": "pages/training/articles/yes-praise-rewards.md",
+      "title": "How to Praise and Reward Your Dog",
+      "topic": "Core practical training",
+      "tier": "A",
+      "tier_label": "Core practical training",
+      "content_form": "Step-by-step training guide",
+      "caution": "",
+      "rationale": "Directly actionable puppy or dog training instruction."
+    },
+    {
+      "path": "pages/training/index.md",
+      "title": "Dog Training The Sensible Way",
+      "topic": "Navigation and administrative material",
+      "tier": "D",
+      "tier_label": "Commercial, navigation, administration, or remnant",
+      "content_form": "Section landing page",
+      "caution": "",
+      "rationale": "Primarily routes readers to training articles and products."
+    }
+  ]
+}

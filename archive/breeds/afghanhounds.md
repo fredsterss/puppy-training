@@ -3,7 +3,7 @@ title: "Afghan Hounds"
 breed_slug: "afghanhounds"
 component_count: 5
 unique_content_sections: 5
-generated_at: "2026-08-10T14:10:26+00:00"
+generated_at: "2026-08-10T13:40:22+00:00"
 source_urls:
   - "https://www.yourpurebredpuppy.com/reviews/afghanhounds.html"
   - "https://www.yourpurebredpuppy.com/buying/afghanhounds.html"

@@ -3,7 +3,7 @@ title: "American Pit Bull Terriers"
 breed_slug: "americanpitbullterriers"
 component_count: 6
 unique_content_sections: 6
-generated_at: "2026-08-10T14:10:26+00:00"
+generated_at: "2026-08-10T13:29:05+00:00"
 source_urls:
   - "https://www.yourpurebredpuppy.com/reviews/americanpitbullterriers.html"
   - "https://www.yourpurebredpuppy.com/dogbreeds/americanpitbullterriers.html"
