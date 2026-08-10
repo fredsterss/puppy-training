@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
-import { eventsToday, formatRelativeTime, nextPottyAt, searchArticles } from './domain'
-import type { Article, PuppyEvent } from './types'
+import { eventsToday, filterArticlesByView, formatRelativeTime, formatViewSummary, nextPottyAt, searchArticles } from './domain'
+import type { Article, ArticleView, PuppyEvent } from './types'
 
 const articles: Article[] = [
   { id: 'crate', path: '', title: 'Crate Training', topic: 'Core training', caution: '', body: '', text: 'Teach quiet behavior in a crate.', checklistItems: [] },
@@ -13,6 +13,27 @@ describe('searchArticles', () => {
   it('requires every query term to match', () => expect(searchArticles(articles, 'crate quiet').map(({ id }) => id)).toEqual(['crate']))
   it('ranks title matches over body matches', () => expect(searchArticles(articles, 'food').map(({ id }) => id)).toEqual(['food']))
   it('returns an empty list for no match', () => expect(searchArticles(articles, 'parrot')).toEqual([]))
+})
+
+describe('article view history', () => {
+  const views = new Map<string, ArticleView>([
+    ['crate', { articleId: 'crate', viewCount: 2, lastViewedAt: '2026-08-10T11:00:00Z' }],
+    ['food', { articleId: 'food', viewCount: 1, lastViewedAt: '2026-08-10T11:30:00Z' }]
+  ])
+
+  it('filters viewed and unread articles', () => {
+    expect(filterArticlesByView(articles, views, 'viewed').map(({ id }) => id)).toEqual(['crate', 'food'])
+    expect(filterArticlesByView(articles, views, 'unread').map(({ id }) => id)).toEqual(['breed'])
+  })
+
+  it('sorts recent articles newest first', () => {
+    expect(filterArticlesByView(articles, views, 'recent').map(({ id }) => id)).toEqual(['food', 'crate'])
+  })
+
+  it('formats count and last viewed time', () => {
+    expect(formatViewSummary(views.get('crate')!, new Date('2026-08-10T12:00:00Z'))).toBe('2 views · 1h 0m ago')
+    expect(formatViewSummary(views.get('food')!, new Date('2026-08-10T12:00:00Z'))).toBe('1 view · 30m ago')
+  })
 })
 
 describe('care summaries', () => {

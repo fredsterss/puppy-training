@@ -1,5 +1,6 @@
 export type EventType = 'pee' | 'poo' | 'food' | 'water' | 'sleep' | 'wake'
 export type Screen = 'today' | 'learn' | 'train' | 'log'
+export type ArticleViewFilter = 'all' | 'viewed' | 'unread' | 'recent'
 
 export interface ChecklistItem {
   id: string
@@ -39,4 +40,10 @@ export interface ChecklistProgress {
 export interface Preference {
   key: string
   value: unknown
+}
+
+export interface ArticleView {
+  articleId: string
+  viewCount: number
+  lastViewedAt: string
 }

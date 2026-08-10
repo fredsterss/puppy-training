@@ -2,8 +2,8 @@ import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import DOMPurify from 'dompurify'
 import { marked } from 'marked'
 import { db, getPreference, setPreference } from './db'
-import { eventsToday, formatRelativeTime, labelForEvent, mostRecent, nextPottyAt, searchArticles } from './domain'
-import type { Article, ArticleBundle, ChecklistProgress, EventType, PuppyEvent, Screen } from './types'
+import { eventsToday, filterArticlesByView, formatRelativeTime, formatViewSummary, labelForEvent, mostRecent, nextPottyAt, searchArticles } from './domain'
+import type { Article, ArticleBundle, ArticleView, ArticleViewFilter, ChecklistProgress, EventType, PuppyEvent, Screen } from './types'
 
 const screens: Array<{ id: Screen; label: string; icon: string }> = [
   { id: 'today', label: 'Today', icon: '⌂' },
@@ -21,6 +21,13 @@ const quickEvents: Array<{ type: EventType; icon: string }> = [
   { type: 'wake', icon: '☀' }
 ]
 
+const viewFilters: Array<{ id: ArticleViewFilter; label: string }> = [
+  { id: 'all', label: 'All' },
+  { id: 'viewed', label: 'Viewed' },
+  { id: 'unread', label: 'Unread' },
+  { id: 'recent', label: 'Recent' }
+]
+
 function App() {
   const [articles, setArticles] = useState<Article[]>([])
   const [screen, setScreen] = useState<Screen>('today')
@@ -28,6 +35,8 @@ function App() {
   const [query, setQuery] = useState('')
   const [events, setEvents] = useState<PuppyEvent[]>([])
   const [progress, setProgress] = useState<Map<string, ChecklistProgress>>(new Map())
+  const [articleViews, setArticleViews] = useState<Map<string, ArticleView>>(new Map())
+  const [viewFilter, setViewFilter] = useState<ArticleViewFilter>('all')
   const [ready, setReady] = useState(false)
   const [message, setMessage] = useState<string>()
   const readerRef = useRef<HTMLElement>(null)
@@ -36,12 +45,13 @@ function App() {
   useEffect(() => {
     async function load() {
       try {
-        const [bundleResponse, savedScreen, savedArticle, savedEvents, savedProgress] = await Promise.all([
+        const [bundleResponse, savedScreen, savedArticle, savedEvents, savedProgress, savedViews] = await Promise.all([
           fetch('./content/articles.json'),
           getPreference<Screen>('lastScreen', 'today'),
           getPreference<string | undefined>('lastArticleId', undefined),
           db.events.orderBy('occurredAt').reverse().toArray(),
-          db.checklistProgress.toArray()
+          db.checklistProgress.toArray(),
+          db.articleViews.toArray()
         ])
         if (!bundleResponse.ok) throw new Error('The training library could not be loaded.')
         const bundle = await bundleResponse.json() as ArticleBundle
@@ -50,6 +60,7 @@ function App() {
         setSelectedArticleId(savedArticle && bundle.articles.some(({ id }) => id === savedArticle) ? savedArticle : undefined)
         setEvents(savedEvents)
         setProgress(new Map(savedProgress.map((item) => [item.id, item])))
+        setArticleViews(new Map(savedViews.map((item) => [item.articleId, item])))
       } catch (error) {
         setMessage(error instanceof Error ? error.message : 'The app could not load its saved data.')
       } finally {
@@ -61,10 +72,19 @@ function App() {
 
   const selectedArticle = articles.find(({ id }) => id === selectedArticleId)
   const checklistArticle = articles.find(({ checklistItems }) => checklistItems.length > 0)
-  const results = useMemo(() => searchArticles(articles, query).slice(0, query ? 60 : 30), [articles, query])
+  const filteredArticles = useMemo(() => {
+    const searched = searchArticles(articles, query)
+    return filterArticlesByView(searched, articleViews, viewFilter)
+  }, [articles, articleViews, query, viewFilter])
+  const results = useMemo(() => filteredArticles.slice(0, query ? 60 : 30), [filteredArticles, query])
+  const continueArticles = useMemo(() => {
+    const recent = filterArticlesByView(articles, articleViews, 'recent').slice(0, 3)
+    return recent.length ? recent : articles.filter(({ path }) => path.includes('training/articles')).slice(0, 3)
+  }, [articles, articleViews])
   const todayEvents = useMemo(() => eventsToday(events), [events])
   const nextPotty = useMemo(() => nextPottyAt(events), [events])
   const completedCount = checklistArticle?.checklistItems.filter(({ id }) => progress.get(id)?.completed).length ?? 0
+  const articleCountNoun = viewFilter === 'all' ? 'offline article' : `${viewFilter} article`
 
   const navigate = useCallback((destination: Screen) => {
     setScreen(destination)
@@ -75,10 +95,25 @@ function App() {
   const openArticle = useCallback(async (article: Article) => {
     setScreen('learn')
     setSelectedArticleId(article.id)
-    await Promise.all([
-      setPreference('lastScreen', 'learn'),
-      setPreference('lastArticleId', article.id)
-    ])
+    try {
+      const view = await db.transaction('rw', db.articleViews, async () => {
+        const existing = await db.articleViews.get(article.id)
+        const next: ArticleView = {
+          articleId: article.id,
+          viewCount: (existing?.viewCount ?? 0) + 1,
+          lastViewedAt: new Date().toISOString()
+        }
+        await db.articleViews.put(next)
+        return next
+      })
+      setArticleViews((current) => new Map(current).set(article.id, view))
+      await Promise.all([
+        setPreference('lastScreen', 'learn'),
+        setPreference('lastArticleId', article.id)
+      ])
+    } catch {
+      setMessage('The article opened, but its view history could not be saved.')
+    }
     window.setTimeout(async () => {
       const offset = await getPreference<number>(`readerScroll:${article.id}`, 0)
       readerRef.current?.scrollTo({ top: offset })
@@ -188,9 +223,9 @@ function App() {
 
             <section className="section-block">
               <div className="section-heading"><h2>Continue learning</h2><button onClick={() => navigate('learn')}>See all</button></div>
-              {articles.filter(({ path }) => path.includes('training/articles')).slice(0, 3).map((article) => (
+              {continueArticles.map((article) => (
                 <button className="article-row" key={article.id} onClick={() => void openArticle(article)}>
-                  <span><small>{article.topic}</small><strong>{article.title}</strong></span><span>›</span>
+                  <span><small>{articleViews.has(article.id) ? `Last viewed ${formatRelativeTime(articleViews.get(article.id)!.lastViewedAt)}` : article.topic}</small><strong>{article.title}</strong></span><span>›</span>
                 </button>
               ))}
             </section>
@@ -200,11 +235,15 @@ function App() {
         {screen === 'learn' && !selectedArticle && (
           <section className="page learn-page">
             <label className="search-box"><span>⌕</span><input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Search training, care, breeds…" autoFocus /></label>
-            <p className="result-count">{query ? `${results.length} best matches` : `${articles.length} offline articles`}</p>
+            <div className="filter-row" aria-label="Filter learning articles">
+              {viewFilters.map((filter) => <button key={filter.id} className={viewFilter === filter.id ? 'active' : ''} onClick={() => setViewFilter(filter.id)}>{filter.label}</button>)}
+            </div>
+            <p className="result-count">{query ? `${filteredArticles.length} ${filteredArticles.length === 1 ? 'match' : 'matches'}` : `${filteredArticles.length} ${articleCountNoun}${filteredArticles.length === 1 ? '' : 's'}`}</p>
             <div className="article-list">
               {results.map((article) => (
                 <button className="article-card" key={article.id} onClick={() => void openArticle(article)}>
                   <small>{article.topic}</small><strong>{article.title}</strong><p>{article.text.slice(0, 145)}…</p>
+                  <span className={`view-meta ${articleViews.has(article.id) ? 'seen' : ''}`}>{articleViews.has(article.id) ? formatViewSummary(articleViews.get(article.id)!) : 'Not viewed'}</span>
                 </button>
               ))}
               {!results.length && <div className="empty-state"><strong>No matches</strong><p>Try a shorter phrase or a different training word.</p></div>}
@@ -216,6 +255,7 @@ function App() {
           <section className="reader" ref={readerRef} onScroll={saveReaderPosition}>
             <button className="back-button" onClick={() => { setSelectedArticleId(undefined); void setPreference('lastArticleId', undefined) }}>← Library</button>
             <p className="eyebrow">{selectedArticle.topic}</p>
+            {articleViews.has(selectedArticle.id) && <p className="reader-view-meta">{formatViewSummary(articleViews.get(selectedArticle.id)!)}</p>}
             {selectedArticle.caution && <p className="caution">Archived guidance: {selectedArticle.caution}</p>}
             <article dangerouslySetInnerHTML={{ __html: DOMPurify.sanitize(marked.parse(selectedArticle.body) as string) }} />
           </section>

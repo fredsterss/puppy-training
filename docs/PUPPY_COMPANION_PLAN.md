@@ -9,7 +9,7 @@ Turn the curated puppy reference archive into a phone-first companion that remai
 The first release is an installable progressive web app (PWA). It has four primary destinations:
 
 - **Today**: recent care events, an estimated next potty check, and training progress.
-- **Learn**: offline full-text search across the curated archive and a readable article view.
+- **Learn**: offline full-text search, persistent view history, viewed/unread/recent filters, and a readable article view.
 - **Train**: persistent checklist progress, initially sourced from “Perfect Puppy Manners, Just 23 Steps.”
 - **Log**: one-tap recording for pee, poo, food, water, sleep, and wake events.
 
@@ -56,6 +56,11 @@ checklistProgress
   id: stable template-item identifier
   completed: boolean
   completedAt?: ISO timestamp
+
+articleViews
+  articleId: stable article identifier
+  viewCount: integer
+  lastViewedAt: ISO timestamp
 ```
 
 Reader state is stored as preferences: current destination, current article identifier, and article scroll offset. Writes happen during navigation, scrolling, and page hiding. The launch path loads this state before choosing the initial screen.

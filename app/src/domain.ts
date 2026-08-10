@@ -1,4 +1,4 @@
-import type { Article, EventType, PuppyEvent } from './types'
+import type { Article, ArticleView, ArticleViewFilter, EventType, PuppyEvent } from './types'
 
 const eventLabels: Record<EventType, string> = {
   pee: 'Pee',
@@ -36,6 +36,26 @@ export function searchArticles(articles: Article[], rawQuery: string): Article[]
     .filter(({ score }) => score >= 0)
     .sort((a, b) => b.score - a.score || a.article.title.localeCompare(b.article.title))
     .map(({ article }) => article)
+}
+
+export function filterArticlesByView(
+  articles: Article[],
+  views: ReadonlyMap<string, ArticleView>,
+  filter: ArticleViewFilter
+): Article[] {
+  if (filter === 'all') return articles
+  if (filter === 'unread') return articles.filter(({ id }) => !views.has(id))
+
+  const viewed = articles.filter(({ id }) => views.has(id))
+  if (filter === 'recent') {
+    return viewed.sort((a, b) => views.get(b.id)!.lastViewedAt.localeCompare(views.get(a.id)!.lastViewedAt))
+  }
+  return viewed
+}
+
+export function formatViewSummary(view: ArticleView, now = new Date()): string {
+  const noun = view.viewCount === 1 ? 'view' : 'views'
+  return `${view.viewCount} ${noun} · ${formatRelativeTime(view.lastViewedAt, now)}`
 }
 
 export function mostRecent(events: PuppyEvent[], type: EventType): PuppyEvent | undefined {

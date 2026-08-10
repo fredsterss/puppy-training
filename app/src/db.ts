@@ -1,10 +1,11 @@
 import Dexie, { type EntityTable } from 'dexie'
-import type { ChecklistProgress, Preference, PuppyEvent } from './types'
+import type { ArticleView, ChecklistProgress, Preference, PuppyEvent } from './types'
 
 class PuppyDatabase extends Dexie {
   events!: EntityTable<PuppyEvent, 'id'>
   checklistProgress!: EntityTable<ChecklistProgress, 'id'>
   preferences!: EntityTable<Preference, 'key'>
+  articleViews!: EntityTable<ArticleView, 'articleId'>
 
   constructor() {
     super('puppy-companion')
@@ -12,6 +13,12 @@ class PuppyDatabase extends Dexie {
       events: '++id, type, occurredAt',
       checklistProgress: 'id, completed, completedAt',
       preferences: 'key'
+    })
+    this.version(2).stores({
+      events: '++id, type, occurredAt',
+      checklistProgress: 'id, completed, completedAt',
+      preferences: 'key',
+      articleViews: 'articleId, lastViewedAt'
     })
   }
 }
