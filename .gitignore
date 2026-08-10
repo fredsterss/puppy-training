@@ -5,3 +5,7 @@ __pycache__/
 *.db-shm
 *.db-wal
 archive/breeds/* [0-9]*.md
+app/node_modules/
+app/dist/
+app/public/content/articles.json
+app/*.tsbuildinfo
