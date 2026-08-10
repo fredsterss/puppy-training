@@ -13,11 +13,9 @@ By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
 The easiest way to train your puppy is to establish choreographed routines – same things, same order, same words – with yourself as the director, the one in charge. Create good routines, stick to them, and your pup's behavior will be predictable and good.
 
-1.
+*Image hint — fluffy gold and white pup with heart tag*
 
-    *Image hint — fluffy gold and white pup with heart tag*
-
-    When your puppy does something you don't like, say "No" or "AH-ah" along with a corrective technique that discourages him from repeating that behavior.
+1. When your puppy does something you don't like, say "No" or "AH-ah" along with a corrective technique that discourages him from repeating that behavior.
 2. When your puppy does something you do  like, let him know by saying, "Good" or "Yes" along with a reward that encourages him to repeat that behavior.
 3. Indoors, require calm  behavior. Pups who are allowed to be excitable indoors are far more likely to have behavior problems. Don't allow running around the house, rough play, barking, jumping, rushing the doorbell, or attacking the vacuum cleaner. If necessary, have the pup wear his leash indoors so you can stop those behaviors.
 4. Whenever your puppy is on leash, the leash must be kept nice and loose. If he is currently pulling on the leash during walks, don't go for any more walks until you've taught him to stop pulling in your own home and yard.
@@ -33,11 +31,9 @@ The easiest way to train your puppy is to establish choreographed routines – s
 14. Barking makes dogs more excitable. Don't allow your puppy to bark at harmless things such as your neighbor or your neighbor's dog. Certainly he can bark to alert you to something, but he should stop barking when told. He should be quiet when left home alone.
 15. Don't allow jumping on anyone, including yourself.
 16. Don't allow your puppy to "rush the doorbell", i.e. pitch a fit when someone comes to the door.
-17.
+*Image hint — Tibetan Mastiff pup*
 
-    *Image hint — Tibetan Mastiff pup*
-
-    Make sure your pup will move out of your way when told.
+17. Make sure your pup will move out of your way when told.
 18. Teach your puppy to *Sit*  and to stay sitting until you cue him to get up.
 19. Don't let your puppy fuss when you're brushing him, bathing him, clipping his nails, or brushing his teeth. Teach him to accept handling of any part of his body.
 20. Teach your pup to give or drop whatever is in his mouth when told.
