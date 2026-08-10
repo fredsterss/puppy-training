@@ -72,6 +72,7 @@ Reader state is stored as preferences: current destination, current article iden
 - If browser storage fails, the app keeps running and shows an actionable error.
 - Empty search, empty history, and first-run training states have intentional UI.
 - Article links that point outside the generated collection open externally.
+- Legacy preformatted prose, long links, lists, and tables are constrained to the mobile reader width.
 - Tracking guidance is an estimate, not medical advice; the user can always log or correct events manually.
 
 ## Testing strategy
