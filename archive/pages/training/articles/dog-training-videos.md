@@ -9,9 +9,9 @@ fetched_at: "2026-08-10T13:29:31+00:00"
 
 # These Dog Training Videos Turned Buddy Into a Good Dog
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Dog suggesting you watch these training videos](../graphics/videos-hero.jpg)
+*Image hint — Dog suggesting you watch these training videos*
 
 Buddy needed training, so I suggested that his owner check out the online videos done by "Doggy Dan". You can watch them on any computer, tablet, or mobile device.
 
@@ -29,7 +29,7 @@ But I have found someone I'm happy to recommend.
 
 ## Introducing "Doggy Dan" The Online Dog Trainer
 
-![Trainer Doggy Dan](../graphics/videos-dan1.jpg)
+*Image hint — Trainer Doggy Dan*
 
 Dan Abdelnoor (Doggy Dan), world-class trainer, author, animal welfare enthusiast, endorsed by the SPCA
 
@@ -47,7 +47,7 @@ Endorsements: Doggy Dan is endorsed by the New Zealand SPCA (Society for the Pre
 
 ## Doggy Dan has Special Videos for Training Puppies
 
-![Trainer Doggy Dan with Moses](../graphics/videos-dan2.jpg)
+*Image hint — Trainer Doggy Dan with Moses*
 
 Trainer Doggy Dan shows you how to raise and train your new puppy.
 
@@ -59,7 +59,7 @@ I hope you don't consider it a plot spoiler if I tell you that Moses turns into 
 
 Doggy Dan has lots of other puppy training videos, audio lessons, downloadable articles, and printable summaries of his guidelines and techniques.
 
-![Trainer Doggy Dan with two dogs](../graphics/videos-dan3.jpg)
+*Image hint — Trainer Doggy Dan with two dogs*
 
 Doggy Dan with two of his well-behaved adult dogs. Dan's **Five Golden Rules** made them the good dogs they are today.
 
@@ -67,17 +67,29 @@ Doggy Dan with two of his well-behaved adult dogs. Dan's **Five Golden Rules** m
 
 Do you need help with correcting a specific dog behavior that either worries you or just drives you crazy?
 
-![](../../Graphics/checkmark.gif)not coming when called
+*Image placeholder — no alt text*
 
-![](../../Graphics/checkmark.gif)barking
+not coming when called
 
-![](../../Graphics/checkmark.gif)pulling on the leash
+*Image placeholder — no alt text*
 
-![](../../Graphics/checkmark.gif)housebreaking
+barking
 
-![](../../Graphics/checkmark.gif)jumping on people
+*Image placeholder — no alt text*
 
-![](../../Graphics/checkmark.gif)aggression
+pulling on the leash
+
+*Image placeholder — no alt text*
+
+housebreaking
+
+*Image placeholder — no alt text*
+
+jumping on people
+
+*Image placeholder — no alt text*
+
+aggression
 
 Doggy Dan's videos have the answers you're looking for. He gets rave reviews because his techniques are easy to implement, and positive results are surprisingly rapid.
 
@@ -89,7 +101,7 @@ Second, Dan provides a huge library of videos with step-by-step instructions for
 
 ## How Did Doggy Dan's Videos Work For Buddy?
 
-![Buddy recommends Doggy Dan](../graphics/videos-buddy4.jpg)
+*Image hint — Buddy recommends Doggy Dan*
 
 Buddy likes Doggy Dan! So does his owner, Karen. She wishes she had started watching these videos when Buddy was still a puppy!
 
@@ -122,7 +134,7 @@ Doggy Dan's Online Training Videos: In a Nutshell
 
 ### Ease of use:
 
-![Compter, tablet, mobile device](../graphics/videos-devices.jpg)
+*Image hint — Compter, tablet, mobile device*
 
 Works on all computers, tablets, and phones.
 
@@ -147,7 +159,7 @@ Yes! That's what we're going to do next.
 
 Here's a screenshot from **Doggy Dan's page.** See the five dog training topics? When you get to his page, click the topic you're most interested in, and you'll see a great video.
 
-![screenshot of Doggy Dan's website](../graphics/videos-mainscreen600.jpg)
+*Image hint — screenshot of Doggy Dan's website*
 
 Doggy Dan's videos are the easiest way to....
 
@@ -157,42 +169,42 @@ an obedient dog
 
 the perfect family companion
 
-  
-
-![Doggy Dan with two of his dogs](../graphics/videos-dan-2dogs.png)
+*Image hint — Doggy Dan with two of his dogs*
 
 Doggy Dan with two of his well-behaved dogs
 
-![](../../Graphics/checkmark.gif)All of Doggy Dan's training is based on respect and leadership – the best methods.
+*Image placeholder — no alt text*
 
-![](../../Graphics/checkmark.gif)Step by step directions for what to do and what to avoid.
+All of Doggy Dan's training is based on respect and leadership – the best methods.
 
-![](../../Graphics/checkmark.gif)How to raise a puppy so typical puppy issues never become problems.
+*Image placeholder — no alt text*
 
-![](../../Graphics/checkmark.gif)What to do if your adult dog already has problems.
+Step by step directions for what to do and what to avoid.
 
-![](../../Graphics/checkmark.gif)Doggy Dan's introductory video will explain everything he can do for you, complete with before-and-after clips of him working his magic with a variety of dogs.
+*Image placeholder — no alt text*
 
-![](../../Graphics/checkmark.gif)Dan will give you a chance to sample his dog training wisdom, and test out his methods with your own dog.
+How to raise a puppy so typical puppy issues never become problems.
 
-![](../../Graphics/checkmark.gif)You'll see positive results in only a few days.... proof that Doggy Dan's program is exactly what your dog needs.
+*Image placeholder — no alt text*
+
+What to do if your adult dog already has problems.
+
+*Image placeholder — no alt text*
+
+Doggy Dan's introductory video will explain everything he can do for you, complete with before-and-after clips of him working his magic with a variety of dogs.
+
+*Image placeholder — no alt text*
+
+Dan will give you a chance to sample his dog training wisdom, and test out his methods with your own dog.
+
+*Image placeholder — no alt text*
+
+You'll see positive results in only a few days.... proof that Doggy Dan's program is exactly what your dog needs.
 
 If you join Doggy Dan's community of dog lovers, I get a small commission – enough that I can keep writing honest reviews and keep my website free to the public.... but not nearly enough for me to buy a new puppy!
 
-[![Take me to Doggy Dan's videos](../graphics/videos-button-takeme.jpg)](https://www.yourpurebredpuppy.com/go/doggy-dan/v6-cys-b/)
+*Image hint — Take me to Doggy Dan's videos*
+
+[Take me to Doggy Dan's videos](https://www.yourpurebredpuppy.com/go/doggy-dan/v6-cys-b/)
 
 [Yes, please! Take me to see Doggy Dan's introductory video](https://www.yourpurebredpuppy.com/go/doggy-dan/v6-cys-b/)
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

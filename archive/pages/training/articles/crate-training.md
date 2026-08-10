@@ -9,20 +9,22 @@ fetched_at: "2026-08-10T13:29:16+00:00"
 
 # Crate Training | Go Into Your Crate and Stay Quietly
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Papillon in a crate](../graphics/rtp/puppy-respect_html_m51302011.jpg)Every puppy should have a crate. Absolutely, positively, every pup should be taught how to stay quietly in a crate.
+*Image hint — Papillon in a crate*
+
+Every puppy should have a crate. Absolutely, positively, every pup should be taught how to stay quietly in a crate.
 
 Why? Let me give you 8 reasons:
 
-1. 1)  A crate teaches calmness and relaxation... just doin' nothin'.
-2. 2)  A crate makes housebreaking easier.
-3. 3)  A crate prevents destructive chewing, keeps your belongings safe, and keeps the puppy  safe.
-4. 4)  A crate keeps your puppy safe in the car.
-5. 5)  A crate prevents wandering and mischief overnight.
-6. 6)  Crates are used by vets and groomers, so preparing your pup now prevents stress later.
-7. 7)  A crate confines your pup for short "emergency" periods of illness or injury.
-8. 8)  A crate provides a sanctuary to retreat to whenever a dog wants peace and quiet.
+1. A crate teaches calmness and relaxation... just doin' nothin'.
+2. A crate makes housebreaking easier.
+3. A crate prevents destructive chewing, keeps your belongings safe, and keeps the puppy  safe.
+4. A crate keeps your puppy safe in the car.
+5. A crate prevents wandering and mischief overnight.
+6. Crates are used by vets and groomers, so preparing your pup now prevents stress later.
+7. A crate confines your pup for short "emergency" periods of illness or injury.
+8. A crate provides a sanctuary to retreat to whenever a dog wants peace and quiet.
 
 ## Now let's explore each of those eight reasons:
 
@@ -86,7 +88,9 @@ However, if you work all day and already have your pup and he is either young or
 
 For that pup's own safety and to keep your house intact, he should be confined when you're gone. The solution – which is not a good one, but may be all that's possible – is to use a large wire exercise pen. Or use portable gates to confine your puppy to the kitchen or large laundry room.
 
-![two dogs together](../graphics/rtp/puppy-respect_html_m317bfd1.png)If your dog absolutely must be alone for more than four hours a day, consider getting a second dog to keep him company. But not yet! Don't try to train two dogs at the same time.  They will bond with each other and follow each other, rather than you.
+*Image hint — two dogs together*
+
+If your dog absolutely must be alone for more than four hours a day, consider getting a second dog to keep him company. But not yet! Don't try to train two dogs at the same time.  They will bond with each other and follow each other, rather than you.
 
 Instead, work with the puppy you have, and once he is well-behaved, respectful, and housebroken, then look for a compatible dog for companionship during those long lonely hours.
 
@@ -98,7 +102,9 @@ The second dog should not be a puppy!  Puppies need tons of attention and train
 - wide enough for him to turn around in, and to lie down flat on his side.
 - deep enough for him to lie down on his stomach with his front paws stretched in front of him.
 
-![Alaskan Malamute](../graphics/rtp/puppy-respect_html_6d97360.jpg)Now, if your puppy is a breed that will be much larger as an adult, there is a problem. Buying an adult-sized crate NOW means the puppy will likely sleep in one half of the crate and go to the bathroom in the other half. Not very desirable!
+*Image hint — Alaskan Malamute*
+
+Now, if your puppy is a breed that will be much larger as an adult, there is a problem. Buying an adult-sized crate NOW means the puppy will likely sleep in one half of the crate and go to the bathroom in the other half. Not very desirable!
 
 **There are two solutions:**
 
@@ -111,7 +117,11 @@ For housebreaking, you want a traditional plastic or wire crate. For already-hou
 
 **What I like about plastic crates:**
 
-- ![plastic crate](../graphics/rtp/puppy-respect_html_m51750005.jpg)Plastic crates have a cozy, den-like atmosphere. They restrict your puppy's view of his surroundings, making him more likely to curl up and go to sleep.
+-
+
+    *Image hint — plastic crate*
+
+    Plastic crates have a cozy, den-like atmosphere. They restrict your puppy's view of his surroundings, making him more likely to curl up and go to sleep.
 - They're warmer inside, which can be nice if you keep your house temperature on the cool side and have a shivery breed.
 
 **What I don't like about plastic crates:**
@@ -122,7 +132,11 @@ For housebreaking, you want a traditional plastic or wire crate. For already-hou
 
 **What I like about wire crates:**
 
-- ![wire crate](../graphics/rtp/puppy-respect_html_m46268690.jpg)The *Midwest LifeStages*  crate comes with a divider to adjust the size of the living space. It has a slide-out pan for easier cleaning. You can clearly see what your pup is doing through the wire and there's air circulation in hot weather.
+-
+
+    *Image hint — wire crate*
+
+    The *Midwest LifeStages*  crate comes with a divider to adjust the size of the living space. It has a slide-out pan for easier cleaning. You can clearly see what your pup is doing through the wire and there's air circulation in hot weather.
 
 **What I don't like about wire crates:**
 
@@ -140,7 +154,9 @@ Or you can move it from room to room, though that will be a little more difficul
 
 If you think a dog crate will be ugly in your home, don't despair. With a little thought, you can incorporate a crate into your decor by fitting it under an end table and/or camouflaging it with silk greenery. Just make sure the dog can't reach through the bars with his paws and pull anything chewable into the crate.
 
-![Jenna in her crate](../graphics/rtp/puppy-respect_html_m7f9e0d26.jpg)![Mouse in her crate](../graphics/rtp/puppy-respect_html_m2a3c4711.jpg)
+*Image hint — Jenna in her crate*
+
+*Image hint — Mouse in her crate*
 
 ## What should you put inside the crate?
 
@@ -168,7 +184,9 @@ Serious chewer? I don't provide any soft bedding. Hopefully he will grow out of 
 
 Be sure he has had a potty break, followed by an activity session so he's ready for a rest. Of course, after the last potty break of the night, no activity session. He should be ready for bed by then.
 
-![Siberian pup](../graphics/rtp/puppy-respect_html_m192643f5.jpg)Draw his attention to two or three tiny treats (cooked chicken works well) in your hand. Toss them into the middle of the crate and as he starts
+*Image hint — Siberian pup*
+
+Draw his attention to two or three tiny treats (cooked chicken works well) in your hand. Toss them into the middle of the crate and as he starts
 to go in after them, say cheerfully:
 
 "Go crate" or "Go kennel"
@@ -196,7 +214,9 @@ If he's stronger than you or might bite, you'll need to move more slowly.
 
 ## Teach your pup to "Wait" before he comes out of his crate.
 
-![Chinese Crested](../graphics/rtp/puppy-respect_html_m6a8f23bc.jpg)The way you release  your puppy from his crate is very important. Super important.
+*Image hint — Chinese Crested*
+
+The way you release  your puppy from his crate is very important. Super important.
 
 If you rush toward him, fling open the door, and welcome him out with hugs and exclamations of joy ("Yay! You're free!"), then the next time you put him in, he won't be able to relax. He will be wired  the whole time, just itching to be released from "prison."
 
@@ -227,17 +247,27 @@ So expect protesting at first. Barking, whining, whimpering. Make sure that no o
 
 Then pay no attention to the noise. Don't talk to the puppy. Don't even look at him.  The noise should subside when he realizes that it's not working and that he might as well drift off to sleep or (during the day) chew on the toy you've given him.
 
-![Scottish Terrier](../graphics/rtp/puppy-respect_html_m21a2b48b.jpg)However, some pups are more persistent and can make a fearsome racket. If you have close neighbors, obviously you can't let your pup howl for an hour. You need to step in before the neighbors (quite rightly) call your landlord, your homeowners association, or the police.
+*Image hint — Scottish Terrier*
+
+However, some pups are more persistent and can make a fearsome racket. If you have close neighbors, obviously you can't let your pup howl for an hour. You need to step in before the neighbors (quite rightly) call your landlord, your homeowners association, or the police.
 
 The first thing I do is to cover the crate with a sheet or towel so the puppy can't see out. When he can't see things happening, he's more likely to relax and settle down. Next, I put on soothing music: relaxing classical or mellow jazz.
 
 If that doesn't help and the pup is at least 10 weeks old, AS  he is in the middle of a bark/howl, say "No" or "AH-ah" and use one of the following corrective techniques:
 
 - A harmless **spray of water**  from a plastic spray bottle or squirt gun. Of course, the crate can't be covered for this one! You want him to learn this pattern: Vocalize → wet! So get the timing right. Don't spray when he's being quiet.
-- ![Barker Breaker device](../graphics/rtp/puppy-respect_html_45ec80a7.jpg)A **sudden sharp noise.** The Barker Breaker® by the *Amtek Company*  is a small hand-held device that makes a shrill sound when you press the button. The sound startles many pups, causing them to stop whatever they're doing (whether it's barking or something else). Just be forewarned that it's loud and shrill to human ears, too! A cheaper option is to put coins inside a metal can, tape the top shut, and shake the can.
+-
+
+    *Image hint — Barker Breaker device*
+
+    A **sudden sharp noise.** The Barker Breaker® by the *Amtek Company*  is a small hand-held device that makes a shrill sound when you press the button. The sound startles many pups, causing them to stop whatever they're doing (whether it's barking or something else). Just be forewarned that it's loud and shrill to human ears, too! A cheaper option is to put coins inside a metal can, tape the top shut, and shake the can.
 
   A loud sound  correction is much less useful when you have multiple dogs, because you don't want the one who is not misbehaving to feel corrected.
-- ![Pet Corrector](../graphics/rtp/no-petcorrector.jpg)A **puff of compressed air.** The Pet Corrector® by *The Company of Animals*  is a small hand-held device that makes a soft, startling hissing sound, which can interrupt bad behavior.
+-
+
+    *Image hint — Pet Corrector*
+
+    A **puff of compressed air.** The Pet Corrector® by *The Company of Animals*  is a small hand-held device that makes a soft, startling hissing sound, which can interrupt bad behavior.
 - If he's really hollering in there, you might try putting one hand on the crate and giving it a tiny **wobble**, not enough to make him fall, just enough to unbalance him. This technique is often more effective when the crate is covered so the pup can't see your hand. You want him to think the wobble comes out of nowhere and is caused entirely by his vocalizing.
 
 Every pup is different. Some consider squirts of water to be great fun, but dislike noise. Others are unfazed by noise but dislike getting wet. Other pups seem to be impressed by whatever magic causes their floor to wobble when they vocalize. You never know what will work for any particular pup.
@@ -249,30 +279,3 @@ Make sure every family member understands that your pup must never be let out of
 A general rule of thumb is that your pup should be quiet for at least 3 to 5 minutes before you let him out of the crate.
 
 Children or other pets shouldn't be allowed to pester a puppy in his crate. As your dog's guardian, you must ensure that his time in his crate is peaceful and relaxing. Toddlers especially need to be monitored and taught that a pup is not to be disturbed in his crate.
-
-My [![book cover](../../books/covers/RTP-110.jpg)training program](https://www.yourpurebredpuppy.com/books/RTP.html) is for puppies 2 to 18 months old. It explains, step by step:
-
-- How to establish good patterns and routines that govern everything your pup does.
-- How to teach your pup to be calm and to look to you for guidance, direction, and permission.
-- How to make yourself important – the most important thing – in your puppy’s life. How to show your pup the clear, black-and-white rules and routines he is to follow. And how to make sure he does.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

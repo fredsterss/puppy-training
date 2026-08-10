@@ -9,7 +9,7 @@ fetched_at: "2026-08-10T13:29:20+00:00"
 
 # Socializing Your Pup to Get Along With the World
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
 You've probably been told that you need to take your puppy out of the house and socialize him with other people, other dogs, and other environments.
 
@@ -19,7 +19,7 @@ That's true. But the word *socialize*  can mean different things.
 
 Many owners define *socialization*  as making their puppy more social,  more friendly  toward people they encounter on their walks.
 
-![dog accepting a treat from a stranger](../graphics/rtp/social-trad.jpg)
+*Image hint — dog accepting a treat from a stranger*
 
 You can encourage your dog to be friendly and trusting and to accept treats and petting from a stranger. Just be aware that there are some downsides to doing this AND that not all dogs are comfortable doing this.
 
@@ -31,7 +31,7 @@ Small dogs (quite understandably) hate giant hands descending from the sky onto 
 
 So that's the traditional method of socialization. But are there any downsides? What might happen if you teach your puppy that strangers are a source of positive attention and treats?
 
-![dog eagerly seeking out strangers for petting and treats](../graphics/rtp/social-eager.jpg)
+*Image hint — dog eagerly seeking out strangers for petting and treats*
 
 Extroverted dogs, when actively encouraged to be friendly, might ignore you and seek out strangers for petting and treats.
 
@@ -39,7 +39,7 @@ Well, if your pup is an outgoing extrovert, he might begin scanning for people d
 
 I have a dog like that. She was VERY outgoing as a puppy, so I socialized her in the traditional way, encouraging her to go to strangers. It makes both stranger and dog happy! But sure enough, when she's greeting other people, she does pay a lot less attention to me.
 
-![miniature poodle puppy, loves everyone](../graphics/rtp/minpoodle-buffypup.jpg)
+*Image hint — miniature poodle puppy, loves everyone*
 
 But that's okay with me because she's a small gentle dog, easy to manage even when she does get distracted. She doesn't jump on or pester anyone. But with her winsome smile and rapid-fire tail wags, she has this knack for making other people feel good when she greets them as her long-lost friends. Maybe our fractured world needs more dogs like Buffy!
 
@@ -55,7 +55,7 @@ You still take your puppy to different environments, different social settings, 
 
 But you don't allow him to interact  with anyone, and you don't allow anyone to interact with your pup.
 
-![jack russell terrier sitting attentively in front of young female owner](../graphics/rtp/social-jrt.jpg)
+*Image hint — jack russell terrier sitting attentively in front of young female owner*
 
 Get your pup accustomed to paying attention to you in public.
 
@@ -73,7 +73,7 @@ In these social settings, you want your pup to focus on you  and to simply "sha
 
 This kind of socialization is practiced by many trainers of world-class competition dogs, as well as trainers of police and service dogs.
 
-![australian shepherd shaking hands with male owner](../graphics/rtp/social-austshep.jpg)
+*Image hint — australian shepherd shaking hands with male owner*
 
 This owner is teaching his pup, "Pay attention to me. Ignore everyone passing by. Focus on me. Good pup!"
 
@@ -92,7 +92,7 @@ There's also a third risk:
 
 3. A stranger might do something the puppy finds startling or scary, which can mess up the pup's temperament.
 
-![australian cattle dog puppy](../graphics/rtp/social-aucado-pup.jpg)
+*Image hint — australian cattle dog puppy*
 
 One stranger doing something stupid can ruin an impressionable young puppy.
 
@@ -112,7 +112,8 @@ How do you avoid things like that happening?
 
   The problem is that many people can't or won't follow instructions. You'll need to stay on guard for that.
 
-  ![beauceron pups](../graphics/rtp/social-beauceron-pups.jpg "Beauceron pups")
+*Image hint — beauceron pups*
+
 - Or you might decide to take your puppy only to places where you know the people well and can trust them to carefully follow your instructions. Assuming you know such people!
 - Or you might decide that you won't allow any stranger to interact with your pup when you're out with him in public.
 
@@ -126,7 +127,9 @@ How do you avoid things like that happening?
 
 ## Be a good role model for your dog.
 
-![black spaniel](../graphics/rtp/puppy-respect_html_m7d225b26.jpg)Whether you decide to let your pup interact with strangers or not, you should still interact with strangers.
+*Image hint — black spaniel*
+
+Whether you decide to let your pup interact with strangers or not, you should still interact with strangers.
 
 Smile and say "Hello" to passersby. Ask them what time it is. Comment on the weather.
 
@@ -142,15 +145,17 @@ One of the most common mistakes owners make is holding their puppy on a tight le
 - A taut leash can make anxious dogs more  anxious. The pup feels trapped, which makes him more fearful.
 - Finally, a taut leash communicates to your dog that you're  concerned about the situation – which makes him  concerned about the situation.
 
-![great dane pup on tight leash](../graphics/rtp/social-dane1.jpg)
+*Image hint — great dane pup on tight leash*
 
-![terrier mix on tight leash](../graphics/rtp/social-terrier.jpg)
+*Image hint — terrier mix on tight leash*
 
-![pit bull on tight leash](../graphics/rtp/social-pitbull.jpg)![great dane pup on tight leash](../graphics/rtp/social-dane2.jpg)
+*Image hint — pit bull on tight leash*
+
+*Image hint — great dane pup on tight leash*
 
 So don't hold your pup tightly beside you. Instead, use the "loose leash" techniques you learned when I helped you teach your puppy to walk nicely on the leash. See the lovely Jack Russell Terrier (below) on a loose leash?
 
-![jack russell terrier on a lovely loose leash](../graphics/rtp/social-jrt-loose.jpg)
+*Image hint — jack russell terrier on a lovely loose leash*
 
 ## Correct inappropriate behavior.
 
@@ -169,7 +174,9 @@ He may not:
 - bolt fearfully to the end of the leash, trying to escape
 - stand up on his hind legs, pawing at you to be picked up
 
-![liver dalmatian pup](../graphics/rtp/puppy-respect_html_25e2e291.jpg)A puppy who is doing any of those things is not practicing calmness and is not trusting you, the leader, to handle the situation. That's a no-no, so use whichever corrective techniques work for your particular pup to get him standing quietly beside you on a loose leash.
+*Image hint — liver dalmatian pup*
+
+A puppy who is doing any of those things is not practicing calmness and is not trusting you, the leader, to handle the situation. That's a no-no, so use whichever corrective techniques work for your particular pup to get him standing quietly beside you on a loose leash.
 
 If you can't control the puppy with a regular buckle collar, try one of the alternative collars I cover in my training books.
 
@@ -193,7 +200,7 @@ Now don't become paranoid! It's perfectly normal for a puppy or adolescent dog t
 
 On the other hand, if you reward  worried behavior with petting and soothing words, you will push what was a minor concern into phobic fear or aggression.
 
-![scared chihuahua](../graphics/rtp/social-scared-chihuahua.jpg)
+*Image hint — scared chihuahua*
 
 Many dogs have been made  anxious or aggressive or neurotic when their owner enabled the pup's anxiety by....
 
@@ -214,7 +221,9 @@ For most dogs, I favor Option 2. In my opinion, letting your pup play with other
 
 When owners consult with me about these psychologically-scarred dogs, they usually say mournfully. "It was just that one time. We had no idea the other dog would bite Benny like that."
 
-![golden mix pup](../graphics/rtp/puppy-respect_html_m33bcc3c6.jpg)Dog parks and dog beaches? Most owners stand around chatting, laughing, and talking on their phones while their own pup's body language (or some other pup's body language) is flashing bright red warning signs that a fight might be imminent.
+*Image hint — golden mix pup*
+
+Dog parks and dog beaches? Most owners stand around chatting, laughing, and talking on their phones while their own pup's body language (or some other pup's body language) is flashing bright red warning signs that a fight might be imminent.
 
 I don't put my dogs' lives in the hands of other owners who don't recognize or respond properly to the body language of their own dog.
 
@@ -222,7 +231,7 @@ Your dog doesn't need to play with other dogs in order to have a long and happy 
 
 Of course, if you know another dog very well, that dog might be a great choice to test for playtime compatibility with your own pup.
 
-![pups playing](../graphics/rtp/social-pups-playing.jpg)
+*Image hint — pups playing*
 
 But it's much more important that your pup learns how to share space with other dogs without flipping out, and to pay attention to you  even when other dogs happen to be nearby.
 
@@ -230,13 +239,15 @@ But it's much more important that your pup learns how to share space with other 
 - other dogs standing in their own yards and barkingwhen you and your pup pass by.
 - other dogs sitting beside their owner at the vet's office when you and your pup come in.
 
-![red Siberian Husky](../graphics/rtp/puppy-respect_html_m189e2fc3.jpg)Those are the kinds of other dogs your puppy needs to be comfortable around. And by "comfortable", I don't mean that he needs to play with them. He just needs to accept their presence calmly, without getting "triggered."
+*Image hint — red Siberian Husky*
+
+Those are the kinds of other dogs your puppy needs to be comfortable around. And by "comfortable", I don't mean that he needs to play with them. He just needs to accept their presence calmly, without getting "triggered."
 
 That means you calmly and methodically correct any excitable, aggressive, or fearful behavior on his part. He needs to stand or sit or lie down quietly beside you on a loose leash.
 
 ## If an off-leash dog approaches you on a walk
 
-![man walking his dog on a leash](../graphics/rtp/social-approaching-dog.jpg)
+*Image hint — man walking his dog on a leash*
 
 One of the responsibilities of a leader is to protect followers. Often a pup who lunges and barks at other dogs feels insecure because he thinks he  needs to handle potential threats. This is a leadership issue.
 
@@ -263,7 +274,7 @@ Dogs can carry on quite a sophisticated conversation using the positioning of th
 
 When this exchange communicates a pecking order that both dogs agree with, everything will probably be fine. But if that order is in doubt, a fight may ensue, either immediately or soon after.
 
-![Two dogs on tight leashes, sniffing noses](../graphics/rtp/social-2pitbulls.jpg)
+*Image hint — Two dogs on tight leashes, sniffing noses*
 
 Here's how dog fights start... Allow two dogs to sniff noses and lock eyes, while holding them back with tight leashes. Novice dog owners make this mistake over and over again. These two are Pit Bulls, but could be any breed.
 
@@ -279,7 +290,9 @@ Sad to say, many owners know little or nothing about their own dog. Even worse, 
 
 I don't. A larger dog can accidentally hurt a small dog simply by jumping up and down. Even a friendly head butt or playful pawing can harm or frighten a smaller dog.
 
-![white pup](../graphics/rtp/puppy-respect_html_5de0f8e4.jpg)And there is the prey instinct to think about.
+*Image hint — white pup*
+
+And there is the prey instinct to think about.
 
 I have been the unhappy eyewitness to horrifying spectacles in which a large dog suddenly grabbed, shook, and seriously injured (and in one tragic case, killed) the smaller one.
 
@@ -296,7 +309,7 @@ For safety's sake, if you own a small dog, assume that:
 
 ## You want your dog to be calm and confident in the world
 
-![Fearful dog.](../graphics/socializing-fearful2.jpg)
+*Image hint — Fearful dog.*
 
 This poor dog is showing stressed body language. See his wide eyes, furrowed brow, pursed lips? Also the base of his ears pulled down low? These are signs of anxiety.
 
@@ -314,11 +327,9 @@ Fear of thunder, fear of fireworks, fear of sirens, fear of mailboxes. (Mailboxe
 
 Fears are stressful, and stress is bad for your dog's health. Socialization takes away fears and stresses so your dog is not only happier, but also healthier. You can socialize your dog to be calm about what is happening in the world around him.
 
-  
-
 ## Socialize from puppyhood through adulthood
 
-![Socializing Golden Retriever puppy](../graphics/socializing-golden.jpg)
+*Image hint — Socializing Golden Retriever puppy*
 
 Start socializing your puppy at 7 weeks old.
 
@@ -336,7 +347,9 @@ Remember, this critical learning period (7-16 weeks old) comes only once in your
 
 ## But socialization doesn't END with puppyhood.
 
-![Tiny aggressive dog barking at a big scared dog](../graphics/socializing_03.gif)**ADOLESCENT** socialization is next in importance.
+*Image hint — Tiny aggressive dog barking at a big scared dog*
+
+**ADOLESCENT** socialization is next in importance.
 
 Adolescence begins somewhere between 6 and 9 months old. It ends somewhere between 14 months old and 3 years old. (Smaller breeds start earlier and end at the lower end of the range. And vice versa for larger breeds.)
 
@@ -352,9 +365,7 @@ Most owners respond to these fluctuations in ways that are actually counter-prod
 
 To help your dog through this challenging period in his life, you should respond in specific ways that match how dogs learn. I can help you with that.
 
-  
-
-![Socializing adult dog](../graphics/socializing-adult.jpg)
+*Image hint — Socializing adult dog*
 
 By adulthood, you may not be able to change how your dog **feels** about other people, other animals, or the world in general. But you can still change the way he **acts** toward them.
 
@@ -363,30 +374,3 @@ Finally, there is **ADULT** socialization. Suppose you have an adult dog who is 
 But you can start now and work forward. It may be too late to change his **feelings** about other people or other animals – but socialization can still change his **behavior** toward them.
 
 In other words, you can teach your dog to remain calm and quiet, tolerating and accepting people and other animals even if he doesn't particularly like them. And that is a very worthy goal.
-
-My [![book cover](../../books/covers/RTP-110.jpg)training program](https://www.yourpurebredpuppy.com/books/RTP.html) is for puppies 2 to 18 months old. It explains, step by step:
-
-- How to establish good patterns and routines that govern everything your pup does.
-- How to teach your pup to be calm and to look to you for guidance, direction, and permission.
-- How to make yourself important – the most important thing – in your puppy’s life. How to show your pup the clear, black-and-white rules and routines he is to follow. And how to make sure he does.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

@@ -19,11 +19,9 @@ This guide combines every archived page for this breed into one document.
 
 ## Breed overview and temperament
 
-Lowchen temperament, personality, training, behavior, pros and cons, advice, and information, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Behavioral Consultant, Author of 15 [Dog Books](https://www.yourpurebredpuppy.com/books/)
+Lowchen temperament, personality, training, behavior, pros and cons, advice, and information, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Lowchen dog breed](../dogbreeds/photos-IJKL/lowchenf1.jpg)
-
-  
+*Image hint — Lowchen dog breed*
 
 The bright, happy little Lowchen is a moderate breed in all respects. He will romp playfully in the yard, trot gracefully beside you during walks (on-leash), then curl up in your lap to sleep.
 
@@ -34,8 +32,6 @@ He is peaceful and gentle with everyone (humans and animals alike), though he is
 As with most sweet-natured breeds, there is timidity in some lines. Early socialization is important to build an outgoing, confident temperament.
 
 Attentive and responsive to nonforceful obedience training, many Lowchens do well in competitive obedience and agility. The only training area where they can be a bit slow is housebreaking.
-
-  
 
 If you want a dog who...
 
@@ -48,8 +44,6 @@ If you want a dog who...
 - Tends to be long-lived
 
 A Lowchen may be right for you.
-
-  
 
 If you don't want to deal with...
 
@@ -80,127 +74,105 @@ If I was considering a Lowchen, I would be most concerned about...
    To housebreak a Lowchen, consistent crate training is mandatory. Or a doggy door will allow access to a small enclosed "potty yard" whenever the dog needs to go.
 5. **Barking.** Lowchen are often too quick to sound the alarm at every new sight and sound. You have to be equally quick to stop them.
 
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![dog training videos](../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
-
-Related posts you might enjoy
-
-![dog looking at owner](https://www.yourpurebredpuppy.com/training/graphics/methods-choices150.jpg) [Dog Training:  
- What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
-
-![puppy sitting beside owner](https://www.yourpurebredpuppy.com/training/graphics/schedule-older150.jpg)[You Need Dog Training Help... But From Where? Classes? Books? Videos?](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
-
-![common dog training commands](https://www.yourpurebredpuppy.com/training/graphics/teachyourdog02-150.jpg)[All a Dog Needs Is Love: True or False?](https://www.yourpurebredpuppy.com/training/articles/all-a-dog-needs-is-love.html)
-
-![respectful dog](https://www.yourpurebredpuppy.com/training/graphics/respectful-dog.jpg)[Solve Behavior Problems By Teaching Your Dog To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
-
 ## Additional archived breed information
 
-![Lowchen dog breed](../dogbreeds/photos-IJKL/lowchenf1.jpg)
+*Image hint — Lowchen dog breed*
 
 # Lowchen
 
 By [Michele Welton](http://www.yourpurebredpuppy.com/about.html). Copyright © 2000-2017
 
-  
+*Image hint — dog breed review icon*
 
-![dog breed review icon](../Graphics/button-breedreview.png)
-[Lowchen Review](http://www.yourpurebredpuppy.com/reviews/lowchen.html)  
+[Lowchen Review](http://www.yourpurebredpuppy.com/reviews/lowchen.html)
 **What's good about 'em, what's bad about 'em.** The most honest dog breed review you'll ever find. Temperament, personality, behavior, traits, and characteristics. As an Obedience Instructor and Breed Selection Consultant for 40 years, I give you my honest opinions about the breed – I hold nothing back. [[read more]](http://www.yourpurebredpuppy.com/reviews/lowchen.html)
 
-  
+*Image hint — Lowchen*
 
-![Lowchen](./photos/lowchen_I.jpg)
-[Training Lowchen](http://www.yourpurebredpuppy.com/training/lowchen.html)  
+[Training Lowchen](http://www.yourpurebredpuppy.com/training/lowchen.html)
 I'll show you how to teach your Lowchen to listen to you and do what you say. My training methods are based on respect and sensible leadership. [[read more]](http://www.yourpurebredpuppy.com/training/lowchen.html)
 
-  
+*Image hint — Lowchen*
 
-![Lowchen](./photos/lowchen_I.jpg)
-[Lowchen Health Care & Feeding](http://www.yourpurebredpuppy.com/health/lowchen.html)  
+[Lowchen Health Care & Feeding](http://www.yourpurebredpuppy.com/health/lowchen.html)
 I'll show you how to watch out for these health problems and raise your Lowchen to be healthy and happy. [[read more]](http://www.yourpurebredpuppy.com/health/lowchen.html)
 
-  
+*Image hint — Lowchen*
 
-![Lowchen](./photos/lowchen_I.jpg)
-[Finding a Good Lowchen](http://www.yourpurebredpuppy.com/buying/lowchen.html)  
+[Finding a Good Lowchen](http://www.yourpurebredpuppy.com/buying/lowchen.html)
 Here are your options for buying or adopting a Lowchen. [[read more]](http://www.yourpurebredpuppy.com/buying/lowchen.html)
 
-  
+*Image hint — Lowchen*
 
-![Lowchen](./photos/lowchen_I.jpg)
-[Lowchen FAQ](http://www.yourpurebredpuppy.com/faq/lowchen.html)  
+[Lowchen FAQ](http://www.yourpurebredpuppy.com/faq/lowchen.html)
 More questions about Lowchen? Here are my honest answers to frequently asked questions about the traits and characteristics of Lowchen. [[read more]](http://www.yourpurebredpuppy.com/buying/lowchen.html)
-
-  
 
 ---
 
 ## MORE OF MY ARTICLES YOU MIGHT ENJOY.....
 
-![dog looking at owner](http://www.yourpurebredpuppy.com/training/graphics/methods-choices150.jpg) [Dog Training:  
+*Image hint — dog looking at owner*
+
+ [Dog Training:
  What Works, and What Doesn't](http://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
 
-![puppy sitting beside owner](http://www.yourpurebredpuppy.com/training/graphics/schedule-older150.jpg)[Puppy Training Schedule: What To Teach, and When](http://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
+*Image hint — puppy sitting beside owner*
 
-![dog watching owner prepare homemade food](http://www.yourpurebredpuppy.com/health/graphics/lifespan-homemade.jpg)[Why Homemade  
-Is The Best Food  
+[Puppy Training Schedule: What To Teach, and When](http://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
+
+*Image hint — dog watching owner prepare homemade food*
+
+[Why Homemade
+Is The Best Food
 For Your Dog](http://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)
 
-![common dog training commands](http://www.yourpurebredpuppy.com/training/graphics/teachyourdog02-150.jpg)[Teach Your Dog Words](http://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
+*Image hint — common dog training commands*
 
-![dry dog food kibble](http://www.yourpurebredpuppy.com/health/graphics/lifespan-kibble2.jpg)[The Second Best Food For Your Dog](http://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
+[Teach Your Dog Words](http://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
 
-![respectful dog](http://www.yourpurebredpuppy.com/training/graphics/respectful-dog.jpg)[Solve Behavior Problems By Teaching Your Dog To Respect You](http://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
+*Image hint — dry dog food kibble*
+
+[The Second Best Food For Your Dog](http://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
+
+*Image hint — respectful dog*
+
+[Solve Behavior Problems By Teaching Your Dog To Respect You](http://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
 
 ## Buying or adopting
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Behavioral Consultant, Author of 15 [Dog Books](https://www.yourpurebredpuppy.com/books/)
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Lowchen](../dogbreeds/photos-IJKL/lowchenf1.jpg)
+*Image hint — Lowchen*
 
 Interested in the Lowchen? Read each post on this page. Make sure the breed is right for you (and that YOU are right for the breed). Decide on sex and age. Then begin the exciting adventure of finding and evaluating breeders and rescue groups and selecting the right Lowchen. Don't be in a hurry!
 
-  
-
 ### Don't set your sights on the Lowchen until you read my advice in these posts.
 
-![Obedience instructor and author Michele Welton](../training/graphics/ind-dog-training-methods1.jpg)
-[Should You Even Get a Dog? Are You Sure?](https://www.yourpurebredpuppy.com/buying/articles/should-you-get-a-dog.html)  
+*Image hint — Obedience instructor and author Michele Welton*
+
+[Should You Even Get a Dog? Are You Sure?](https://www.yourpurebredpuppy.com/buying/articles/should-you-get-a-dog.html)
 Important –  I've been helping people choose and find dogs for nearly 40 years, and honestly, some people who decide to get a dog are making a big mistake...  [[read more]](https://www.yourpurebredpuppy.com/buying/articles/should-you-get-a-dog.html)
 
-![Purebred dogs](graphics/ind-purebred2.jpg)
-[The Truth About Purebred Dogs](https://www.yourpurebredpuppy.com/buying/articles/purebred-dogs.html)  
+*Image hint — Purebred dogs*
+
+[The Truth About Purebred Dogs](https://www.yourpurebredpuppy.com/buying/articles/purebred-dogs.html)
 Pros and cons... (most people don't know about the cons)
 
-![Crossbred dogs](graphics/ind-crossbred2.jpg)
-[The Truth About Crossbred Dogs](https://www.yourpurebredpuppy.com/buying/articles/crossbred-dogs.html)  
+*Image hint — Crossbred dogs*
+
+[The Truth About Crossbred Dogs](https://www.yourpurebredpuppy.com/buying/articles/crossbred-dogs.html)
 Pros and cons... (don't get taken by breeder hype)
 
-![Mixed breed dogs](graphics/ind-mixed2.jpg)
-[The Truth About Mixed Breed Dogs](https://www.yourpurebredpuppy.com/buying/articles/mixed-breed-dogs.html)  
+*Image hint — Mixed breed dogs*
+
+[The Truth About Mixed Breed Dogs](https://www.yourpurebredpuppy.com/buying/articles/mixed-breed-dogs.html)
 Pros and cons... (are mixes inferior to purebreds and crosses?)
 
 ## Is a Lowchen the right breed for you?
 
-![Obedience instructor and author Michele Welton](../training/graphics/ind-dog-training-methods1.jpg)
-[Lowchen Review](https://www.yourpurebredpuppy.com/reviews/lowchen.html)  
+*Image hint — Obedience instructor and author Michele Welton*
+
+[Lowchen Review](https://www.yourpurebredpuppy.com/reviews/lowchen.html)
 I'll tell you what's good about 'em, and what's bad about 'em... most honest review you'll ever find
 
 [Read my Lowchen Review →](https://www.yourpurebredpuppy.com/reviews/lowchen.html)
@@ -230,25 +202,27 @@ Can you provide what this breed needs?
 
 ## Which sex? What age?
 
-![Symbols for male and female](graphics/ind-male-female-dogs.gif)
-[Male Dogs vs. Female Dogs](https://www.yourpurebredpuppy.com/buying/articles/male-female-dogs.html)  
+*Image hint — Symbols for male and female*
+
+[Male Dogs vs. Female Dogs](https://www.yourpurebredpuppy.com/buying/articles/male-female-dogs.html)
 Which one makes a better pet?
 
-![Girl hugging a dog](graphics/ind-dog-breed-rescue.gif)
-[Puppies vs. Adult Dogs](https://www.yourpurebredpuppy.com/buying/articles/puppy-or-adult-dog.html)  
+*Image hint — Girl hugging a dog*
+
+[Puppies vs. Adult Dogs](https://www.yourpurebredpuppy.com/buying/articles/puppy-or-adult-dog.html)
 Should you get a young puppy, an older puppy, or an adult dog?
 
 ## Where can you buy or adopt a Lowchen?
 
 Lowchen are very uncommon in the United States. Out of 189 breeds in the American Kennel Club, where 1 is most popular and 189 is least popular, Lowchen rank 171st. That's a mystery to me, because it's such a nice little breed!
 
-[Adopting From Dog Rescue Organizations](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-rescue.html)  
+[Adopting From Dog Rescue Organizations](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-rescue.html)
 You might find a Lowchen available from a Dog Rescue group. But not many Lowchen are turned over to Rescue groups, because not many people own them in the first place. Also Lowchen are not that difficult to live with, so fewer owners tend to give up on them.
 
-[Adopting From Public Animal Shelters and Humane Societies](https://www.yourpurebredpuppy.com/buying/articles/animal-shelters.html)  
+[Adopting From Public Animal Shelters and Humane Societies](https://www.yourpurebredpuppy.com/buying/articles/animal-shelters.html)
 I've never heard of a Lowchen found in an animal shelter.
 
-[Buying From a Dog Breeder](https://www.yourpurebredpuppy.com/buying/articles/dog-breeders.html)  
+[Buying From a Dog Breeder](https://www.yourpurebredpuppy.com/buying/articles/dog-breeders.html)
 You can buy a Lowchen from a *show breeder*, who breeds Lowchen to match a detailed standard of appearance for the dog show ring. You might also be able to buy a Lowchen from people who "just breed pets" or "just had one litter." But should you? Be sure to read the article to learn more about these people.
 
 Here's one difference between a responsible breeder and an irresponsible breeder – BOTH PARENTS of a Lowchen puppy should have:
@@ -259,161 +233,136 @@ Here's one difference between a responsible breeder and an irresponsible breeder
 
 If a seller can't show you those certificates, the puppies are higher risk for health problems. You might choose to accept that risk. But then you need to be willing (and able) to pay a couple thousand bucks for future surgeries and lifelong meds if your Lowchen ends up with cataracts and bad joints.
 
-![Puppy in a pet shop window](graphics/ind-petshops-and-pet-stores.gif)
-[Pet Shop Puppies: Buying a Puppy From a Pet Store](https://www.yourpurebredpuppy.com/buying/articles/petshops-and-pet-stores.html)  
+*Image hint — Puppy in a pet shop window*
+
+[Pet Shop Puppies: Buying a Puppy From a Pet Store](https://www.yourpurebredpuppy.com/buying/articles/petshops-and-pet-stores.html)
 I've never seen a Lowchen in a pet shop, but it's certainly possible. I have plenty to say about buying a puppy from a pet shop!
 
 ## Which puppy?
 
-![Symbols for male and female](graphics/ind-how-to-choose-a-puppy.gif)
-[Choosing the Right Lowchen Puppy](https://www.yourpurebredpuppy.com/buying/articles/how-to-choose-a-puppy.html)  
+*Image hint — Symbols for male and female*
+
+[Choosing the Right Lowchen Puppy](https://www.yourpurebredpuppy.com/buying/articles/how-to-choose-a-puppy.html)
 How to test the temperament and personality of Lowchen puppies and pick the best puppy in a litter.
 
-![Girl hugging a dog](graphics/ind-AKC-registered-puppies.gif)
- [AKC Registered Puppies: Are AKC Papers Important?](https://www.yourpurebredpuppy.com/buying/articles/AKC-registered-puppies.html)  
+*Image hint — Girl hugging a dog*
+
+ [AKC Registered Puppies: Are AKC Papers Important?](https://www.yourpurebredpuppy.com/buying/articles/AKC-registered-puppies.html)
 Should you buy only an AKC registered Lowchen puppy? Do AKC papers and pedigrees really matter?
 
-![Dog Quest book](../books/covers/DQ-110.jpg)
-[Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html)  
+*Image hint — Dog Quest book*
+
+[Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html)
 My dog buying/adoption book will help you find a good-tempered, healthy family companion.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![dog training videos](../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
 
 ## Training
 
-![Lowchen dog breed](../dogbreeds/photos-IJKL/lowchenf1.jpg)
+*Image hint — Lowchen dog breed*
 
 # Training Your Lowchen
 
 Lowchen Training and Puppy Training, by [Michele Welton](http://www.yourpurebredpuppy.com/about.html). Copyright © 2000-2017
 
-  
+*Image hint — Obedience instructor and author Michele Welton*
 
-![Obedience instructor and author Michele Welton](graphics/ind-dog-training-methods1.jpg)
-[Dog Training – What Works, and What Doesn't](http://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)  
+[Dog Training – What Works, and What Doesn't](http://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
 Some dog training methods are based on what makes the owner feel good, rather than what on actually makes sense to the dog. For example, "positive-only" dog training is a big fad right now. Now, treats can be great motivators for training Lowchen, but if your dog will only obey for a treat, then **he** is in charge of his obedience, not you.  [[read more]](http://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
 
-  
+*Image hint — Buddy the dog*
 
-![Buddy the dog](graphics/ind-dog-training-videos.jpg)
-[These Dog Training Videos Turned Buddy Into a Good Dog](http://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)  
+[These Dog Training Videos Turned Buddy Into a Good Dog](http://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
 Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action. I recommend these dog training videos, which are based on respect and leadership. [[read more]](http://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
 
-  
+*Image hint — Misbehaving dog pulling owner on leash*
 
-![Misbehaving dog pulling owner on leash](graphics/ind-respect-training.gif)
-[Teach Your Lowchen To Respect You](http://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)  
+[Teach Your Lowchen To Respect You](http://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
 "Respect Training" is the dog training method I use and recommend for training Lowchen. A dog who respects you will do what you say and will stop what he's doing when you tell him "No." Teaching your dog to respect you means interacting with him in specific ways that encourage respect.  [[read more]](http://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
 
-  
+*Image hint — Words and commands to teach your dog*
 
-![Words and commands to teach your dog](graphics/ind-teach-words.gif)
-[Teach The Right Words In The Right Ways To Your Lowchen](http://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)  
+[Teach The Right Words In The Right Ways To Your Lowchen](http://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
 My method of training Lowchen includes teaching specific words in specific ways so that your dog not only learns the words but also develops the respectful attitude that makes him happy to obey you. Teach your dog words and he will understand what you say. Teach those words ***in the right ways*** and he will actually DO what you say.  [[read more]](http://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
 
-  
+*Image hint — Dog behavior problems*
 
-![Dog behavior problems](graphics/ind-dog-behavior-problems.jpg)
-[Solving Lowchen Behavior Problems](http://www.yourpurebredpuppy.com/training/articles/dog-behavior-problems.html)  
+[Solving Lowchen Behavior Problems](http://www.yourpurebredpuppy.com/training/articles/dog-behavior-problems.html)
 One of the most common questions dog owners ask me is: "How can I stop my dog from doing (a specific bad behavior)?" My answer is almost always the same, no matter what the misbehavior is.... [[read more]](http://www.yourpurebredpuppy.com/training/articles/dog-behavior-problems.html)
 
-  
+*Image hint — Cute puppy*
 
-![Cute puppy](graphics/ind-new-puppy.gif)
-[Training Lowchen Puppies](http://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)  
+[Training Lowchen Puppies](http://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
 Just got a new puppy? Lowchen puppy training starts the moment you bring your puppy home. If you use the wrong teaching method, your puppy will begin making decisions about how he wants **you** to fit into **his** life, and that's a recipe for conflict and behavior problems. Whatever your puppy does, you must react properly or he will learn the wrong things. Here's my recommended schedule (what to teach, when to teach it) for training your Lowchen puppy. [[read more]](http://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
 
-  
+*Image hint — Outhouse*
 
-![Outhouse](graphics/ind-housebreaking.gif)
-[Housebreaking Your Lowchen](http://www.yourpurebredpuppy.com/training/articles/dog-housebreaking.html)  
+[Housebreaking Your Lowchen](http://www.yourpurebredpuppy.com/training/articles/dog-housebreaking.html)
 There are two keys to housebreaking. Just two, but you have to get them both right. And I mean 100% right, not 50% right. Otherwise you're going to end up with a dog who is 50% potty trained, and who wants that? So here they are – your two keys to housebreaking.... [[read more]](http://www.yourpurebredpuppy.com/training/articles/dog-housebreaking.html)
 
-  
+*Image hint — Young man holding his dog*
 
-![Young man holding his dog](graphics/ind-dog-socializing.gif)
-[Socializing Your Lowchen](http://www.yourpurebredpuppy.com/training/articles/dog-socializing.html)  
+[Socializing Your Lowchen](http://www.yourpurebredpuppy.com/training/articles/dog-socializing.html)
 Socializing means training your Lowchen to get along politely with strangers and other animals. [[read more]](http://www.yourpurebredpuppy.com/training/articles/dog-socializing.html)
-
-To help you train and care for your dog
-
-[![book cover](../books/covers/TYD-110.jpg)](http://www.yourpurebredpuppy.com/books/TYD.html) To learn more about training your dog to be calm and well-behaved, my dog training book is [Teach Your Dog 100 English Words](http://www.yourpurebredpuppy.com/books/TYD.html). It's a unique Vocabulary and Respect Training Program that will teach your dog to listen to you and do whatever you ask.
-
-[![book cover](../books/covers/DQ-110.jpg)](http://www.yourpurebredpuppy.com/books/DQ.html) My dog buying guide, [Dog Quest: Find The Dog Of Your Dreams](http://www.yourpurebredpuppy.com/books/DQ.html), will teach you everything you need to know about finding a good-tempered, healthy dog.
-
-[![book cover](../books/covers/11T-110.jpg)](http://www.yourpurebredpuppy.com/books/11T.html) My dog health care book, [11 Things You Must Do Right To Keep Your Dog Healthy and Happy](http://www.yourpurebredpuppy.com/books/11T.html), shows you how to help your dog live a longer life while avoiding health problems and unnecessary veterinary expenses.
 
 ## Health and feeding
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Lowchen](../dogbreeds/photos-IJKL/lowchenf2.jpg)
+*Image hint — Lowchen*
 
 Start your Lowchen off on the right foot by feeding the right food, giving the right vaccinations, finding the right vet, and if you're going to spay or neuter, don't do it too early.
 
-  
-
 #### Jump down to this list of [Lowchen Health Problems](#health-problems)
-
-  
 
 #### Or check out my advice for raising a healthy Lowchen puppy or adult dog:
 
-![Obedience instructor and author Michele Welton](../training/graphics/ind-dog-training-methods1.jpg)
-[Dog Health Care – The Sensible Way](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)  
+*Image hint — Obedience instructor and author Michele Welton*
+
+[Dog Health Care – The Sensible Way](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)
 Read my advice on daily health care so your Lowchen lives a long, healthy life and seldom needs to see the vet...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)
 
-![numeral 3](../Graphics/number3.png)[3 Best Ways To Feed Your Dog Healthy Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)  
+*Image hint — numeral 3*
+
+[3 Best Ways To Feed Your Dog Healthy Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
 You can dramatically increase your dog's chances of living a long, healthy life by feeding the right food. Cutting right to the chase, the best foods for your Lowchen are...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
 
-![Real homemade dog food](graphics/ind-feeding.gif)
-[A Quick Way To Make Homemade Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)  
+*Image hint — Real homemade dog food*
+
+[A Quick Way To Make Homemade Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)
 Your Lowchen will love real chicken, turkey, beef, fish, eggs, yogurt, broccoli.... this is not just "people food" and I'll tell you why...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)
 
-![Dry kibble and canned dog food](graphics/ind-feeding2.gif)
-[5 Best Kibble and Canned Dog Foods](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)  
+*Image hint — Dry kibble and canned dog food*
+
+[5 Best Kibble and Canned Dog Foods](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)
 Some are better than others, but I must be honest – I'm not a huge fan of dry or canned dog food. Here are my concerns...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)
 
-![Information on booster shots for your German Shepherd.](graphics/ind-vaccinations.gif)
-[Vaccinations and Booster Shots: Needed or Not?](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)  
+*Image hint — Information on booster shots for your German Shepherd.*
+
+[Vaccinations and Booster Shots: Needed or Not?](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)
 How many vaccinations does your Lowchen puppy really need? Does your adult dog need yearly booster shots? The vaccination guidelines have changed! Find out what some vets aren't telling you...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)
 
-![Information on spaying](graphics/ind-female.gif)
-[Spaying Your Female Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)  
+*Image hint — Information on spaying*
+
+[Spaying Your Female Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)
 Should your female Lowchen be spayed? Current research says, "The AGE at which you spay can be vitally important to your dog's future health." So what's the best age?  [[read more]](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)
 
-![Information on neutering your male dog.](graphics/ind-male.gif)
-[Neutering Your Male Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)  
+*Image hint — Information on neutering your male dog.*
+
+[Neutering Your Male Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)
 Have you been told that you **must** neuter your male Lowchen? Current research shows that the issue is not so simple. Pet owners are not being told about some risks associated with neutering male dogs, especially neutering too early...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)
 
-![Information on choosing the best vet](graphics/ind-vets.gif)
-[Make Sure Your Vet is the Best!](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)  
+*Image hint — Information on choosing the best vet*
+
+[Make Sure Your Vet is the Best!](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)
 Is your current veterinarian really the best choice for your dog? Here's how to tell...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)
 
-![Assisi Loop](graphics/ind-assisi.jpg)
-[Assisi Loop Review](https://www.yourpurebredpuppy.com/health/articles/assisi-loop-review.html)  
+*Image hint — Assisi Loop*
+
+[Assisi Loop Review](https://www.yourpurebredpuppy.com/health/articles/assisi-loop-review.html)
 Does your Lowchen suffer from arthritis, hip dysplasia, disk disease, colitis? My honest review of a veterinary device you can use at home to reduce inflammation and pain.  [[read more]](https://www.yourpurebredpuppy.com/health/articles/assisi-loop-review.html)
 
 [Read my Lowchen Review →](https://www.yourpurebredpuppy.com/reviews/lowchen.html)
 
-![Lowchen](../dogbreeds/photos-IJKL/lowchenf3.jpg)
+*Image hint — Lowchen*
 
 ## Complete list of Lowchen health problems
 
@@ -429,36 +378,11 @@ Some Lowchen are born deaf, or partially deaf.
 
 Some health problems are inherited. For example, if your dog inherits from his parents the genes for an eye disease called PRA, he will go blind and there's nothing anyone can do about it.
 
-[![Dog feeding and health book by Michele Welton](../books/covers/11T-110.jpg)](https://www.yourpurebredpuppy.com/books/11T.html) But most health problems can be prevented by the ways you raise your dog.
-
-My best-selling book, [11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) shows you how to raise your Lowchen in all the right ways that help prevent health problems. Become your dog's health care champion!
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![dog training videos](../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
-
 ## Frequently asked questions
 
 By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Lowchen dog breed](../dogbreeds/photos-IJKL/lowchenf1.jpg)
-
-  
+*Image hint — Lowchen dog breed*
 
 What kind of temperament and personality does the Lowchen have?
 
@@ -576,20 +500,32 @@ It's probably answered in one of my books:
 
 ## MORE OF MY ARTICLES YOU MIGHT ENJOY.....
 
-![dog looking at owner](https://www.yourpurebredpuppy.com/training/graphics/methods-choices150.jpg) [Dog Training:  
+*Image hint — dog looking at owner*
+
+ [Dog Training:
  What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
 
-![puppy sitting beside owner](https://www.yourpurebredpuppy.com/training/graphics/schedule-older150.jpg)[Puppy Training Schedule: What To Teach, and When](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
+*Image hint — puppy sitting beside owner*
 
-![dog watching owner prepare homemade food](https://www.yourpurebredpuppy.com/health/graphics/lifespan-homemade.jpg)[Why Homemade  
-Is The Best Food  
+[Puppy Training Schedule: What To Teach, and When](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
+
+*Image hint — dog watching owner prepare homemade food*
+
+[Why Homemade
+Is The Best Food
 For Your Dog](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)
 
-![common dog training commands](https://www.yourpurebredpuppy.com/training/graphics/teachyourdog02-150.jpg)[Teach Your Dog Words](https://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
+*Image hint — common dog training commands*
 
-![dry dog food kibble](https://www.yourpurebredpuppy.com/health/graphics/lifespan-kibble2.jpg)[Kibble and Canned Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
+[Teach Your Dog Words](https://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
 
-![respectful dog](https://www.yourpurebredpuppy.com/training/graphics/respectful-dog.jpg)[Solve Behavior Problems By Teaching Your Dog To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
+*Image hint — dry dog food kibble*
+
+[Kibble and Canned Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
+
+*Image hint — respectful dog*
+
+[Solve Behavior Problems By Teaching Your Dog To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
 
 ## Archived source pages
 

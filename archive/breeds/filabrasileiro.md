@@ -14,11 +14,9 @@ This guide combines every archived page for this breed into one document.
 
 ## Breed overview and temperament
 
-Fila Brasileiro temperament, personality, training, behavior, pros and cons, advice, and information, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Behavioral Consultant, Author of 15 [Dog Books](https://www.yourpurebredpuppy.com/books/)
+Fila Brasileiro temperament, personality, training, behavior, pros and cons, advice, and information, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Fila Brasileiro dog breed](../dogbreeds/photos-EFGH/filabrasileirof5.jpg)
-
-  
+*Image hint — Fila Brasileiro dog breed*
 
 The Fila Brasileiro *(FEE-la brahzi LAIR o)*, also known as the Brazilian Mastiff, was developed to be a hunting dog, and a ranch and plantation dog.
 
@@ -63,36 +61,6 @@ Let's talk about a few more practical realities of owning a Fila Brasileiro:
 5. **Legal liabilities.** The Fila Brasileiro is banned or restricted in a number of countries, including the United Kingdom, Australia, New Zealand, Norway, Denmark, and others. In the United States, insurance companies may cancel your homeowner's policy. In this day and age, the legal liabilities of owning a giant breed that looks intimidating should be considered. People are quicker to sue if such a dog does anything even remotely questionable.
 
    The Fila Brasileiro is far too much for the vast majority of households, and I mean 99% of households. This breed was more suited to the past than to our modern society.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![dog training videos](../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
-
-Related posts you might enjoy
-
-![dog looking at owner](https://www.yourpurebredpuppy.com/training/graphics/methods-choices150.jpg) [Dog Training:  
- What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
-
-![puppy sitting beside owner](https://www.yourpurebredpuppy.com/training/graphics/schedule-older150.jpg)[You Need Dog Training Help... But From Where? Classes? Books? Videos?](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
-
-![common dog training commands](https://www.yourpurebredpuppy.com/training/graphics/teachyourdog02-150.jpg)[All a Dog Needs Is Love: True or False?](https://www.yourpurebredpuppy.com/training/articles/all-a-dog-needs-is-love.html)
-
-![respectful dog](https://www.yourpurebredpuppy.com/training/graphics/respectful-dog.jpg)[Solve Behavior Problems By Teaching Your Dog To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
 
 ## Archived source pages
 

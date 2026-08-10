@@ -9,9 +9,8 @@ fetched_at: "2026-08-10T13:13:39+00:00"
 
 # Choosing a Dog Breed Based on its Appearance
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-  
 One of a series of 11 articles on Dog Breed Traits to consider before choosing a dog. See the complete list.  +
 
 [Size](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-traits-size.html)
@@ -40,7 +39,7 @@ Build, shape, tail, ears, colors
 
 If you don't yet have a dog, you might have strong opinions on what you want that dog to look like.
 
-![Different dog breeds](../graphics/dog-breed-traits-appearance-hero1.jpg)
+*Image hint — Different dog breeds*
 
 We've already seen that certain physical features should definitely be considered when choosing a breed.
 
@@ -53,7 +52,7 @@ Slender or muscular? Long-legged or short-legged? Pricked ears or floppy ears? C
 
 Everyone will answer that question differently because everyone has their own personal preferences.
 
-![Benji, movie dog, mixed breed](../graphics/dog-breed-traits-appearance-benji.jpg)
+*Image hint — Benji, movie dog, mixed breed*
 
 Benji, a loveable mixed breed who appeared in several movies. Do you like this look?
 
@@ -69,7 +68,7 @@ Joel says, "I like skinny dogs with long legs, like greyhounds. They look sleek 
 
 What Joel needs to know:
 
-![Whippet dog](../graphics/dog-breed-traits-appearance-longlegs.jpg)
+*Image hint — Whippet dog*
 
 Whippets belong to the sighthound family of dogs.
 
@@ -85,7 +84,7 @@ With so little fat on their bodies, sighthounds are tricky to medicate or anesth
 
 Charity says, "I like dogs with long heavy ears, like Cocker Spaniels and Basset Hounds. It gives them a sad, wistful look!"
 
-![Basset Hound](../graphics/dog-breed-traits-appearance-longears.jpg)
+*Image hint — Basset Hound*
 
 Basset Hounds have long ears that require careful, ongoing cleaning.
 
@@ -99,7 +98,7 @@ The heavy "leather" on hound ears are also prone to developing *blood blisters.*
 
 Jeanne says, "My boyfriend likes dogs with big lips, like on Saint Bernards. But I don't! They drool a lot, right?"
 
-![Saint Bernard head](../graphics/dog-breed-traits-appearance-looselips.jpg)
+*Image hint — Saint Bernard head*
 
 Saint Bernards have loose, floppy skin around their lips. These dogs are champion droolers and slobberers!
 
@@ -117,7 +116,7 @@ Loose skin around the eyes (seen in the same breeds) can cause their lower eyeli
 
 Bryan says, "As a body builder, I'm impressed by athletic physiques. I admire dogs with a deep chest."
 
-![Irish Wolfhound](../graphics/dog-breed-traits-appearance-deepchest.jpg)
+*Image hint — Irish Wolfhound*
 
 Irish Wolfhounds are one breed with a deep chest extending to (or below) the dog's elbows. Lots of large purebred dogs have a chest like this. It is less common in crossbreeds and much less common in mixed breeds.
 
@@ -137,7 +136,7 @@ Even if a vet is able to surgically right the stomach, the threat isn't over, as
 
 You might be wondering why bloat primarily attacks breeds with a deep chest? Simply because in a deep chest, there's more "wiggle room" for the stomach to move around and twist. A deep chest is not natural in dogs – it's an artificial breeder construct. That's why bloat is much less common in mixed breed dogs.
 
-![Great Dane](../graphics/dog-breed-traits-appearance-deepchest2.jpg)
+*Image hint — Great Dane*
 
 This brindle Great Dane is either the lucky one, or the unlucky one, since roughly one out of every two Danes (45%) will suffer a bloat attack. About half of those will die within just a few hours. It's the #1 killer of this breed.
 
@@ -168,7 +167,9 @@ Other large deep-chested breeds are susceptible to bloat, as well. It can even a
 
 #### Do you like short-legged, long-bodied dogs?
 
-![Dachshund](../graphics/dog-breed-traits-appearance-chondro2.jpg)Mary Ann says, "Yes! They look like cartoon dogs, those stubby legs and looong sausage body!"
+*Image hint — Dachshund*
+
+Mary Ann says, "Yes! They look like cartoon dogs, those stubby legs and looong sausage body!"
 
 Examples:
 
@@ -181,7 +182,7 @@ Examples:
 - Welsh Corgi
 - several rare terrier breeds (Sealy, Dandie, Skye...)
 
-![Longhaired Dachshund](../graphics/dog-breed-traits-appearance-chondro1.jpg)
+*Image hint — Longhaired Dachshund*
 
 About 1 in 4 Dachshunds will become paralyzed due to bad vertebral disks related to their chondrodysplastic build. It's really sad.
 
@@ -203,7 +204,7 @@ These breeds are supposed to have a square build, where their length from chest 
 
 But if they inherit genes for chondrodysplasia, their legs will be short and their backs will be long, and they might (or might not) have weak vertebral disks prone to slipping. Of course they can still make wonderful, loving pets!
 
-![Poodles](../graphics/dog-breed-traits-appearance-chondro3.jpg)
+*Image hint — Poodles*
 
 The normal and healthiest build for Poodles is square (black dog on the left). The silver dog on the right has chondrodysplasia, which may or may not result in chronic back problems.
 
@@ -213,7 +214,7 @@ Shannon says, "You mean like Pugs? Oh yes! They're adorable, they make these cha
 
 What Shannon needs to know:
 
-![Pug](../graphics/dog-breed-traits-appearance-brachy1.jpg)
+*Image hint — Pug*
 
 The poor Pug, with his lovely temperament, has been betrayed by breeders who perpetuate these awful physical impairments. Why do people think this is okay to do to a dog?
 
@@ -231,7 +232,7 @@ Short-faced dogs are at high risk for heatstroke. Dogs can only cool themselves 
 
 Short-faced dogs are risky to anesthetize. You need to find an experienced vet to do neutering and dental cleaning of these breeds.
 
-![Brachycephalic dog](../graphics/dog-breed-traits-appearance-brachy2.jpg)
+*Image hint — Brachycephalic dog*
 
 No dog should have to deal with all this.
 
@@ -251,7 +252,7 @@ What Lydia needs to know:
 
 Sometimes a dog will be born with a natural bobtail... but the vast majority of "wiggle-butts" have had their tail docked.  To *dock* means to *cut short.* A docked tail starts out like a regular long tail, but is cut short when the puppy is a few days old.
 
-![Australian Shepherds with natural tail and docked](../graphics/dog-breed-traits-appearance-tail1.jpg)
+*Image hint — Australian Shepherds with natural tail and docked*
 
 Australian Shepherd on the left has his natural tail. Aussie on the right has been docked.
 
@@ -263,7 +264,7 @@ Which breeds are supposed to be docked? Well, fans of docking will tell you:
 - that guardian dogs (Dobermans, Boxers, Rottweilers) should be docked.
 - that herding dogs (Australian Shepherds, Old English Sheepdogs, Bouviers) should be docked.
 
-![Boxers with natural tail and docked](../graphics/dog-breed-traits-appearance-tail2.jpg)
+*Image hint — Boxers with natural tail and docked*
 
 Boxer on the left has her natural tail. Boxer on the right has been docked.
 
@@ -275,7 +276,7 @@ It sounds... kind of reasonable, right? And yet...
 - Plenty of NON-docked breeds (like Belgian Malinois, German Shepherds, American Bulldogs) protect just fine.
 - Plenty of NON-docked breeds (Border Collies, Australian Kelpies, Bearded Collies, Shelties) herd just fine. And what about Welsh Corgis? There are two Welsh Corgi breeds. The *Pembroke* is docked, but the *Cardigan*isn't. Yet both breeds herd just fine.
 
-![Brittany Spaniels with natural tail and docked](../graphics/dog-breed-traits-appearance-tail3.jpg)
+*Image hint — Brittany Spaniels with natural tail and docked*
 
 Brittany Spaniel on the left has his natural tail. Brittany on the right has been docked.
 
@@ -285,7 +286,7 @@ Most dogs today are not used for hunting, herding, or guarding. 99% of the peopl
 
 And what about docked **toy** breeds like Toy Poodles, Min Pins, and Yorkies – why do they need to be docked?
 
-![Rottweilers](../graphics/dog-breed-traits-appearance-tail4.jpg)
+*Image hint — Rottweilers*
 
 Pair of Rottweilers with natural tail and docked
 
@@ -299,7 +300,7 @@ Other western countries are way ahead of Americans in this regard. Across most o
 
 Docking will eventually become illegal in the United States, as well. But for now, if you choose a breed that traditionally has its tail docked and you don't want it done to your puppy, you'll have to work it out with the breeder before the litter is born. Unfortunately that can be difficult, because the procedure is done only a few days after birth.
 
-![Min Pin and Siberian Husky](../graphics/dog-breed-traits-appearance-tail5.jpg)
+*Image hint — Min Pin and Siberian Husky*
 
 The docked pinscher is hampered in his attempts to communicate his intentions. The husky isn't sure what to make of him.
 
@@ -317,7 +318,7 @@ What Chuck needs to know:
 
 There are two types of upright ears:
 
-![Cairn Terrier](../graphics/dog-breed-traits-appearance-ears1.jpg)
+*Image hint — Cairn Terrier*
 
 Cairn Terriers have natural pricked ears.
 
@@ -325,7 +326,7 @@ Natural pricked ears. Think of German Shepherds, Belgian Shepherds, Welsh Corgis
 
 Natural pricked ears start out stuck to the newborn pup's head, or even hanging down like floppy ears. But in a few days, weeks, or months, the ears begin pricking up on their own. (However, sometimes pricked ears only go up partway, or one ear pricks up while the other flops over. That's due to weakish cartilage in that ear.)
 
-![Doberman with taped ears](../graphics/dog-breed-traits-appearance-ears2.jpg)
+*Image hint — Doberman with taped ears*
 
 This Doberman's ears have been cropped to stand upright instead of hanging naturally.
 
@@ -349,7 +350,7 @@ That isn't the end, either. The multiple-week recovery period is very uncomforta
 | Brussels Griffon | Standard Schnauzer |
 |  |  |
 
-![Great Danes with cropped and natural ears](../graphics/dog-breed-traits-appearance-ears3.jpg)
+*Image hint — Great Danes with cropped and natural ears*
 
 Great Danes with natural and cropped ears.
 
@@ -381,19 +382,21 @@ Puppy buyers often find themselves drawn to a breeder's marketing shtick of "Rar
 
 But "rare" can mean different things:
 
-![Silver Lab puppy](../graphics/dog-breed-traits-appearance-color2.jpg)
+*Image hint — Silver Lab puppy*
 
 Silver Labrador
 
 - Rare can mean a color that's discouraged by the breed's national club, and thus breeders who focus on dog shows won't breed for that color. For example, in Labrador Retrievers, *silver* and *champagne* (diluted shades of chocolate and yellow) are frowned upon by the breed's national club. So they're not commonly seen... and breeders who do produce them usually do it for the money, so expect inflated prices.
-- ![white Boxer](../graphics/dog-breed-traits-appearance-color3.jpg)
+-
+
+*Image hint — white Boxer*
 
   White Boxer
 
   Rare can mean a color that's associated with health problems. For example, *white* is linked to deafness in white Boxers. Thus, responsible breeders won't deliberately breed for that color.
 - Rare can mean a color that wasn't present in the breed's normal gene pool... so breeders cross in breeds that DO have that color. Then they jack up the prices, and wait for buyers who don't know or care that the *blue merle* Chihuahua they just paid two thousand dollars for may (or may not) be purebred.
 
-![Blue merle Chihuahua](../graphics/dog-breed-traits-appearance-color4.jpg)
+*Image hint — Blue merle Chihuahua*
 
 Blue merle Chihuahua... purebred? or not?
 
@@ -409,7 +412,7 @@ So be careful with so-called "rare" colors.
 
 BLACK
 
-![Black dog in shelter](../graphics/dog-breed-traits-appearance-color5.jpg)
+*Image hint — Black dog in shelter*
 
 Black dog waits hopefully for someone to think he's beautiful.
 
@@ -421,13 +424,15 @@ Or... owners love to look into their dog's face, and it can be harder to see the
 
 Whatever it is, if you don't mind the color and you're thinking of adopting a dog from a shelter or rescue, please consider choosing a black one.
 
-![Black dog in shelter](../graphics/dog-breed-traits-appearance-color6.jpg)
+*Image hint — Black dog in shelter*
 
 It must be hard to be passed by over and over. This dog seems to have given up hope.
 
 I don't recommend black coats in hot climates, for obvious reasons. Especially combined with a long thick coat... it's dismaying to see black Newfoundlands or Bernese Mountain Dogs struggling to stay comfortable in hot sunny Florida or Texas.
 
-![Black and tan dog in shelter](../graphics/dog-breed-traits-appearance-color7.jpg)BLACK AND TAN
+*Image hint — Black and tan dog in shelter*
+
+BLACK AND TAN
 
 Like black dogs, black and tan dogs also tend to be disregarded by prospective owners.
 
@@ -439,7 +444,7 @@ Many breeds come in some shade of brown, though it might be called chocolate (La
 
 As a prospective owner, be aware that most brown dogs have a brown nose and lightish-colored (usually yellowish) eyes that can have an odd staring effect that some people find a little off-putting. If you're fine with it, great!
 
-![Chocolate Labrador Retriever](../graphics/dog-breed-traits-appearance-color8.jpg)
+*Image hint — Chocolate Labrador Retriever*
 
 Chocolate Labrador Retriever
 
@@ -455,10 +460,13 @@ Essentially a brindle dog has a base color (from light fawn to deep red) with da
 
 Brindle marking might cover the entire coat, or only some parts of the coat. My own Chihuahua has brindle markings on her muzzle and legs.
 
-![Bullmastiff](../graphics/dog-breed-traits-appearance-color9.jpg)
-![Scottish Terrier](../graphics/dog-breed-traits-appearance-color10.jpg)
-![Miniature Bull Terrier](../graphics/dog-breed-traits-appearance-color11.jpg)
-![Whippet](../graphics/dog-breed-traits-appearance-color12.jpg)
+*Image hint — Bullmastiff*
+
+*Image hint — Scottish Terrier*
+
+*Image hint — Miniature Bull Terrier*
+
+*Image hint — Whippet*
 
 Bullmastiff, Scottish Terrier, Bull Terrier, Whippet
 
@@ -478,7 +486,7 @@ Common breeds that may have brindle markings:
 | Cane Corso | Staffordshire Bull Terrier |
 | Chihuahua | Whippet |
 
-![Chihuahua](../../dogbreeds/photos2-C/chihuahua-06a.jpg)
+*Image hint — Chihuahua*
 
 Dark blue Chihuahua. The color **blue** ranges from light silver to gunmetal blue to dark charcoal.
 
@@ -492,7 +500,7 @@ Unfortunately, there is a skin condition associated with dilution genes. The sym
 
 Does every blue dog have this disease? No.
 
-![Blue Doberman](../graphics/dog-breed-traits-appearance-color13.jpg)
+*Image hint — Blue Doberman*
 
 Silvery blue Doberman
 
@@ -504,7 +512,7 @@ MERLE
 
 Merle isn't a color, but a **pattern**, namely a swirled/mottled/dappled blend of darker colors on a white background. Blue merle  and red merle are most common. Eyes may be brown, blue, or one of each.
 
-![blue merle Australian Shepherd](../graphics/dog-breed-traits-appearance-color14.jpg)
+*Image hint — blue merle Australian Shepherd*
 
 Australian Shepherd, blue merle
 
@@ -521,7 +529,7 @@ Common breeds that come in the merle pattern:
 
 So what's the problem with merle?
 
-![Cardigan Welsh Corgi](../graphics/dog-breed-traits-appearance-color16.jpg)
+*Image hint — Cardigan Welsh Corgi*
 
 Cardigan Welsh Corgi, blue merle
 
@@ -533,7 +541,7 @@ Unfortunately, that whitening effect is not limited to body  hair. There are al
 
 In merle dogs, this is most likely to happen if the pup has inherited a merle gene from EACH parent. We call these pups double-merles.  Educated breeders will never breed merle to merle – sadly, most breeders are not educated and so they do just this.
 
-![deaf Great Dane](../graphics/dog-breed-traits-appearance-color15.jpg)
+*Image hint — deaf Great Dane*
 
 Deaf Great Dane. Photo by [dougcornelius](https://www.flickr.com/photos/93094260@N00), licensed with [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
 
@@ -543,10 +551,13 @@ PIEBALD
 
 *Piebald* means patched – a dark coat with irregular white patches. This color is fine.
 
-![Papillon](../graphics/dog-breed-traits-appearance-color18.jpg)
-![French Bulldog](../graphics/dog-breed-traits-appearance-color19.jpg)
-![Havanese](../graphics/dog-breed-traits-appearance-color20.jpg)
-![Jack Russell Terrier](../graphics/dog-breed-traits-appearance-color21.jpg)
+*Image hint — Papillon*
+
+*Image hint — French Bulldog*
+
+*Image hint — Havanese*
+
+*Image hint — Jack Russell Terrier*
 
 Papillon, French Bulldog, Havanese, Jack Russell Terrier
 
@@ -554,14 +565,14 @@ However, like the merle gene, the piebald  gene can cause congenital deafness i
 
 Like double-merles, **double-piebalds** are mostly white with only a few dark markings on their head, back, or base of the tail. Usually their eyes are blue, but not always.
 
-![Staffordshire Bull Terrier](../graphics/dog-breed-traits-appearance-color17.jpg)
+*Image hint — Staffordshire Bull Terrier*
 
 Staffordshire Bull Terrier
 
 - If the dog has inherited enough colored pigment, especially around his eyes and ears, there should be no health issues other than sun sensitivity.
 - But if pigment is very minimal (see Pit Bull pic below), skin cancer is a real risk, along with deafness. Partial deafness (one ear) doesn't bother a dog, as the other ear can compensate. But complete deafness (both ears) can be very challenging to raise and train.
 
-![Deaf Pit Bull, double piebald gene](../graphics/dog-breed-traits-appearance-color1.jpg)
+*Image hint — Deaf Pit Bull, double piebald gene*
 
 Deaf Pit Bull. Double-piebald can be associated with insufficient pigment in the ear, resulting in deafness.
 
@@ -586,31 +597,10 @@ Don't be worried that every white pup you see is likely to be deaf! Most white d
 
 But there's one more thing to mention about white dogs... when they run and play, their coats end up looking a bit grungy! How will you feel about that?
 
-![Muddy Westie](../graphics/dog-breed-traits-appearance-color22.jpg)
+*Image hint — Muddy Westie*
 
 West Highland White Terrier, doing what they do best – digging in the dirt and romping in the mud!
 
 When you're thinking about colors, you need to feel comfortable letting your dog run and play, knowing that he's going to need yet another bath...
 
 So if you're a neat freak who must always have things super-clean, a white dog might not be a good choice. :)
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

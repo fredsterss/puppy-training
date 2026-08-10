@@ -9,9 +9,8 @@ fetched_at: "2026-08-10T13:13:37+00:00"
 
 # Which Breeds Are Aggressive (or Peaceful) With Other Dogs
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-  
 One of a series of 11 articles on Dog Breed Traits to consider before choosing a dog. See the complete list.  +
 
 [Size](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-traits-size.html)
@@ -38,7 +37,7 @@ One of a series of 11 articles on Dog Breed Traits to consider before choosing a
 
 Your dog's attitude toward other dogs  might match his attitude [toward people](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-traits-aggression-people.html)... or it might be different.
 
-![Two dogs looking at each other](../graphics/dog-breed-traits-aggression-dogs1.jpg)
+*Image hint — Two dogs looking at each other*
 
 Are these dogs safe with each other? If your answer is, "I'm not sure..." and one of these is yours, get him out of there quick. Dogs should never be allowed to interact with each other unless you're certain they're safe.
 
@@ -59,7 +58,7 @@ For example...
 
    Do you know how to act like the leader so that your dog trusts YOU to handle the situation? Or does your dog think HE'S the leader, so HE must handle the situation, usually by threatening the other dog?
 
-![Two dogs on tight leashes, sniffing noses](../graphics/dog-breed-traits-aggression-dogs2a.jpg)
+*Image hint — Two dogs on tight leashes, sniffing noses*
 
 Here's how dog fights start... Allow two dogs to sniff noses and lock eyes, while holding them back with tight leashes. Novice dog owners make this mistake over and over again. These two are Pit Bulls, but could be any breed.
 
@@ -71,7 +70,7 @@ If you need help handling any of the above issues, it's all covered in [my Respe
 
 Nearly all tiny breeds are fine with the pets in their own family, but somewhat pugnacious toward other dogs they don't know.
 
-![Black Toy Poodle](../graphics/dog-breed-traits-aggression-dogs4.jpg)
+*Image hint — Black Toy Poodle*
 
 [Toy Poodles](https://www.yourpurebredpuppy.com/reviews/toypoodles.html) are usually fine with everyone.
 
@@ -83,7 +82,7 @@ In my experience, the most peaceful tiny breeds are [Toy Poodles](https://www.yo
 
 In this size catory, there are lots of terrier breeds, and terriers are typically bold/pushy/aggressive toward other dogs.
 
-![Jack Russell Terrier](../graphics/dog-breed-traits-aggression-dogs6.jpg)
+*Image hint — Jack Russell Terrier*
 
 Jack Russell Terrier.
 
@@ -93,7 +92,7 @@ The most peaceful small breeds are the [Mini Poodle](https://www.yourpurebredpup
 
 #### [MIDSIZED DOGS](https://www.yourpurebredpuppy.com/dogbreeds/index-midsize-dog-breeds.html)
 
-![English Cocker Spaniel](../graphics/dog-breed-traits-aggression-dogs3.jpg)
+*Image hint — English Cocker Spaniel*
 
 Spaniels are lovely dogs, usually pleasant with everyone, including other dogs and cats. This is an [English Cocker](https://www.yourpurebredpuppy.com/reviews/englishcockerspaniels.html). Note that they need exercise and coat care. And they shed a lot.
 
@@ -107,7 +106,7 @@ Again, most likely to be quarrelsome with other dogs are the terriers, plus the 
 
 The most peaceful medium-size breeds are the various spaniels, [Brittany](https://www.yourpurebredpuppy.com/reviews/brittanys.html), [Basset Hound](https://www.yourpurebredpuppy.com/reviews/bassethounds.html), [Keeshond](https://www.yourpurebredpuppy.com/reviews/keeshonds.html), and [Vizsla](https://www.yourpurebredpuppy.com/reviews/vizslas.html).
 
-![Basset Hounds](../graphics/dog-breed-traits-aggression-dogs5.jpg)
+*Image hint — Basset Hounds*
 
 [Basset Hounds](https://www.yourpurebredpuppy.com/reviews/bassethounds.html) are usually good-natured with everyone, human and dog alike. But they do shed a lot and have a houndy odor. And they need enough exercise to prevent obesity.
 
@@ -132,31 +131,10 @@ If you already have another dog, be cautious bringing home one of the following 
 | Giant Schnauzer | St Bernard |
 | Great Dane | Tibetan Mastiff |
 
-![Rough Collies](../graphics/dog-breed-traits-aggression-dogs7.jpg)
+*Image hint — Rough Collies*
 
 Rough Collies are typically peaceful and polite with other dogs.
 
 The most peaceful large/giant breeds are the [Rough & Smooth Collie](https://www.yourpurebredpuppy.com/reviews/collies.html), four retrievers ([Golden](https://www.yourpurebredpuppy.com/reviews/goldenretrievers.html), [Labrador](https://www.yourpurebredpuppy.com/reviews/labradorretrievers.html), [Flat-Coat](https://www.yourpurebredpuppy.com/reviews/flatcoatedretrievers.html), [Curly-Coat](https://www.yourpurebredpuppy.com/reviews/curlycoatedretrievers.html)), the [English](https://www.yourpurebredpuppy.com/reviews/englishsetters.html) and [Irish Setter](https://www.yourpurebredpuppy.com/reviews/irishsetters.html), [English Pointer](https://www.yourpurebredpuppy.com/reviews/pointers.html), and [Bernese Mountain Dog](https://www.yourpurebredpuppy.com/reviews/bernesemountaindogs.html).
 
 Some large/giant breeds belong to the family of dogs called sighthounds , which are hunting dogs. Sighthounds are usually fine with similar-sized dogs. However, with smaller dogs (and cats), the powerful prey instincts of large sighthounds can pose a real threat. The Afghan Hound, Borzoi, Greyhound, Ibizan Hound, Irish Wolfhound, Saluki, and Scottish Deerhound are sighthounds.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

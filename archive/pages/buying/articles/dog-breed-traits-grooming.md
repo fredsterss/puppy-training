@@ -9,9 +9,8 @@ fetched_at: "2026-08-10T13:13:44+00:00"
 
 # Dog Breed Traits: Grooming
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-  
 One of a series of 11 articles on Dog Breed Traits to consider before choosing a dog. See the complete list.  +
 
 [Size](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-traits-size.html)
@@ -44,7 +43,7 @@ Brushing
 
 Let's find out how much brushing and combing you're willing and able to do.
 
-![Rat Terrier](../graphics/dog-breed-traits-brush-short.jpg)
+*Image hint — Rat Terrier*
 
 **MINIMAL** brushing for this Rat Terrier.
 
@@ -54,7 +53,7 @@ You can easily brush dirt and loose hair from a short coat like a Beagle, Labrad
 
 Good news... you can turn a longhaired breed into a shorthaired breed, with scissors or clippers. Then you will only need to do minimal brushing – but to keep the coat short, you must repeat the trimming/clipping every few months.
 
-![Havanese](../graphics/dog-breed-traits-brush-minimal2.jpg)
+*Image hint — Havanese*
 
 **SIGNIFICANT** brushing for the Havanese on the left. **MINIMAL** brushing for the trimmed/clipped Havanese on the right.
 
@@ -64,7 +63,7 @@ Are you willing to do regular brushing and combing, say twice a week? Some dog b
 
 There are three types of coats that need moderate brushing: thick coats, wiry/whiskery coats, and feathered coats.
 
-![Siberian Husky](../graphics/dog-breed-traits-brush-thick.jpg)
+*Image hint — Siberian Husky*
 
 **MODERATE** brushing for this Siberian Husky.
 
@@ -74,7 +73,7 @@ Thick coats are made up of TWO coats – a primary outercoat and a secondary und
 
 Note that thick coats shed a lot. Frequent brushing helps pull off dead shedding hairs before they end up on your clothes and furniture!
 
-![Fox Terrier and Miniature Schnauzer](../graphics/dog-breed-traits-brush-wiry.jpg)
+*Image hint — Fox Terrier and Miniature Schnauzer*
 
 **MODERATE** brushing for this Fox Terrier and Miniature Schnauzer.
 
@@ -88,13 +87,13 @@ It is possible to trim/clip these coats very short on a regular basis, removing 
 
 A dog with a FEATHERED coat has a short(ish) coat on his torso, with longer feathering on his ears, the back of his legs, chest and stomach, hindquarters, and tail.
 
-![Cavalier King Charles Spaniel](../graphics/dog-breed-traits-brush-feathered.jpg)
+*Image hint — Cavalier King Charles Spaniel*
 
 **MODERATE** brushing for this Cavalier King Charles Spaniel.
 
 Within each breed, individual dogs will always have less (or more) feathering than others. I'm sure you can guess which of these two Cavalier pics will be easier (or more tedious) to manage!
 
-![Cavalier King Charles Spaniel](../graphics/dog-breed-traits-brush-feathered2.jpg)
+*Image hint — Cavalier King Charles Spaniel*
 
 **MODERATE-PLUS** brushing for this heavily-coated Cavalier.
 
@@ -104,7 +103,7 @@ Caution! Feathering looks lovely, but you must regularly use a brush and comb to
 
 By "lots" of brushing, I mean 10-20 minutes every other day, brushing and combing a long coat.
 
-![Pekingese](../graphics/dog-breed-traits-brush-lots.jpg)
+*Image hint — Pekingese*
 
 **LOTS** of brushing for this Pekingese.
 
@@ -114,15 +113,13 @@ Now, there is a way to minimize all this brushing and combing. You use scissors 
 
 Everyone is different, so only YOU know whether you'd rather brush/comb every other day, or trim/clip every few months.
 
-![Coton de Tulear](../graphics/dog-breed-traits-brush-lots2.jpg)
+*Image hint — Coton de Tulear*
 
 **LOTS** of brushing required for the Coton de Tulear on the left. Only **MODERATE** brushing needed for the trimmed Coton on the right.
 
-![Old English Sheepdog](../graphics/dog-breed-traits-brush-lots3.jpg)
+*Image hint — Old English Sheepdog*
 
 **LOTS** of brushing required for the Old English Sheepdog on the left. Only **MODERATE** brushing for the trimmed Sheepie on the right.
-
-  
 
 Trimming/clipping
 
@@ -140,7 +137,7 @@ Some coats include longish hair under the dog's tail and in his groin/pelvic are
 
 You should keep these areas trimmed or clipped so they stay clean and sanitary when the dog goes to the bathroom. It's no fun when you let your dog out to potty and he comes back in with urine dripping from the long hair around his penis and fecal matter stuck to all the hair under his tail... and then he jumps up on your bed or sofa.
 
-![Pekingese](../graphics/dog-breed-traits-trim-some.jpg)
+*Image hint — Pekingese*
 
 The Pekingese on the left is going to get dirty back there! The Pekingese on the right will stay neat and clean.
 
@@ -148,16 +145,19 @@ These same coats might also have long hair around their ears, feet, chest and st
 
 #### Examples of breeds that need SOME trimming:
 
-![Golden Retriever](../graphics/dog-breed-traits-trim-some2.jpg)
-![Japanese Chin](../graphics/dog-breed-traits-trim-some3.jpg)
-![Papillon](../graphics/dog-breed-traits-trim-some4.jpg)
-![Clumber Spaniel](../graphics/dog-breed-traits-trim-some5.jpg)
+*Image hint — Golden Retriever*
+
+*Image hint — Japanese Chin*
+
+*Image hint — Papillon*
+
+*Image hint — Clumber Spaniel*
 
 Golden Retriever, Japanese Chin, Papillon, Clumber Spaniel
 
 ### SIGNIFICANT TRIMMING
 
-![Standard Poodles](../graphics/dog-breed-traits-trim-significant1.jpg)
+*Image hint — Standard Poodles*
 
 Standard Poodles require significant grooming. Their hair grows continually so must be sheared short every 6-8 weeks.
 
@@ -176,27 +176,6 @@ Poodles, Bichons, Schnauzers, Bouviers, Portuguese Water Dogs, several spaniel b
 
 Your dog will also need significant trimming if his coat is naturally long and you decide to clip it short for ease of brushing and maximum cleanliness. For example, you might choose to brush the naturally long coat of a Havanese... or you might choose to shear the coat short.
 
-![Havanese](../graphics/dog-breed-traits-trim-significant2.jpg)
+*Image hint — Havanese*
 
 The Havanese on the left needs lots of brushing but only moderate trimming. The Havanese on the right needs minimal brushing but significant trimming. Same breed, but different grooming. Up to you!
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

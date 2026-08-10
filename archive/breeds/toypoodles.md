@@ -18,23 +18,23 @@ This guide combines every archived page for this breed into one document.
 
 ## Breed overview and temperament
 
-Toy Poodle temperament, personality, training, behavior, pros and cons, advice, and information, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Behavioral Consultant, Author of 15 [Dog Books](https://www.yourpurebredpuppy.com/books/)
+Toy Poodle temperament, personality, training, behavior, pros and cons, advice, and information, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Toy Poodle dog breed](../dogbreeds/photos-TZ/toypoodlesf4.jpg)
-
-  
+*Image hint — Toy Poodle dog breed*
 
 Many people have misconceptions about Poodles – that they look and act like "sissy" dogs.
 
 That is one of the biggest myths in dogdom.
 
-![Poodle dog breed](../dogbreeds/photos-MNOP/miniaturepoodles.jpg)First, ignore the silly show-ring clips. Poodles can be clipped to look like normal dogs. See the pic of my cream Poodle, Buffy? It takes me 15 minutes every 6 weeks to run over her coat with a handheld clipper (#5 blade) and turn her into a shorthaired, normal-looking dog who is a snap to brush.
+*Image hint — Poodle dog breed*
+
+First, ignore the silly show-ring clips. Poodles can be clipped to look like normal dogs. See the pic of my cream Poodle, Buffy? It takes me 15 minutes every 6 weeks to run over her coat with a handheld clipper (#5 blade) and turn her into a shorthaired, normal-looking dog who is a snap to brush.
 
 Poodles also have the advantage of being the lightest-shedding, most hypoallergenic of all coated breeds. If you have allergies, a Poodle is the safest breed for you.
 
 Second, far from being sissy cushion-sitters, Toy Poodles are miniature athletes. They excel in advanced obedience competition, where retrieving and jumping skills are required, and in agility (obstacle course) competitions, where they fly over and under and through the obstacles with a strength and grace that is breathtaking to watch.
 
-![Toy Poodle dog breed](../dogbreeds/photos-TZ/toypoodlesf3.jpg)
+*Image hint — Toy Poodle dog breed*
 
 I do need to mention the two different builds, though. The correct build for the breed is "square", which means their legs are long enough that their height is approximately equal to their length. These Toy Poodles are both elegant and athletic, moving with a light, springy gait.
 
@@ -56,8 +56,6 @@ You do have to watch your lines: some Toy Poodle lines are too high-strung and n
 
 However, Toy Poodles are not for children. Some Toy Poodles are such gentle souls they are overwhelmed by the roughhousing and mischief of small children, while others simply won't put up with it.
 
-  
-
 If you want a dog who...
 
 - Is very small, light and graceful on his feet, athletic and agile
@@ -69,8 +67,6 @@ If you want a dog who...
 - Is usually polite with strangers and sociable with other animals
 
 A Toy Poodle may be right for you.
-
-  
 
 If you don't want to deal with...
 
@@ -98,74 +94,48 @@ If I was considering a Toy Poodle, I would be most concerned about...
 
    But if you don't like it, just take control of how the groomer clips your dog. Or learn how to do it yourself – it's really easy. See girl Buffy below. (She is a purebred poodle, but larger than a Toy and smaller than a Miniature.) Short coat, whiskery face, short ears, nothing shaved, no topknot or pompoms. Many people are surprised to find out that she's a Poodle. "She looks like a normal dog," they say. Works for me!
 
-   ![Miniature Poodle dog breed](../dogbreeds/photos-MNOP/miniaturepoodles-buffy2.jpg)
+*Image hint — Miniature Poodle dog breed*
+
 2. **Avoiding neurotic temperaments.** Whenever a breed is common, many people breed them just to make some money, without having enough knowledge of how to produce healthy, stable dogs. As a result, obedience instructors and behavioral consultants, like myself, see lots of Poodles with neurotic behaviors, including hyperactivity and senseless barking. Obviously you want to avoid those dogs!
 3. **Emotional sensitivity.** Be honest... is there tension in your home? Are people loud or emotional? Toy Poodles are extremely sensitive to stress. They can end up sick to their stomachs, with digestive upsets and anxiety, if the people in their home are having family problems. Toy Poodles are peaceful, sensitive dogs who want a peaceful, harmonious home.
 4. **Barking.** Poodles are very observant. Even Poodles who love everyone will bark when they see or hear something unusual. In fact, they're often too quick to sound the alarm at every new sight and sound. You have to be equally quick to stop them. You can only do that if you have the right relationship with your dog, where you are the leader and he is the follower. In other words, your Toy Poodle must respect you. Fortunately this is very easy to do with Poodles. Read more about [Toy Poodle Training](https://www.yourpurebredpuppy.com/training/).
 5. **Health problems.** Toy Poodles can live to 15 years old, but they're not always healthy during that time. Chronic problems include joint disorders, eye diseases, disk disease, and cardiac/bronchial diseases. Read more about [Toy Poodle Health](https://www.yourpurebredpuppy.com/health/toypoodles.html).
 
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![dog training videos](../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
-
-Related posts you might enjoy
-
-![dog looking at owner](https://www.yourpurebredpuppy.com/training/graphics/methods-choices150.jpg) [Dog Training:  
- What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
-
-![puppy sitting beside owner](https://www.yourpurebredpuppy.com/training/graphics/schedule-older150.jpg)[You Need Dog Training Help... But From Where? Classes? Books? Videos?](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
-
-![common dog training commands](https://www.yourpurebredpuppy.com/training/graphics/teachyourdog02-150.jpg)[All a Dog Needs Is Love: True or False?](https://www.yourpurebredpuppy.com/training/articles/all-a-dog-needs-is-love.html)
-
-![respectful dog](https://www.yourpurebredpuppy.com/training/graphics/respectful-dog.jpg)[Solve Behavior Problems By Teaching Your Dog To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
-
 ## Buying or adopting
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Behavioral Consultant, Author of 15 [Dog Books](https://www.yourpurebredpuppy.com/books/)
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Toy Poodle](../dogbreeds/photos-TZ/toypoodles-pixa.jpg)
+*Image hint — Toy Poodle*
 
 Interested in the Toy Poodle? Read each post on this page. Make sure the breed is right for you (and that YOU are right for the breed). Decide on sex and age. Then begin the exciting adventure of finding and evaluating breeders and rescue groups and selecting the right Toy Poodle. Don't be in a hurry!
 
-  
-
 ### Don't set your sights on the Toy Poodle until you read my advice in these posts.
 
-![Obedience instructor and author Michele Welton](../training/graphics/ind-dog-training-methods1.jpg)
-[Should You Even Get a Dog? Are You Sure?](https://www.yourpurebredpuppy.com/buying/articles/should-you-get-a-dog.html)  
+*Image hint — Obedience instructor and author Michele Welton*
+
+[Should You Even Get a Dog? Are You Sure?](https://www.yourpurebredpuppy.com/buying/articles/should-you-get-a-dog.html)
 Important –  I've been helping people choose and find dogs for nearly 40 years, and honestly, some people who decide to get a dog are making a big mistake...  [[read more]](https://www.yourpurebredpuppy.com/buying/articles/should-you-get-a-dog.html)
 
-![Purebred dogs](graphics/ind-purebred2.jpg)
-[The Truth About Purebred Dogs](https://www.yourpurebredpuppy.com/buying/articles/purebred-dogs.html)  
+*Image hint — Purebred dogs*
+
+[The Truth About Purebred Dogs](https://www.yourpurebredpuppy.com/buying/articles/purebred-dogs.html)
 Pros and cons... (most people don't know about the cons)
 
-![Crossbred dogs](graphics/ind-crossbred2.jpg)
-[The Truth About Crossbred Dogs](https://www.yourpurebredpuppy.com/buying/articles/crossbred-dogs.html)  
+*Image hint — Crossbred dogs*
+
+[The Truth About Crossbred Dogs](https://www.yourpurebredpuppy.com/buying/articles/crossbred-dogs.html)
 Pros and cons... (don't get taken by breeder hype)
 
-![Mixed breed dogs](graphics/ind-mixed2.jpg)
-[The Truth About Mixed Breed Dogs](https://www.yourpurebredpuppy.com/buying/articles/mixed-breed-dogs.html)  
+*Image hint — Mixed breed dogs*
+
+[The Truth About Mixed Breed Dogs](https://www.yourpurebredpuppy.com/buying/articles/mixed-breed-dogs.html)
 Pros and cons... (are mixes inferior to purebreds and crosses?)
 
 ## Is a Toy Poodle the right breed for you?
 
-![Obedience instructor and author Michele Welton](../training/graphics/ind-dog-training-methods1.jpg)
-[Toy Poodle Review](https://www.yourpurebredpuppy.com/reviews/toypoodles.html)  
+*Image hint — Obedience instructor and author Michele Welton*
+
+[Toy Poodle Review](https://www.yourpurebredpuppy.com/reviews/toypoodles.html)
 I'll tell you what's good about 'em, and what's bad about 'em... most honest review you'll ever find
 
 [Read my Toy Poodle Review →](https://www.yourpurebredpuppy.com/reviews/toypoodles.html)
@@ -195,27 +165,29 @@ Can you provide what this breed needs?
 
 ## Which sex? What age?
 
-![Symbols for male and female](graphics/ind-male-female-dogs.gif)
-[Male Dogs vs. Female Dogs](https://www.yourpurebredpuppy.com/buying/articles/male-female-dogs.html)  
+*Image hint — Symbols for male and female*
+
+[Male Dogs vs. Female Dogs](https://www.yourpurebredpuppy.com/buying/articles/male-female-dogs.html)
 Which one makes a better pet?
 
-![Girl hugging a dog](graphics/ind-dog-breed-rescue.gif)
-[Puppies vs. Adult Dogs](https://www.yourpurebredpuppy.com/buying/articles/puppy-or-adult-dog.html)  
+*Image hint — Girl hugging a dog*
+
+[Puppies vs. Adult Dogs](https://www.yourpurebredpuppy.com/buying/articles/puppy-or-adult-dog.html)
 Should you get a young puppy, an older puppy, or an adult dog?
 
 ## Where can you buy or adopt a Toy Poodle?
 
 Toy Poodles are very common in the United States. Out of 189 breeds in the American Kennel Club, where 1 is most popular and 189 is least popular, Poodles rank 7th. Now, that statistic combines all Poodle sizes (Toy, Miniature, and Standard), but they're all common.
 
-[Adopting From Dog Rescue Organizations](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-rescue.html)  
+[Adopting From Dog Rescue Organizations](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-rescue.html)
 Toy Poodles (and Poodle crosses) are often available from Dog Rescue groups. Toy Poodles may be turned over to Rescue because they need more grooming or daily companionship than the owner expected. Sometimes there are shyness or anxiety issues, or too much barking. Other Toy Poodles are given up simply because of changed family circumstances, and these dogs may have no behavior problems at all.
 
-[Adopting From Public Animal Shelters and Humane Societies](https://www.yourpurebredpuppy.com/buying/articles/animal-shelters.html)  
+[Adopting From Public Animal Shelters and Humane Societies](https://www.yourpurebredpuppy.com/buying/articles/animal-shelters.html)
 Toy Poodles are sometimes found here, but Poodle Rescue groups keep their eyes peeled on shelters and humane societies across the country. If a Toy Poodle turns up at a shelter, the rescue group typically moves in quickly to take the dog.
 
-[Buying From a Dog Breeder](https://www.yourpurebredpuppy.com/buying/articles/dog-breeders.html)  
-You can buy a Toy Poodle from a *show breeder*, who breeds Toy Poodles to match a detailed standard of appearance for the dog show ring. If you go this route, I strongly recommend that you avoid breeders who ONLY do dog shows, and instead look for breeders who emphasize an outgoing temperament and high trainability.  
-  
+[Buying From a Dog Breeder](https://www.yourpurebredpuppy.com/buying/articles/dog-breeders.html)
+You can buy a Toy Poodle from a *show breeder*, who breeds Toy Poodles to match a detailed standard of appearance for the dog show ring. If you go this route, I strongly recommend that you avoid breeders who ONLY do dog shows, and instead look for breeders who emphasize an outgoing temperament and high trainability.
+
 You can also buy a Toy Poodle from people who "just breed pets" or "just had one litter." But should you? Be sure to read the article to learn more about these people.
 
 Here's one difference between a responsible breeder and an irresponsible breeder – BOTH PARENTS of a Toy Poodle puppy should have:
@@ -229,168 +201,148 @@ Also, at least ONE PARENT of a Toy Poodle puppy should have:
 
 If a seller can't show you those certificates, the puppies are higher risk for health problems. You might choose to accept that risk. But then you need to be willing (and able) to pay a couple thousand bucks for future surgeries and lifelong meds if your Toy Poodle ends up blind and lame.
 
-![Puppy in a pet shop window](graphics/ind-petshops-and-pet-stores.gif)
-[Pet Shop Puppies: Buying a Puppy From a Pet Store](https://www.yourpurebredpuppy.com/buying/articles/petshops-and-pet-stores.html)  
+*Image hint — Puppy in a pet shop window*
+
+[Pet Shop Puppies: Buying a Puppy From a Pet Store](https://www.yourpurebredpuppy.com/buying/articles/petshops-and-pet-stores.html)
 Toy Poodles are frequently found in pet shops. I have plenty to say about buying a puppy from a pet shop!
 
 ## Which puppy?
 
-![Symbols for male and female](graphics/ind-how-to-choose-a-puppy.gif)
-[Choosing the Right Toy Poodle Puppy](https://www.yourpurebredpuppy.com/buying/articles/how-to-choose-a-puppy.html)  
+*Image hint — Symbols for male and female*
+
+[Choosing the Right Toy Poodle Puppy](https://www.yourpurebredpuppy.com/buying/articles/how-to-choose-a-puppy.html)
 How to test the temperament and personality of Toy Poodle puppies and pick the best puppy in a litter.
 
-![Girl hugging a dog](graphics/ind-AKC-registered-puppies.gif)
- [AKC Registered Puppies: Are AKC Papers Important?](https://www.yourpurebredpuppy.com/buying/articles/AKC-registered-puppies.html)  
+*Image hint — Girl hugging a dog*
+
+ [AKC Registered Puppies: Are AKC Papers Important?](https://www.yourpurebredpuppy.com/buying/articles/AKC-registered-puppies.html)
 Should you buy only an AKC registered Toy Poodle puppy? Do AKC papers and pedigrees really matter?
 
-![Dog Quest book](../books/covers/DQ-110.jpg)
-[Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html)  
+*Image hint — Dog Quest book*
+
+[Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html)
 My dog buying/adoption book will help you find a good-tempered, healthy family companion.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![dog training videos](../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
 
 ## Training
 
-Toy Poodle Training and Puppy Training, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 [Dog Books](https://www.yourpurebredpuppy.com/books/)
+Toy Poodle Training and Puppy Training, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Toy Poodle](../dogbreeds/photos-TZ/toypoodles-pixa6.jpg)
+*Image hint — Toy Poodle*
 
 Dog training is much less about the teaching of commands and much more about how you live with your dog. Virtually all of your dog's behaviors (good and bad) are created by the way you're living with him. What you do with him... what you don't do with him... what you allow him to do... these are all messages to your dog. Send the right messages and you will have no problems with your dog. Send the wrong messages and you will have problems.
 
-  
-
 #### Check out my advice for dealing with behavior problems and training your Toy Poodle puppy or adult dog:
 
-![Obedience instructor and author Michele Welton](graphics/ind-dog-training-methods1.jpg)
-[Dog Training – What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)  
+*Image hint — Obedience instructor and author Michele Welton*
+
+[Dog Training – What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
 Some dog training methods are based on what makes the owner feel good, rather than what on actually makes sense to the dog. Now, treats can be great motivators for training Toy Poodles, but if your dog will only obey for a treat, then **he** is in charge of his obedience, not you.  [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
 
-![Cute puppy](graphics/ind-easy.png)
-[Puppy Training Made Easy: 4 Things You MUST Do Right](https://www.yourpurebredpuppy.com/training/articles/puppy-training-made-easy.html)  
+*Image hint — Cute puppy*
+
+[Puppy Training Made Easy: 4 Things You MUST Do Right](https://www.yourpurebredpuppy.com/training/articles/puppy-training-made-easy.html)
 Training your Toy Poodle puppy doesn't have to be a struggle. There are four simple things you can do right now to change your pup's behavior and make training easy.  [[read more]](https://www.yourpurebredpuppy.com/training/articles/puppy-training-made-easy.html)
 
-![Cute puppy](graphics/ind-schedule.jpg)
-[Puppy Training Schedule: What to Teach (and When)](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)  
+*Image hint — Cute puppy*
+
+[Puppy Training Schedule: What to Teach (and When)](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
 Puppy training starts the moment you bring your puppy home. If you use the wrong teaching method, your puppy will begin making decisions about how he wants **you** to fit into **his** life, and that's a recipe for conflict and behavior problems. Whatever your puppy does, you must react properly or he will learn the wrong things. Here's my recommended schedule (what to teach, when to teach it) for training your Toy Poodle puppy. [[read more]](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
 
-![Misbehaving dog pulling owner on leash](graphics/ind-respect-training.gif)
-[Teach Your Toy Poodle To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)  
+*Image hint — Misbehaving dog pulling owner on leash*
+
+[Teach Your Toy Poodle To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
 "Respect Training" is the dog training method I use and recommend for training Toy Poodles. A dog who respects you will do what you say and will stop what he's doing when you tell him "No." Teaching your dog to respect you means interacting with him in specific ways that encourage respect.  [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
 
-![Dog behavior problems](graphics/ind-dog-behavior-problems.jpg)
-[Solving Behavior Problems](https://www.yourpurebredpuppy.com/training/articles/dog-behavior-problems.html)  
+*Image hint — Dog behavior problems*
+
+[Solving Behavior Problems](https://www.yourpurebredpuppy.com/training/articles/dog-behavior-problems.html)
 One of the most common questions dog owners ask me is: "How can I stop my dog from doing (a specific bad behavior)?" My answer is almost always the same, no matter what the misbehavior is.... [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-behavior-problems.html)
 
-![Buddy the dog](graphics/ind-dog-training-videos.jpg)
-[These Dog Training Videos Turned Buddy Into a Good Dog](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)  
+*Image hint — Buddy the dog*
+
+[These Dog Training Videos Turned Buddy Into a Good Dog](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
 Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action. I recommend these dog training videos, which are based on respect and leadership. [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
 
-![](graphics/ind-dog-training-help.jpg)
-[You Need Dog Training Help.... But From Where? Private Lessons? Public Classes? Dog Training Books? Dog Training Videos?](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)  
+*Image placeholder — no alt text*
+
+[You Need Dog Training Help.... But From Where? Private Lessons? Public Classes? Dog Training Books? Dog Training Videos?](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
 So your puppy needs training.... or your adult dog needs training.... and you're looking for some help. Should you hire a professional trainer to come to your house? send your dog away to be trained? sign up for a group obedience class? read a book? watch a few videos? Here's my advice on where to get dog training help when you really need it. [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
 
-![Words and commands to teach your dog](graphics/ind-teach-words.gif)
-[Teach The Right Words In The Right Ways](https://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)  
+*Image hint — Words and commands to teach your dog*
+
+[Teach The Right Words In The Right Ways](https://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
 My method of training Toy Poodles includes teaching specific words in specific ways so that your dog not only learns the words but also develops the respectful attitude that makes him happy to obey you. Teach your dog words and he will understand what you say. Teach those words ***in the right ways*** and he will actually DO what you say.  [[read more]](https://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
 
-![Outhouse](graphics/ind-housebreaking.gif)
-[Housebreaking Your Toy Poodle](https://www.yourpurebredpuppy.com/training/articles/dog-housebreaking.html)  
+*Image hint — Outhouse*
+
+[Housebreaking Your Toy Poodle](https://www.yourpurebredpuppy.com/training/articles/dog-housebreaking.html)
 There are two keys to housebreaking. Just two, but you have to get them both right. And I mean 100% right, not 50% right. Otherwise you're going to end up with a dog who is 50% potty trained, and who wants that? So here they are – your two keys to housebreaking.... [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-housebreaking.html)
 
-![Young man holding his dog](graphics/ind-dog-socializing.gif)
-[Socializing Your Toy Poodle](https://www.yourpurebredpuppy.com/training/articles/dog-socializing.html)  
+*Image hint — Young man holding his dog*
+
+[Socializing Your Toy Poodle](https://www.yourpurebredpuppy.com/training/articles/dog-socializing.html)
 Socializing means training your Toy Poodle to get along politely with strangers and other animals. [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-socializing.html)
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![dog training videos](../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
 
 ## Health and feeding
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Toy Poodle](../dogbreeds/photos-TZ/toypoodles-pixa5.jpg)
+*Image hint — Toy Poodle*
 
 Start your Toy Poodle off on the right foot by feeding the right food, giving the right vaccinations, finding the right vet, and if you're going to spay or neuter, don't do it too early.
 
-  
-
 #### Jump down to this list of [Toy Poodle Health Problems](#health-problems)
-
-  
 
 #### Or check out my advice for raising a healthy Toy Poodle puppy or adult dog:
 
-![Obedience instructor and author Michele Welton](../training/graphics/ind-dog-training-methods1.jpg)
-[Dog Health Care – The Sensible Way](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)  
+*Image hint — Obedience instructor and author Michele Welton*
+
+[Dog Health Care – The Sensible Way](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)
 Read my advice on daily health care so your Toy Poodle lives a long, healthy life and seldom needs to see the vet...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)
 
-![numeral 3](../Graphics/number3.png)[3 Best Ways To Feed Your Dog Healthy Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)  
+*Image hint — numeral 3*
+
+[3 Best Ways To Feed Your Dog Healthy Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
 You can dramatically increase your dog's chances of living a long, healthy life by feeding the right food. Cutting right to the chase, the best foods for your Toy Poodle are...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
 
-![Real homemade dog food](graphics/ind-feeding.gif)
-[A Quick Way To Make Homemade Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)  
+*Image hint — Real homemade dog food*
+
+[A Quick Way To Make Homemade Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)
 Your Poodle will love real chicken, turkey, beef, fish, eggs, yogurt, broccoli.... this is not just "people food" and I'll tell you why...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)
 
-![Dry kibble and canned dog food](graphics/ind-feeding2.gif)
-[5 Best Kibble and Canned Dog Foods](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)  
+*Image hint — Dry kibble and canned dog food*
+
+[5 Best Kibble and Canned Dog Foods](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)
 Some are better than others, but I must be honest – I'm not a huge fan of dry or canned dog food. Here are my concerns...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)
 
-![Information on booster shots for your German Shepherd.](graphics/ind-vaccinations.gif)
-[Vaccinations and Booster Shots: Needed or Not?](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)  
+*Image hint — Information on booster shots for your German Shepherd.*
+
+[Vaccinations and Booster Shots: Needed or Not?](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)
 How many vaccinations does your Toy Poodle puppy really need? Does your adult dog need yearly booster shots? The vaccination guidelines have changed! Find out what some vets aren't telling you...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)
 
-![Information on spaying](graphics/ind-female.gif)
-[Spaying Your Female Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)  
+*Image hint — Information on spaying*
+
+[Spaying Your Female Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)
 Should your female Toy Poodle be spayed? Current research says, "The AGE at which you spay can be vitally important to your dog's future health." So what's the best age?  [[read more]](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)
 
-![Information on neutering your male dog.](graphics/ind-male.gif)
-[Neutering Your Male Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)  
+*Image hint — Information on neutering your male dog.*
+
+[Neutering Your Male Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)
 Have you been told that you **must** neuter your male Poodle? Current research shows that the issue is not so simple. Pet owners are not being told about some risks associated with neutering male dogs, especially neutering too early...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)
 
-![Information on choosing the best vet](graphics/ind-vets.gif)
-[Make Sure Your Vet is the Best!](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)  
+*Image hint — Information on choosing the best vet*
+
+[Make Sure Your Vet is the Best!](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)
 Is your current veterinarian really the best choice for your dog? Here's how to tell...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)
 
-![Assisi Loop](graphics/ind-assisi.jpg)
-[Assisi Loop Review](https://www.yourpurebredpuppy.com/health/articles/assisi-loop-review.html)  
+*Image hint — Assisi Loop*
+
+[Assisi Loop Review](https://www.yourpurebredpuppy.com/health/articles/assisi-loop-review.html)
 Does your Poodle suffer from arthritis, hip dysplasia, disk disease, colitis? My honest review of a veterinary device you can use at home to reduce inflammation and pain.  [[read more]](https://www.yourpurebredpuppy.com/health/articles/assisi-loop-review.html)
 
 [Read my Toy Poodle Review →](https://www.yourpurebredpuppy.com/reviews/toypoodles.html)
 
-![Toy Poodle](../dogbreeds/photos-TZ/toypoodlesf5.jpg)
+*Image hint — Toy Poodle*
 
 ## Complete list of Toy Poodle health problems
 
@@ -489,36 +441,11 @@ An untreated hypoglycemic attack can result in coma and death.
 
 Some health problems are inherited. For example, if your dog inherits from his parents the genes for an eye disease called PRA, he will go blind and there's nothing anyone can do about it.
 
-[![Dog feeding and health book by Michele Welton](../books/covers/11T-110.jpg)](https://www.yourpurebredpuppy.com/books/11T.html) But most health problems can be prevented by the ways you raise your dog.
-
-My best-selling book, [11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) shows you how to raise your Toy Poodle in all the right ways that help prevent health problems. Become your dog's health care champion!
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![dog training videos](../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
-
 ## Frequently asked questions
 
 By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Toy Poodle dog breed](../dogbreeds/photos-TZ/toypoodlesf1.jpg)
-
-  
+*Image hint — Toy Poodle dog breed*
 
 How big are Toy Poodles?
 
@@ -682,20 +609,32 @@ It's probably answered in one of my books:
 
 ## MORE OF MY ARTICLES YOU MIGHT ENJOY.....
 
-![dog looking at owner](https://www.yourpurebredpuppy.com/training/graphics/methods-choices150.jpg) [Dog Training:  
+*Image hint — dog looking at owner*
+
+ [Dog Training:
  What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
 
-![puppy sitting beside owner](https://www.yourpurebredpuppy.com/training/graphics/schedule-older150.jpg)[Puppy Training Schedule: What To Teach, and When](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
+*Image hint — puppy sitting beside owner*
 
-![dog watching owner prepare homemade food](https://www.yourpurebredpuppy.com/health/graphics/lifespan-homemade.jpg)[Why Homemade  
-Is The Best Food  
+[Puppy Training Schedule: What To Teach, and When](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
+
+*Image hint — dog watching owner prepare homemade food*
+
+[Why Homemade
+Is The Best Food
 For Your Dog](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)
 
-![common dog training commands](https://www.yourpurebredpuppy.com/training/graphics/teachyourdog02-150.jpg)[Teach Your Dog Words](https://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
+*Image hint — common dog training commands*
 
-![dry dog food kibble](https://www.yourpurebredpuppy.com/health/graphics/lifespan-kibble2.jpg)[Kibble and Canned Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
+[Teach Your Dog Words](https://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
 
-![respectful dog](https://www.yourpurebredpuppy.com/training/graphics/respectful-dog.jpg)[Solve Behavior Problems By Teaching Your Dog To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
+*Image hint — dry dog food kibble*
+
+[Kibble and Canned Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
+
+*Image hint — respectful dog*
+
+[Solve Behavior Problems By Teaching Your Dog To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
 
 ## Archived source pages
 

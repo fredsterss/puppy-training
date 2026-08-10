@@ -9,13 +9,15 @@ fetched_at: "2026-08-10T13:29:43+00:00"
 
 # Leash Training – Walk Nicely on Leash
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![labrador retriever sitting](../graphics/rtp/leashtrain-lab.jpg)This article is for pups who pull on the leash.
+*Image hint — labrador retriever sitting*
+
+This article is for pups who pull on the leash.
 
 If your pup has never had a leash on, or if he refuses to walk at all, read [this leash training article](https://www.yourpurebredpuppy.com/training/articles/leash-training-intro.html) instead.
 
-![French Bulldog pulling on the leash](../graphics/rtp/leashtrain-frenchie.jpg)
+*Image hint — French Bulldog pulling on the leash*
 
 ## Why is pulling on the leash bad?
 
@@ -40,9 +42,13 @@ Instead, work with him in your house and yard until he is nearly flawless in his
 
 ## Let's make sure your dog has the right collar and leash
 
-![regular buckle collar](../graphics/rtp/puppy-respect_html_m2b1800d2.gif)For most pups, start with a flat buckle collar of nylon or leather. It simply buckles around your pup's neck. Some pups never need anything more.
+*Image hint — regular buckle collar*
 
-![Puppia brand harness](../graphics/rtp/puppy-respect_html_m21b1c993.jpg)For toy breed puppies, you can try a lightweight collar, but some toys have a delicate windpipe and a collar makes them cough. If that happens, you can switch to a harness. I like a soft mesh harness like the Puppia® brand (pictured).
+For most pups, start with a flat buckle collar of nylon or leather. It simply buckles around your pup's neck. Some pups never need anything more.
+
+*Image hint — Puppia brand harness*
+
+For toy breed puppies, you can try a lightweight collar, but some toys have a delicate windpipe and a collar makes them cough. If that happens, you can switch to a harness. I like a soft mesh harness like the Puppia® brand (pictured).
 
 Pups who are larger, or who are very strong pullers, might need a different kind of collar. We'll find out in just a few minutes.
 
@@ -60,7 +66,9 @@ Why? Because I'm going to explain some leash-handling techniques and you might w
 
 So I'm going to explain the steps using the word puppy,  but I do hope you might practice them first with the stuffed animal.
 
-![Golden Retriever on loose leash](../graphics/rtp/puppy-respect_html_m1026e937.jpg)Go stand somewhere in your house or yard. Use the leash to maneuver your (puppy) so he's standing close to you, no farther than a foot or so away. It doesn't matter whether he's in front of you or on either side of you, as long as he's within a foot or so.
+*Image hint — Golden Retriever on loose leash*
+
+Go stand somewhere in your house or yard. Use the leash to maneuver your (puppy) so he's standing close to you, no farther than a foot or so away. It doesn't matter whether he's in front of you or on either side of you, as long as he's within a foot or so.
 
 Look at the clip of the leash. Is it hanging straight down below his neck? If you're holding him with a tight leash, the clip can't be hanging straight down. So "pay out" (loosen) some of the leash until the clip is hanging under his neck and pointing down at the ground.
 
@@ -79,13 +87,15 @@ If instead your pup moves away from you so the leash gets tight, you're going to
 
 Don't HOLD  your dog close to you. Pull him close, then immediately loosen the leash. Clip hanging straight down? Check. U-shape in the leash? Check. Don't HOLD  your dog close to you.
 
-![Mastiff](../graphics/rtp/puppy-respect_html_37cb8152.jpg)This lesson is all about repetition. Keep giving your pup the opportunity to move away from you by loosening the leash.
+*Image hint — Mastiff*
+
+This lesson is all about repetition. Keep giving your pup the opportunity to move away from you by loosening the leash.
 
 If he takes advantage of the opportunity and moves away from you, drop your hand down to his collar height, then hand-forward (create slack), hand-backward and *parallel to the ground,*  and pull him back. Then loosen the leash again.
 
 Remain calm. You want your pup to be calm, so keep your own movements calm. Correct him methodically. Don't say anything. Whenever he stops pulling and stands there on a loose leash, give him a single quiet "Yes. Good boy." Don't get him revved-up.
 
-![funny pic of a westie terrier pulling its owner along the street](../graphics/rtp/leashtrain-westie.jpg "Not good!")
+*Image hint — funny pic of a westie terrier pulling its owner along the street*
 
 ### If your pup is still pulling
 
@@ -96,7 +106,9 @@ With persistent pups, change the gentle pull  into more of a tug,  which is qu
 - Hand backward – parallel to the ground – in a fast "popping" tug  that should get a determined pup's attention as it propels him closer to you.
 - Loosen the leash again... and hopefully your pup will decide that pulling on the leash isn't worth that *tug.*
 
-![dog pulling owner](../graphics/rtp/puppy-respect_html_1f600dd6.png)But if he keeps pulling hard, it's time to try a different collar.
+*Image hint — dog pulling owner*
+
+But if he keeps pulling hard, it's time to try a different collar.
 
 Although a regular buckle collar looks  mild, it exerts force on one concentrated point on your pup's throat if he's a hard puller.
 
@@ -124,7 +136,9 @@ I don't mean a regular harness, where you clip the leash to a ring on the dog's 
 
 A regular harness is designed to help sled dogs pull, so if you put a regular harness on a dog who is already a puller, you're just making it easier for him to pull. Not what you want!
 
-![Petsafe brand, front attachment harness](../graphics/rtp/puppy-respect_html_m21ad534f.jpg)But a front-attachment  harness can be effective. Here you clip the leash onto a ring on the pup's chest.
+*Image hint — Petsafe brand, front attachment harness*
+
+But a front-attachment  harness can be effective. Here you clip the leash onto a ring on the pup's chest.
 
 If he lunges forward and hits the end of the leash, he gets turned around in a little semi-circle until he's facing YOU instead of what he was pulling toward.
 
@@ -139,7 +153,9 @@ They're each a little different in design, so you'll need to test them to see wh
 
 ### **Herm Sprenger prong collar**
 
-![herm sprenger prong collar](../graphics/rtp/puppy-respect_html_41f3da48.jpg)If your pup is at least 6 months old and is a powerful puller, you might try a *HERM SPRENGER*  prong collar. I don't recommend other brands.
+*Image hint — herm sprenger prong collar*
+
+If your pup is at least 6 months old and is a powerful puller, you might try a *HERM SPRENGER*  prong collar. I don't recommend other brands.
 
 A prong collar distributes pressure around your pup's neck evenly,  so it's safer than a buckle collar, which concentrates its pressure on the front of the throat.
 
@@ -155,7 +171,9 @@ A *Herm Sprenger*  prong collar is like the *power steering*  on your car, in 
 
 ### Cautions about alternative collars
 
-![maltese with pink collar and bow](../graphics/rtp/puppy-respect_html_4fcc990a.jpg)First, these are training  tools. Don't leave them on your pup when no one is watching him. He could get them caught on something.
+*Image hint — maltese with pink collar and bow*
+
+First, these are training  tools. Don't leave them on your pup when no one is watching him. He could get them caught on something.
 
 Second, these tools should be used on a temporary  basis, to get across to the pup that you want him to stand and walk quietly on a loose leash.
 
@@ -184,7 +202,9 @@ When your pup becomes good enough at this game that no matter what direction you
 
 ## Step #4: Play the Opposite-Direction game
 
-![Jack Russell walking on a loose leash](../graphics/rtp/puppy-respect_html_5667283.jpg)Maneuver your pup onto your left or right side. He should be within about 12 inches of your leg, with his head roughly *even* with your leg (a little bit behind or ahead of your leg is fine).
+*Image hint — Jack Russell walking on a loose leash*
+
+Maneuver your pup onto your left or right side. He should be within about 12 inches of your leg, with his head roughly *even* with your leg (a little bit behind or ahead of your leg is fine).
 
 Whichever side your pup is on, hold the leash in that hand. Drop that arm so it's hanging down beside you, the way you would normally walk by yourself, without a dog.
 
@@ -205,7 +225,11 @@ I'll explain how to do it both ways.
 - Suppose he's walking on your left side. Make a 180-degree turn to your right. For you military marchers out there, that's a "right about-turn."
 
   Keep walking the whole time. Now your pup will find himself behind you and will need to hurry to catch up.
-- ![dog on loose leash](../graphics/rtp/puppy-respect_html_m46a48826.gif)If he catches up but charges past you, reverse yourself again. Again he will find himself trailing behind and will need to scramble to catch up.
+-
+
+    *Image hint — dog on loose leash*
+
+    If he catches up but charges past you, reverse yourself again. Again he will find himself trailing behind and will need to scramble to catch up.
 
   It won't be long before he realizes that for some bizarre reason, whenever he forges ahead,  it causes you to walk in the opposite direction.
 - You should start to see him be reluctant to move ahead of you, lest he cause one of your cuckoo direction changes.
@@ -221,32 +245,3 @@ The solution is to turn left toward your pup before  he has gotten ahead of you
 Assuming he's on your left side, pivot on your left foot and AS you make the turn, swing your alt leg/foot in an exaggerated motion across your body and in front of your puppy's head. Your swinging leg/foot will remind him to hang back as you complete the 180-degree turn and walk in the opposite direction.
 
 If you make frequent about-turns (to the right and to the left), pulling can be stopped quickly. If it isn't working for your pup, re-visit the earlier section on alternative collars.
-
-  
-
-My [![book cover](../../books/covers/RTP-110.jpg)training program](https://www.yourpurebredpuppy.com/books/RTP.html) is for puppies 2 to 18 months old. It explains, step by step:
-
-- How to establish good patterns and routines that govern everything your pup does.
-- How to teach your pup to be calm and to look to you for guidance, direction, and permission.
-- How to make yourself important – the most important thing – in your puppy’s life. How to show your pup the clear, black-and-white rules and routines he is to follow. And how to make sure he does.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

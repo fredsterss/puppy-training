@@ -9,13 +9,13 @@ fetched_at: "2026-08-10T13:29:59+00:00"
 
 # Stop Your Puppy's Barking
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
 Many dogs will bark when they hear a strange sound or see something out of the ordinary. You don't want to stop your dog from being a good watchdog.
 
 But most dogs bark far too much, making them useless as watchdogs. They're like *The Boy Who Cried Wolf*  – no one even looks to see what they're barking at anymore. Frequent barking also keeps a dog in a heightened state of excitability instead of calmness.
 
-![puggle barking an alert](../graphics/rtp/barking-puggle.jpg)
+*Image hint — puggle barking an alert*
 
 Your pup's heart is in the right place when he barks – he thinks he's sounding the alarm righteously. Unfortunately many dogs have never been taught when they should and shouldn't be barking.
 
@@ -39,7 +39,7 @@ She's harmless. You don't want your pup barking at that lady. So stop it with No
 
 You're telling your puppy that you, as the leader, have quickly evaluated that person or situation and declared him/her/it harmless. That's what leaders do and a respectful dog will accept your judgment.
 
-![brown tri dog barking](../graphics/rtp/barking-brown.jpg)
+*Image hint — brown tri dog barking*
 
 He can give a warning, but then must turn the situation over to the leader: YOU.
 
@@ -66,7 +66,8 @@ Here are some tips for stopping this problem:
 - Provide more exercise and interesting activities. Tired pups are more likely to sleep. People often think their dog gets plenty of exercise wandering around the yard. Unless your dog is tiny, that's seldom true. If a pup doesn't have anything interesting to do, he will feel bored and frustrated, and pups express boredom and frustration by destroying things or barking.
 - Discourage clingy, dependant behaviors. Your puppy needs to learn to stand on his own four feet without you frequently holding him or cuddling with him.
 
-  ![dog barking](../graphics/rtp/barking-cutout.jpg)
+*Image hint — dog barking*
+
 - Stage corrective set-ups. This means leaving the house, lurking close by until you hear barking, then coming back inside (perhaps sneaking in a back door) to correct him. Alternatively, you can leave while your spouse remains hidden inside, listening and prepared to emerge and correct.
 - Get your dog a companion.... but not yet. If your dog absolutely must be alone for more than four hours a day, consider getting a second dog to keep him company. But not now! Don't try to raise two new dogs *at the same time.*  They will tend to bond with each other and follow each other rather than you. Then you'll have two  barkers.
 
@@ -76,11 +77,15 @@ Here are some tips for stopping this problem:
 
 How  you leave the house can make a big difference in how your pup acts when you're gone. For example, don't do this....
 
-![crossroad sign says Jake Story](../graphics/rtp/puppy-respect_html_m72389cc7.png)"Jake sweetie, Mummy and Daddy have to go out for awhile, okay? We're sorry to leave you all by yourself. But we have to, Jake. Don't be mad and don't be scared. We'll come back. It will be all right, don't worry, we'll be home soon!"
+*Image hint — crossroad sign says Jake Story*
+
+"Jake sweetie, Mummy and Daddy have to go out for awhile, okay? We're sorry to leave you all by yourself. But we have to, Jake. Don't be mad and don't be scared. We'll come back. It will be all right, don't worry, we'll be home soon!"
 
 Ugh! When you need to leave puppy dog alone, don't make a big emotional scene. A melodramatic exit revs up your pup's nervous system and creates anxiety, which he will probably try to relieve through chewing, digging, or barking.
 
-![dog leaping to catch frisbee](../graphics/rtp/puppy-respect_html_m44dd2e73.png)Instead:
+*Image hint — dog leaping to catch frisbee*
+
+Instead:
 
 1. Provide an activity/play session before you leave.
 2. Just before you leave, take him outside one last time to relieve himself.
@@ -102,7 +107,7 @@ Instead:
 
 A dog should not be outside by himself. Someone should be out with him to make sure he doesn't eat something he shouldn't, or find a way to escape, or dig holes in your flower bed, or bark.
 
-![dog standing on hind legs peering through fence slats and barking](../graphics/rtp/barking-fence.jpg)
+*Image hint — dog standing on hind legs peering through fence slats and barking*
 
 When you're outside with him, you can both monitor his safety and correct unwanted behaviors, including barking.
 
@@ -110,7 +115,9 @@ Be prepared to deal with any problems by keeping him on a long line (15 to 30 fe
 
 This is one of the great benefits of teaching "No" – you can stop almost ANY unwanted behavior so easily!
 
-![lady wanted an outdoor dog](../graphics/rtp/puppy-respect_html_m4dce5b46.png)Were you hoping your dog could stay  outdoors by himself during the day? While you went off to work and the kids to school?
+*Image hint — lady wanted an outdoor dog*
+
+Were you hoping your dog could stay  outdoors by himself during the day? While you went off to work and the kids to school?
 
 Bad idea. Even a dedicated dog lover like myself becomes frustrated and angry when an owner puts a dog outside and trots off to work, leaving the rest of us listening to barking. In fact, I'm the first one on the phone to the homeowners association, animal control, or the police.
 
@@ -122,7 +129,7 @@ Sure, if you live on a 20-acre farm and your livestock guardian dog is guarding 
 
 .....those dogs are fine with living outdoors because they're regularly performing the work they are genetically hardwired to do. Their brain and psyche are willing to give up family life in order to "follow their genes" and work.
 
-![dog standing at back door hoping to be let in with his family](../graphics/rtp/barking-glassdoor.jpg)
+*Image hint — dog standing at back door hoping to be let in with his family*
 
 But if you want a dog as a family companion, only an indoor dog can fulfill this role. Remember, dogs are sociable creatures who want to live among  their family.
 
@@ -131,30 +138,3 @@ Your pup wants to be in the same room with you and your family, listening to you
 Dogs who spend hours and hours outdoors are forced to live "outside" their pack, on the fringes of it, not immersed in day-to-day family life.
 
 So please, bring your dog indoors and start teaching calmness, housebreaking, and so on. Your dog will be a fine indoor  companion if you follow my training program faithfully. Your neighbors will appreciate it, too.
-
-My [![book cover](../../books/covers/RTP-110.jpg)training program](https://www.yourpurebredpuppy.com/books/RTP.html) is for puppies 2 to 18 months old. It explains, step by step:
-
-- How to establish good patterns and routines that govern everything your pup does.
-- How to teach your pup to be calm and to look to you for guidance, direction, and permission.
-- How to make yourself important – the most important thing – in your puppy’s life. How to show your pup the clear, black-and-white rules and routines he is to follow. And how to make sure he does.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

@@ -9,9 +9,9 @@ fetched_at: "2026-08-10T13:13:28+00:00"
 
 # The Truth About Crossbred Dogs
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Goldendoodle](../graphics/crossbred-goldendoodle.jpg)
+*Image hint — Goldendoodle*
 
 Often called a "Goldendoodle", this is a cross between a Golden Retriever and a Standard Poodle.
 
@@ -24,8 +24,6 @@ Some people call them **hybrid dogs**, but that's wrong. You only get a hybrid w
 Dog breeds are NOT different species. A dog "breed" is simply an inbred family of dogs within the **same** species: *canis familiaris.* The inbreeding (doubling up of the same genes) is what makes a dog breed look alike.
 
 Some people call crossbred dogs *designer dogs*. But that's kind of silly, because **purebred** dogs are just as much designed as crossbred dogs. For example, breeders designed Border Collies by choosing specific traits that would help their dogs to be expert herders. Border Collies are just as much designed as Goldendoodles.
-
-  
 
 ## Some crossbreeds have been given "names"
 
@@ -40,9 +38,7 @@ Whether a cross has been given a name or not doesn't matter. It's still a crossb
 
 Purebred A + Purebred B = crossbred puppies. No cutesy names required.
 
-  
-
-![Puggle](../graphics/crossbred-puggle.jpg)
+*Image hint — Puggle*
 
 Often called a "Puggle, this is a cross between a Pug and a Beagle. Beware: lots of shedding!
 
@@ -74,7 +70,9 @@ Other people happen to own, say, an unneutered male Bloodhound and an unspayed f
 
 ### So if you have a dog who isn't purebred, can you find out for sure whether he's crossbred or mixed breed – and which breeds are in his genetic make-up?
 
-[![Embark DNA Testing](../graphics/embark-dna.jpg)](https://www.yourpurebredpuppy.com/go/embark-dna/)
+*Image hint — Embark DNA Testing*
+
+[Embark DNA Testing](https://www.yourpurebredpuppy.com/go/embark-dna/)
 
 Yes! There's only one way to do that. You can have his DNA tested.
 
@@ -108,11 +106,9 @@ In [The Truth About Purebred Dogs](https://www.yourpurebredpuppy.com/buying/arti
 
 On the other hand, when a purebred dog with a deformity is bred to a purebred dog without that deformity, the crossbred puppies tend to have an **intermediate** look. For example, a Pug crossed with a Beagle produces puppies with more natural-looking faces (better for breathing), compared with purebred Pugs.
 
-  
-
 ### Crossbred dogs tend to have a moderate personality.
 
-![Labradoodle dog](../graphics/crossbred-labradoodle.jpg)
+*Image hint — Labradoodle dog*
 
 Labradoodles are a cross between a Labrador Retriever and a Poodle. They can make good family dogs – IF you provide enough exercise and training, because they are energetic.
 
@@ -124,8 +120,6 @@ Unfortunately those traits can be, well, a bit of a nuisance when you just want 
 
 But if you cross a breed with a certain "working behavior" with a breed that doesn't have it, the chances are good that at least some of the puppies won't have it or will have it in a watered-down form that's easier to live with.
 
-  
-
 ### Crossbred dogs tend to be healthier.
 
 All dogs have defective genes. In fact, all living creatures do, including you and me! But often a defective gene doesn't cause any problems unless you have TWO copies of it – one from your mother and one from your father.
@@ -135,8 +129,6 @@ A **purebred** puppy has a higher risk of inheriting two copies, since his paren
 But parents of **different** breeds (assuming those breeds are not similar to each other) tend to have different defective genes. This minimizes the risk of their puppies getting two copies of the same bad gene. That's good.
 
 Not only that, but the greater **variety** of genes that a crossbred puppy inherits tends to result in a stronger immune system and better physical and mental health. It's called **genetic diversity** and it is a healthy thing.
-
-  
 
 ### Should you get a crossbred dog?
 
@@ -150,7 +142,11 @@ Also we haven't talked about the misleading hype that many crossbred breeders ha
 
 You need to know how to pick your way through this minefield of misinformation, or else you're going to end up with a crossbred dog who does NOT have a moderate appearance, moderate temperament, and good health.
 
-[![book cover](../../books/covers/DQ-110.jpg)](https://www.yourpurebredpuppy.com/books/DQ.html)My book, ***Dog Quest: Find The Dog Of Your Dreams***, picks up where we left off, with my insider advice on finding a good crossbred dog.
+*Image hint — book cover*
+
+[book cover](https://www.yourpurebredpuppy.com/books/DQ.html)
+
+My book, ***Dog Quest: Find The Dog Of Your Dreams***, picks up where we left off, with my insider advice on finding a good crossbred dog.
 
 I'll explain how to tell whether a **particular cross** (such as Labradoodle, Cockapoo, Schnoodle, Puggle....) might make a good pet.
 
@@ -159,56 +155,3 @@ You'll learn how to tell which breeders are good sources from which to buy – a
 You'll learn how to adopt a crossbred dog from the animal shelter or from rescue.... how to evaluate temperament and health.
 
 And if you should decide, that you might want a purebred dog instead, or even a mixed breed, you're covered. In fact, ***Dog Quest*** is perfect for helping you sort out whether a purebred, crossbred, or mixed breed is right for you. Learn more about [Dog Quest](https://www.yourpurebredpuppy.com/books/DQ.html).
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-#### Check out my other articles on finding a good dog
-
-[Pros and Cons of Owning a Dog](https://www.yourpurebredpuppy.com/buying/articles/should-you-get-a-dog.html)
-
-[Do Dogs Need a Fenced Yard?](https://www.yourpurebredpuppy.com/buying/articles/do-dogs-need-fenced-yard.html)
-
-[Should You Get a Dog If You Work All Day?](https://www.yourpurebredpuppy.com/buying/articles/dog-if-you-work-all-day.html)
-
-[Puppies vs Adult Dogs](https://www.yourpurebredpuppy.com/buying/articles/puppy-or-adult-dog.html)
-
-[The Truth About Purebred Dogs](https://www.yourpurebredpuppy.com/buying/articles/purebred-dogs.html)
-
-[The Truth About Crossbred Dogs](https://www.yourpurebredpuppy.com/buying/articles/crossbred-dogs.html)
-
-[The Truth About Mixed Breed Dogs](https://www.yourpurebredpuppy.com/buying/articles/mixed-breed-dogs.html)
-
-[Which Dog Breed Characteristics Are Right For You?](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-traits.html)
-
-[Male Dogs vs Female Dogs: Which One Makes a Better Pet?](https://www.yourpurebredpuppy.com/buying/articles/male-female-dogs.html)
-
-[Adopting a Dog From The Animal Shelter](https://www.yourpurebredpuppy.com/buying/articles/animal-shelters.html)
-
-[Adopting From a Dog Breed Rescue Group](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-rescue.html)
-
-[How To Find a Good Dog Breeder](https://www.yourpurebredpuppy.com/buying/articles/dog-breeders.html)
-
-["AKC Registered Puppies" – Are AKC Papers Important?](https://www.yourpurebredpuppy.com/buying/articles/AKC-registered-puppies.html)
-
-[How To Choose a Good Puppy](https://www.yourpurebredpuppy.com/buying/articles/how-to-choose-a-puppy.html)
-
-[Pet Shop Puppies: Buying a Puppy From a Pet Store](https://www.yourpurebredpuppy.com/buying/articles/petshops-and-pet-stores.html)
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

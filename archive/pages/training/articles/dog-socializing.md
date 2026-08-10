@@ -9,9 +9,9 @@ fetched_at: "2026-08-10T13:29:20+00:00"
 
 # Socializing Your Puppy or Adult Dog To Get Along With The World
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Socializing puppies and adult dogs](../graphics/socializing-pom.jpg)
+*Image hint — Socializing puppies and adult dogs*
 
 Introduce your dog to people of different ages, genders, and races. You want him to be comfortable with everyone.
 
@@ -27,7 +27,7 @@ Those dogs have not been properly socialized or taught how to behave.
 
 ## You want your dog to be non-prejudiced.
 
-![Socializing dogs with men and women](../graphics/socializing-people.jpg)
+*Image hint — Socializing dogs with men and women*
 
 Some dogs are fine with women, but wary of men. Or vice versa. To prevent this, be sure you socialize your dog with both women and men.
 
@@ -41,7 +41,7 @@ Again, you want to socialize your dog with all kinds of people – men and women
 
 ## You want your dog to be safe with children
 
-![Socializing dogs with children](../graphics/socializing-children.jpg)
+*Image hint — Socializing dogs with children*
 
 Socialize your dog with well-behaved children of all ages.
 
@@ -61,7 +61,7 @@ To keep your dog (and of course a child!) from becoming one of those statistics,
 
 ## You want your dog to be peaceful with other dogs
 
-![Socializing with other dogs.](../graphics/socializing-dogs.jpg)
+*Image hint — Socializing with other dogs.*
 
 Many dogs need to be taught how to get along with each other.
 
@@ -75,7 +75,7 @@ You need to work on socialization with other dogs, from puppyhood through adulth
 
 ## You want your dog to be peaceful with cats
 
-![Dogs with cats.](../graphics/socializing-cats.jpg)
+*Image hint — Dogs with cats.*
 
 You want your dog to get along with your own cat – and leave other cats alone.
 
@@ -89,7 +89,7 @@ Yes, socialization with cats is imperative if you want a truly well-behaved dog.
 
 ## You want your dog to be calm and confident in the world
 
-![Fearful dog.](../graphics/socializing-fearful2.jpg)
+*Image hint — Fearful dog.*
 
 This poor dog is showing stressed body language. See his wide eyes, furrowed brow, pursed lips? Also the base of his ears pulled down low? These are signs of anxiety.
 
@@ -107,8 +107,6 @@ Fear of thunder, fear of fireworks, fear of sirens, fear of mailboxes. (Mailboxe
 
 Fears are stressful, and stress is bad for your dog's health. Socialization takes away fears and stresses so your dog is not only happier, but also healthier. You can socialize your dog to be calm about what is happening in the world around him.
 
-  
-
 ### Finally – and this is so important – you want your dog to be trusting.
 
 Otherwise, he's going to get really stressed when a new person needs to handle him. It's a miserable experience for both your dog and the vet (or groomer) when a muzzle is required because your dog wasn't taught to trust people other than family members.
@@ -117,11 +115,9 @@ Or imagine if your dog was suddenly separated from you. An open door, an open ga
 
 We never know what our dogs might have to cope with in their lives. So we need to prepare them by socializing them with everyone and everything. Just as you spend time and effort training your dog to be well-behaved, you need to spend time and effort **socializing** him to deal calmly with the world.
 
-  
-
 ## Socialize from puppyhood through adulthood
 
-![Socializing Golden Retriever puppy](../graphics/socializing-golden.jpg)
+*Image hint — Socializing Golden Retriever puppy*
 
 Start socializing your puppy at 7 weeks old.
 
@@ -141,7 +137,9 @@ Remember, this critical learning period (7-16 weeks old) comes only once in your
 
 ## But socialization doesn't END with puppyhood.
 
-![Tiny aggressive dog barking at a big scared dog](../graphics/socializing_03.gif)**ADOLESCENT** socialization is next in importance.
+*Image hint — Tiny aggressive dog barking at a big scared dog*
+
+**ADOLESCENT** socialization is next in importance.
 
 Adolescence begins somewhere between 6 and 9 months old. It ends somewhere between 14 months old and 3 years old. (Larger breeds have the longest adolescent periods.)
 
@@ -157,9 +155,7 @@ Most owners respond to these fluctuations in ways that are actually counter-prod
 
 To help your dog through this challenging period in his life, you should respond in specific ways that match how dogs learn. I can help you with that.
 
-  
-
-![Socializing adult dog](../graphics/socializing-adult.jpg)
+*Image hint — Socializing adult dog*
 
 By adulthood, you may not be able to change how your dog **feels** about other people, other animals, or the world in general. But you can still change the way he **acts** toward them.
 
@@ -171,7 +167,9 @@ In other words, you can teach your dog to remain calm and quiet, tolerating and 
 
 ## Start socializing today
 
-![Socializing your dog](../graphics/socializing-children.gif)Dogs feel most secure when they know how to interact positively with strangers and other dogs. Dogs feel most secure when they're comfortable with the sights and sounds of the world.
+*Image hint — Socializing your dog*
+
+Dogs feel most secure when they know how to interact positively with strangers and other dogs. Dogs feel most secure when they're comfortable with the sights and sounds of the world.
 
 So take your dog out into the world and teach him how to interact.
 
@@ -201,7 +199,7 @@ We need to socialize our dogs because the human world doesn't naturally make sen
 
 They have to be taught that it's okay for other dogs to be out for walks with their owners. It's okay for the neighbor's cat to be standing on the sidewalk. It's okay for your relatives to come visit. It's okay for thunderstorms to boom, and for vacuum cleaners to rev up and zoom around.
 
-![Socializing puppies and adult dogs](../graphics/socializing-looktoyou.jpg)
+*Image hint — Socializing puppies and adult dogs*
 
 Your dog needs to learn to look to YOU to find out what's okay in the world and what's okay with his behavior.
 
@@ -215,42 +213,3 @@ I can show you how to do this with a complete socialization chapter and step-by-
 
 - If you have a puppy 2-18 months old, the book you want is [Respect Training for Puppies: 30 Seconds to a Calm, Polite, Well-Behaved Puppy.](https://www.yourpurebredpuppy.com/books/RTP.html)
 - If you have an adult dog, check out [Respect Training for Adult Dogs: 30 Seconds to a Calm, Polite, Well-Behaved Dog.](https://www.yourpurebredpuppy.com/books/RTA.html)
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-#### Check out my other articles on dog training
-
-[Dog Training – What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
-
-[Teach Your Dog To Respect You (Respect Training)](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
-
-[These Dog Training Videos Turned Buddy Into a Good Dog](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-
-[Teach the Right Words In The Right Ways](https://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
-
-[Solving Dog Behavior Problems](https://www.yourpurebredpuppy.com/training/articles/dog-behavior-problems.html)
-
-[You Need Dog Training Help.... But From Where?](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
-
-[Puppy Training Schedule](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
-
-[Housebreaking Your Dog](https://www.yourpurebredpuppy.com/training/articles/dog-housebreaking.html)
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

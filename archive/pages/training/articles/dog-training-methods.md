@@ -9,9 +9,9 @@ fetched_at: "2026-08-10T13:29:30+00:00"
 
 # Dog Training – What Works and What Doesn't
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Giving dog a treat](../graphics/methods-cookie.jpg)
+*Image hint — Giving dog a treat*
 
 Treats can be great motivators. But if your dog will only obey for a treat, then HE is in charge of his obedience, not you.
 
@@ -35,15 +35,13 @@ But for teaching your dog to come when called in the presence of temptations or 
 
 Think about it. What happens when you want your dog to stop chasing a cat and come to you – but at that particular moment he's not hungry and would RATHER chase the cat than munch on a biscuit?
 
-![dog pulling on leash](../graphics/methods-problems.jpg)
+*Image hint — dog pulling on leash*
 
 Owners who rely on positive-only dog training are stuck whenever their dog "isn't in the mood" to do something.... or even more importantly, to STOP doing something.
 
 An old trainer once said that if a dog really wants to chase a cat, he will chase it "regardless of biscuits showering upon him like manna from heaven."
 
 Positive-only dog training does not teach your dog to respect you. And it is RESPECT that motivates a dog to be well-behaved even at times when he doesn't feel like it.
-
-  
 
 ## Why *Respect Training*  makes more sense to dogs
 
@@ -56,7 +54,7 @@ Real life for ALL living creatures consists of learning from both positive and n
 
 For example, we hold the door open and someone says, "Thank you!" (positive), so we are likely to do it again. We take an extra-long lunch break and the boss docks our pay (negative), so we are less likely to do that again. We learn from both positive and negative consequences and behave accordingly.
 
-![mother dog teaches her puppies good behavior](../graphics/methods-play.jpg)
+*Image hint — mother dog teaches her puppies good behavior*
 
 Your dog learns from both positive and negative consequences. Momma Dog will let Puppy know if he is playing reasonably or getting too rough.
 
@@ -69,7 +67,7 @@ Dogs learn best from balanced  dog training, where their behaviors can result i
 - Positive consequences  means you reward desirable behaviors with praise, petting, toys, games, and yes, treats.
 - ***Negative consequences***  means you correct undesirable behaviors with a corrective word, tone of voice, body language, hands, collar, or the leash. Negative doesn't mean abuse! You can absolutely correct your dog without being cruel. Don't ever let the "purely positive" folks tell you otherwise.
 
-![respect training teaches your dog to follow your leadership](../graphics/methods-choice.jpg)
+*Image hint — respect training teaches your dog to follow your leadership*
 
 Be realistic and fair with your dog. Show him positive and negative consequences so he can make an informed choice.
 
@@ -89,22 +87,3 @@ Or just let me guide you with the complete, step-by-step Respect Training progra
 
 - If you have a puppy 2-18 months old, the book you want is [Respect Training for Puppies: 30 Seconds to a Calm, Polite, Well-Behaved Puppy.](https://www.yourpurebredpuppy.com/books/RTP.html)
 - If you have an adult dog, check out [Respect Training for Adult Dogs: 30 Seconds to a Calm, Polite, Well-Behaved Dog.](https://www.yourpurebredpuppy.com/books/RTA.html)
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

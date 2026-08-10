@@ -9,9 +9,9 @@ fetched_at: "2026-08-10T13:13:52+00:00"
 
 # Should You Get a Dog If You Work All Day?
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![a dog's plaintive eyes](../graphics/work-hero2.jpg)
+*Image hint — a dog's plaintive eyes*
 
 Dogs are social animals – not solitary animals. They thrive in homes where someone is home most of the day.
 
@@ -29,7 +29,7 @@ If you're thinking you can just leave the dog outdoors, or give him a doggy door
 
 Then the police or Animal Control will post complaint notices on your door, or one day you'll come home to find your dog poisoned or let out of his enclosure by an irate neighbor. There is nothing more inconsiderate than romping merrily off to work, where you don't have to listen to your dog barking non-stop... but everyone else does.
 
-![Puppy chewing on shoes](../graphics/work-destruction.jpg)
+*Image hint — Puppy chewing on shoes*
 
 ## Puppies, especially!
 
@@ -51,7 +51,7 @@ Kids coming home from school want to snack, watch TV, play on the computer, list
 
 ## "But my friend works all day and he has a dog!"
 
-![Lonely dog home alone](../graphics/work-lonely2.jpg)
+*Image hint — Lonely dog home alone*
 
 Oh, there will always be people who work all day and keep a dog. Nevertheless, they're pushing a square peg (a highly social and intelligent animal) into a round hole (a lonely environment with no one home and nothing to do for 8-10 hours during the day and then another 8 hours all night).
 
@@ -61,7 +61,7 @@ As a canine behavioral consultant for nearly 40 years now, I receive calls all t
 
 Unfortunately, those "misbehaviors" cannot be solved by training. A dog has every right to vent his boredom and frustration when his needs of Companionship and Exercise are not being met.
 
-![Lonely dog](../graphics/work-lonely.jpg)
+*Image hint — Lonely dog*
 
 ## Even dogs who don't get into trouble aren't happy.
 
@@ -76,54 +76,3 @@ And even if you could discipline yourself to always give the dog lots of attenti
 ## My recommendation
 
 I recommend dogs for households where an adult doesn't work, or works only a few hours a day, or works from their home, or has a job where the dog can come along. Those are the kinds of environments that are tailor-made for social animals like dogs.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-#### Check out my other articles on finding a good dog
-
-[Pros and Cons of Owning a Dog](https://www.yourpurebredpuppy.com/buying/articles/should-you-get-a-dog.html)
-
-[Do Dogs Need a Fenced Yard?](https://www.yourpurebredpuppy.com/buying/articles/do-dogs-need-fenced-yard.html)
-
-[Puppies vs Adult Dogs](https://www.yourpurebredpuppy.com/buying/articles/puppy-or-adult-dog.html)
-
-[The Truth About Purebred Dogs](https://www.yourpurebredpuppy.com/buying/articles/purebred-dogs.html)
-
-[The Truth About Crossbred Dogs](https://www.yourpurebredpuppy.com/buying/articles/crossbred-dogs.html)
-
-[The Truth About Mixed Breed Dogs](https://www.yourpurebredpuppy.com/buying/articles/mixed-breed-dogs.html)
-
-[Which Dog Breed Characteristics Are Right For You?](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-traits.html)
-
-[Male Dogs vs Female Dogs: Which One Makes a Better Pet?](https://www.yourpurebredpuppy.com/buying/articles/male-female-dogs.html)
-
-[Adopting a Dog From The Animal Shelter](https://www.yourpurebredpuppy.com/buying/articles/animal-shelters.html)
-
-[Adopting From a Dog Breed Rescue Group](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-rescue.html)
-
-[How To Find a Good Dog Breeder](https://www.yourpurebredpuppy.com/buying/articles/dog-breeders.html)
-
-["AKC Registered Puppies" – Are AKC Papers Important?](https://www.yourpurebredpuppy.com/buying/articles/AKC-registered-puppies.html)
-
-[How To Choose a Good Puppy](https://www.yourpurebredpuppy.com/buying/articles/how-to-choose-a-puppy.html)
-
-[Pet Shop Puppies: Buying a Puppy From a Pet Store](https://www.yourpurebredpuppy.com/buying/articles/petshops-and-pet-stores.html)
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

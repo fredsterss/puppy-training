@@ -9,17 +9,19 @@ fetched_at: "2026-08-10T13:29:58+00:00"
 
 # Stop Over-Dependency and Demanding Behaviors
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
 A common problem in misbehaving pups is their view that being petted  is a right that they can demand at will.
 
-![signpost says Jake Story](../graphics/rtp/puppy-respect_html_m72389cc7.png)"Jake, stop pestering me!" Kathy was sitting on the sofa trying to read. She had been petting her dog, but after a while she just wanted to read. Jake shouldered himself between her knees and wedged his head into her lap. Kathy pushed him away, but he came charging right back.
+*Image hint — signpost says Jake Story*
+
+"Jake, stop pestering me!" Kathy was sitting on the sofa trying to read. She had been petting her dog, but after a while she just wanted to read. Jake shouldered himself between her knees and wedged his head into her lap. Kathy pushed him away, but he came charging right back.
 
 ## Don't pet your puppy each and every time he solicits it.
 
 Soliciting means nudging or mouthing your hand, pushing himself against you, or pawing at you.
 
-![puppy nudging for attention and petting](../graphics/rtp/demanding-hero1.jpg)
+*Image hint — puppy nudging for attention and petting*
 
 Most puppies will solicit for attention and petting. This is normal behavior, but should be monitored for excessiveness, especially if the pup has other behavioral issues.
 
@@ -33,7 +35,7 @@ Now your petting becomes his reward  for following your  commands rather than 
 
 ## YOU should decide when to stop petting.
 
-![terrier pup on owner's lap](../graphics/rtp/demanding-hero2.jpg)
+*Image hint — terrier pup on owner's lap*
 
 Suppose you're sitting on the couch watching TV. You invite your puppy up to be petted.
 
@@ -51,7 +53,7 @@ If you hold your dog too much, or sit on the couch absently stroking him for an 
 
 You're promoting an unhealthy dependency.
 
-![white dog on lap](../graphics/rtp/demanding-cutout.jpg)
+*Image hint — white dog on lap*
 
 Some dependent pups become so accustomed to fondling and cuddling that they don't know how to face the world without your hand resting on their back.
 
@@ -71,7 +73,7 @@ Dependency and resource guarding aren't funny or cute. They're psychologically s
 
 ## How do dogs like to be petted?
 
-![petting a dog on its chest](../graphics/rtp/demanding-petting.jpg)
+*Image hint — petting a dog on its chest*
 
 Every dog is different, but most dogs enjoy it when:
 
@@ -89,30 +91,3 @@ Every dog is different, but most dogs enjoy it when:
 - Don't kiss a dog. Dogs view a kiss as a "face lick", which in the canine world is done BY  followers TO  leaders. So if you kiss a dog, he's more likely to see you as a follower instead of a leader.
 
   On the other hand, it's okay for him  to give you  kisses, if you don't mind it. Again though, you should be wary of letting small children put their faces near a dog's mouth "to be kissed." Remember that horrifying 70% bites-to-the-face statistic.
-
-My [![book cover](../../books/covers/RTP-110.jpg)training program](https://www.yourpurebredpuppy.com/books/RTP.html) is for puppies 2 to 18 months old. It explains, step by step:
-
-- How to establish good patterns and routines that govern everything your pup does.
-- How to teach your pup to be calm and to look to you for guidance, direction, and permission.
-- How to make yourself important – the most important thing – in your puppy’s life. How to show your pup the clear, black-and-white rules and routines he is to follow. And how to make sure he does.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

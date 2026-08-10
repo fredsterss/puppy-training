@@ -9,7 +9,7 @@ fetched_at: "2026-08-10T13:13:59+00:00"
 
 # Puppies vs Adult Dogs: Pros and Cons of Different Ages
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
 My advice here assumes that an adult (a human adult) will be home with the dog most of the day. I've written a different article for households [where everyone works or goes to school](https://www.yourpurebredpuppy.com/buying/articles/dog-if-you-work-all-day.html) most of the day.
 
@@ -27,7 +27,7 @@ So you want a dog! If a grown-up will be home most of the day, here are your cho
 
 Puppies under 7 weeks old
 
-![Puppy under 7 weeks old](../graphics/ages-6wks.jpg)
+*Image hint — Puppy under 7 weeks old*
 
 Do not bring home a puppy under 7 weeks old. This is one of the most common mistakes that many owners make.
 
@@ -47,7 +47,7 @@ A puppy removed from his mother before those full 7 weeks has missed those impor
 
 Puppies 7-12 weeks old
 
-![Puppy 7-12 weeks old](../graphics/ages-7-12wks.jpg)
+*Image hint — Puppy 7-12 weeks old*
 
 Seven to twelve weeks of age is the prime learning period in puppies.
 
@@ -61,7 +61,7 @@ If everyone is gone during the day, or if the puppy is kept outdoors or in the g
 
 My [puppy training book](https://www.yourpurebredpuppy.com/books/RTP.html) will show you how to teach your puppy all the right things. But you need to be home to provide short (30-second) training sessions sprinkled all through the day.
 
-![Puppy 7-12 weeks old](../graphics/ages-7-12wks2.jpg)
+*Image hint — Puppy 7-12 weeks old*
 
 ### On the negative side, a 7-12 week old puppy is very immature.
 
@@ -71,7 +71,7 @@ My [puppy training book](https://www.yourpurebredpuppy.com/books/RTP.html) will 
 
 ### Is there much difference between a 7 week old puppy and a 12 week old puppy?
 
-![Puppy 7-12 weeks old](../graphics/ages-7-12wks3.jpg)
+*Image hint — Puppy 7-12 weeks old*
 
 Yes, there is a world of difference! A 7 week old puppy is incredibly babyish. His vision is weak. His eyes don't track or focus well. If you throw a toy for him, he may have no idea where it has gone, so he loses interest and wanders away. It's hard to do anything with a 7 week old puppy for more than a couple of minutes.
 
@@ -83,7 +83,7 @@ Puppies 3-4 months old
 
 This is another fine age to acquire a puppy. Puppies of 3-4 months old are active and playful and able to focus nicely on you as you're teaching basic words, such as their name, No, Sit, Come, etc.
 
-![Puppy 3-4 months old](../graphics/ages-3-4mo.jpg)
+*Image hint — Puppy 3-4 months old*
 
 On the negative side, at three to four months old, a puppy often begins to test his limits, trying to find out who is in charge. He may nip at your fingers, or grab the leash in his mouth when you try to walk him, or clamp his jaws around a toy and refuse to let go, or struggle or growl when you try to clip his nails or clean his teeth.
 
@@ -97,7 +97,7 @@ Puppies 4-8 months old
 
 A puppy of 4-8 months old is enthusiastic and playful, but typically more complicated to handle than a younger puppy. "Pushiness" may continue (or begin) during this period, with the puppy acting a bit willfully as he tests his limits.
 
-![Puppy 4-8 months old](../graphics/ages-4-8mo.jpg)
+*Image hint — Puppy 4-8 months old*
 
 This period is also called the **flight period**. At 4-8 months old, a puppy becomes more independent. He may begin playing a "game" where he stays just out of reach when you call him or stretch your hand toward him. He may even dash away from you at a mischievous gallop.
 
@@ -119,9 +119,7 @@ At around 8 months old, the **adolescent period** begins. In smaller breeds, it 
 
 In larger breeds, it begins around 8-10 months old, and lasts until a large dog is around 24 months old.... yes, that's a long time!
 
-  
-
-![Adolescent dog](../graphics/ages-adolescent3.jpg)
+*Image hint — Adolescent dog*
 
 In both dogs and humans, adolescence is a time of independence and sometimes rebellion.
 
@@ -132,7 +130,7 @@ In both dogs and humans, adolescence is a time of independence and sometimes reb
 
 ### On the minus side, if you adopt a dog during his adolescent period...
 
-![Adolescent dog](../graphics/ages-adolescent4.jpg)
+*Image hint — Adolescent dog*
 
 - He is past the cute stage. Indeed, the adolescent period is often called *The Uglies* because the pup's body grows rapidly and disproportionately. At times he appears to be all legs. Canine teenagers, like human teenagers, can be gawky and awkward.
 - Also like human teenagers, as the hormones start to flow, a canine teenager experiences the physical and emotional upheavals of adolescence. He may become boisterous and "full of beans", romping through the house and (if he is a big dog) sending breakables flying. He may become willful or unruly as he makes one last push for the leadership position.
@@ -155,7 +153,7 @@ And IF the puppy has inherited genes for a good temperament.
 
 And **IF** his early environment was a good one.
 
-![Adolescent dog](../graphics/ages-adolescent2.jpg)
+*Image hint — Adolescent dog*
 
 On the other hand, these new behaviors may be PERMANENT if your pup's parents had a poor temperament and passed those genes along to your puppy... or if your pup was removed from his mother before 7 weeks old.... or if he was raised in a puppy mill cage or frightened or stressed at an impressionable age.
 
@@ -165,7 +163,7 @@ You can't change his genes. You can't go back and add positive experiences (or u
 
 All you can do is continue training and socializing. It may make some difference in his future behavior. It may make little difference. Unfortunately, some things can't be fixed.
 
-![Adolescent dog](../graphics/ages-adolescent1.jpg)
+*Image hint — Adolescent dog*
 
 ### As you can see, canine adolescence can be a tough time for owners!
 
@@ -179,7 +177,7 @@ Are you sure that a puppy ***of any age*** is the right choice for you?
 
 Raising a puppy through all the canine growth stages requires a lot of time and effort. Knowledge, too. And the ability to "read" a puppy's expressions and body language, and respond appropriately to his behaviors.
 
-![Adolescent dog](../graphics/ages-puppy1.jpg)
+*Image hint — Adolescent dog*
 
 Many owners who acquire a puppy wish they hadn't when they discover that they simply don't have the time (or perhaps the puppy parenting skills) to "train him up in the way he should go".
 
@@ -189,7 +187,7 @@ An awful lot of puppies are "screwed up" by well-meaning but busy owners who sim
 
 And consider all the uncertainties...
 
-![Young puppy](../graphics/ages-7-12wks4.jpg)
+*Image hint — Young puppy*
 
 The younger the puppy, the more uncertain you will be about his appearance, temperament, and health as an adult dog.
 
@@ -213,7 +211,7 @@ When you acquire an adult dog, you're acquiring what he already IS.
 
 If you really want certain characteristics in a dog – or if you really want to AVOID certain characteristics – there are many adult dogs who have already proven themselves to have (or not have) the characteristics you're concerned about.
 
-![Adult Golden Retriever](../graphics/ages-adult1.jpg)
+*Image hint — Adult Golden Retriever*
 
 Don't worry about an adult dog being able to "bond" with you. Puppies often leap around, oblivious to your existence, but adult dogs immediately recognize you as a "real person". The responsiveness of an adult dog can be very rewarding to a new owner.
 
@@ -223,7 +221,7 @@ Age doesn't matter, either. People adopt 2-year-old dogs, 4-year-old dogs, 8-yea
 
 ### Potential negatives of adopting an adult dog
 
-![Adult dog](../graphics/ages-adult2.jpg)
+*Image hint — Adult dog*
 
 "What has your life been like, sweet girl? What have you seen? What have you learned?"
 
@@ -251,19 +249,19 @@ My husband and I took home a little rescue dog with a severe skin condition and 
 
 But you must be sure that you can truly manage those health problems. It's unfair to take home a dog with special needs if you don't have plenty of time, money, and access to veterinary specialists. A kind heart just isn't enough – you need the resources.
 
-  
-
-![Elderly Golden Retriever](../graphics/ages-adult3.jpg)
+*Image hint — Elderly Golden Retriever*
 
 Elderly dogs are often ignored by potential owners, and they shouldn't be, because they can make absolutely marvelous companions. Dogs who are senior citizens are typically quiet and well-behaved. No matter what their age, every dog (and every person) has something wonderful to offer.
 
 I don't know who wrote this little story, but I like it:
 
-"I've raised puppies on many occasions. Forget it! Give me the settled, all-together, well-mannered, devoted, loving adult who knows what life is all about, who is grateful for everything I do, and who gives so much in return.  
-  
+"I've raised puppies on many occasions. Forget it! Give me the settled, all-together, well-mannered, devoted, loving adult who knows what life is all about, who is grateful for everything I do, and who gives so much in return.
+
 He may not be around as long as a young one. No matter. The quality of love he gives makes each day a special blessing. While puppies are running along the fence, barking, digging, chewing, ignoring my call for silence, the adult dog stands quietly at my side, content just to be with me."
 
-[![book cover](../../books/covers/DQ-110.jpg)](https://www.yourpurebredpuppy.com/books/DQ.html)
+*Image hint — book cover*
+
+[book cover](https://www.yourpurebredpuppy.com/books/DQ.html)
 
 My book, [Dog Quest](https://www.yourpurebredpuppy.com/books/DQ.html) can help you find a great puppy or adult dog. Dog Quest....
 
@@ -271,56 +269,3 @@ My book, [Dog Quest](https://www.yourpurebredpuppy.com/books/DQ.html) can help y
 - Compares animal shelters, rescue groups, breeders, pet shops, and owners giving their dogs away
 - Tells you the exact questions you should ask, what answers you should expect, and which answers are "red flags" that mean you should stay away
 - Shows you how to evaluate the temperament of puppies and adult dogs to see whether they will make a good pet
-
-Learn more about [*Dog Quest*](https://www.yourpurebredpuppy.com/books/DQ.html)
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-#### Check out my other articles on finding a good dog
-
-[Pros and Cons of Owning a Dog](https://www.yourpurebredpuppy.com/buying/articles/should-you-get-a-dog.html)
-
-[Do Dogs Need a Fenced Yard?](https://www.yourpurebredpuppy.com/buying/articles/do-dogs-need-fenced-yard.html)
-
-[Should You Get a Dog If You Work All Day?](https://www.yourpurebredpuppy.com/buying/articles/dog-if-you-work-all-day.html)
-
-[The Truth About Purebred Dogs](https://www.yourpurebredpuppy.com/buying/articles/purebred-dogs.html)
-
-[The Truth About Crossbred Dogs](https://www.yourpurebredpuppy.com/buying/articles/crossbred-dogs.html)
-
-[The Truth About Mixed Breed Dogs](https://www.yourpurebredpuppy.com/buying/articles/mixed-breed-dogs.html)
-
-[Which Dog Breed Characteristics Are Right For You?](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-traits.html)
-
-[Male Dogs vs Female Dogs: Which One Makes a Better Pet?](https://www.yourpurebredpuppy.com/buying/articles/male-female-dogs.html)
-
-[Adopting a Dog From The Animal Shelter](https://www.yourpurebredpuppy.com/buying/articles/animal-shelters.html)
-
-[Adopting From a Dog Breed Rescue Group](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-rescue.html)
-
-[How To Find a Good Dog Breeder](https://www.yourpurebredpuppy.com/buying/articles/dog-breeders.html)
-
-["AKC Registered Puppies" – Are AKC Papers Important?](https://www.yourpurebredpuppy.com/buying/articles/AKC-registered-puppies.html)
-
-[How To Choose a Good Puppy](https://www.yourpurebredpuppy.com/buying/articles/how-to-choose-a-puppy.html)
-
-[Pet Shop Puppies: Buying a Puppy From a Pet Store](https://www.yourpurebredpuppy.com/buying/articles/petshops-and-pet-stores.html)
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

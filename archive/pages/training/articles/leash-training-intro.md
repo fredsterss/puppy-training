@@ -9,9 +9,11 @@ fetched_at: "2026-08-10T13:29:42+00:00"
 
 # Beginning Leash Training – Introducing Your Puppy to a Leash
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Boston Terrier with ball](../graphics/rtp/leashintro-boston.jpg)This article is for pups who [have never had a leash on](#neverleashed) or who [won't walk at all](#wontwalk) when you put their leash on.
+*Image hint — Boston Terrier with ball*
+
+This article is for pups who [have never had a leash on](#neverleashed) or who [won't walk at all](#wontwalk) when you put their leash on.
 
 If your pup already walks confidently on a leash but pulls you around, read [this leash training article](https://www.yourpurebredpuppy.com/training/articles/leash-training.html) instead.
 
@@ -26,7 +28,7 @@ proximity.
 
 **Time to stand still!** Now.... holding your end of the leash, stand still. It shouldn't take long before your puppy, wandering around, tightens the leash so it's pulling on his collar. If he doesn't wander away on his own, take a few steps in any direction, just enough that the leash gets taut. Then stand still.
 
-![white pup pulling on the leash](../graphics/rtp/leashintro-whitepup.jpg)
+*Image hint — white pup pulling on the leash*
 
 Now observe what happens:
 
@@ -43,7 +45,9 @@ When he takes even one step in your direction, praise with your animated voice (
 
 ## Pups who really won't walk
 
-![St Bernard pup](../graphics/rtp/puppy-respect_html_5c9de4d0.jpg)A few pups are determined that they're not going to walk at all. Some will even sit or lie down.
+*Image hint — St Bernard pup*
+
+A few pups are determined that they're not going to walk at all. Some will even sit or lie down.
 
 **1) Start with treats!**
 
@@ -70,32 +74,3 @@ By alternately loosening, tightening, and loosening the leash, as you keep walki
 Remember, dogs are opportunists. They want to do things that bring them some benefit and to avoid doing things that cause discomfort. Your pup will discover that he can stop the *herky-jerky* movement and walk comfortably if he simply trots along with you.
 
 Now on to [real leash training!](https://www.yourpurebredpuppy.com/training/articles/leash-training.html)
-
-  
-
-My [![book cover](../../books/covers/RTP-110.jpg)training program](https://www.yourpurebredpuppy.com/books/RTP.html) is for puppies 2 to 18 months old. It explains, step by step:
-
-- How to establish good patterns and routines that govern everything your pup does.
-- How to teach your pup to be calm and to look to you for guidance, direction, and permission.
-- How to make yourself important – the most important thing – in your puppy’s life. How to show your pup the clear, black-and-white rules and routines he is to follow. And how to make sure he does.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

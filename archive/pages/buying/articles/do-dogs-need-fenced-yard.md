@@ -9,9 +9,9 @@ fetched_at: "2026-08-10T13:13:33+00:00"
 
 # Do Dogs Need a Fenced Yard?
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Fenced yard](../graphics/fenced-yard.jpg)
+*Image hint — Fenced yard*
 
 My opinion is going to make some owners and potential owners unhappy. Nevertheless, it's based on my experience, research, and common sense.
 
@@ -19,11 +19,11 @@ Yes, dogs want and deserve a fenced area in which to stretch their legs and run 
 
 Without a fenced yard, you would need to take your dog outside on a leash even for bathroom breaks. That really isn't fair to any dog larger than a Chihuahua. Dogs don't like being tethered to a leash all the time.
 
-![Dog running in fenced yard](../graphics/fenced-hero.jpg)
+*Image hint — Dog running in fenced yard*
 
 It is possible, especially with a small dog, to get by with an outdoor *exercise pen* ("ex-pen"). This is a series of wire panels that unfold into an enclosure where your dog can romp around off-leash.
 
-![Dog pen](../graphics/fenced-pen.jpg)
+*Image hint — Dog pen*
 
 The pen in the photo is far too small, but you can buy several pens and attach them together to construct a much larger space. For example, if you type in "Midwest exercise pen" on Amazon, you could buy three of those pens to make a 12 ft by 12 ft enclosure. Four pens would make a 16 ft by 16 ft enclosure. Bigger is better!
 
@@ -39,7 +39,7 @@ Never leave your dog tied outside on a tether.
 
 #### Here's what can go wrong with tethers
 
-![Tied up dog showing typical barking and threatening behaviors](../graphics/fenced-tether3.jpg)
+*Image hint — Tied up dog showing typical barking and threatening behaviors*
 
 - Tied dogs can pull the stake out of the ground or the cable off the tree.
 - They can chew through the rope.
@@ -68,7 +68,7 @@ Loose dogs are....
 - shot by the game warden or sheriff for running deer or livestock.
 - poisoned by irate neighbors for pooping on their lawn.
 
-![Dog loose on street](../graphics/fenced-loosedog.jpg)
+*Image hint — Dog loose on street*
 
 Loose dogs also **cause** accidents. Have you ever swerved sharply to avoid someone else's dog dashing across the street? If by good fortune there wasn't a car coming in the opposite direction, there may be next time.
 
@@ -92,54 +92,3 @@ I don't recommend these "fences" at all. In my experience, they are neither safe
 - Finally, you're wrapping electronics around your dog's neck and hoping it works perfectly. But we all know that electronics can be buggy. A defective collar could repeatedly shock your dog and turn him into a neurotic wreck.
 
 If at all possible, I hope you will confine your dog safely and effectively within a physical fence. I talk about fencing options in great detail in my book, [11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html).
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-#### Check out my other articles on finding a good dog
-
-[Pros and Cons of Owning a Dog](https://www.yourpurebredpuppy.com/buying/articles/should-you-get-a-dog.html)
-
-[Should You Get a Dog If You Work All Day?](https://www.yourpurebredpuppy.com/buying/articles/dog-if-you-work-all-day.html)
-
-[Puppies vs Adult Dogs](https://www.yourpurebredpuppy.com/buying/articles/puppy-or-adult-dog.html)
-
-[The Truth About Purebred Dogs](https://www.yourpurebredpuppy.com/buying/articles/purebred-dogs.html)
-
-[The Truth About Crossbred Dogs](https://www.yourpurebredpuppy.com/buying/articles/crossbred-dogs.html)
-
-[The Truth About Mixed Breed Dogs](https://www.yourpurebredpuppy.com/buying/articles/mixed-breed-dogs.html)
-
-[Which Dog Breed Characteristics Are Right For You?](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-traits.html)
-
-[Male Dogs vs Female Dogs: Which One Makes a Better Pet?](https://www.yourpurebredpuppy.com/buying/articles/male-female-dogs.html)
-
-[Adopting a Dog From The Animal Shelter](https://www.yourpurebredpuppy.com/buying/articles/animal-shelters.html)
-
-[Adopting From a Dog Breed Rescue Group](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-rescue.html)
-
-[How To Find a Good Dog Breeder](https://www.yourpurebredpuppy.com/buying/articles/dog-breeders.html)
-
-["AKC Registered Puppies" – Are AKC Papers Important?](https://www.yourpurebredpuppy.com/buying/articles/AKC-registered-puppies.html)
-
-[How To Choose a Good Puppy](https://www.yourpurebredpuppy.com/buying/articles/how-to-choose-a-puppy.html)
-
-[Pet Shop Puppies: Buying a Puppy From a Pet Store](https://www.yourpurebredpuppy.com/buying/articles/petshops-and-pet-stores.html)
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

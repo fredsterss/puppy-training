@@ -9,14 +9,14 @@ fetched_at: "2026-08-10T13:14:11+00:00"
 
 # Frequently Asked Questions (FAQ)
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
 #### I just got a new puppy. Which pages should I read first?
 
 - Puppies need to learn exactly what you **want** them to do and **don't** want them to do. Start with my [puppy training schedule](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html), [dog training methods](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html) that work, and [respect training](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html) (which is much more important than regular obedience training.
 - Just as important as training is feeding the [right dog food](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html) and getting the [right vaccinations](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html) (but not too many, and not too early). What your puppy grows up eating, and whether he is over-vaccinated or not, can make a big difference in his health and longevity.
 
-![Puppies of different breeds](Graphics/faq-pupline2.jpg)
+*Image hint — Puppies of different breeds*
 
 It's tempting to think that one's own breed is "different" from all other breeds. And in some ways (like grooming), they are. But all breeds need the same basic raising, training, and health care. I train and care for my Chihuahua in the same ways I train and care for my German Shepherd.
 
@@ -58,7 +58,7 @@ Ah, that's a tough one. Occasionally I accept new clients for my personalized Br
 
 What about all those so-called *breed selector quizzes* on the internet? Sorry to say, but I've never seen one that's worth a darn. The questions are useless, and the list of "matching" breeds is often silly. One quiz told me that if I wanted a light- to average-shedding breed, I should consider a.... German Shepherd. Yes. A breed that sheds constantly and heavily. Just come take a peek at the upholstery in my living room.
 
-![Laughing-crying emoji face](Graphics/emoji-laughing-crying.jpg)
+*Image hint — Laughing-crying emoji face*
 
 So where should you start? [Dog Breed Reviews](https://www.yourpurebredpuppy.com/dogbreeds/) breaks down 180 breeds into sizes from tiny to giant, so if you already know what size dog you're interested in, you might start there.
 
@@ -99,5 +99,3 @@ It's probably answered in one of my books!
 - Or you might enjoy my Vocabulary/Respect training program called [Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html).
 - If your question is about health or feeding, see [11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html).
 - If it's about buying or adopting a puppy or adult dog, you want [Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html).
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.

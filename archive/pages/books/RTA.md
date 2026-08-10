@@ -9,15 +9,13 @@ fetched_at: "2026-08-10T13:13:16+00:00"
 
 # Respect Training For Adult Dogs: 30 Seconds to a Calm, Polite, Well-Behaved Dog
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
-
-  
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
 30 seconds to a calm, polite, well-behaved dog? Really?
 
 Yes, 30 seconds. Bear with me for a moment, and I'll explain. :)
 
-![Dogs and stopwatch](graphics/RTA-hero3.jpg)
+*Image hint — Dogs and stopwatch*
 
 30 seconds.... the clock is ticking.... what is your dog learning right now?
 
@@ -39,7 +37,7 @@ And that's where the *30 seconds to a calm, polite, well-behaved dog* comes in!
 
 ## Dog training is really about *Teachable Moments* – very short moments – all through the day
 
-![Naughty dog tearing apart a pillow](graphics/rta-thumbsdown.jpg)
+*Image hint — Naughty dog tearing apart a pillow*
 
 For this behavior, you'll want to give Jake a thumbs-down....
 
@@ -79,10 +77,9 @@ Here are some examples of behaviors that dogs learn from your reaction or non-re
 - "Whining makes people give me things from their dinner plate."
 - "Behind the sofa is a secret place to pee."
 - "The bathroom wastebasket includes used tissues I can shred and swallow."
-- "The laundry room is full of smelly underwear I can chew on."  
-    
+- "The laundry room is full of smelly underwear I can chew on."
 
-  ![Puppy chewing up his owner's house](../buying/graphics/ages-puppy1.jpg)
+*Image hint — Puppy chewing up his owner's house*
 
   "Hi! I'm done fixing your living room! Can I have a go at the master bedroom next?"
 - "The stuffing comes out of cushions so easily!"
@@ -104,7 +101,7 @@ You taught him that food is fair game if he can reach it. You taught him that yo
 
 See how much you taught him while you were sleeping?
 
-![Irish Terrier stealing food](graphics/rta-thumbsdown2.jpg)
+*Image hint — Irish Terrier stealing food*
 
 Obedience commands won't stop this. Proper management and respect training will.
 
@@ -120,7 +117,7 @@ So if you'd like your dog's behavior to be better – in any way – you should 
 - that "those" are the behaviors you won't allow him to do
 - and that ***you*** are in charge of deciding which behaviors he must (and mustn't) do
 
-![Respect Training for Adult Dogs cover](covers/RTA-225.jpg)
+*Image hint — Respect Training for Adult Dogs cover*
 
 Copyright 2019; 307 pages
 
@@ -162,11 +159,9 @@ In Respect Training for Adult Dogs,  your dog will learn these 21 skills:
 
 Just follow my directions in Respect Training for Adult Dogs, and your dog will learn to do everything in the list above!
 
-![Line of dogs of different breeds and sizes](graphics/rta-adult-line.jpg)
+*Image hint — Line of dogs of different breeds and sizes*
 
 Respect Training teaches dogs of all breeds and all sizes to be calm and polite. My Chihuahua is just as well-behaved as my German Shepherd.
-
-  
 
 Oh, yes, one more thing....
 
@@ -180,35 +175,33 @@ I'd like to give you that book absolutely free when you order Respect Training f
 
 In fact, I want to give you **7** free books.
 
-  
-
 Seven free bonus books that will help you care for your dog
 
-  
+*Image hint — 11 Things You Must Do Right To Keep Your Dog Healthy and Happy*
 
-![11 Things You Must Do Right To Keep Your Dog Healthy and Happy](covers/11T-110.jpg)
-![11 Things You Must Do Right To Keep Your Dog Healthy and Happy](covers/11T-110.jpg)
-![Free dog health book](./graphics/free5.gif)
+*Image hint — 11 Things You Must Do Right To Keep Your Dog Healthy and Happy*
+
+*Image hint — Free dog health book*
 
 11 Things You Must Do Right To Keep Your Dog Healthy and Happy
 
 **Bonus Book # 1....** Feeding, vaccinations, neutering, physical exercise, mental exercise, grooming, safety, much more! Follow the 11 Things You Must Do Right and your puppy should live a long, healthy life and seldom need to visit the vet.
 
-  
+*Image hint — Teach Your Dog 100 English Words*
 
-![Teach Your Dog 100 English Words](covers/TYD-110.jpg)
-![Teach Your Dog 100 English Words](covers/TYD-110.jpg)
-![Free dog training book](./graphics/free5.gif)
+*Image hint — Teach Your Dog 100 English Words*
+
+*Image hint — Free dog training book*
 
 Teach Your Dog 100 English Words
 
 **Bonus Book # 2....** Make your dog the smartest, most well-behaved companion you've ever had. Follow my Respect Training and Vocabulary program and your dog will listen to your words and do what you say. Also includes games, activities, and tricks!
 
-  
+*Image hint — Dog Quest*
 
-![Dog Quest](covers/DQ-110.jpg)
-![Dog Quest](covers/DQ-110.jpg)
-![Free dog buying guide](./graphics/free5.gif)
+*Image hint — Dog Quest*
+
+*Image hint — Free dog buying guide*
 
 Dog Quest: Find the Dog of Your Dreams
 
@@ -218,47 +211,45 @@ You don't want a mismatch, or a puppy with serious behavioral issues or health p
 
 I'll guide you through your journey of choosing and finding the best dog for your family – what kind of dog is best for you, where to get your dog, and which individual puppy (or adult dog) you should pick.
 
-  
+*Image hint — Symptom Checker From Nose To Tail*
 
-![Symptom Checker From Nose To Tail](covers/SC-110.jpg)
-![Symptom Checker From Nose To Tail](covers/SC-110.jpg)
-![Free dog health book](./graphics/free5.gif)
+*Image hint — Symptom Checker From Nose To Tail*
+
+*Image hint — Free dog health book*
 
 Symptom Checker: The Nose To Tail Checkup
 
 **Bonus Book # 4....** Use this easy-to-follow, step-by-step guide to check your pup's health on a regular basis, so you can catch health problems when they're still minor and easy to correct. Tells you exactly what's normal and abnormal on every part of your pup's body.
 
-  
+*Image hint — Purebred Problems: Health Profiles for 165 Dog Breeds*
 
-![Purebred Problems: Health Profiles for 165 Dog Breeds](covers/PP-110.jpg)
-![Purebred Problems: Health Profiles for 165 Dog Breeds](covers/PP-110.jpg)
-![Free dog health book](./graphics/free5.gif)
+*Image hint — Purebred Problems: Health Profiles for 165 Dog Breeds*
+
+*Image hint — Free dog health book*
 
 Purebred Problems: Health Profiles By Breed
 
 **Bonus Book # 5....** It's hard to find honest information about health problems because breeders don't want to admit to problems in their favorite breed. But I've done the digging for you! Now you'll know which health problems to be especially watchful for in your breed.
 
-  
+*Image hint — Safest Remedies: Treatment Options*
 
-![Safest Remedies: Treatment Options](covers/SR-110.jpg)
-![Safest Remedies: Treatment Options](covers/SR-110.jpg)
-![Free dog health book](./graphics/free5.gif)
+*Image hint — Safest Remedies: Treatment Options*
+
+*Image hint — Free dog health book*
 
 Safest Remedies For Canine Health Problems
 
 **Bonus Book # 6....** This is the book to turn to if your pup develops any health problem. You'll learn about symptoms, diagnosis, and the most effective treatments with the fewest side effects. You'll even learn when inexpensive at-home treatments are better options than going to the vet.
 
-  
+*Image hint — Test Your Dog's IQ*
 
-![Test Your Dog's IQ](covers/IQ-110.jpg)
-![Test Your Dog's IQ](covers/IQ-110.jpg)
-![Free dog health book](./graphics/free5.gif)
+*Image hint — Test Your Dog's IQ*
+
+*Image hint — Free dog health book*
 
 Test Your Dog's IQ
 
 **Bonus Book # 7....** Is your dog smarter than your best friend's dog? You'll never know until you test him! These 25 fun tests measure your dog's problem-solving skills. Find out how smart your pup really is....or isn't!
-
-  
 
 Respect Training for Adult Dogs plus the 7 bonus books make up a premium package that covers all the bases of training and caring for your dog.
 
@@ -266,15 +257,15 @@ That's why I want you to have them ALL.... for $24.
 
 I charge so little for my books because I know they will make your dog's life better..... and that will make YOUR life better. I would much rather have **many** owners read my books for a **lower price** than have fewer owners read them for a higher price. My compensation would be the same either way, but at the lower price more owners and dogs benefit.
 
-  
-
 ## 30-Day Money-Back Guarantee
 
-![Money back guarantee](graphics/guarantee.gif)I offer a 30-day money back guarantee. Plain and simple, if you're not satisfied with my book within 30 days, I'll refund your money. I'm a respected author, and I want you to be happy!
+*Image hint — Money back guarantee*
+
+I offer a 30-day money back guarantee. Plain and simple, if you're not satisfied with my book within 30 days, I'll refund your money. I'm a respected author, and I want you to be happy!
 
 I'm absolutely confident that you will be. Dog owners have been buying my books online since 2002 and my refund rate is an infinitesimal 0.1%. That means 999 people out of a thousand are satisfied. I'm pretty happy about that!
 
-![Well-behaved white dog lying down](../dogbreeds/photos-AB/americaneskimodogsf5.jpg)
+*Image hint — Well-behaved white dog lying down*
 
 When your dog respects you, he will pay attention to you and follow your directions. All the time.
 
@@ -288,14 +279,21 @@ Everything is laid out for you.... what to do.... what not to do.
 
 If your pup is 2 to 18 months old, you should get the [Puppy version](https://www.yourpurebredpuppy.com/books/RTP.html#puppy-version) of this book. It's the same book, exact same program – you don't need both books!
 
-![book cover](covers/RTA-110.jpg "Respect Training For Adult Dogs")
-![book cover](covers/11T-110.jpg "11 Things You Must Do Right To Keep Your Dog Healthy and Happy")
-![book cover](covers/TYD-110.jpg "Teach Your Dog 100 English Words")
-![book cover](covers/DQ-110.jpg "Dog Quest")
-![book cover](covers/SC-110.jpg "Symptom Checker From Nose To Tail")
-![book cover](covers/PP-110.jpg "Purebred Problems: Health Issues By Breed")
-![book cover](covers/SR-110.jpg "Safest Remedies For Canine Health Problems")
-![book cover](covers/IQ-110.jpg "Test Your Dog's IQ!")
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
 
 CHOOSE ONE OF THESE 2 PACKAGES!
 
@@ -312,15 +310,17 @@ Download "Respect Training For Adult Dogs" plus 7 free bonus books right now, on
 | checkmark | Unsure how to download? [Do a free practice download.](https://www.yourpurebredpuppy.com/books/practice.html) |
 | checkmark | 30-day money-back guarantee |
 
-[![Add to cart](graphics/add-to-cart-lightgreen.jpg "Download 8 ebooks for $24")](https://ypp.ultracartstore.com/cgi-bin/UCEditor?MERCHANTID=YPP&ADD=ADULT-DL-8)
+*Image hint — Add to cart*
 
-![Visa, Mastercard, Discover, or Paypal](graphics/creditcards3.gif "Pay by Visa, Mastercard, Discover, or Paypal")
+[Add to cart](https://ypp.ultracartstore.com/cgi-bin/UCEditor?MERCHANTID=YPP&ADD=ADULT-DL-8)
+
+*Image hint — Visa, Mastercard, Discover, or Paypal*
 
 CHOICE #2
 
 One Printed Book + Downloads: $29
 
-![book cover](covers/RTA-110-blue.jpg "Respect Training For Adult Dogs")
+*Image hint — book cover*
 
 "Respect Training For Adult Dogs" is mailed to you as a printed book, PLUS you can download it along with the 7 free bonus books, only $29 plus shipping
 
@@ -332,6 +332,8 @@ For this package, we are currently only accepting orders from the US and Canada.
 | checkmark | Plus you can download ALL the books as [PDF ebooks](box_faq.html) and start reading right away on your computer, tablet, or smartphone. If you're not sure how to download, [click here to practice.](https://www.yourpurebredpuppy.com/books/practice.html) |
 | checkmark | 30-day money-back guarantee (shipping excluded) |
 
-[![Add to cart](graphics/add-to-cart-lightblue.jpg "Printed training book plus 8 downloadable ebooks, $29 plus shipping")](https://ypp.ultracartstore.com/cgi-bin/UCEditor?MERCHANTID=YPP&ADD=ADULT-PD-R)
+*Image hint — Add to cart*
 
-![Visa, Mastercard, Discover, or Paypal](graphics/creditcards3.gif "Pay by Visa, Mastercard, Discover, or Paypal")
+[Add to cart](https://ypp.ultracartstore.com/cgi-bin/UCEditor?MERCHANTID=YPP&ADD=ADULT-PD-R)
+
+*Image hint — Visa, Mastercard, Discover, or Paypal*

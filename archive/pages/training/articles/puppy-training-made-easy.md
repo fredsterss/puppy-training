@@ -9,9 +9,9 @@ fetched_at: "2026-08-10T13:29:46+00:00"
 
 # Puppy Training Made Easy - 4 Things You MUST Do Right
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Young puppy](../graphics/simple-hero.jpg)
+*Image hint — Young puppy*
 
 Your puppy's job is to try things – all sorts of things. Your job is to give a thumbs-up or thumbs-down to everything. That's how puppies learn best.
 
@@ -39,7 +39,7 @@ The FIRST step to indoor calmness and better behavior is to control your puppy's
 
 Puppies should never be allowed to wander freely around the house. Pups who are loose in the house are at high risk of developing bad habits such as excitability, destructive chewing, or eliminating on the floor. Even worse, the pup is at high risk of swallowing something that results in a life-theatening impaction.
 
-![Puppy with boy](../graphics/simple-boy-dog.jpg)
+*Image hint — Puppy with boy*
 
 If someone isn't interacting closely with the puppy, he should be safely confined. Then he won't develop bad habits or swallow something life-threatening.
 
@@ -62,7 +62,7 @@ Calmness – both physical and mental calmness – is the foundation for all tra
 
 On the other hand, it's harder to get good behavior from a puppy who is excitable and reactive. By excitable and reactive, I mean a pup who is easily aroused, quick to respond to whatever he sees or hears, and doesn't relax unless he's asleep.
 
-![Calm Cocker Spaniel pup](../graphics/simple-cocker-spaniel.jpg)
+*Image hint — Calm Cocker Spaniel pup*
 
 Calmness (both physical and mental) makes training so much easier. Neither humans nor dogs can learn much when hyped up.
 
@@ -105,7 +105,7 @@ Even better....
 
 My training method is not only balanced, but also based on **respect and leadership**.
 
-![Training a puppy to respect you](../graphics/schedule-respect.jpg)
+*Image hint — Training a puppy to respect you*
 
 A puppy who is taught to respect you will pay close attention to you.
 
@@ -123,24 +123,3 @@ Very happy. The vast majority of dogs want to be followers. But they do expect Y
 ....without proper respect, your puppy might know lots of words and commands, but choose not to do them. I'm sure you know dog owners who say their pup "understands" them but doesn't do what they say.
 
 Using balanced training based on respect and leadership, you can vastly improve your puppy's behavior. Check out my puppy training book: [Respect Training For Puppies](https://www.yourpurebredpuppy.com/books/RTP.html) (30 seconds to a calm, polite, well-behaved puppy).
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

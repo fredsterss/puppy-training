@@ -19,11 +19,9 @@ This guide combines every archived page for this breed into one document.
 
 ## Breed overview and temperament
 
-Scottish Deerhound temperament, personality, training, behavior, pros and cons, advice, and information, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Behavioral Consultant, Author of 15 [Dog Books](https://www.yourpurebredpuppy.com/books/)
+Scottish Deerhound temperament, personality, training, behavior, pros and cons, advice, and information, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Scottish Deerhound dog breed](../dogbreeds/photos-RS/scottishdeerhoundsf1.jpg)
-
-  
+*Image hint — Scottish Deerhound dog breed*
 
 Like all sighthounds, the quiet, dignified Scottish Deerhound doesn't behave like most dog breeds you may be used to, like a Golden Retriever or German Shepherd. For example, a Scottish Deerhound is unlikely to fetch a ball or play tug-of-war or protect your family.
 
@@ -37,8 +35,6 @@ Scottish Deerhounds are amiable with other dogs, but are serious chasers of anyt
 
 Though mildly stubborn and independent, this is also a sweet and sensitive dog. He is willing to respond (albeit in a slow, casual way, as though humoring you) to cheerful training that includes consistent guidance, verbal praise, and food rewards.
 
-  
-
 If you want a dog who...
 
 - Is tall, slender, and elegant, yet very powerful -- a racy athlete
@@ -50,8 +46,6 @@ If you want a dog who...
 - Doesn't bark much
 
 A Scottish Deerhound may be right for you.
-
-  
 
 If you don't want to deal with...
 
@@ -84,112 +78,83 @@ If I was considering a Scottish Deerhound, I would be most concerned about...
 5. **Emotional sensitivity.** Be honest.... is there tension in your home? Are people loud or angry or emotional? Scottish Deerhounds are extremely sensitive to stress and do best in a peaceful, harmonious home.
 6. **Health problems.** Scottish Deerhounds are extremely prone to a life-threatening digestive syndrome called bloat. In addition, an alarming number of Scottish Deerhounds die in middle age of cancer and heart disease. To keep this breed healthy, I recommend following all of the advice on my [Scottish Deerhound Health](https://www.yourpurebredpuppy.com/health/scottishdeerhounds.html) page.
 
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![dog training videos](../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
-
-Related posts you might enjoy
-
-![dog looking at owner](https://www.yourpurebredpuppy.com/training/graphics/methods-choices150.jpg) [Dog Training:  
- What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
-
-![puppy sitting beside owner](https://www.yourpurebredpuppy.com/training/graphics/schedule-older150.jpg)[You Need Dog Training Help... But From Where? Classes? Books? Videos?](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
-
-![common dog training commands](https://www.yourpurebredpuppy.com/training/graphics/teachyourdog02-150.jpg)[All a Dog Needs Is Love: True or False?](https://www.yourpurebredpuppy.com/training/articles/all-a-dog-needs-is-love.html)
-
-![respectful dog](https://www.yourpurebredpuppy.com/training/graphics/respectful-dog.jpg)[Solve Behavior Problems By Teaching Your Dog To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
-
 ## Additional archived breed information
 
-![Scottish Deerhound dog breed](../dogbreeds/photos-RS/scottishdeerhoundsf1.jpg)
+*Image hint — Scottish Deerhound dog breed*
 
 # Scottish Deerhounds
 
 By [Michele Welton](http://www.yourpurebredpuppy.com/about.html). Copyright © 2000-2018
 
-  
+*Image hint — dog breed review icon*
 
-![dog breed review icon](../Graphics/button-breedreview.png)
-[Scottish Deerhound Review](http://www.yourpurebredpuppy.com/reviews/scottishdeerhounds.html)  
+[Scottish Deerhound Review](http://www.yourpurebredpuppy.com/reviews/scottishdeerhounds.html)
 **What's good about 'em, what's bad about 'em.** The most honest dog breed review you'll ever find. Temperament, personality, behavior, traits, and characteristics. As an Obedience Instructor and Breed Selection Consultant for 40 years, I give you my honest opinions about the breed – I hold nothing back. [[read more]](http://www.yourpurebredpuppy.com/reviews/scottishdeerhounds.html)
 
-  
+*Image hint — Scottish Deerhound*
 
-![Scottish Deerhound](./photos/scottishdeerhounds_I.jpg)
-[Training Scottish Deerhounds](http://www.yourpurebredpuppy.com/training/scottishdeerhounds.html)  
+[Training Scottish Deerhounds](http://www.yourpurebredpuppy.com/training/scottishdeerhounds.html)
 I'll show you how to teach your Scottish Deerhound to listen to you and do what you say. My training methods are based on respect and sensible leadership. [[read more]](http://www.yourpurebredpuppy.com/training/scottishdeerhounds.html)
 
-  
+*Image hint — Scottish Deerhound*
 
-![Scottish Deerhound](./photos/scottishdeerhounds_I.jpg)
-[Scottish Deerhound Health Care & Feeding](http://www.yourpurebredpuppy.com/health/scottishdeerhounds.html)  
+[Scottish Deerhound Health Care & Feeding](http://www.yourpurebredpuppy.com/health/scottishdeerhounds.html)
 I'll show you how to watch out for these health problems and raise your Scottish Deerhound to be healthy and happy. [[read more]](http://www.yourpurebredpuppy.com/health/scottishdeerhounds.html)
 
-  
+*Image hint — Scottish Deerhound*
 
-![Scottish Deerhound](./photos/scottishdeerhounds_I.jpg)
-[Finding a Good Scottish Deerhound](http://www.yourpurebredpuppy.com/buying/scottishdeerhounds.html)  
+[Finding a Good Scottish Deerhound](http://www.yourpurebredpuppy.com/buying/scottishdeerhounds.html)
 Here are your options for buying or adopting a Scottish Deerhound. [[read more]](http://www.yourpurebredpuppy.com/buying/scottishdeerhounds.html)
 
-  
+*Image hint — Scottish Deerhound*
 
-![Scottish Deerhound](./photos/scottishdeerhounds_I.jpg)
-[Scottish Deerhound FAQ](http://www.yourpurebredpuppy.com/faq/scottishdeerhounds.html)  
+[Scottish Deerhound FAQ](http://www.yourpurebredpuppy.com/faq/scottishdeerhounds.html)
 More questions about Deerhounds? Here are my honest answers to frequently asked questions about the traits and characteristics of Scottish Deerhounds. [[read more]](http://www.yourpurebredpuppy.com/buying/scottishdeerhounds.html)
-
-  
 
 ---
 
 ## MORE OF MY ARTICLES YOU MIGHT ENJOY.....
 
-![dog looking at owner](http://www.yourpurebredpuppy.com/training/graphics/methods-choices150.jpg) [Dog Training:  
+*Image hint — dog looking at owner*
+
+ [Dog Training:
  What Works, and What Doesn't](http://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
 
-![puppy sitting beside owner](http://www.yourpurebredpuppy.com/training/graphics/schedule-older150.jpg)[Puppy Training Schedule: What To Teach, and When](http://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
+*Image hint — puppy sitting beside owner*
 
-![dog watching owner prepare homemade food](http://www.yourpurebredpuppy.com/health/graphics/lifespan-homemade.jpg)[Why Homemade  
-Is The Best Food  
+[Puppy Training Schedule: What To Teach, and When](http://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
+
+*Image hint — dog watching owner prepare homemade food*
+
+[Why Homemade
+Is The Best Food
 For Your Dog](http://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)
 
-![common dog training commands](http://www.yourpurebredpuppy.com/training/graphics/teachyourdog02-150.jpg)[Teach Your Dog Words](http://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
+*Image hint — common dog training commands*
 
-![dry dog food kibble](http://www.yourpurebredpuppy.com/health/graphics/lifespan-kibble2.jpg)[The Second Best Food For Your Dog](http://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
+[Teach Your Dog Words](http://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
 
-![respectful dog](http://www.yourpurebredpuppy.com/training/graphics/respectful-dog.jpg)[Solve Behavior Problems By Teaching Your Dog To Respect You](http://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
+*Image hint — dry dog food kibble*
+
+[The Second Best Food For Your Dog](http://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
+
+*Image hint — respectful dog*
+
+[Solve Behavior Problems By Teaching Your Dog To Respect You](http://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
 
 ## Buying or adopting
 
-![Scottish Deerhound dog breed](../dogbreeds/photos-RS/scottishdeerhoundsf1.jpg)
+*Image hint — Scottish Deerhound dog breed*
 
 # Buying or Adopting a Scottish Deerhound
 
 By [Michele Welton](http://www.yourpurebredpuppy.com/about.html). Copyright © 2000-2018
-
-  
 
 ## Is a **DOG** really the right pet for you?
 
 I've been helping people choose and find dogs for over 35 years now, and I have to say that for many people, dogs are not ideal pets.
 
 [Pros AND Cons of Owning a Dog](http://www.yourpurebredpuppy.com/buying/articles/should-you-get-a-dog.html)
-
-  
 
 ## Should you get a purebred, crossbred, or mixed breed dog?
 
@@ -201,15 +166,11 @@ Don't set your sights on any purebred dog until you read these three eye-opening
 
 [The Truth About Mixed Breed Dogs](http://www.yourpurebredpuppy.com/buying/articles/mixed-breed-dogs.html)
 
-  
-
 ## Is a Scottish Deerhound the right breed for you?
 
 [Scottish Deerhounds: What's Good About 'Em, What's Bad About 'Em](http://www.yourpurebredpuppy.com/reviews/scottishdeerhounds.html)
 
 [Scottish Deerhound Health Problems](http://www.yourpurebredpuppy.com/health/scottishdeerhounds.html)
-
-  
 
 ## Are YOU right for a Scottish Deerhound?
 
@@ -230,35 +191,31 @@ Can you provide what this breed needs?
 - Commitment to provide thorough socialization – introducing your Scottish Deerhound to lots of people and other animals
 - Commitment to establish the right Leader-Follower relationship with your Scottish Deerhound, teaching him to [listen to you and do what you say](http://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
 
-  
-
 ## Should you get a male or female Scottish Deerhound?
 
-![Symbols for male and female](graphics/ind-male-female-dogs.gif)
-[Male Dogs vs. Female Dogs](http://www.yourpurebredpuppy.com/buying/articles/male-female-dogs.html)  
-Which one makes a better pet?
+*Image hint — Symbols for male and female*
 
-  
+[Male Dogs vs. Female Dogs](http://www.yourpurebredpuppy.com/buying/articles/male-female-dogs.html)
+Which one makes a better pet?
 
 ## Should you get a young puppy, an older puppy, or an adult dog?
 
-![Girl hugging a dog](graphics/ind-dog-breed-rescue.gif)
-[Puppies vs. Adult Dogs](http://www.yourpurebredpuppy.com/buying/articles/puppy-or-adult-dog.html)  
-What age should your new Scottish Deerhound be?
+*Image hint — Girl hugging a dog*
 
-  
+[Puppies vs. Adult Dogs](http://www.yourpurebredpuppy.com/buying/articles/puppy-or-adult-dog.html)
+What age should your new Scottish Deerhound be?
 
 ## Where can you buy or adopt a Scottish Deerhound?
 
 Scottish Deerhounds are very uncommon in the United States. Out of 189 breeds in the American Kennel Club, where 1 is most popular and 189 is least popular, Scottish Deerhounds rank 154th.
 
-[Adopting From Dog Rescue Organizations](http://www.yourpurebredpuppy.com/buying/articles/dog-breed-rescue.html)  
+[Adopting From Dog Rescue Organizations](http://www.yourpurebredpuppy.com/buying/articles/dog-breed-rescue.html)
 You might occasionally find a Scottish Deerhound available from a Dog Rescue group. But not many are turned over to Rescue groups, because not many people own them in the first place. Scottish Deerhounds may be turned over to Rescue simply because they don't act like more familiar breeds; sighthounds have a unique temperament and special needs that must be met.
 
-[Adopting From Public Animal Shelters and Humane Societies](http://www.yourpurebredpuppy.com/buying/articles/animal-shelters.html)  
+[Adopting From Public Animal Shelters and Humane Societies](http://www.yourpurebredpuppy.com/buying/articles/animal-shelters.html)
 I've never heard of a Scottish Deerhound found in an animal shelter. Deerhound Rescue groups keep their eyes peeled on shelters and humane societies across the country. On the off chance that a Scottish Deerhound turns up at a shelter, the rescue group typically moves in quickly to take the dog.
 
-[Buying From a Dog Breeder](http://www.yourpurebredpuppy.com/buying/articles/dog-breeders.html)  
+[Buying From a Dog Breeder](http://www.yourpurebredpuppy.com/buying/articles/dog-breeders.html)
 You can buy a Scottish Deerhound from a *show breeder*, who breeds Scottish Deerhounds to match a detailed standard of appearance for the dog show ring. You might also be able to buy a Scottish Deerhound from people who "just breed pets" or "just had one litter." But should you? Be sure to read the article to learn more about these people.
 
 Here's one difference between a responsible breeder and an irresponsible breeder – BOTH PARENTS of a Scottish Deerhound puppy should have:
@@ -275,113 +232,83 @@ Also, EACH PUPPY should have:
 
 If a seller can't show you those certificates, the puppies are higher risk for health problems. You might choose to accept that risk. But then you need to be willing (and able) to pay a couple thousand bucks for future surgeries and lifelong meds if your Scottish Deerhound ends up with heart or liver disease.
 
-![Puppy in a pet shop window](graphics/ind-petshops-and-pet-stores.gif)
-[Pet Shop Puppies: Buying a Puppy From a Pet Store](http://www.yourpurebredpuppy.com/buying/articles/petshops-and-pet-stores.html)  
-I've never seen a Deerhound in a pet shop. Which is good, because I have plenty to say about buying a puppy from a pet shop!
+*Image hint — Puppy in a pet shop window*
 
-  
+[Pet Shop Puppies: Buying a Puppy From a Pet Store](http://www.yourpurebredpuppy.com/buying/articles/petshops-and-pet-stores.html)
+I've never seen a Deerhound in a pet shop. Which is good, because I have plenty to say about buying a puppy from a pet shop!
 
 Related Articles
 
-![Girl holding up a puppy and looking at him](graphics/ind-how-to-choose-a-puppy.gif)
-[How To Choose a Good Scottish Deerhound Puppy](http://www.yourpurebredpuppy.com/buying/articles/how-to-choose-a-puppy.html)  
+*Image hint — Girl holding up a puppy and looking at him*
+
+[How To Choose a Good Scottish Deerhound Puppy](http://www.yourpurebredpuppy.com/buying/articles/how-to-choose-a-puppy.html)
 How to test the temperament and personality of Scottish Deerhound puppies and pick the best puppy in a litter.
 
-  
+*Image hint — Pedigree parchment*
 
-![Pedigree parchment](graphics/ind-AKC-registered-puppies.gif)
-[AKC Registered Puppies: Are AKC Papers Important?](http://www.yourpurebredpuppy.com/buying/articles/AKC-registered-puppies.html)  
+[AKC Registered Puppies: Are AKC Papers Important?](http://www.yourpurebredpuppy.com/buying/articles/AKC-registered-puppies.html)
 Should you consider buying only AKC registered Scottish Deerhound puppies? Do AKC papers and pedigrees really matter?
-
-  
-
-To help you train and care for your dog
-
-[![book cover](../books/covers/TYD-110.jpg)](http://www.yourpurebredpuppy.com/books/TYD.html) To learn more about training your dog to be calm and well-behaved, my dog training book is [Teach Your Dog 100 English Words](http://www.yourpurebredpuppy.com/books/TYD.html). It's a unique Vocabulary and Respect Training Program that will teach your dog to listen to you and do whatever you ask.
-
-[![book cover](../books/covers/DQ-110.jpg)](http://www.yourpurebredpuppy.com/books/DQ.html) My dog buying guide, [Dog Quest: Find The Dog Of Your Dreams](http://www.yourpurebredpuppy.com/books/DQ.html), will teach you everything you need to know about finding a good-tempered, healthy dog.
-
-[![book cover](../books/covers/11T-110.jpg)](http://www.yourpurebredpuppy.com/books/11T.html) My dog health care book, [11 Things You Must Do Right To Keep Your Dog Healthy and Happy](http://www.yourpurebredpuppy.com/books/11T.html), shows you how to help your dog live a longer life while avoiding health problems and unnecessary veterinary expenses.
 
 ## Training
 
-![Scottish Deerhound dog breed](../dogbreeds/photos-RS/scottishdeerhoundsf1.jpg)
+*Image hint — Scottish Deerhound dog breed*
 
 # Training Scottish Deerhounds
 
 Scottish Deerhound Training and Puppy Training, by [Michele Welton](http://www.yourpurebredpuppy.com/about.html). Copyright © 2000-2018
 
-  
+*Image hint — Obedience instructor and author Michele Welton*
 
-![Obedience instructor and author Michele Welton](graphics/ind-dog-training-methods1.jpg)
-[Dog Training – What Works, and What Doesn't](http://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)  
+[Dog Training – What Works, and What Doesn't](http://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
 Some dog training methods are based on what makes the owner feel good, rather than what on actually makes sense to the dog. For example, "positive-only" dog training is a big fad right now. Now, treats can be great motivators for training Scottish Deerhounds, but if your dog will only obey for a treat, then **he** is in charge of his obedience, not you.  [[read more]](http://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
 
-  
+*Image hint — Buddy the dog*
 
-![Buddy the dog](graphics/ind-dog-training-videos.jpg)
-[These Dog Training Videos Turned Buddy Into a Good Dog](http://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)  
+[These Dog Training Videos Turned Buddy Into a Good Dog](http://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
 Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action. I recommend these dog training videos, which are based on respect and leadership. [[read more]](http://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
 
-  
+*Image hint — Misbehaving dog pulling owner on leash*
 
-![Misbehaving dog pulling owner on leash](graphics/ind-respect-training.gif)
-[Teach Your Scottish Deerhound To Respect You](http://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)  
+[Teach Your Scottish Deerhound To Respect You](http://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
 "Respect Training" is the dog training method I use and recommend for training Scottish Deerhounds. A dog who respects you will do what you say and will stop what he's doing when you tell him "No." Teaching your dog to respect you means interacting with him in specific ways that encourage respect.  [[read more]](http://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
 
-  
+*Image placeholder — no alt text*
 
-![](graphics/ind-dog-training-help.jpg)
-[You Need Dog Training Help.... But From Where? Private Lessons? Public Classes? Dog Training Books? Dog Training Videos?](http://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)  
+[You Need Dog Training Help.... But From Where? Private Lessons? Public Classes? Dog Training Books? Dog Training Videos?](http://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
 So your puppy needs training.... or your adult dog needs training.... and you're looking for some help. Should you hire a professional trainer to come to your house? send your dog away to be trained? sign up for a group obedience class? read a book? watch a few videos? Here's my advice on where to get dog training help when you really need it. [[read more]](http://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
 
-  
+*Image hint — Words and commands to teach your dog*
 
-![Words and commands to teach your dog](graphics/ind-teach-words.gif)
-[Teach The Right Words In The Right Ways To Your Scottish Deerhound](http://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)  
+[Teach The Right Words In The Right Ways To Your Scottish Deerhound](http://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
 My method of training Scottish Deerhounds includes teaching specific words in specific ways so that your dog not only learns the words but also develops the respectful attitude that makes him happy to obey you. Teach your dog words and he will understand what you say. Teach those words ***in the right ways*** and he will actually DO what you say.  [[read more]](http://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
 
-  
+*Image hint — Dog behavior problems*
 
-![Dog behavior problems](graphics/ind-dog-behavior-problems.jpg)
-[Solving Scottish Deerhound Behavior Problems](http://www.yourpurebredpuppy.com/training/articles/dog-behavior-problems.html)  
+[Solving Scottish Deerhound Behavior Problems](http://www.yourpurebredpuppy.com/training/articles/dog-behavior-problems.html)
 One of the most common questions dog owners ask me is: "How can I stop my dog from doing (a specific bad behavior)?" My answer is almost always the same, no matter what the misbehavior is.... [[read more]](http://www.yourpurebredpuppy.com/training/articles/dog-behavior-problems.html)
 
-  
+*Image hint — Cute puppy*
 
-![Cute puppy](graphics/ind-new-puppy.gif)
-[Training Scottish Deerhound Puppies](http://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)  
+[Training Scottish Deerhound Puppies](http://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
 Just got a new puppy? Scottish Deerhound puppy training starts the moment you bring your puppy home. If you use the wrong teaching method, your puppy will begin making decisions about how he wants **you** to fit into **his** life, and that's a recipe for conflict and behavior problems. Whatever your puppy does, you must react properly or he will learn the wrong things. Here's my recommended schedule (what to teach, when to teach it) for training your Scottish Deerhound puppy. [[read more]](http://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
 
-  
+*Image hint — Outhouse*
 
-![Outhouse](graphics/ind-housebreaking.gif)
-[Housebreaking Your Scottish Deerhound](http://www.yourpurebredpuppy.com/training/articles/dog-housebreaking.html)  
+[Housebreaking Your Scottish Deerhound](http://www.yourpurebredpuppy.com/training/articles/dog-housebreaking.html)
 There are two keys to housebreaking. Just two, but you have to get them both right. And I mean 100% right, not 50% right. Otherwise you're going to end up with a dog who is 50% potty trained, and who wants that? So here they are – your two keys to housebreaking.... [[read more]](http://www.yourpurebredpuppy.com/training/articles/dog-housebreaking.html)
 
-  
+*Image hint — Young man holding his dog*
 
-![Young man holding his dog](graphics/ind-dog-socializing.gif)
-[Socializing Your Scottish Deerhound](http://www.yourpurebredpuppy.com/training/articles/dog-socializing.html)  
+[Socializing Your Scottish Deerhound](http://www.yourpurebredpuppy.com/training/articles/dog-socializing.html)
 Socializing means training your Scottish Deerhound to get along politely with strangers and other animals. [[read more]](http://www.yourpurebredpuppy.com/training/articles/dog-socializing.html)
-
-To help you train and care for your dog
-
-[![book cover](../books/covers/TYD-110.jpg)](http://www.yourpurebredpuppy.com/books/TYD.html) To learn more about training your dog to be calm and well-behaved, my dog training book is [Teach Your Dog 100 English Words](http://www.yourpurebredpuppy.com/books/TYD.html). It's a unique Vocabulary and Respect Training Program that will teach your dog to listen to you and do whatever you ask.
-
-[![book cover](../books/covers/DQ-110.jpg)](http://www.yourpurebredpuppy.com/books/DQ.html) My dog buying guide, [Dog Quest: Find The Dog Of Your Dreams](http://www.yourpurebredpuppy.com/books/DQ.html), will teach you everything you need to know about finding a good-tempered, healthy dog.
-
-[![book cover](../books/covers/11T-110.jpg)](http://www.yourpurebredpuppy.com/books/11T.html) My dog health care book, [11 Things You Must Do Right To Keep Your Dog Healthy and Happy](http://www.yourpurebredpuppy.com/books/11T.html), shows you how to help your dog live a longer life while avoiding health problems and unnecessary veterinary expenses.
 
 ## Health and feeding
 
-![Scottish Deerhound dog breed](../dogbreeds/photos-RS/scottishdeerhoundsf1.jpg)
+*Image hint — Scottish Deerhound dog breed*
 
 # Scottish Deerhound Health Care & Feeding
 
 By [Michele Welton](http://www.yourpurebredpuppy.com/about.html). Copyright © 2000-2018
-
-  
 
 ## Quick list of Scottish Deerhound health problems
 
@@ -411,62 +338,54 @@ Other health problems can be prevented, or partially prevented, by the ways you 
 
 #### Here are my dog health tips for raising a healthy Scottish Deerhound puppy or adult dog:
 
-![Obedience instructor and author Michele Welton](../training/graphics/ind-dog-training-methods1.jpg)
-[Dog Health Care – The Sensible Way](http://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)  
+*Image hint — Obedience instructor and author Michele Welton*
+
+[Dog Health Care – The Sensible Way](http://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)
 Read my advice on daily health care so your Scottish Deerhound lives a long, healthy life and seldom needs to see the vet.
 
-  
+*Image hint — Real homemade dog food*
 
-![Real homemade dog food](graphics/ind-feeding.gif)
-[The Best Dog Food For Feeding Your Scottish Deerhound](http://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)  
+[The Best Dog Food For Feeding Your Scottish Deerhound](http://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)
 Food is the #1 foundation for good health. The best diet for feeding your dog is real food. Real chicken, turkey, beef, fish....these are not just "people foods" and I'll tell you why.
 
-  
+*Image hint — Natural dog foods for your Scottish Deerhound.*
 
-![Natural dog foods for your Scottish Deerhound.](graphics/ind-feeding2.gif)
-[Kibble or Canned Dog Food – Almost As Good As Homemade?](http://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)  
+[Kibble or Canned Dog Food – Almost As Good As Homemade?](http://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
 Are you looking for the best dry kibble or canned dog food?
 
-  
+*Image hint — NomNomNow homemade dog food service*
 
-![NomNomNow homemade dog food service](graphics/ind-nomnomnow.jpg)
-[Feed Homemade Dog Food *Without* Needing To Make It](http://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food-delivered.html)  
+[Feed Homemade Dog Food *Without* Needing To Make It](http://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food-delivered.html)
 Would you like to feed your dog homemade, but think you don't have the time or skill to make it? I have the solution for you....
 
-  
+*Image hint — Pet insurance*
 
-![Pet insurance](graphics/ind-petinsurance.jpg)
-[Should You Buy Pet Insurance? An Honest Review](http://www.yourpurebredpuppy.com/health/articles/pet-insurance.html)  
+[Should You Buy Pet Insurance? An Honest Review](http://www.yourpurebredpuppy.com/health/articles/pet-insurance.html)
 My advice on the pros and cons of pet insurance, and the best pet insurance company I've found.
 
-  
+*Image hint — Information on booster shots for your Scottish Deerhound.*
 
-![Information on booster shots for your Scottish Deerhound.](graphics/ind-vaccinations.gif)
-[Vaccinations and Booster Shots: Needed or Not?](http://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)  
+[Vaccinations and Booster Shots: Needed or Not?](http://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)
 How many vaccinations does your Scottish Deerhound puppy really need? Does your adult Scottish Deerhound need yearly booster shots? The vaccination guidelines have changed! Find out what some vets aren't telling you.
 
-  
+*Image hint — Information on spaying your Scottish Deerhound.*
 
-![Information on spaying your Scottish Deerhound.](graphics/ind-female.gif)
-[Spaying Your Female Dog: Pros and Cons](http://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)  
+[Spaying Your Female Dog: Pros and Cons](http://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)
 Advantages and disadvantages of spaying your female dog.
 
-  
+*Image hint — Information on neutering your male dog.*
 
-![Information on neutering your male dog.](graphics/ind-male.gif)
-[Neutering Your Male Dog: Pros and Cons](http://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)  
+[Neutering Your Male Dog: Pros and Cons](http://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)
 Advantages and disadvantages of neutering your male dog.
 
-  
+*Image hint — Information on choosing the best vet for your Scottish Deerhound.*
 
-![Information on choosing the best vet for your Scottish Deerhound.](graphics/ind-vets.gif)
-[The Type of Veterinarian I Recommend](http://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)  
+[The Type of Veterinarian I Recommend](http://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)
 Is your veterinarian really the best choice for your dog? Learn about the differences between vets who practice conventional, holistic, and alternative veterinary medicine.
 
-  
+*Image hint — Assisi Loop*
 
-![Assisi Loop](graphics/ind-assisi.jpg)
-[Assisi Loop Review: How I Helped Treat Inflammation and Pain](http://www.yourpurebredpuppy.com/health/articles/assisi-loop-review.html)  
+[Assisi Loop Review: How I Helped Treat Inflammation and Pain](http://www.yourpurebredpuppy.com/health/articles/assisi-loop-review.html)
 Does your dog suffer from arthritis, hip dysplasia, disk disease, colitis, a skin wound? My honest review of a veterinary device you can use at home to help reduce inflammation and pain.
 
 ---
@@ -494,25 +413,13 @@ Sighthounds REQUIRE open space to run. A sighthound who can't stretch his legs a
 
 Musculoskeletal injuries (fractures, pulled muscles or ligaments, broken toes, paw injuries, etc.) are common when slender sighthounds race about.
 
-  
-
-To help you train and care for your dog
-
-[![book cover](../books/covers/TYD-110.jpg)](http://www.yourpurebredpuppy.com/books/TYD.html) To learn more about training your dog to be calm and well-behaved, my dog training book is [Teach Your Dog 100 English Words](http://www.yourpurebredpuppy.com/books/TYD.html). It's a unique Vocabulary and Respect Training Program that will teach your dog to listen to you and do whatever you ask.
-
-[![book cover](../books/covers/DQ-110.jpg)](http://www.yourpurebredpuppy.com/books/DQ.html) My dog buying guide, [Dog Quest: Find The Dog Of Your Dreams](http://www.yourpurebredpuppy.com/books/DQ.html), will teach you everything you need to know about finding a good-tempered, healthy dog.
-
-[![book cover](../books/covers/11T-110.jpg)](http://www.yourpurebredpuppy.com/books/11T.html) My dog health care book, [11 Things You Must Do Right To Keep Your Dog Healthy and Happy](http://www.yourpurebredpuppy.com/books/11T.html), shows you how to help your dog live a longer life while avoiding health problems and unnecessary veterinary expenses.
-
 ## Frequently asked questions
 
-![Scottish Deerhound dog breed](../dogbreeds/photos-RS/scottishdeerhoundsf1.jpg)
+*Image hint — Scottish Deerhound dog breed*
 
 # Frequently Asked Questions About Scottish Deerhounds
 
 By [Michele Welton](http://www.yourpurebredpuppy.com/about.html). Copyright © 2000-2018
-
-  
 
 What kind of temperament and personality does the Scottish Deerhound have?
 
@@ -629,20 +536,32 @@ It's probably answered in one of my books:
 
 ## MORE OF MY ARTICLES YOU MIGHT ENJOY.....
 
-![dog looking at owner](http://www.yourpurebredpuppy.com/training/graphics/methods-choices150.jpg) [Dog Training:  
+*Image hint — dog looking at owner*
+
+ [Dog Training:
  What Works, and What Doesn't](http://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
 
-![puppy sitting beside owner](http://www.yourpurebredpuppy.com/training/graphics/schedule-older150.jpg)[Puppy Training Schedule: What To Teach, and When](http://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
+*Image hint — puppy sitting beside owner*
 
-![dog watching owner prepare homemade food](http://www.yourpurebredpuppy.com/health/graphics/lifespan-homemade.jpg)[Why Homemade  
-Is The Best Food  
+[Puppy Training Schedule: What To Teach, and When](http://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
+
+*Image hint — dog watching owner prepare homemade food*
+
+[Why Homemade
+Is The Best Food
 For Your Dog](http://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)
 
-![common dog training commands](http://www.yourpurebredpuppy.com/training/graphics/teachyourdog02-150.jpg)[Teach Your Dog Words](http://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
+*Image hint — common dog training commands*
 
-![dry dog food kibble](http://www.yourpurebredpuppy.com/health/graphics/lifespan-kibble2.jpg)[Kibble and Canned Dog Food](http://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
+[Teach Your Dog Words](http://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
 
-![respectful dog](http://www.yourpurebredpuppy.com/training/graphics/respectful-dog.jpg)[Solve Behavior Problems By Teaching Your Dog To Respect You](http://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
+*Image hint — dry dog food kibble*
+
+[Kibble and Canned Dog Food](http://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
+
+*Image hint — respectful dog*
+
+[Solve Behavior Problems By Teaching Your Dog To Respect You](http://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
 
 ## Archived source pages
 

@@ -9,9 +9,9 @@ fetched_at: "2026-08-10T13:29:13+00:00"
 
 # Teach Your Pup to be Calm Indoors
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![owner chasing excitable pup around the house](../graphics/rtp/calmness-hero.jpg)
+*Image hint — owner chasing excitable pup around the house*
 
 Racing around is fine outdoors, but not indoors. Unfortunately this owner isn't helping matters by chasing the puppy, which makes the owner just as excitable as the pup himself.
 
@@ -54,7 +54,9 @@ So be aware of your body language – it's how canines "read" and draw conclusio
 
 ### Calm handling can transform an excitable puppy.
 
-![yellow Labrador](../graphics/rtp/puppy-respect_html_10628b47.jpg)When I meet a new client, I stand back at first and just observe. Typically their pup will pull on the leash, bark at whatever, jump on the owner, pretty much hyped-up and out of control.
+*Image hint — yellow Labrador*
+
+When I meet a new client, I stand back at first and just observe. Typically their pup will pull on the leash, bark at whatever, jump on the owner, pretty much hyped-up and out of control.
 
 Then I approach. I don't speak to the puppy or even look at him. As I talk casually with the owner, I reach over and quietly take the leash. I still don't speak to the puppy or even look at him. I just keep talking to the owner, and occasionally I give a leash correction when the pup jumps around with excitability or barks.
 
@@ -68,7 +70,9 @@ An excited dog can often be transformed into a more relaxed dog in a matter of m
 
 My [training program](https://www.yourpurebredpuppy.com/books/RTP.html) shows you how to stop excitable and reactive behaviors such as barking, rushing the doorbell, jumping on people, pulling on the leash, and dashing through doors and gates ahead of you.
 
-![Pug pup](../graphics/rtp/puppy-respect_html_16a6f881.jpg)The FIRST  step to indoor calmness and better behavior is to control your puppy's movements in the house.
+*Image hint — Pug pup*
+
+The FIRST  step to indoor calmness and better behavior is to control your puppy's movements in the house.
 
 The biggest mistake owners make with a puppy is giving him too much freedom, too soon.
 
@@ -117,30 +121,3 @@ Your puppy can choose to:
 - Chewing on the leash, the carpet, or the leg of your chair
 
 Your job is to set consistent boundaries. "Yes" to this. "No" to that. When your puppy sees you doing that, he recognizes that you are the trusted leader and he is the trusting follower.
-
-My [![book cover](../../books/covers/RTP-110.jpg)training program](https://www.yourpurebredpuppy.com/books/RTP.html) is for puppies 2 to 18 months old. It explains, step by step:
-
-- How to teach your pup to be calm and to look to you for guidance, direction, and permission.
-- How to establish good patterns, routines, and boundaries that govern everything your pup does.
-- How to make yourself important – the most important thing – in your puppy’s life. How to show your pup the clear, black-and-white rules and routines he is to follow. And how to make sure he does.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

@@ -27,8 +27,6 @@ fetched_at: "2026-08-10T13:28:49+00:00"
 
 [Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html)
 
-  
-
 [Dog Training Articles](https://www.yourpurebredpuppy.com/training/)
 
 [Dog Training – What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
@@ -48,8 +46,6 @@ fetched_at: "2026-08-10T13:28:49+00:00"
 [Housebreaking Your Dog](https://www.yourpurebredpuppy.com/training/articles/dog-housebreaking.html)
 
 [Socializing Your Dog To Get Along With The World](https://www.yourpurebredpuppy.com/training/articles/dog-socializing.html)
-
-  
 
 [Dog Health Articles](https://www.yourpurebredpuppy.com/health/)
 
@@ -74,8 +70,6 @@ fetched_at: "2026-08-10T13:28:49+00:00"
 [How Long Do Dogs Live? (Dog Lifespan)](https://www.yourpurebredpuppy.com/health/articles/dog-lifespan.html)
 
 [My Review of the Assisi Loop Device (Pulsed Electromagnetic Field Therapy)](https://www.yourpurebredpuppy.com/health/articles/assisi-loop-review.html)
-
-  
 
 [Buying/Adopting Articles (Which Dog Breed Is Best For You?)](https://www.yourpurebredpuppy.com/buying/)
 

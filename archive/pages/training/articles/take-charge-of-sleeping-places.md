@@ -9,7 +9,7 @@ fetched_at: "2026-08-10T13:30:11+00:00"
 
 # Where Should Your Puppy Sleep?
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
 When an owner calls me about a behavior problem with her puppy, one of my first questions is, "Where does he sleep?"
 
@@ -21,7 +21,9 @@ Now, don't get me wrong! Most dogs who sleep on their owner's bed or furniture a
 
 But when we look at dogs who DO HAVE  behavior issues, most of those dogs also  sleep on the bed or furniture.
 
-![Siberian Husky](../graphics/rtp/puppy-respect_html_m9ac728c.jpg)Why is that important? Because we begin solving behavior issues by establishing the proper leader-follower relationship with your pup. And one of the best ways to establish that relationship is to control resources.
+*Image hint — Siberian Husky*
+
+Why is that important? Because we begin solving behavior issues by establishing the proper leader-follower relationship with your pup. And one of the best ways to establish that relationship is to control resources.
 
 From a canine perspective, the leader  of a family or group controls the resources. *Food*  is a resource. So are *sleeping spots.*  Therefore, from a canine perspective, the leader should get the choice sleeping spots. The followers sleep in spots that are less good. The way your dog views the world, that's the right arrangement.
 
@@ -58,7 +60,9 @@ Again, a dog who is an adult, housebroken, respectful, and has no behavior probl
 - A dog who is not housebroken? NO. Non-housebroken dogs are easily tempted to pee on soft cushy surfaces.
 - A dog with respect issues or behavior problems? NO. Not until those issues clear up. Many of these pups have come to view sleeping on the furniture as a right  rather than a privilege.
 
-![tricolor Sheltie](../graphics/rtp/puppy-respect_html_4f8d41b.jpg)Restricting the furniture to humans elevates those humans in the eyes of the dog. That is a psychologically healthy attitude for a pup to have, especially when he has behavior issues.
+*Image hint — tricolor Sheltie*
+
+Restricting the furniture to humans elevates those humans in the eyes of the dog. That is a psychologically healthy attitude for a pup to have, especially when he has behavior issues.
 
 If your puppy tries to sneak onto the furniture, keep a leash on him in the house so you can shoo him off. When you're gone, put him in a crate or pen, or in a gated room with no cushy furniture. Some owners lay crinkly aluminum foil across the sofa or fill the space with a large cardboard box.
 
@@ -68,7 +72,9 @@ Now, you might decide to let your pup on the furniture IF you're sitting there a
 
 You should also be the one who tells him when it's time to get.... "Off." Combine it with a gentle waving motion of your hand and make sure he gets off, even if you have to guide him by the collar.
 
-![dog sleeping on chair](../graphics/rtp/puppy-respect_html_52b1db06.png)You can also use "Off" when your pup is usually  allowed on the furniture, but you want him to stay off temporarily.
+*Image hint — dog sleeping on chair*
+
+You can also use "Off" when your pup is usually  allowed on the furniture, but you want him to stay off temporarily.
 
 For example, you might have a guest who isn't comfortable with your pup sitting on the couch beside him. Or perhaps you're sitting on the couch with a plate of food on your lap. Or perhaps you're lying on the couch because you're sick.
 
@@ -79,30 +85,3 @@ As an example, my dog Buffy lies on the couch with us when we're watching TV. Bu
 Patterns, patterns, patterns! Dogs love 'em.
 
 Remember, it might seem like a simple little thing to us, but when you control the sleeping spots, the canine brain finds that quite impressive! It's so easy to earn your pup's respect by taking small, simple actions that say, "I am the leader and you are the follower."
-
-My [![book cover](../../books/covers/RTP-110.jpg)training program](https://www.yourpurebredpuppy.com/books/RTP.html) is for puppies 2 to 18 months old. It explains, step by step:
-
-- How to establish good patterns and routines that govern everything your pup does.
-- How to teach your pup to be calm and to look to you for guidance, direction, and permission.
-- How to make yourself important – the most important thing – in your puppy’s life. How to show your pup the clear, black-and-white rules and routines he is to follow. And how to make sure he does.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

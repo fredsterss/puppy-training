@@ -63,6 +63,18 @@ Markdown files include YAML front matter with source and replay metadata. Their
 paths mirror the original site. Directory URLs become `index.md`; query strings
 receive a short hash suffix so filenames remain collision-free.
 
+Generated Markdown is a reading edition: inflated byline credentials, repeated
+author bios, site-wide book promotions, training-video links, and other footer
+navigation are removed when they match the site's known templates. The unedited
+HTML and Markdown remain in `archive/site.db`, so the archival source is
+preserved and exports can be regenerated without data loss.
+
+Image files are not part of this text archive. Unresolvable Markdown image embeds
+are rendered as visible `Image hint — …` placeholders using their original alt
+text, making them readable now and straightforward to replace later.
+Legacy `1)` list markers and duplicated converter output such as `1. 1)` are
+normalized into standard Markdown ordered lists in the reading edition.
+
 Breed-specific review, buying, training, health, FAQ, and legacy pages are kept
 as source records in SQLite but exported as one combined file per breed under
 `archive/breeds/`. Each guide lists every retained source URL and capture time.

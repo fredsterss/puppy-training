@@ -15,11 +15,7 @@ If you can download and save this story to your computer or mobile device, and i
 
 You may want to print these instructions so you'll have them in front of you to refer to.
 
-  
-
 SCROLL DOWN AND FIND THE INSTRUCTIONS FOR YOUR KIND OF COMPUTER OR MOBILE DEVICE
-
-  
 
 ### If you have an iPad or iPhone
 
@@ -27,14 +23,17 @@ SCROLL DOWN AND FIND THE INSTRUCTIONS FOR YOUR KIND OF COMPUTER OR MOBILE DEVICE
    You can download those apps free from the App Store.
 2. I recommend using the regular Safari browser that comes pre-installed with your iPad or iPhone.
    If you use a different browser, the instructions may still work fine, but if they don't.... try the Safari browser.
-3. Tap this link: **[TEST FILE](https://www.yourpurebredpuppy.com/books/testfile.pdf)**- ![](../Graphics/ios-share.jpg)
+3. Tap this link: **[TEST FILE](https://www.yourpurebredpuppy.com/books/testfile.pdf)**-
+
+*Image placeholder — no alt text*
+
      The little story should open on your screen so you can read it. That's good.... but you're not done yet. You still need to SAVE it to your device.
      Tap the **Share** icon of your browser (it's a squarish icon with an arrow pointing upward).
      A white box will pop up with two rows of various options, for example, you'll see the blue Mail icon on the top row.
      Swipe sideways (left) on that row to make the icons scroll so you can see more options appearing on the right.
      The option you're looking for says "Copy to iBooks" (an orange icon) or copy to Adobe (a red icon) or copy to Kindle.
-     Tap one of those icons and the book will be saved in your iBooks, Adobe, or Kindle app.  
-       
+     Tap one of those icons and the book will be saved in your iBooks, Adobe, or Kindle app.
+
      If you don't see any of those options even after swiping the row all the way to the left, choose the "Mail" option, which will email the book to yourself.
      Now go to your email program and open the email you just sent to yourself. You should see a squarish icon that says pdf. PRESS AND HOLD on it.
      A big white box will pop up and you should see the option to "Open in iBooks" (or "Open in Adobe"). Tapping one of those icons will save the story file!
@@ -55,8 +54,8 @@ SCROLL DOWN AND FIND THE INSTRUCTIONS FOR YOUR KIND OF COMPUTER OR MOBILE DEVICE
 
 ### If you have a PC running Windows
 
-1. Click your RIGHT mouse button on the blue link below....  
-     
+1. Click your RIGHT mouse button on the blue link below....
+
    **[TEST FILE](https://www.yourpurebredpuppy.com/books/testfile.pdf "Click your RIGHT mouse button on this link")**
 
    Your RIGHT button.....not the left button you usually click.
@@ -75,8 +74,8 @@ SCROLL DOWN AND FIND THE INSTRUCTIONS FOR YOUR KIND OF COMPUTER OR MOBILE DEVICE
 
 ### If you have a Mac
 
-1. If your mouse has a LEFT and a RIGHT button, click your RIGHT mouse button on this **[TEST FILE](https://www.yourpurebredpuppy.com/books/testfile.pdf "Click your RIGHT mouse button on this link")**  
-     
+1. If your mouse has a LEFT and a RIGHT button, click your RIGHT mouse button on this **[TEST FILE](https://www.yourpurebredpuppy.com/books/testfile.pdf "Click your RIGHT mouse button on this link")**
+
    If your mouse has only one button, or only a trackpad, do CONTROL-CLICK (hold down the control key while clicking on the link).
 2. A gray box will appear. Click on **Save File As** or **Save Link As** or **Download Linked File As**
 3. Another gray box will appear. It will say testfile.pdf. Good! Make sure the   `Where`   slot specifies **Desktop** for where to save the file. If it doesn't say Desktop, click on the tiny V-shaped "down arrow" and choose Desktop.

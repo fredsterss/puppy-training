@@ -9,9 +9,8 @@ fetched_at: "2026-08-10T13:13:45+00:00"
 
 # Dog Breed Traits: Shedding and Allergies
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-  
 One of a series of 11 articles on Dog Breed Traits to consider before choosing a dog. See the complete list.  +
 
 [Size](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-traits-size.html)
@@ -40,7 +39,7 @@ What are the biggest mistakes owners make about shedding?
 
 They bring home a German Shepherd, Dalmatian, Beagle, Cocker Spaniel, Corgi, Newfoundland, Siberian Husky, etc..... and within a year or two, the dog is given up because of "too much shedding."
 
-![Owner sweeping shed hair from Siberian Husky](../graphics/dog-breed-traits-shed-hero.jpg)
+*Image hint — Owner sweeping shed hair from Siberian Husky*
 
 Siberian Huskies shed. A lot. As do all other breeds with a thick double coat.
 
@@ -56,7 +55,7 @@ Prospective owners are always eager to learn about the non-shedders, so let's st
 
 Virtually all dogs shed. There are only two types of dogs that **don't** shed:
 
-![Xoloitzcuintle](../graphics/dog-breed-traits-shed-non1.jpg)
+*Image hint — Xoloitzcuintle*
 
 Xoloitzcuintle, affectionately nicknamed Xolo (pronounced SHO-lo)
 
@@ -68,7 +67,7 @@ The appearance of these dogs isn't everyone's cup of tea. But if you're interest
 
 #### Dogs with continuously growing hair don't (hardly) shed.
 
-![Havanese](../graphics/dog-breed-traits-shed-non2.jpg)
+*Image hint — Havanese*
 
 Havanese (along with several related cousins) shed minimally and have playful personalities, for homes without young children.
 
@@ -82,7 +81,7 @@ To prevent that, you must use scissors or clippers every few months to cut the g
 
 #### "Which dog breeds have continuously growing hair that doesn't shed?"
 
-![Silky Terrier](../graphics/dog-breed-traits-shed-non3.jpg)
+*Image hint — Silky Terrier*
 
 Silky Terriers don't shed, so need regular brushing, combing, and trimming to keep their coat short(ish) and neat/clean.
 
@@ -98,15 +97,19 @@ Silky Terriers don't shed, so need regular brushing, combing, and trimming to ke
 
 ...plus crosses of these breeds with each other. (If a non-shedder is crossed with any other kind of shedder, their offspring will NOT be non-shedders.)
 
-![thumbs-up](../graphics/thumbs-up.jpg)Along with no shedding, these breeds have sweet, fun-loving personalities – bright, cheerful, and playful. However, I only recommend them for homes with older, gentle, respectful children.
+*Image hint — thumbs-up*
 
-![thumbs-down](../graphics/thumbs-down.jpg)Along with needing a lot of grooming, all of these breeds (except Poodles) tend to be hard to housebreak. The worst offenders are Yorkies, Maltese, and Bichons... but the others (except Poodles) aren't too far behind!
+Along with no shedding, these breeds have sweet, fun-loving personalities – bright, cheerful, and playful. However, I only recommend them for homes with older, gentle, respectful children.
+
+*Image hint — thumbs-down*
+
+Along with needing a lot of grooming, all of these breeds (except Poodles) tend to be hard to housebreak. The worst offenders are Yorkies, Maltese, and Bichons... but the others (except Poodles) aren't too far behind!
 
 ### LIGHT SHEDDERS
 
 LIGHT shedding means that now and again you'll find some hair on your clothing or furniture – more hair than you would find from NON-SHEDDERS.
 
-![Australian Terrier](../graphics/dog-breed-traits-shed-light1.jpg)
+*Image hint — Australian Terrier*
 
 Most terrier breeds are remarkably similar: quick to bark, quick to chase, lively, bossy, feisty, scrappy, clever, independent, stubborn, persistent, impulsive, intense. This is an Australian Terrier.
 
@@ -128,7 +131,7 @@ The light shedders in the list above all belong with experienced owners. No litt
 
 Finally, there are a few LIGHT shedders that can make good pets for the average family. They're all a bit stubborn, but fit well into most families as long as you keep up  with the significant coat care:
 
-![Tibetan Terriers](../graphics/dog-breed-traits-shed-light2.jpg)
+*Image hint — Tibetan Terriers*
 
 The Tibetan Terrier is lively and playful, but not hyperactive. Although a bit stubborn, also calm and low-key. He is a moderate dog in all respects and can adapt to most homes with sufficient exercise (and of course proper coat care).
 
@@ -145,7 +148,7 @@ However, that's not the end of their shedding. Living inside our temperature-con
 
 Here are some AVERAGE shedders that often make good pets for a typical family with no small children, as long as you can meet all their needs:
 
-![West Highland White Terrier](../graphics/dog-breed-traits-shed-average2.jpg)
+*Image hint — West Highland White Terrier*
 
 The West Highland White Terrier (Westie) is an AVERAGE shedder with a confident, opinionated temperament. His coat does need significant trimming/clipping.
 
@@ -170,7 +173,7 @@ But you might choose to accept  heavy shedding if you and the dog were otherwis
 
 Heavy shedders fall into two categories:
 
-![German Shepherd](../graphics/dog-breed-traits-shed-heavy1.jpg)
+*Image hint — German Shepherd*
 
 The good news is that German Shepherds have only one shedding period a year. The bad news is it lasts for 365 days!
 
@@ -182,9 +185,7 @@ So year-round, you'll find hair stuck tenaciously to your pants and curling unde
 
 Examples of constant heavy shedders include German Shepherds, Dalmatians, Beagles, Pugs, Smooth Jack Russell Terriers, and others.
 
-  
-
-![Siberian Husky](../graphics/dog-breed-traits-shed-heavy3.jpg)
+*Image hint — Siberian Husky*
 
 If you don't mind raking this out of your dog's coat every day, for several weeks, consider a Siberian Husky. Otherwise...
 
@@ -194,11 +195,9 @@ Seasonal shedders shed a minimal to moderate amount of hair off and on throughou
 
 Examples of seasonal heavy shedders: Australian Shepherds, Bernese Mountain Dogs, Chows, Cocker Spaniels, Collies, Golden Retrievers, Labrador Retrievers, Newfoundlands, Norwegian Elkhounds, Pomeranians, Saint Bernards, Shelties, Siberian Huskies, Welsh Corgis, and others
 
-  
-
 If you're allergic to dogs....
 
-![Allergic to dogs](../graphics/dog-breed-traits-allergic2.jpg)
+*Image hint — Allergic to dogs*
 
 About 20% of Americans are allergic to dogs. And that percentage increases if you also have an allergy to something else. One allergy often leads to more allergies.
 
@@ -223,7 +222,7 @@ Also keep in mind that when you're allergic to one thing, you're more likely to 
 
 #### "My doctor says I'm allergic to canine saliva."
 
-![Puppy licking owner's face](../graphics/dog-breed-traits-allergic1.jpg)
+*Image hint — Puppy licking owner's face*
 
 Lick! Puppy loves you! Though it might not feel much like love if you start sneezing. Many allergic peoople think they're reacting to dog hair or dander, when they're actually reacting to certain proteins in a dog's saliva.
 
@@ -251,7 +250,7 @@ So you might start out by being allergic to, say, *tree pollen.* A year later, y
 
 **MY ADVICE:** Stick with [NON-SHEDDING](#nonshedding) breeds.
 
-![Poodle](../graphics/dog-breed-traits-allergic3.jpg)
+*Image hint — Poodle*
 
 Poodles are the safest of all breeds for allergy sufferers.
 
@@ -268,24 +267,3 @@ It is a very sad thing to bring home a dog and discover, after a few months or y
 If you do decide to try the breeder test, visit **multiple** breeders, not just one. And make sure you're monitoring your reactions only to the breeder's ADULT dogs.
 
 Don't try to judge allergic reactions to PUPPIES. A puppy's soft supple skin doesn't produce much dander or oil   this process only occurs in adult dogs. So hang out with the adult dogs.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

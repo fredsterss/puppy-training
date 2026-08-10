@@ -9,9 +9,9 @@ fetched_at: "2026-08-10T13:29:47+00:00"
 
 # Puppy Training Schedule: What to Teach Puppies, and When
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Training a new puppy](../graphics/schedule-intro.jpg)
+*Image hint — Training a new puppy*
 
 Puppy training starts the moment you bring your puppy home. Whatever he does, you must react properly or he will learn the wrong things.
 
@@ -27,7 +27,7 @@ So let's look at my puppy training schedule by age. I use this puppy training sc
 
 ## Starting at 7 weeks old....
 
-![Training a puppy by teaching feeding routines](../graphics/schedule-routines.jpg)
+*Image hint — Training a puppy by teaching feeding routines*
 
 Routines are reassuring to puppies. For example, his food bowl should be placed in the same place every time he eats.
 
@@ -51,7 +51,7 @@ Dogs thrive on sameness, routines that are familiar, predictable, repeated. As m
 2. Have him come with you to the kitchen. Get his bowl from the same cupboard and set it on the same counter every time. He should be right there watching you. You want him to see that YOU are the source of his food.
 3. If he's acting excitable, don't put his food down, else he'll learn that excitable behavior makes the food appear! If he's racing around, barking, or jumping, he should be on leash so you can stop those behaviors.
 
-   ![Puppy sitting before meal](../graphics/schedule-meals-sit.jpg)
+*Image hint — Puppy sitting before meal*
 
    "Sit" before meals encourages calmness and patience – two valuable traits that will make other training much easier.
 4. When he is calm, the bowl is ready to go down. If he already knows how to sit, have him sit first – it's a subtle and gentle leadership thing. Then say "Okay!" and place the bowl on the floor, in the same spot every time. "Here's your food."
@@ -65,8 +65,6 @@ Dogs thrive on sameness, routines that are familiar, predictable, repeated. As m
 As you can see, you're not only showing your puppy what YOU will do as part of the routine, you're also showing him what you expect HIM to do as his part of the routine.
 
 Once your pup learns the routine for, say, meal time, if you do your part every time, he will do his part every time. Automatically. Day in and day out. Training a puppy goes very smoothly when you establish good routines starting the moment the pup joins your household.
-
-  
 
 #### The trick is to make sure the routines your puppy is learning are ***good***  ones that lead to ***good***  behavior.
 
@@ -82,7 +80,7 @@ The easiest way to raise and train your puppy is to establish choreographed rout
 
 Along with establishing good routines....
 
-![Training a puppy by teaching household rules](../graphics/schedule-rules.jpg)
+*Image hint — Training a puppy by teaching household rules*
 
 Teach Puppy which behaviors are allowed in your house and which behaviors aren't. This particular behavior would be a "No."
 
@@ -103,7 +101,7 @@ Teach Puppy which behaviors are allowed in your house and which behaviors aren't
   You'll find detailed housebreaking directions in my puppy training book (see bottom of page) – and yes, I cover each one of those housebreaking options so you can choose which one works best for your pup and your lifestyle.
 - Teach your puppy to go into his crate or pen and to stay quietly when the door is closed.
 
-  ![Crate training a puppy](../graphics/schedule-crate.jpg)
+*Image hint — Crate training a puppy*
 
   A crate protects your puppy from household dangers and is an invaluable aid in housebreaking.
 
@@ -131,7 +129,7 @@ Teach everything above (routines, housebreaking, crate training, Good, No), plus
 - Teach your puppy to take food and toys gently from your hand. Don't let him have anything if he grabs at it.
 - Teach your puppy NOT to mouth or nip at anyone's hands or feet.
 
-  ![Training a puppy by teaching him gentleness](../graphics/schedule-gentleness.jpg)
+*Image hint — Training a puppy by teaching him gentleness*
 
   Teach your puppy to be gentle when interacting with people. He must not nip or chew on people's hands.
 
@@ -144,7 +142,7 @@ Teach everything above (routines, housebreaking, crate training, Good, No), plus
 - Teach your puppy to give or drop whatever is in his mouth when told.
 - Teach your puppy to stay still (more or less!) and not fuss when you're brushing him, bathing him, clipping his nails, or brushing his teeth. Teach him to accept handling of any part of his body.
 
-  ![Training a puppy by teaching him to accept handling](../graphics/schedule-handling.jpg)
+*Image hint — Training a puppy by teaching him to accept handling*
 
   When to start training a puppy to accept handling? Immediately. Start handling your puppy immediately so he learns to accept anything you need to do with him.
 
@@ -159,7 +157,7 @@ Teach everything above (routines, housebreaking, crate training, Good, No), plus
 
 Teach everything from the previous sections, plus...
 
-![Training an older puppy](../graphics/schedule-older.jpg)
+*Image hint — Training an older puppy*
 
 Older puppies are ready to start learning more advanced words after they are obeying basics such as "No." Don't jump ahead!
 
@@ -182,7 +180,7 @@ Teach everything from the previous sections, plus...
 - Teach your puppy to go for a *structured* walk where he stays close beside you and pays close attention to you, instead of being distracted by everything else.
 - Teach your puppy to greet people and other animals politely, or else ignore them. Don't allow him to act excitably, aggressively, or fearfully toward people or other dogs.
 
-![Respectful dogs understand and do what you say](../graphics/schedule-storybook.jpg)
+*Image hint — Respectful dogs understand and do what you say*
 
 Before they're 6 months old, my pups know how to do everything in the lists above. They pay close attention to me and do whatever I ask of them.
 
@@ -196,7 +194,7 @@ Simple. Start at the very beginning, as though your 6 month old pup was only 7 w
 
 And if your pup is **12** months old? **18** months old? Or even older than that? Is there a separate ***dog training schedule*** that I use for adult dogs?
 
-![Older puppy](../graphics/schedule-olderpup.jpg)
+*Image hint — Older puppy*
 
 When I foster an older puppy or adult dog, I train him exactly as I would a younger pup – I start at the very beginning, with the basics.
 
@@ -212,7 +210,7 @@ So if your older puppy (or adult dog) is still mouthing on your hands, or barkin
 
 "But ***how?"*** you want to know. "***How*** do I train my puppy?"
 
-![Shiba Inu pup learning to be calm and patient](../graphics/schedule-shiba.jpg)
+*Image hint — Shiba Inu pup learning to be calm and patient*
 
 It's best to get this right the first time around, because Puppy won't ever be the same age again.
 
@@ -228,8 +226,6 @@ Instead, puppy training should be done at home. I'll help you. My puppy training
 
 I'll show you my proven step-by-step training method for teaching your puppy all the words he needs to know, plus consistent household rules and routines, housebreaking, crate training, acceptance of being handled, calmness, gentleness, and general obedience training.
 
-  
-
 ### My puppy training method is:
 
 1. BASED ON LEADERSHIP AND RESPECT, which means you and your family are the leaders in your household and your pup is the follower. Dogs LOVE to be followers when you show them that you're a confident, consistent leader who makes all the decisions.
@@ -237,26 +233,9 @@ I'll show you my proven step-by-step training method for teaching your puppy all
 
 I don't recommend so-called "purely positive" methods that allow misbehaving pups to continue misbehaving, instead of teaching them which behaviors ***are*** and ***are not*** allowed. "Purely positive" is fine for teaching tricks and competition exercises.... but NOT for teaching the solid good behaviors that all family dogs need to know, and NOT for stopping behavior problems such as barking, jumping, chewing, nipping, chasing, etc.
 
-[![puppy training book](https://www.yourpurebredpuppy.com/books/covers/RTP-110.jpg "Respect Training for Puppies by Michele Welton")](https://www.yourpurebredpuppy.com/books/RTP.html)If you want your puppy to be a good family dog, teach him with a balanced training method based on respect and leadership. It's the perfect match for how your pup thinks and learns. Check out
+*Image hint — puppy training book*
+
+[puppy training book](https://www.yourpurebredpuppy.com/books/RTP.html)
+
+If you want your puppy to be a good family dog, teach him with a balanced training method based on respect and leadership. It's the perfect match for how your pup thinks and learns. Check out
 [Respect Training For Puppies.](https://www.yourpurebredpuppy.com/books/RTP.html)
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

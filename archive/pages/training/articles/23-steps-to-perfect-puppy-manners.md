@@ -9,11 +9,15 @@ fetched_at: "2026-08-10T13:12:24+00:00"
 
 # Perfect Puppy Manners, Just 23 Steps
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
 The easiest way to train your puppy is to establish choreographed routines – same things, same order, same words – with yourself as the director, the one in charge. Create good routines, stick to them, and your pup's behavior will be predictable and good.
 
-1. ![fluffy gold and white pup with heart tag](../graphics/rtp/puppy-respect_html_73af5c69.jpg)When your puppy does something you don't like, say "No" or "AH-ah" along with a corrective technique that discourages him from repeating that behavior.
+1.
+
+    *Image hint — fluffy gold and white pup with heart tag*
+
+    When your puppy does something you don't like, say "No" or "AH-ah" along with a corrective technique that discourages him from repeating that behavior.
 2. When your puppy does something you do  like, let him know by saying, "Good" or "Yes" along with a reward that encourages him to repeat that behavior.
 3. Indoors, require calm  behavior. Pups who are allowed to be excitable indoors are far more likely to have behavior problems. Don't allow running around the house, rough play, barking, jumping, rushing the doorbell, or attacking the vacuum cleaner. If necessary, have the pup wear his leash indoors so you can stop those behaviors.
 4. Whenever your puppy is on leash, the leash must be kept nice and loose. If he is currently pulling on the leash during walks, don't go for any more walks until you've taught him to stop pulling in your own home and yard.
@@ -29,7 +33,11 @@ The easiest way to train your puppy is to establish choreographed routines – s
 14. Barking makes dogs more excitable. Don't allow your puppy to bark at harmless things such as your neighbor or your neighbor's dog. Certainly he can bark to alert you to something, but he should stop barking when told. He should be quiet when left home alone.
 15. Don't allow jumping on anyone, including yourself.
 16. Don't allow your puppy to "rush the doorbell", i.e. pitch a fit when someone comes to the door.
-17. ![Tibetan Mastiff pup](../graphics/rtp/puppy-respect_html_m3b52e028.jpg)Make sure your pup will move out of your way when told.
+17.
+
+    *Image hint — Tibetan Mastiff pup*
+
+    Make sure your pup will move out of your way when told.
 18. Teach your puppy to *Sit*  and to stay sitting until you cue him to get up.
 19. Don't let your puppy fuss when you're brushing him, bathing him, clipping his nails, or brushing his teeth. Teach him to accept handling of any part of his body.
 20. Teach your pup to give or drop whatever is in his mouth when told.
@@ -53,7 +61,7 @@ For example, you can introduce "Good and "No", being quiet in the crate, walking
 
 **It's easier to train a dog if your other dogs are already well-behaved.**
 
-![Samoyeds](../graphics/rtp/puppy-respect_html_m242c0fdb.jpg)
+*Image hint — Samoyeds*
 
 If your other dogs have behavioral issues, if they sometimes listen and sometimes not, or if they're not 100% housebroken, a puppy is likely to follow their unruly behaviors.
 
@@ -74,7 +82,7 @@ It's harder to make a dog conform to your  expectations when his  needs aren't
 
 **It's easier to train some breeds than other breeds.**
 
-![Bull Terrier pup](../graphics/rtp/puppy-respect_html_3c35a77f.jpg)
+*Image hint — Bull Terrier pup*
 
 Someone who has never trained a dog before will find it easier to train the average Golden Retriever or Sheltie or Poodle, compared with the average Basenji or Shiba or Bull Terrier.
 
@@ -93,30 +101,3 @@ For example, you might be tempted to focus on commands (such as "Come") while st
 That's not likely to work. Allowing excitable, impulsive, or disrespectful behavior  keeps a puppy in an excitable, impulsive, and disrespectful mindset.  This state of mind is stressful for a puppy to live with and virtually guarantees more behavior problems in the future.
 
 So commit to working on each skill on the list. They're all important in encouraging calm and respectful behavior and discouraging excitable and disrespectful behavior. If you follow my training program faithfully, the result will be a calm, well-behaved pup who loves, trusts, AND respects you.
-
-My [![book cover](../../books/covers/RTP-110.jpg)training program](https://www.yourpurebredpuppy.com/books/RTP.html) is for puppies 2 to 18 months old. It explains, step by step:
-
-- How to do everything on the list above.
-- How to teach your pup to be calm and to look to you for guidance, direction, and permission.
-- How to make yourself important  – the most important thing – in your puppy's life. How to show your pup the clear, black-and-white rules and routines he is to follow. And how to make sure he does.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

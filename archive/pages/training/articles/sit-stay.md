@@ -9,9 +9,9 @@ fetched_at: "2026-08-10T13:29:49+00:00"
 
 # Teach Your Pup to Sit and Stay
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![black lab puppy](../graphics/rtp/sitstay-charlie.jpg)
+*Image hint — black lab puppy*
 
 Charlie has learned how to sit exactly as his owner taught him: ignore the commands, crouch until the treat appears, then sit all the way down.
 
@@ -33,7 +33,7 @@ Not surprisingly, the vet doesn't find this very helpful.
 
 What you want *Sit*  to mean is "Plunk your bottom on the floor and keep it there until I tell you otherwise."
 
-![eurasier breed, sitting on grass](../graphics/rtp/sitstay-eurasier.jpg)
+*Image hint — eurasier breed, sitting on grass*
 
 What breed is this puppy? Eurasier, which is a type of spitz (prick ears, curled tail, thick coat)
 
@@ -71,8 +71,6 @@ Remember, if your pup doesn't sit on one command, don't repeat it. Just place  
 
 If he's persistent about not sitting on his own, make your leash tug more firm. You want him to conclude that sitting on his own is much more comfortable than being "helped."
 
-  
-
 ### Teach your puppy to STAY sitting... basic
 
 Once your puppy is reliably sitting on one command, start requiring him to HOLD the sit.
@@ -81,7 +79,7 @@ Get him sitting beside you so you're both facing the same direction. Shorten the
 
 Yes, usually you want a very loose leash with a big loop in it. But for this exercise, a short leash is better.
 
-![cute pup sitting on grass](../graphics/rtp/sitstay-goldwhite-pup.jpg)
+*Image hint — cute pup sitting on grass*
 
 Just sit there doing nowt.
 
@@ -121,7 +119,7 @@ But when I start moving away from my dog, especially outdoors or in a distractin
    If instead he tries to lie down, again try to check him with the leash before  he sinks all the way down. If you're too slow, use the leash or your hands to get him back up and reposition him without a word.
 5. On the first day you try this, aim for your pup to hold his Sit-Stay for 10 straight seconds. Count in your head. Each time you have to correct him, start your count again.
 
-   ![pit bull puppy sitting nicely](../graphics/rtp/sitstay-pitbull.jpg)
+*Image hint — pit bull puppy sitting nicely*
 
    "Good puppy..."
 6. When he has held his position for 10 seconds, step back to his side. Again, as you move, use the slightly  taut leash over his head to help him hold his position.
@@ -143,7 +141,7 @@ Can your pup do these four things?
 3. Hold a Sit-Stay even while you're praising him?
 4. Hold a Sit-Stay until you release him with "Okay"?
 
-![black labrador retriever sitting](../graphics/rtp/sitstay-blacklab.jpg)
+*Image hint — black labrador retriever sitting*
 
 Black Labrador Retriever holding his sit-stay despite distractions
 
@@ -176,7 +174,7 @@ Don't try to correct him from the end of the leash. You'll only end up pulling h
 
 Especially don't call out, "Stay!" when you see him starting to move. He should never hear that word when he's in the process of moving.
 
-![blue merle australian shepherd puppy, sitting on grass](../graphics/rtp/sitstay-aussie.jpg)
+*Image hint — blue merle australian shepherd puppy, sitting on grass*
 
 Blue merle Australian Shepherd puppy practicing a sit-stay.
 
@@ -196,39 +194,16 @@ And repeat your distractions.
 
 ### "What's the difference between Wait and Stay?"
 
-![Papillon](../graphics/rtp/puppy-respect_html_572a43c5.jpg)WAIT  means "Don't cross this boundary." You use *Wait*  when you don't want your pup to go through a door or gate, or enter a room, or jump out of your car.... until (and unless) you say so.
+*Image hint — Papillon*
+
+WAIT  means "Don't cross this boundary." You use *Wait*  when you don't want your pup to go through a door or gate, or enter a room, or jump out of your car.... until (and unless) you say so.
 
 The boundary must be clear to your dog. In other words, he must be able to SEE  the difference between "here" and "there." For example, a physical marker such as a door frame, or gate posts. Or an obvious change of footing such as vinyl floor to carpet, or grass to concrete.
 
 With *Wait,*  as long as your puppy doesn't cross the boundary, you don't care whether he stands, sits, lies down, or wanders around on his side of the boundary. He simply can't cross it.
 
-![dog practicing sit-stay](../graphics/rtp/puppy-respect_html_m4e138012.gif)STAY  means "Hold an exact position." If you tell him to *Sit,*  he has to stay sitting. He can't lie down, or stand up, or move two feet to the right.
+*Image hint — dog practicing sit-stay*
+
+STAY  means "Hold an exact position." If you tell him to *Sit,*  he has to stay sitting. He can't lie down, or stand up, or move two feet to the right.
 
 As you can see, Stay  is much stricter than Wait.  Sometimes you need that strictness. You might want your pup to sit still so the vet can examine his teeth. In such cases, it wouldn't do for your pup to stand up and walk away, or flop onto his side. When you need your puppy to stay in a particular position, that's when you use *Stay.*
-
-My [![book cover](../../books/covers/RTP-110.jpg)training program](https://www.yourpurebredpuppy.com/books/RTP.html) is for puppies 2 to 18 months old. It explains, step by step:
-
-- How to establish good patterns and routines that govern everything your pup does.
-- How to teach your pup to be calm and to look to you for guidance, direction, and permission.
-- How to make yourself important – the most important thing – in your puppy’s life. How to show your pup the clear, black-and-white rules and routines he is to follow. And how to make sure he does.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

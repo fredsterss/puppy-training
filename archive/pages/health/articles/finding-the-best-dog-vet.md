@@ -9,9 +9,9 @@ fetched_at: "2026-08-10T13:14:47+00:00"
 
 # Think Your Veterinarian Is Good? Here's How To Tell
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![veterinarian](../graphics/vets-labpup.jpg)
+*Image hint — veterinarian*
 
 Your vet should not be making the decisions about your dog's health care. Instead, you and your vet should work as **partners.** So choose the right vet to partner with!
 
@@ -33,7 +33,7 @@ Holistic vets offer guidance on how you can make **everything** in your dog's da
 
 Don't we all want this kind of forward-looking, whole-picture health care for our dog? Yes, of course.
 
-![owner shaking hands with his dog](../graphics/vets-aussie.jpg)
+*Image hint — owner shaking hands with his dog*
 
 YOU are your dog's primary caregiver. A 15-minute visit to the vet doesn't have as much impact on your dog's health as how you care for her on a daily basis. But when you do need help, a holistic vet is the best choice.
 
@@ -61,11 +61,15 @@ Of course, those are true lifesavers when really needed! The problem is that con
 
 Dr. Richard Pitcairn DVM can tell you more:
 
-![Dog veterinarian](../graphics/feeding_vet3.gif)"In our eagerness for quick and easy solutions, we seize on a certain drug that may just cover up symptoms without addressing underlying causes. For example, synthetic cortisone is powerful enough to stop a wide variety of symptoms in their tracks. But inside, the disturbance continues unseen. Animals vigorously treated with such drugs (apparently successfully) go on to develop another condition within a few weeks or months." (Dr. Pitcairn's Complete Guide To Natural Health For Dogs and Cats)
+*Image hint — Dog veterinarian*
+
+"In our eagerness for quick and easy solutions, we seize on a certain drug that may just cover up symptoms without addressing underlying causes. For example, synthetic cortisone is powerful enough to stop a wide variety of symptoms in their tracks. But inside, the disturbance continues unseen. Animals vigorously treated with such drugs (apparently successfully) go on to develop another condition within a few weeks or months." (Dr. Pitcairn's Complete Guide To Natural Health For Dogs and Cats)
 
 Drugs and medications can have side effects that you don't see, side effects that happen deep inside your dog's body and take some time to cause problems.
 
-![Dog veterinarian](../graphics/feeding_vet3.gif)Dr. Nino Aloro DVM says, "Sometimes the side effects are worse than the disease. Standard medications have the potential to cause frightening problems with the liver, heart, kidneys, skin, immune system, and digestive tract."
+*Image hint — Dog veterinarian*
+
+Dr. Nino Aloro DVM says, "Sometimes the side effects are worse than the disease. Standard medications have the potential to cause frightening problems with the liver, heart, kidneys, skin, immune system, and digestive tract."
 
 Why don't conventional vets offer more kinds of treatments? Because they don't know how. Veterinary colleges teach classes that rely on medications, surgery, and prescription diets.
 
@@ -73,15 +77,15 @@ Vets who want to add more skills, such as acupuncture or herbology, need to take
 
 A conventional-only philosophy deprives your dog of valuable treatment options that might really help his long-term health.
 
-![pointing finger](../graphics/vets-finger.jpg)Also, many conventional vets (probably most, to be honest) don't give good advice about your dog's all-important general care.
+*Image hint — pointing finger*
 
-For example, most conventional vets recommend dog food that isn't suited to a dog's digestive tract. Their nutrition class was taught by the employees of a commercial dog food company – hardly an objective source.  
-  
+Also, many conventional vets (probably most, to be honest) don't give good advice about your dog's all-important general care.
+
+For example, most conventional vets recommend dog food that isn't suited to a dog's digestive tract. Their nutrition class was taught by the employees of a commercial dog food company – hardly an objective source.
+
 Most conventional vets give too many vaccinations, even though the research is clear that over-vaccinating can damage your dog's health. Most conventional vets suggest spaying and neutering too early, despite studies that show health risks.
 
 So.... most conventional vets simply don't give good advice about your dog's general care. Holistic vets do much better in this all-important area.
-
-  
 
 ### Holistic vets are hard to find
 
@@ -102,15 +106,15 @@ Only when a vet *integrates* both conventional and alternative treatments do I c
 
 My dog health book (see bottom of page) shows you, step by step, how to find holistic and integrative vets.
 
-  
-
 ### If you can't find a holistic vet
 
 If you follow the step-by-step search method in my book and there is no holistic vet near you, don't despair.
 
 Let me tell you how I obtain excellent veterinary care for my dogs.
 
-![Labrador puppy with veterinarian](../graphics/vets-labpup2.jpg)I have a wonderful vet certified in herbal medicine and acupuncture. She also prescribes drugs (such as antibiotics and pain medications) when needed. She does bloodwork and basic diagnostic tests.
+*Image hint — Labrador puppy with veterinarian*
+
+I have a wonderful vet certified in herbal medicine and acupuncture. She also prescribes drugs (such as antibiotics and pain medications) when needed. She does bloodwork and basic diagnostic tests.
 
 But she does not offer surgery or advanced diagnostic tests like X-rays or ultrasounds.
 
@@ -118,7 +122,9 @@ For those, I turn to my wonderful conventional vet – the best I've ever found.
 
 Both vets share a valuable trait – open-mindedness. They appreciate what the other has to offer, and work cooperatively through me. The three of us are a team providing the best possible integrated (holistic) care for my dogs.
 
-![Jenna needs a veterinarian](../graphics/vets-jenna.jpg)There have been times when other vets needed to join our team. As when my Papillon needed a quick X-ray and of course it was a holiday weekend (isn't it always?!).
+*Image hint — Jenna needs a veterinarian*
+
+There have been times when other vets needed to join our team. As when my Papillon needed a quick X-ray and of course it was a holiday weekend (isn't it always?!).
 
 Fortunately I had already chosen a 24-hour emergency practice. It pays to plan ahead and know who you will call if X or Y should happen. You don't want to waste valuable minutes making frantic phone calls to find someone who is open.
 
@@ -130,11 +136,9 @@ Do you think the vet you're using right now would be agreeable to your ideas abo
 
 If that turns out to be the case, excellent! But in my experience, most conventional vets are friendly and smiling **as long as you agree to everything they want to do.**
 
-![veterinarian](../graphics/vets-skeptical.jpg)
+*Image hint — veterinarian*
 
 Many vets are "rigid" in their thinking, not open to anything outside their own training. Don't let that stop you from pursuing the best health care practices for your dog.
-
-  
 
 But suppose you say,
 
@@ -159,10 +163,10 @@ The conventional vets I use are smart and dedicated. I very much appreciate thei
 
 But they have conventional mindsets, so their advice always revolves around surgeries, prescription diets, and drugs and medications.
 
-When a conventional vet gives advice, you're getting only some of the possible options – the ones he has been trained in.  
-  
-When my dog has tests done, I listen to what my conventional vet has to say about the results. I listen to his recommendations for treatment. But then I do some research on my own. And I ask my alternative vet for HER recommendations.  
-  
+When a conventional vet gives advice, you're getting only some of the possible options – the ones he has been trained in.
+
+When my dog has tests done, I listen to what my conventional vet has to say about the results. I listen to his recommendations for treatment. But then I do some research on my own. And I ask my alternative vet for HER recommendations.
+
 Often I decide to follow some of the recommendations from each one, combining the wisdom each brings to the table.
 
 **You can see why a single holistic vet is your ideal choice!** Then you won't need to go back and forth between two vets, which takes more time and money.
@@ -171,15 +175,13 @@ But however you need to do it, valuable treatments that can make a difference to
 
 ### Don't assume that all of your dog's health care comes from VETS
 
-![child with dog](../graphics/vets-child.jpg)
+*Image hint — child with dog*
 
 Raising a healthy child isn't done at your doctor's office. It's done at home, with a little help from your doctor when needed. Same with raising a healthy dog.
 
 You do need to line up the members of your veterinary team. But there's much you can do on your own, starting right now, to protect your dog's health so he can avoid health problems and NOT need to visit your veterinary team very much at all.
 
 Everything your dog comes in contact with can affect his health – for better or for worse. Your goal is to make everything in your dog's daily life **health-promoting.**
-
-  
 
 Start by reading my article,
 
@@ -190,24 +192,3 @@ Then move on to these articles,
 [The Best Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
 
 [Vaccinations and Booster Shots](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

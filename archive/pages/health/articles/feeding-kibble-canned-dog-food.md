@@ -9,9 +9,8 @@ fetched_at: "2026-08-10T13:14:42+00:00"
 
 # 5 Best Kibble and Canned Dog Foods
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-  
 One of a series of 13 feeding articles. See the complete list.  +
 
 [3 Best Ways To Feed Your Dog Healthy Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
@@ -60,7 +59,7 @@ I can help you with that ([click here](#brands) if you're in a hurry), but aren'
 
 ## The two huge problems with kibble and canned dog food
 
-![dry kibble dog food in a bowl](../graphics/feeding-06.jpg)
+*Image hint — dry kibble dog food in a bowl*
 
 What is really inside these pellets?
 
@@ -81,7 +80,7 @@ Dogs have been domesticated for about 15,000 years. That's amazing, isn't it? An
 
 On this diet of real food, dogs lived to ripe old ages. Then the pet food corporations came along and changed everything.
 
-![Pug sitting beside a bowl of dry dog food pellets](../graphics/homemade-kibble.jpg)
+*Image hint — Pug sitting beside a bowl of dry dog food pellets*
 
 Dogs didn't eat kibble until about a hundred years ago, when the meat and grain industries started looking for a market for their rejected foodstuffs that couldn't pass USDA inspection.
 
@@ -89,7 +88,9 @@ About a hundred years ago, the USDA started stamping "failed" on wheat and corn 
 
 Of course, this annoyed the grain manufacturers, who quickly discovered that the meat industry faced the same dilemma – meat that failed USDA inspection because it had spoiled or because the livestock was diseased.
 
-![Sad face](../graphics/feeding_smileybad.gif)The idea of mixing the rejects together and calling it "pet food" was born.
+*Image hint — Sad face*
+
+The idea of mixing the rejects together and calling it "pet food" was born.
 
 Marketing firms spent an enormous amount of money planting this awful idea in the public's mind.
 
@@ -104,7 +105,7 @@ In virtually all kibble and canned diets, this is so far from the truth that it 
 - Kibble and canned foods virtually never contain sirloin from a healthy cow raised in a lush pasture.
 - Nor do those foods contain chicken breast from a healthy hen who pecked happily around the barnyard.
 
-![Cattle in feedlot](../graphics/homemade-cow.jpg)
+*Image hint — Cattle in feedlot*
 
 Unless a dog food specifically says pasture-raised or grass-fed, this is where the beef in your dog's food comes from. Feedlots packed with livestock eating junky grain.
 
@@ -130,7 +131,7 @@ Most pet food companies buy their ingredients in bulk on the international open 
 
 "Fish oil" could be from salmon (good) this month and tuna (bad) next month.
 
-![Girl reading a map](../graphics/feeding-04.jpg)
+*Image hint — Girl reading a map*
 
 Unless the dog food specifies WHERE each ingredient comes from, you have no way to know where that might be. Could be a miserable facility in a third-world country with minimal safety standards.
 
@@ -156,7 +157,7 @@ Not.
 
 AAFCO is the Association of American Feed Control Officials. Their expertise is in livestock which stand shoulder-to-shoulder in small pens and only live **a few months** before being butchered for consumption.
 
-![logo](../graphics/feeding-07-aafco.jpg)
+*Image hint — logo*
 
 I pay no attention to AAFCO labeling.
 
@@ -179,7 +180,9 @@ With so many dogs eating these diets, bad teeth and gum disease are worse now th
 
 Yes, but in forms that are **usable** by the dog? Not so much.
 
-![hot fire](../graphics/feeding-08-fire.jpg)Many essential vitamins, enzymes, and antioxidants are damaged or destroyed by high heat.
+*Image hint — hot fire*
+
+Many essential vitamins, enzymes, and antioxidants are damaged or destroyed by high heat.
 
 All kibble and canned dog foods are COOKED.... and most are cooked at very high temperatures.
 
@@ -205,7 +208,7 @@ Why are the fats in kibble and canned foods so unbalanced? Because Omega 6 is ch
 
 Some manufacturers do add some Omega 3. It's usually listed as *fish oil*. But what kind of fish? Some fish species (such as Wild Alaskan Salmon) provide high-quality oil, while other fish species provide low-quality oil that can also contain high levels of mercury.
 
-![fish oil capsules shaped like a fish](../graphics/feeding-09-fish-oil.jpg)
+*Image hint — fish oil capsules shaped like a fish*
 
 By just saying *fish oil*, the manufacturer can put in whatever's cheapest.
 
@@ -217,7 +220,9 @@ Tastes great, yes. Nutritious, no.
 
 ### ✗ Kibble manufacturers will assure you that it's perfectly natural for dogs to eat hard pebbles every day.
 
-![Veterinarian](../graphics/feeding_vet3.gif)Listen to what **Dr. Richard Pitcairn DVM** says about ***that:***
+*Image hint — Veterinarian*
+
+Listen to what **Dr. Richard Pitcairn DVM** says about ***that:***
 
 "The whole concept of Insta-Meal for humans is repulsive. Most people would soon be climbing the walls in frustration, desperate for a salad or some fruit – anything whole and fresh, or just different. Perhaps the thought of eating kibbles for the rest of your own life helps make the point that pets forced to do so are being shortchanged. All of us – humans and animals – should have fresh, wholesome, unprocessed food in our daily diet."
 
@@ -226,8 +231,6 @@ Dry kibble is the exact opposite of what a dog is supposed to eat.
 Dry dog food is hard on his digestive tract. A dog's natural diet is packed with moisture (INSIDE the food) which helps bathe his intestines, keeping them slippery and healthy. Dry food has no such moisture, which is hard on his intestines, kidneys, and bladder. And no, unfortunately, pouring water on the dry food doesn't help much.
 
 Dogs were born to eat real food with lots of INTERNAL moisture that aids in healthy digestion and elimination.
-
-  
 
 ### ✗ Kibble and canned food manufacturers are now using the nice-sounding phrase "gently cooked" because they know the public is catching on about high heat killing nutrients in the food.
 
@@ -241,7 +244,7 @@ Your dog's **daily** diet should not be kibble or canned dog food.
 
 For his **daily** diet, you should feed [real food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html). You can [make it yourself](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html) or you can buy a [frozen or freeze-dried dog food](https://www.yourpurebredpuppy.com/health/articles/feeding-commercial-raw-dog-food.html), which you can feed raw or lightly cooked.
 
-![Feeding dry dog food](../graphics/commercial-redbowl.jpg)
+*Image hint — Feeding dry dog food*
 
 Kibble or canned is okay for an **occasional** meal.
 
@@ -270,62 +273,3 @@ For example, I recommend *Nature's Variety Original* dry kibble. That doesn't me
 - Weruva Grain Free
 - FirstMate Cage-Free Turkey
 - Wellness CORE Hearty Cuts Beef & Venison
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-## MORE ABOUT FEEDING
-
-[![dry and wet dog food](../graphics/feeding-related-kibble-canned.jpg)](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)
-
-[5 Best Kibble and Canned Dog Foods](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)
-
-[![woman reading dog food package](../graphics/feeding-related-package.jpg)](https://www.yourpurebredpuppy.com/health/articles/feeding-dog-food-package.html)
-
-[Truth and Lies on Dog Food Packages: How To Tell The Difference](https://www.yourpurebredpuppy.com/health/articles/feeding-dog-food-package.html)
-
-[![commercial raw dog food in a bowl](../graphics/feeding-related-frozen.jpg)](https://www.yourpurebredpuppy.com/health/articles/feeding-commercial-raw-dog-food.html)
-
-[5 Best Raw Dog Foods (Frozen & Freeze-Dried)](https://www.yourpurebredpuppy.com/health/articles/feeding-commercial-raw-dog-food.html)
-
-[![cans of dog food](../graphics/feeding-related-safe.jpg)](https://www.yourpurebredpuppy.com/health/articles/feeding-is-dog-food-safe.html)
-
-[Is Your Dog's Food Safe? Concerns About Pet Food Recalls](https://www.yourpurebredpuppy.com/health/articles/feeding-is-dog-food-safe.html)
-
-  
-
-## HONEST ADVICE ABOUT TRAINING
-
-[![terrier looking up at owner](../../training/graphics/training-related-jrt.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
-
-[Teach Your Dog To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
-
-[![german shepherd dog walking with owner](../../training/graphics/training-related-gsd.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
-
-[Dog Training – What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
-
-[![dog pulling owner on leash](../../training/graphics/training-related-blackwhite.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
-
-[You Need Dog Training Help.... But From Where?](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
-
-[![Golden Retriever pup chewing on furniture](../../training/graphics/training-related-goldenpup.jpg)](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
-
-[Puppy Training Schedule](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

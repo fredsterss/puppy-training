@@ -389,6 +389,105 @@ def strip_leading_heading(markdown: str) -> str:
     return re.sub(r"\A\s*# [^\n]+\n+", "", markdown, count=1).strip()
 
 
+TEMPLATE_FOOTER_RE = re.compile(
+    r"(?m)^(?:.*?\*\*About the author\*\*:\s*Michele Welton\b|"
+    r"To help you train and care for your dog\s*$)"
+)
+
+# These sales pitches recur immediately before the shared author/footer template.
+# They are intentionally specific: the raw page Markdown remains in SQLite, and
+# only generated reading copies are pruned.
+PRE_FOOTER_PROMO_RES = tuple(
+    re.compile(pattern, re.I | re.M)
+    for pattern in (
+        r"^My \[.*?training program\]\([^\n)]*/books/RTP\.html\) is for puppies 2 to 18 months old\.",
+        r"^My best-selling book, \[11 Things You Must Do Right To Keep Your Dog Healthy and Happy\]",
+        r"^\[!\[Dog feeding and health book by Michele Welton\]",
+        r"^It's probably answered in one of my books:",
+        r"^Learn more about \[\*Dog Quest\*\]",
+    )
+)
+
+BYLINE_CREDENTIALS_RE = re.compile(
+    r"(\[Michele Welton\]\(https?://www\.yourpurebredpuppy\.com/about\.html\)),\s*"
+    r"Dog Trainer,\s*(?:Breed Selection|Behavioral) Consultant,\s*Author of 15\s*"
+    r"(?:Dog Books|\[Dog Books\]\(https?://www\.yourpurebredpuppy\.com/books/?\))"
+)
+
+# Markdown destinations occasionally wrap across a line in the archived source,
+# so this accepts whitespace as well as ordinary URL characters inside (...).
+MARKDOWN_LINKED_IMAGE_RE = re.compile(
+    r"\[!\[([^\]]*)\]\(((?:[^()]|\([^()]*\))*)\)([^\]]*)\]"
+    r"\(((?:[^()]|\([^()]*\))*)\)"
+)
+MARKDOWN_IMAGE_RE = re.compile(
+    r"!\[([^\]]*)\]\((?:[^()]|\([^()]*\))*\)"
+)
+
+
+def replace_image_references(markdown: str) -> str:
+    """Replace unavailable image embeds with visible, future-friendly alt hints."""
+    def hint_for(alt_text: str) -> str:
+        alt = re.sub(r"\s+", " ", alt_text).strip()
+        return f"*Image hint — {alt}*" if alt else "*Image placeholder — no alt text*"
+
+    def linked_image_hint(match: re.Match[str]) -> str:
+        alt, _, label, target = match.groups()
+        link_label = label.strip() or re.sub(r"\s+", " ", alt).strip()
+        retained_link = f"[{link_label}]({target})" if link_label else target
+        return f"\n\n{hint_for(alt)}\n\n{retained_link}\n\n"
+
+    def image_hint(match: re.Match[str]) -> str:
+        return f"\n\n{hint_for(match.group(1))}\n\n"
+
+    replaced = MARKDOWN_LINKED_IMAGE_RE.sub(linked_image_hint, markdown)
+    replaced = MARKDOWN_IMAGE_RE.sub(image_hint, replaced)
+    replaced = re.sub(r"[ \t]+(?=\n)", "", replaced)
+    # Keep a leading list marker attached to an image/text block while still
+    # giving the hint its own rendered line.
+    replaced = re.sub(
+        r"(?m)^([ \t]*(?:\d+[.)]|[-+*]))\n\n"
+        r"(\*(?:Image hint — .*|Image placeholder — no alt text)\*)\n\n"
+        r"(?![ \t]*(?:\d+[.)]|[-+*])[ \t])(?=[^\n]*\S)",
+        lambda match: f"{match.group(1)}\n\n    {match.group(2)}\n\n    ",
+        replaced,
+    )
+    return re.sub(r"\n{3,}", "\n\n", replaced)
+
+
+def normalize_numbered_lists(markdown: str) -> str:
+    """Convert legacy and converter-duplicated number markers to Markdown lists."""
+    markdown = re.sub(
+        r"(?m)^([ \t]*)(\d+)\.[ \t]+\2\)[ \t\u00a0]+",
+        r"\1\2. ",
+        markdown,
+    )
+    return re.sub(
+        r"(?m)^([ \t]*)(\d+)\)[ \t\u00a0]*",
+        r"\1\2. ",
+        markdown,
+    )
+
+
+def prune_template_boilerplate(markdown: str) -> str:
+    """Remove recognized sales/footer templates from a generated reading copy."""
+    reading_copy = BYLINE_CREDENTIALS_RE.sub(r"\1", markdown)
+    footer = TEMPLATE_FOOTER_RE.search(reading_copy)
+    if not footer:
+        return normalize_numbered_lists(replace_image_references(reading_copy)).strip()
+
+    # Start at the beginning of the line containing the author badge, not at the
+    # bold text after its linked image. Some legacy pages begin the shared block
+    # directly with "To help you train and care for your dog" instead.
+    cut = footer.start()
+    preceding_window = max(0, cut - 5000)
+    for promo_re in PRE_FOOTER_PROMO_RES:
+        matches = list(promo_re.finditer(reading_copy, preceding_window, cut))
+        if matches:
+            cut = min(cut, matches[-1].start())
+    return normalize_numbered_lists(replace_image_references(reading_copy[:cut])).rstrip()
+
+
 def export_breed_pages(db: sqlite3.Connection, archive_dir: Path) -> tuple[set[str], int]:
     """Combine all breed-specific source pages into one Markdown file per breed."""
     reviews = db.execute(
@@ -455,14 +554,15 @@ def export_breed_pages(db: sqlite3.Connection, archive_dir: Path) -> tuple[set[s
         body_lines = [f"# {name}", "", "This guide combines every archived page for this breed into one document.", ""]
         retained = []
         for title, url, replay, resolved, captured, fetched, body in ordered:
-            if body in seen_bodies:
+            reading_body = prune_template_boilerplate(body)
+            if reading_body in seen_bodies:
                 duplicate_urls.add(url)
                 continue
-            seen_bodies.add(body)
-            retained.append((title, url, replay, resolved, captured, fetched, body))
+            seen_bodies.add(reading_body)
+            retained.append((title, url, replay, resolved, captured, fetched, reading_body))
             section = urlsplit(url).path.strip("/").split("/", 1)[0]
             label = label_order.get(section, (99, "Additional information"))[1]
-            body_lines.extend([f"## {label}", "", strip_leading_heading(body), ""])
+            body_lines.extend([f"## {label}", "", strip_leading_heading(reading_body), ""])
 
         body_lines.extend(["## Archived source pages", ""])
         for title, url, _, _, captured, _, _ in ordered:
@@ -509,7 +609,8 @@ def export_all(db: sqlite3.Connection, archive_dir: Path) -> int:
             continue
         path = markdown_path(url, pages_dir)
         write_markdown(path, title=title, url=url, replay=replay, resolved=resolved or replay,
-                       captured=captured, fetched=fetched, body=body)
+                       captured=captured, fetched=fetched,
+                       body=prune_template_boilerplate(body))
         db.execute("UPDATE pages SET markdown_path=? WHERE url=?", (path.relative_to(archive_dir).as_posix(), url))
         count += 1
     db.commit()

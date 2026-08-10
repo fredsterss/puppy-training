@@ -9,9 +9,8 @@ fetched_at: "2026-08-10T13:14:37+00:00"
 
 # Truth and Lies on Dog Food Packages – Secrets the Dog Food Companies Don't Want You to Know
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-  
 One of a series of 13 feeding articles. See the complete list.  +
 
 [3 Best Ways To Feed Your Dog Healthy Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
@@ -40,17 +39,17 @@ One of a series of 13 feeding articles. See the complete list.  +
 
 ## Let's start with the official Ingredients
 
-![Woman  reading a dog food package](../graphics/feeding-05.jpg)
+*Image hint — Woman reading a dog food package*
 
 Study the package of dog food carefully. The manufacturer is doing his best to make you buy, and unfortunately that includes misleading you. You need to know what to look for!
 
 ### What kind of meat, and how much?
 
-1) The meat should be NAMED: Beef. Chicken. Turkey. Lamb. Duck. Bison. Venison. Salmon. etc.
+1. The meat should be NAMED: Beef. Chicken. Turkey. Lamb. Duck. Bison. Venison. Salmon. etc.
 
 If the package just says *meat meal* or *animal digest* or *animal fat* or *fish oil*, the manufacturer is deliberately creating wiggle room so they can search the open market for the cheapest ingredient.
 
-2) A named meat/fish should be the first ingredient AND the second ingredient AND preferably the third or fourth ingredient as well. The more, the better!
+2. A named meat/fish should be the first ingredient AND the second ingredient AND preferably the third or fourth ingredient as well. The more, the better!
 
 For example, this:
 
@@ -68,7 +67,9 @@ NOT this:
 
 ### Are there any grains or cereals in the food?
 
-![Farmers's field](../graphics/feeding-kibble-01.jpg)Wheat, corn, soybean, barley, rice, oats, sorghum.... why are grains and cereals found in dog food?
+*Image hint — Farmers's field*
+
+Wheat, corn, soybean, barley, rice, oats, sorghum.... why are grains and cereals found in dog food?
 
 Because dogs need protein. Meat is the perfect protein for dogs – the *only* protein, in fact, that dogs are born to digest.
 
@@ -86,7 +87,9 @@ They discovered.... drumroll.... legumes.
 
 ### Are there any legumes in the food?
 
-![legumes, beans](../graphics/feeding-kibble-02.jpg)As cheap substitutes for meat protein, legumes now populate many dog foods. Green peas, pea starch, pea protein, pea fiber, pea flour, chickpeas, soybeans, kidney beans, lentils....
+*Image hint — legumes, beans*
+
+As cheap substitutes for meat protein, legumes now populate many dog foods. Green peas, pea starch, pea protein, pea fiber, pea flour, chickpeas, soybeans, kidney beans, lentils....
 
 Legumes are high in protein, yes, but it's NOT the kind of protein that's well-digested by dogs. Legumes can cause intestinal discomfort and flatulence. And they're high in unneeded carbs.
 
@@ -102,7 +105,9 @@ If I had to choose a starchy vegetable in my dog's food, it would be sweet potat
 
 ### Are there any extra oils in the food?
 
-![fish oil capsules](../graphics/feeding-19-fishoil.jpg)Many commercial foods include oils. I always prefer that the oil be **named.** I especially like to see *wild-caught salmon oil* because it provides high-quality fatty acids and contains the lowest levels of toxic mercury and other contaminants.
+*Image hint — fish oil capsules*
+
+Many commercial foods include oils. I always prefer that the oil be **named.** I especially like to see *wild-caught salmon oil* because it provides high-quality fatty acids and contains the lowest levels of toxic mercury and other contaminants.
 
 I'm less enthused about generic *fish oil*, where the manufacturer has wiggle room to include the cheapest fish available, which often contain higher levels of contaminants and provide lower-quality fatty acids.
 
@@ -121,15 +126,19 @@ Those aren't awful ingredients, but it's much better for a dog to obtain his vit
 - When a dog food is truly canine-appropriate, with plenty of high-quality meats, plenty of high-quality fats, and very few carbs, virtually all of the vitamins and minerals will already be there and the company will add only the few that are missing.
 - When a dog food **isn't** canine-appropriate (meat substitutes such as grains, cereals, legumes, starchy vegetables), the company has to toss in all the synthetics, which are never as well-absorbed as the real thing.
 
-![Puzzled person](../../books/graphics/11T_03.gif)Junk fillers that shouldn't be in any dog food include rice flour, rice bran, brewers rice, corn gluten meal, wheat middlings, alfalfa meal, animal digest, and others. None of this stuff belongs in your dog's food bowl.
+*Image hint — Puzzled person*
 
-![Dog food recommended by vets](../graphics/feeding_vet3.gif)Australian veterinarian **Dr. Ian Billinghurst** says:
+Junk fillers that shouldn't be in any dog food include rice flour, rice bran, brewers rice, corn gluten meal, wheat middlings, alfalfa meal, animal digest, and others. None of this stuff belongs in your dog's food bowl.
+
+*Image hint — Dog food recommended by vets*
+
+Australian veterinarian **Dr. Ian Billinghurst** says:
 
 "If you look at the ingredient list on a can or a bag of pet food – with understanding – you will realise that what is being listed is a heap of rubbish. Definitely not the wholesome nutritious food you would want to feed to a valued member of your family."
 
 **To sum up the ingredients I like to see:** The first two or three (or more) ingredients should be a specific meat or fish. No grains. No corn. No (or maybe ONE) legume such as lentils or whole green peas. No (or maybe ONE) starchy vegetable such as sweet potato or butternut squash.
 
-Related:  
+Related:
 [3 Best Ways To Feed Your Dog Healthy Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
 
 ## Next, look at the Guaranteed Analysis (GA).
@@ -199,7 +208,7 @@ We just wasted 3 minutes of our lives that we'll never get back.
 
 But.... but.... then how can you know how much protein, fat, and carbs there really ARE in the food?
 
-![math equations on blackboard](../graphics/feeding-20-math.jpg)
+*Image hint — math equations on blackboard*
 
 Indeed! You need to contact the company and ask:
 
@@ -229,7 +238,7 @@ Percentage of Calories
 
 That chart contains the calorie percentages that most dogs should be eating. Sadly, the vast majority of commercial brands are too low in protein, too high in fat, or too high in carbs.
 
-Related:  
+Related:
 [Is Your Dog's Food Safe? Concerns About Pet Food Recalls](https://www.yourpurebredpuppy.com/health/articles/feeding-is-dog-food-safe.html)
 
 ## Finally, read over the rest of the package.
@@ -264,7 +273,7 @@ In case you're wondering, all dry kibble and canned dog foods are Feed Grade. Ju
 
 If it doesn't say that.... they aren't.
 
-![grass-fed cattle in pasture](../graphics/feeding-21-cattle-field.jpg)
+*Image hint — grass-fed cattle in pasture*
 
 Grass-fed, free-range meat and eggs are healthier to eat, and it's certainly a more humane way to raise livestock.
 
@@ -278,7 +287,7 @@ You don't want your dog's food to include ingredients from other countries, espe
 
 #### 4) Does the package (or the company's website) say their vegetables and fruits are certified organic?
 
-![certified organic label](../graphics/feeding-22-organic.jpg)
+*Image hint — certified organic label*
 
 If it doesn't say that.... they aren't.
 
@@ -304,62 +313,3 @@ Here's all I want to know:
 - How many calories from carbs? 0-20%?
 
 How many commercial pet foods tick all those boxes? None. Unless you're making your dog's food yourself, you can never control the ingredients, especially their quality and source. When you buy a commercial dog food, you're always going to compromise on *something.* It's up to you what you choose to compromise on.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-## MORE ABOUT FEEDING
-
-[![dry and wet dog food](../graphics/feeding-related-kibble-canned.jpg)](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)
-
-[5 Best Kibble and Canned Dog Foods](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)
-
-[![woman reading dog food package](../graphics/feeding-related-package.jpg)](https://www.yourpurebredpuppy.com/health/articles/feeding-dog-food-package.html)
-
-[Truth and Lies on Dog Food Packages: How To Tell The Difference](https://www.yourpurebredpuppy.com/health/articles/feeding-dog-food-package.html)
-
-[![commercial raw dog food in a bowl](../graphics/feeding-related-frozen.jpg)](https://www.yourpurebredpuppy.com/health/articles/feeding-commercial-raw-dog-food.html)
-
-[5 Best Raw Dog Foods (Frozen & Freeze-Dried)](https://www.yourpurebredpuppy.com/health/articles/feeding-commercial-raw-dog-food.html)
-
-[![cans of dog food](../graphics/feeding-related-safe.jpg)](https://www.yourpurebredpuppy.com/health/articles/feeding-is-dog-food-safe.html)
-
-[Is Your Dog's Food Safe? Concerns About Pet Food Recalls](https://www.yourpurebredpuppy.com/health/articles/feeding-is-dog-food-safe.html)
-
-  
-
-## HONEST ADVICE ABOUT TRAINING
-
-[![terrier looking up at owner](../../training/graphics/training-related-jrt.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
-
-[Teach Your Dog To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
-
-[![german shepherd dog walking with owner](../../training/graphics/training-related-gsd.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
-
-[Dog Training – What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
-
-[![dog pulling owner on leash](../../training/graphics/training-related-blackwhite.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
-
-[You Need Dog Training Help.... But From Where?](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
-
-[![Golden Retriever pup chewing on furniture](../../training/graphics/training-related-goldenpup.jpg)](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
-
-[Puppy Training Schedule](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

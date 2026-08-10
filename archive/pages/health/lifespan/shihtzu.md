@@ -11,9 +11,7 @@ fetched_at: "2026-08-10T13:16:21+00:00"
 
 By Michele Welton. Copyright © 2000-2016
 
-  
-
-![group of purebred dogs](../graphics/lifespan-breeds2.jpg)
+*Image hint — group of purebred dogs*
 
 How long do dogs live? Typically about 12 years, but ranging from 8-16 years.
 

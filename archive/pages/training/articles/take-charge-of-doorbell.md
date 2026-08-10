@@ -9,9 +9,9 @@ fetched_at: "2026-08-10T13:30:09+00:00"
 
 # Stop Puppy From Rushing the Doorbell
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![German Shepherd in charge of the door](../graphics/rtp/doorbell-gsd.jpg)
+*Image hint — German Shepherd in charge of the door*
 
 A watchdog should, well, watch. And sound the alarm. But beyond that is your job. No dog should be allowed to decide who is okay and who is not, or who is welcome in your home and who is not. That's your job.
 
@@ -34,7 +34,7 @@ YOU  should answer the doorbell – not your puppy. Certainly he can accompany 
 
 If that doesn't describe what's happening at your house, you'll need a friend to help you. In fact, several friends would be better – though not all at once!
 
-![English Springer Spaniel](../graphics/rtp/doorbell-springer.jpg)
+*Image hint — English Springer Spaniel*
 
 A watchdog should, well, watch. And sound the alarm. But beyond that is your job. No dog should be allowed to decide who is okay and who is not, or who is welcome in your home and who is not. That's your job.
 
@@ -58,7 +58,9 @@ If he's too strong for you, he needs a [different collar](https://www.yourpurebr
 
 Once you have him under control while you're standing still, you'll probably find that the barking has stopped too. If not, correct the barking with [these techniques](https://www.yourpurebredpuppy.com/training/articles/stop-puppy-barking.html).
 
-![Boxer dog](../graphics/rtp/puppy-respect_html_m690e49c8.jpg)Now take one step toward the door. If he rushes again, stop and repeat your leash-handling technique. (Hopefully you've chosen a
+*Image hint — Boxer dog*
+
+Now take one step toward the door. If he rushes again, stop and repeat your leash-handling technique. (Hopefully you've chosen a
 patient friend and explained that it might be a while before you actually open the door!)
 
 Eventually, you should be able to reach the door with your pup walking calmly beside or behind you.
@@ -66,30 +68,3 @@ Eventually, you should be able to reach the door with your pup walking calmly be
 Now open the door. If he tries to rush past you, don't hold him back with the leash. He won't learn anything that way. Have you taught your pup to [Wait](https://www.yourpurebredpuppy.com/training/articles/teaching-dog-wait.html) yet? Use those techniques to stop his door rushing. And remember, if he keeps ignoring it, he needs a different collar.
 
 And if your puppy JUMPS on the person when you let them in? Here's how to handle [jumping.](https://www.yourpurebredpuppy.com/training/articles/stop-puppy-jumping.html)
-
-My [![book cover](../../books/covers/RTP-110.jpg)training program](https://www.yourpurebredpuppy.com/books/RTP.html) is for puppies 2 to 18 months old. It explains, step by step:
-
-- How to establish good patterns and routines that govern everything your pup does.
-- How to teach your pup to be calm and to look to you for guidance, direction, and permission.
-- How to make yourself important – the most important thing – in your puppy’s life. How to show your pup the clear, black-and-white rules and routines he is to follow. And how to make sure he does.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

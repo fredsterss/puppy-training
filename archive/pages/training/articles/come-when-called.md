@@ -9,9 +9,9 @@ fetched_at: "2026-08-10T13:29:14+00:00"
 
 # Teach Your Puppy to Come When Called
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![west highland white terrier obeying Come](../graphics/rtp/come-westief2.jpg)
+*Image hint — west highland white terrier obeying Come*
 
 This West Highland White Terrier is responding to her owner's Come command. Come is a critical command that every responsible owner must teach and that every respectful companion dog must master.
 
@@ -32,7 +32,9 @@ For the rest of your dog's life, he should never hear the word "Come" without be
 3. The instant he starts toward you, praise and encourage him, "Yes! Come!" Make sure the leash hangs completely loose as he comes toward you – don't reel him in like a fish!
 4. As he approaches you, don't reach out to grab him. Keep encouraging him with your hands and voice to come all the way to you. Praise, pet, and treat. Then "Okay!" which means he doesn't need to stay near you any longer.
 
-![Jack Russell Terrier](../graphics/rtp/puppy-respect_html_60f664d6.jpg)Sounds good! But what if...?
+*Image hint — Jack Russell Terrier*
+
+Sounds good! But what if...?
 
 - What if he doesn't come toward you when you say "Come"?
 - Or what if he comes partway, but stops?
@@ -57,7 +59,9 @@ Suppose you DO drop the leash too soon and you call him and he doesn't come. Try
 
 If he still doesn't come, don't say another word. GO GET HIM.
 
-![dog running away from you](../graphics/rtp/puppy-respect_html_m28a0cf28.jpg)As you walk toward your disobedient pup, he may move away from you, even run away from you.
+*Image hint — dog running away from you*
+
+As you walk toward your disobedient pup, he may move away from you, even run away from you.
 
 Don't run after him. Don't say anything. Just track him down silently. Walk firmly and purposefully. Keep your eyes fixed on him. Baffled and unnerved by your persistent, methodical following, your pup will most likely shrink down and give up. Or you will get close enough to step on the end of the leash.
 
@@ -72,32 +76,3 @@ The message you want to send is this:
 "*Whenever I call and you come to me,*  I am the ultimate happy place, full of praise and petting and perhaps a treat! *Come to me*  and it's always good. If you don't come, I will track you down to the ends of the earth and make sure  you come. Now, wouldn't you rather do it the easy way?"
 
 This is a critical lesson for your pup to learn: that one way or the other, he has to do what you say, and doing it on his own is much more comfortable and rewarding than being made to do it.
-
-  
-
-My [![book cover](../../books/covers/RTP-110.jpg)training program](https://www.yourpurebredpuppy.com/books/RTP.html) is for puppies 2 to 18 months old. It explains, step by step:
-
-- How to establish good patterns and routines that govern everything your pup does.
-- How to teach your pup to be calm and to look to you for guidance, direction, and permission.
-- How to make yourself important – the most important thing – in your puppy’s life. How to show your pup the clear, black-and-white rules and routines he is to follow. And how to make sure he does.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

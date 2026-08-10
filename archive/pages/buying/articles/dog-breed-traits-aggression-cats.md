@@ -9,9 +9,8 @@ fetched_at: "2026-08-10T13:13:36+00:00"
 
 # Dog Breeds That Are (Usually) Good With Cats
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-  
 One of a series of 11 articles on Dog Breed Traits to consider before choosing a dog. See the complete list.  +
 
 [Size](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-traits-size.html)
@@ -38,8 +37,7 @@ One of a series of 11 articles on Dog Breed Traits to consider before choosing a
 
 Risk of aggression toward cats
 
-![Dog and kitten](../graphics/dog-breed-traits-aggression-
-cats1.jpg)
+*Image hint — Dog and kitten*
 
 Dogs and cats can get along famously. Or horribly.
 
@@ -53,7 +51,7 @@ Over HALF of the pure breeds in the US have a strong prey drive because it helps
 
 ### Most likely breeds to be aggressive with cats
 
-![Dog threatening to attack cat](../graphics/dog-breed-traits-aggression-cats2.jpg)
+*Image hint — Dog threatening to attack cat*
 
 Siberian Huskies have a strong prey drive, a genetically hardwired trait that can be triggered by a small animal moving quickly. Don't underestimate its power.
 
@@ -75,7 +73,7 @@ If the puppy still grows up into a determined chaser, you might be able to train
 
 Nearly all tiny dogs are fine with cats in their own family, although they might excitedly chase a strange cat.
 
-![Yorkie with cat friend](../graphics/dog-breed-traits-aggression-cats4.jpg)
+*Image hint — Yorkie with cat friend*
 
 #### [SMALL DOGS](https://www.yourpurebredpuppy.com/dogbreeds/index-small-dog-breeds.html)
 
@@ -94,7 +92,7 @@ The most peaceful small breeds with cats:
 | [Havanese](https://www.yourpurebredpuppy.com/reviews/havanese.html) | [Shih Tzu](https://www.yourpurebredpuppy.com/reviews/shihtzu.html) |
 | [Italian Greyhound](https://www.yourpurebredpuppy.com/reviews/italiangreyhounds.html) | [Tibetan Spaniel](https://www.yourpurebredpuppy.com/reviews/tibetanspaniels.html) |
 
-![Tibetan Spaniel](../graphics/dog-breed-traits-aggression-cats7.jpg)
+*Image hint — Tibetan Spaniel*
 
 Tibetan Spaniel. Nice little dog, on the stubborn side, sheds quite a bit, can be barky... but overall a sensible, moderate temperament.
 
@@ -106,7 +104,7 @@ The midsized herding breeds (Buhund, Puli, Sheltie, Swedish Vallhund, Cardigan a
 
 The most peaceful midsized breeds with cats are Cocker Spaniels ([American](https://www.yourpurebredpuppy.com/reviews/americancockerspaniels.html) and [English](https://www.yourpurebredpuppy.com/reviews/englishcockerspaniels.html)), [Beagles](https://www.yourpurebredpuppy.com/reviews/beagles.html), and the [Lagotto Romagnolo](https://www.yourpurebredpuppy.com/reviews/lagotto-romagnolo.html).
 
-![Lagotto Romagnolo](../graphics/dog-breed-traits-aggression-cats8.jpg)
+*Image hint — Lagotto Romagnolo*
 
 Lagotto Romagnolo = *water dog from Romagna, Italy.* Lively, athletic, fond of water, fond of mud, fond of digging. Exercise!!!
 
@@ -124,7 +122,7 @@ The most peaceful mediium-size breeds with cats:
 | [Brittany](https://www.yourpurebredpuppy.com/reviews/brittanys.html) | [Vizsla](https://www.yourpurebredpuppy.com/reviews/vizslas.html) |
 | [English Springer](https://www.yourpurebredpuppy.com/reviews/englishspringerspaniels.html) | [Welsh Springer](https://www.yourpurebredpuppy.com/reviews/welshspringerspaniels.html) |
 
-![English Springer, Welsh Springer](../graphics/dog-breed-traits-aggression-cats6.jpg)
+*Image hint — English Springer, Welsh Springer*
 
 A pair of English Springer Spaniels and a trio of Welsh Springer Spaniels. These are nice dogs, but they need a lot of grooming and LOTS of exercise. Shedding? Yes!
 
@@ -140,31 +138,10 @@ The most peaceful large/giant breeds with cats:
 
 In my experience, crossbred and mixed breed dogs are often better with cats than purebreds. Unless, that is, two cat-aggressive breeds are crossed!
 
-![Hound mix lying down peacefully on a fench with a cat](../graphics/dog-breed-traits-aggression-cats3.jpg)
+*Image hint — Hound mix lying down peacefully on a fench with a cat*
 
 This older hound mix and young female cat have developed a calm, peaceful relationship.
 
 ### Training still required!
 
 No breed is **automatically** safe with cats. Training is still required to teach Puppy that he may NOT pester Kitty. But this training is easier and more reliable with breeds that don't have a strong prey drive. More info in my [Respect Training](https://www.yourpurebredpuppy.com/books/) books.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

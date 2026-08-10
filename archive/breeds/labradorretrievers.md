@@ -16,14 +16,19 @@ This guide combines every archived page for this breed into one document.
 
 ## Breed overview and temperament
 
-Labrador Retriever temperament, personality, training, behavior, pros and cons, advice, and information, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Behavioral Consultant, Author of 15 [Dog Books](https://www.yourpurebredpuppy.com/books/)
+Labrador Retriever temperament, personality, training, behavior, pros and cons, advice, and information, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Labrador Retriever](../dogbreeds/photos2-L/labrador-retriever-01.jpg)
-![Labrador Retriever](../dogbreeds/photos2-L/labrador-retriever-02.jpg)
-![Labrador Retriever](../dogbreeds/photos2-L/labrador-retriever-03.jpg)
-![Labrador Retriever](../dogbreeds/photos2-L/labrador-retriever-04.jpg)
-![Labrador Retriever](../dogbreeds/photos2-L/labrador-retriever-05.jpg)
-![Labrador Retriever](../dogbreeds/photos2-L/labrador-retriever-06.jpg)
+*Image hint — Labrador Retriever*
+
+*Image hint — Labrador Retriever*
+
+*Image hint — Labrador Retriever*
+
+*Image hint — Labrador Retriever*
+
+*Image hint — Labrador Retriever*
+
+*Image hint — Labrador Retriever*
 
 See Photo Gallery
 **[< Prev](#)   
@@ -49,8 +54,6 @@ See Photo Gallery
 | [Puppies](#puppies) | Easy to find |
 | [Rescue dogs](#rescue) | Easy to find |
 | [Similar breeds](#similar) | Golden Retriever, Flat-Coated Retriever, Chesapeake Bay Retriever |
-
-  
 
 [Temperament](#temperament)
 [Pros and Cons](#pros-cons)
@@ -78,7 +81,7 @@ See Photo Gallery
   - [Puppies](#puppies)
   - [Similar breeds](#similar)
 
-![Labrador Retriever](../dogbreeds/photos2-L/labrador-retriever-07.jpg)
+*Image hint — Labrador Retriever*
 
 Yellow Labradors can be any shade from reddish to pale yellow, even approaching white.
 
@@ -100,7 +103,7 @@ You must control this breed's tendency to chew on objects and to mouth your hand
 
 The Labrador Retriever matures slowly, remaining a spirited teenager for several years. It sounds fun.... but does require patience and training to manage.
 
-![Labrador Retriever](../dogbreeds/photos2-L/labrador-retriever-icon1.jpg)
+*Image hint — Labrador Retriever*
 
 ## Pros and cons of Labrador Retrievers
 
@@ -125,13 +128,17 @@ Keep in mind that the inheritance of temperament  is less predictable than the 
 
 ## Books by Michele Welton
 
-![dog icon](../Graphics/icon-training.png)["Respect Training for Puppies"](https://www.yourpurebredpuppy.com/books/RTP.html)  (or ["Respect Training for Adult Dogs"](https://www.yourpurebredpuppy.com/books/RTA.html) ) is a step by step guide to help you bring out the best in your pup so you can enjoy a calm and well-behaved dog, no matter what his age. Get your book today.
+*Image hint — dog icon*
 
-![dog icon](../Graphics/icon-health.png)["11 Things You Must Do Right To Keep Your Dog Healthy and Happy"](https://www.yourpurebredpuppy.com/books/11T.html)  is a comprehensive guide to keeping your dog mentally, physically, and emotionally happy and healthy so you can enjoy a longer lifetime of companionship. A healthy dog is a happy dog, so buy your copy today.
+["Respect Training for Puppies"](https://www.yourpurebredpuppy.com/books/RTP.html)  (or ["Respect Training for Adult Dogs"](https://www.yourpurebredpuppy.com/books/RTA.html) ) is a step by step guide to help you bring out the best in your pup so you can enjoy a calm and well-behaved dog, no matter what his age. Get your book today.
 
-![dog paw](../Graphics/pawprint.png)
+*Image hint — dog icon*
 
-![Labrador Retriever](../dogbreeds/photos2-L/labrador-retriever-09.jpg)
+["11 Things You Must Do Right To Keep Your Dog Healthy and Happy"](https://www.yourpurebredpuppy.com/books/11T.html)  is a comprehensive guide to keeping your dog mentally, physically, and emotionally happy and healthy so you can enjoy a longer lifetime of companionship. A healthy dog is a happy dog, so buy your copy today.
+
+*Image hint — dog paw*
+
+*Image hint — Labrador Retriever*
 
 Chocolate Labrador. Developed as hunting dogs to fetch and carry birds back to the hunter, Labs love to carry toys around.
 
@@ -145,7 +152,7 @@ Unfortunately, the trend seems to be for heavier and heavier Labs, with a lot of
 
 This breed was supposed to be a medium-sized hunting retriever who could fit comfortably in a bird blind or a small boat.
 
-![Labrador Retriever](../dogbreeds/photos2-L/labrador-retriever-04.jpg)
+*Image hint — Labrador Retriever*
 
 Show type Labrador Retriever. Much stockier than field type Labs.
 
@@ -165,7 +172,7 @@ Even within show lines there are variations, with British/English show lines hav
 
 To me, those dogs don't really look like the classic Labrador Retriever. But they do tend to be very sweet dogs with mellow temperaments that fit well into many families.
 
-![Labrador Retriever](../dogbreeds/photos2-L/labrador-retriever-icon2.jpg)
+*Image hint — Labrador Retriever*
 
 ### How much exercise do Labrador Retrievers need?
 
@@ -179,7 +186,7 @@ For example, a challenging dog sport (agility, rally obedience, musical freestyl
 
 Some of these activities are included in my training book, [Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html).
 
-![Labrador Retriever](../dogbreeds/photos2-L/labrador-retriever-10.jpg)
+*Image hint — Labrador Retriever*
 
 Black Labrador Retriever. Black is the most common color.
 
@@ -199,7 +206,7 @@ Or see my advice on → [dog training](https://www.yourpurebredpuppy.com/traini
 
 Yes, most Labs are happy to see everyone. They'll bark when someone comes to the door, but they're not protective. This is a friendly, trusting breed.
 
-![Labrador Retriever](../dogbreeds/photos2-L/labrador-retriever-icon2.jpg)
+*Image hint — Labrador Retriever*
 
 #### Are Labrador Retrievers good with children?
 
@@ -211,7 +218,7 @@ If your Lab has been allowed to jump on people, you should stop this behavior im
 
 If you don't yet have your dog and your home includes toddlers or infirm adults, you might consider skipping the challenging puppy and adolescent stages. Look into adopting an adult Labrador Retriever from a rescue group. Adults have a more settled temperament and you can specifically look for a calm one.
 
-![Labrador Retriever](../dogbreeds/photos2-L/labrador-retriever-icon1.jpg)
+*Image hint — Labrador Retriever*
 
 #### Are Labrador Retrievers good with other pets?
 
@@ -219,7 +226,7 @@ Most Labs are fine with other dogs and cats, fine with livestock, and even fine 
 
 Of course introductions should be made properly. Don't just plunk a baby bunny onto the floor and let your full-grown Lab loose in the room. Even a friendly dog can make mincemeat of a small fragile creature simply by jumping on it.
 
-![Labrador Retriever](../dogbreeds/photos2-L/labrador-retriever-11.jpg)
+*Image hint — Labrador Retriever*
 
 Labrador Retriever puppies hardly shed at all.... but that won't last!
 
@@ -233,7 +240,7 @@ Labs need more brushing than some other shorthaired breeds because of the high s
 
 On the plus side, obviously Labs need no trimming!
 
-![Labrador Retriever](../dogbreeds/photos2-L/labrador-retriever-03.jpg)
+*Image hint — Labrador Retriever*
 
 Yellow Labrador.
 
@@ -259,10 +266,10 @@ One example of an odd neuromuscular disease is called *exercise-induced collapse
 
 Here is a [complete list](../health/labradorretrievers.html#health-problems) of health problems in Labrador Retrievers.
 
-See my advice on → [keeping your dog healthy](https://www.yourpurebredpuppy.com/health/labradorretrievers.html)  
+See my advice on → [keeping your dog healthy](https://www.yourpurebredpuppy.com/health/labradorretrievers.html)
 (feeding, vaccinations, neutering, veterinarians, and more).
 
-![Labrador Retriever](../dogbreeds/photos2-L/labrador-retriever-02.jpg)
+*Image hint — Labrador Retriever*
 
 The three major colors of Labs are black, yellow, and chocolate.
 
@@ -292,7 +299,7 @@ Remember, the AKC says that Labs can only be black, chocolate, or yellow. So the
 
 It doesn't end there. Some silver Labs aren't silvery gray, but dark charcoal gray. The AKC registers these dogs as Black, considering charcoal to be a dilution of Black.
 
-![Labrador Retriever](../dogbreeds/photos2-L/labrador-retriever-05.jpg)
+*Image hint — Labrador Retriever*
 
 Yellow, black, and chocolate Labrador Retriever puppies.
 
@@ -338,7 +345,7 @@ If a seller can't show you those certificates, the puppies are higher risk for h
 
 See my advice on → [finding a good dog](https://www.yourpurebredpuppy.com/buying/)
 
-![Labrador Retriever](../dogbreeds/photos2-L/labrador-retriever-icon1.jpg)
+*Image hint — Labrador Retriever*
 
 ### How do I adopt a Labrador Retriever?
 
@@ -350,177 +357,142 @@ Did you know there's a quick and simple [DNA test](https://www.yourpurebredpuppy
 
 ### What breeds are similar to Labrador Retrievers?
 
-![Golden Retriever](../dogbreeds/photos2-G/golden-retriever-similar.jpg)
+*Image hint — Golden Retriever*
 
 The [Golden Retriever](https://www.yourpurebredpuppy.com/reviews/goldenretrievers.html) is similar to a Labrador in being a great all-around family dog and a great choice for first-time owners. Compared to Labs, Goldens tend to be even more outgoing toward everyone and more eager to please. Goldens do shed more than Labs and have a greater risk of health issues.
 
-![Flat-Coated Retriever](../dogbreeds/photos2-F/flat-coated-retriever-similar.jpg)
+*Image hint — Flat-Coated Retriever*
 
 Compared to Labs and Goldens, the [Flat-Coated Retriever](https://www.yourpurebredpuppy.com/reviews/flatcoatedretrievers.html) needs more exercise and interesting activities to keep them busy. This is not a good breed for a casual or couch potato owner. Flat-Coats also suffer from serious health issues.
 
-![Chesapeake Bay Retriever](../dogbreeds/photos2-C/chesapeake-bay-retriever-similar.jpg)
+*Image hint — Chesapeake Bay Retriever*
 
 The [Chesapeake Bay Retriever](https://www.yourpurebredpuppy.com/reviews/chesapeakebayretrievers.html) is a great dog for experienced owners. Compared to the Lab, a Chessie has a stronger temperament, needs more exercise, is more reserved with strangers, and can be bossy toward strange dogs.
 
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![dog training videos](../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
-
-Related posts you might enjoy
-
-![dog looking at owner](https://www.yourpurebredpuppy.com/training/graphics/methods-choices150.jpg) [Dog Training:  
- What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
-
-![puppy sitting beside owner](https://www.yourpurebredpuppy.com/training/graphics/schedule-older150.jpg)[You Need Dog Training Help... But From Where? Classes? Books? Videos?](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
-
-![common dog training commands](https://www.yourpurebredpuppy.com/training/graphics/teachyourdog02-150.jpg)[All a Dog Needs Is Love: True or False?](https://www.yourpurebredpuppy.com/training/articles/all-a-dog-needs-is-love.html)
-
-![respectful dog](https://www.yourpurebredpuppy.com/training/graphics/respectful-dog.jpg)[Solve Behavior Problems By Teaching Your Dog To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
-
 ## Training
 
-Labrador Retriever Training and Puppy Training, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 [Dog Books](https://www.yourpurebredpuppy.com/books/)
+Labrador Retriever Training and Puppy Training, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Labrador Retriever puppies](../dogbreeds/photos2-L/labrador-retriever-05.jpg)
+*Image hint — Labrador Retriever puppies*
 
 Dog training is much less about the teaching of commands and much more about how you live with your dog. Virtually all of your dog's behaviors (good and bad) are created by the way you're living with him. What you do with him... what you don't do with him... what you allow him to do... these are all messages to your dog. Send the right messages and you will have no problems with your dog. Send the wrong messages and you will have problems.
 
-  
-
 #### Check out my advice for dealing with behavior problems and training your Labrador Retriever puppy or adult dog:
 
-![Obedience instructor and author Michele Welton](graphics/ind-dog-training-methods1.jpg)
-[Dog Training – What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)  
+*Image hint — Obedience instructor and author Michele Welton*
+
+[Dog Training – What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
 Some dog training methods are based on what makes the owner feel good, rather than what on actually makes sense to the dog. Now, treats can be great motivators for training Labrador Retrievers, but if your dog will only obey for a treat, then **he** is in charge of his obedience, not you.  [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
 
-![Cute puppy](graphics/ind-easy.png)
-[Puppy Training Made Easy: 4 Things You MUST Do Right](https://www.yourpurebredpuppy.com/training/articles/puppy-training-made-easy.html)  
+*Image hint — Cute puppy*
+
+[Puppy Training Made Easy: 4 Things You MUST Do Right](https://www.yourpurebredpuppy.com/training/articles/puppy-training-made-easy.html)
 Training your Labrador Retriever puppy doesn't have to be a struggle. There are four simple things you can do right now to change your pup's behavior and make training easy.  [[read more]](https://www.yourpurebredpuppy.com/training/articles/puppy-training-made-easy.html)
 
-![Cute puppy](graphics/ind-schedule.jpg)
-[Puppy Training Schedule: What to Teach (and When)](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)  
+*Image hint — Cute puppy*
+
+[Puppy Training Schedule: What to Teach (and When)](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
 Puppy training starts the moment you bring your puppy home. If you use the wrong teaching method, your puppy will begin making decisions about how he wants **you** to fit into **his** life, and that's a recipe for conflict and behavior problems. Whatever your puppy does, you must react properly or he will learn the wrong things. Here's my recommended schedule (what to teach, when to teach it) for training your Labrador Retriever puppy. [[read more]](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
 
-![Misbehaving dog pulling owner on leash](graphics/ind-respect-training.gif)
-[Teach Your Lab To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)  
+*Image hint — Misbehaving dog pulling owner on leash*
+
+[Teach Your Lab To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
 "Respect Training" is the dog training method I use and recommend for training Labrador Retrievers. A dog who respects you will do what you say and will stop what he's doing when you tell him "No." Teaching your dog to respect you means interacting with him in specific ways that encourage respect.  [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
 
-![Dog behavior problems](graphics/ind-dog-behavior-problems.jpg)
-[Solving Behavior Problems](https://www.yourpurebredpuppy.com/training/articles/dog-behavior-problems.html)  
+*Image hint — Dog behavior problems*
+
+[Solving Behavior Problems](https://www.yourpurebredpuppy.com/training/articles/dog-behavior-problems.html)
 One of the most common questions dog owners ask me is: "How can I stop my dog from doing (a specific bad behavior)?" My answer is almost always the same, no matter what the misbehavior is.... [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-behavior-problems.html)
 
-![Buddy the dog](graphics/ind-dog-training-videos.jpg)
-[These Dog Training Videos Turned Buddy Into a Good Dog](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)  
+*Image hint — Buddy the dog*
+
+[These Dog Training Videos Turned Buddy Into a Good Dog](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
 Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action. I recommend these dog training videos, which are based on respect and leadership. [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
 
-![](graphics/ind-dog-training-help.jpg)
-[You Need Dog Training Help.... But From Where? Private Lessons? Public Classes? Dog Training Books? Dog Training Videos?](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)  
+*Image placeholder — no alt text*
+
+[You Need Dog Training Help.... But From Where? Private Lessons? Public Classes? Dog Training Books? Dog Training Videos?](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
 So your puppy needs training.... or your adult dog needs training.... and you're looking for some help. Should you hire a professional trainer to come to your house? send your dog away to be trained? sign up for a group obedience class? read a book? watch a few videos? Here's my advice on where to get dog training help when you really need it. [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
 
-![Words and commands to teach your dog](graphics/ind-teach-words.gif)
-[Teach The Right Words In The Right Ways](https://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)  
+*Image hint — Words and commands to teach your dog*
+
+[Teach The Right Words In The Right Ways](https://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
 My method of training Labrador Retrievers includes teaching specific words in specific ways so that your dog not only learns the words but also develops the respectful attitude that makes him happy to obey you. Teach your dog words and he will understand what you say. Teach those words ***in the right ways*** and he will actually DO what you say.  [[read more]](https://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
 
-![Outhouse](graphics/ind-housebreaking.gif)
-[Housebreaking Your Labrador Retriever](https://www.yourpurebredpuppy.com/training/articles/dog-housebreaking.html)  
+*Image hint — Outhouse*
+
+[Housebreaking Your Labrador Retriever](https://www.yourpurebredpuppy.com/training/articles/dog-housebreaking.html)
 There are two keys to housebreaking. Just two, but you have to get them both right. And I mean 100% right, not 50% right. Otherwise you're going to end up with a dog who is 50% potty trained, and who wants that? So here they are – your two keys to housebreaking.... [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-housebreaking.html)
 
-![Young man holding his dog](graphics/ind-dog-socializing.gif)
-[Socializing Your Labrador Retriever](https://www.yourpurebredpuppy.com/training/articles/dog-socializing.html)  
+*Image hint — Young man holding his dog*
+
+[Socializing Your Labrador Retriever](https://www.yourpurebredpuppy.com/training/articles/dog-socializing.html)
 Socializing means training your Lab to get along politely with strangers and other animals. [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-socializing.html)
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![dog training videos](../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
 
 ## Health and feeding
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 [Dog Books](https://www.yourpurebredpuppy.com/books/)
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Labrador Retriever](../dogbreeds/photos2-L/labrador-retriever-06.jpg)
+*Image hint — Labrador Retriever*
 
 Start your Labrador Retriever puppy off on the right foot by feeding the right food, giving the right vaccinations, finding the right vet, and if you're going to spay or neuter, don't do it too early.
 
 #### Jump down to this list of [Labrador Retriever Health Problems](#health-problems)
 
-  
-
 #### Or check out my advice for raising a healthy Labrador Retriever puppy or adult dog:
 
-![Obedience instructor and author Michele Welton](../training/graphics/ind-dog-training-methods1.jpg)
-[Dog Health Care – The Sensible Way](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)  
+*Image hint — Obedience instructor and author Michele Welton*
+
+[Dog Health Care – The Sensible Way](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)
 Read my advice on daily health care so your Labrador Retriever lives a long, healthy life and seldom needs to see the vet...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)
 
-![numeral 3](../Graphics/number3.png)[3 Best Ways To Feed Your Dog Healthy Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)  
+*Image hint — numeral 3*
+
+[3 Best Ways To Feed Your Dog Healthy Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
 You can dramatically increase your dog's chances of living a long, healthy life by feeding the right food. Cutting right to the chase, the best foods for your Labrador Retriever are...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
 
-![Real homemade dog food](graphics/ind-feeding.gif)
-[A Quick Way To Make Homemade Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)  
+*Image hint — Real homemade dog food*
+
+[A Quick Way To Make Homemade Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)
 Your Labrador Retriever will love real chicken, turkey, beef, fish, eggs, yogurt, broccoli.... this is not just "people food" and I'll tell you why...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)
 
-![Dry kibble and canned dog food](graphics/ind-feeding2.gif)
-[5 Best Kibble and Canned Dog Foods](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)  
+*Image hint — Dry kibble and canned dog food*
+
+[5 Best Kibble and Canned Dog Foods](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)
 Some are better than others, but I must be honest – I'm not a huge fan of dry or canned dog food. Here are my concerns...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)
 
-![Information on booster shots for your German Shepherd.](graphics/ind-vaccinations.gif)
-[Vaccinations and Booster Shots: Needed or Not?](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)  
+*Image hint — Information on booster shots for your German Shepherd.*
+
+[Vaccinations and Booster Shots: Needed or Not?](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)
 How many vaccinations does your Labrador Retriever puppy really need? Does your adult dog need yearly booster shots? The vaccination guidelines have changed! Find out what some vets aren't telling you...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)
 
-![Information on spaying](graphics/ind-female.gif)
-[Spaying Your Female Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)  
+*Image hint — Information on spaying*
+
+[Spaying Your Female Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)
 Should your female Labrador Retriever be spayed? Current research says, "The AGE at which you spay can be vitally important to your dog's future health." So what's the best age?  [[read more]](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)
 
-![Information on neutering your male dog.](graphics/ind-male.gif)
-[Neutering Your Male Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)  
+*Image hint — Information on neutering your male dog.*
+
+[Neutering Your Male Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)
 Have you been told that you **must** neuter your male Labrador Retriever? Current research shows that the issue is not so simple. Pet owners are not being told about some risks associated with neutering male dogs, especially neutering too early...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)
 
-![Information on choosing the best vet](graphics/ind-vets.gif)
-[Make Sure Your Vet is the Best!](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)  
+*Image hint — Information on choosing the best vet*
+
+[Make Sure Your Vet is the Best!](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)
 Is your current veterinarian really the best choice for your dog? Here's how to tell...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)
 
-![Assisi Loop](graphics/ind-assisi.jpg)
-[Assisi Loop Review](https://www.yourpurebredpuppy.com/health/articles/assisi-loop-review.html)  
+*Image hint — Assisi Loop*
+
+[Assisi Loop Review](https://www.yourpurebredpuppy.com/health/articles/assisi-loop-review.html)
 Does your Labrador Retriever suffer from arthritis, hip dysplasia, disk disease, colitis? My honest review of a veterinary device you can use at home to reduce inflammation and pain.  [[read more]](https://www.yourpurebredpuppy.com/health/articles/assisi-loop-review.html)
 
 [Read my Labrador Retriever Review →](https://www.yourpurebredpuppy.com/reviews/labradorretrievers.html)
 
-![Labrador Retriever dog breed](../dogbreeds/photos2-L/labrador-retriever-07.jpg)
+*Image hint — Labrador Retriever dog breed*
 
 ## Complete list of Labrador Retriever health problems
 
 The typical lifespan of Labrador Retrievers is 10-12 years. Some do live to 13 or 14, but often with chronic health issues such as arthritis.
-
-  
 
 ### Orthopedic disorders
 
@@ -580,29 +552,6 @@ Blood-clotting diseases (von Willebrand's, hemophilia A, hemophilia B) are poten
 ### Preventing health problems
 
 Some health problems are inherited. For example, if both parents of your Labrador Retriever have certificates proving they were tested and cleared of hip dysplasia, elbow dysplasia, and eye diseases, your Lab has less risk of developing those conditions.
-
-[![Dog feeding and health book by Michele Welton](../books/covers/11T-110.jpg)](https://www.yourpurebredpuppy.com/books/11T.html) Other health problems can be prevented, or partially prevented, by the ways you raise your dog.
-
-My best-selling book, [11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) shows you how to raise your Labrador Retriever puppy (or adult dog) in all the right ways. It will help you be your dog's health care champion!
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![dog training videos](../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
 
 ## Archived source pages
 

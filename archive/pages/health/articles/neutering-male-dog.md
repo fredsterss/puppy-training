@@ -9,9 +9,9 @@ fetched_at: "2026-08-10T13:14:48+00:00"
 
 # Neutering Your Male Dog – Pros and Cons   (for FEMALE dogs, [click here.)](spaying-female-dog.html)
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Bulldog adult and puppy](../graphics/neutering-bulldogs.jpg)
+*Image hint — Bulldog adult and puppy*
 
 Puppies are adorable! But there are already too many puppies (and adult dogs) who desperately need homes. If you decide to not neuter your dog, please prevent him from breeding.
 
@@ -30,8 +30,6 @@ First, let's look at the positives – the advantages of neutering your male dog
 You can call it neutering or castrating, or de-sexing. All three terms refer to removal of the testicles so your male can't breed or sire puppies.
 
 A dog who is NOT neutered is also called intact.
-
-  
 
 ### happy faceNeutering reduces leg-lifting and marking territory.
 
@@ -83,18 +81,16 @@ What if your male dog passed along genes for a health problem? A dog who is allo
 
 It's a big responsibility to own an intact male dog. You must be extra careful to keep him away from unspayed females.
 
-  
-
 ## Possible reasons not to neuter your male dog
 
 Most of the following statistics come from a 10-year study at the University of California (Davis) Veterinary Teaching Hospital. The study was headed by Dr. Benjamin Hart and study results published in 2013.
 
 ### sad face Neutering triples the risk of obesity.
 
-Extra weight leads to debilitating joint disease, arthritis, heart disease, pancreatitis, and diabetes.  
-  
-Neutered dogs become overweight when owners feed the same amount of food as before their dog was neutered. Neutering, you see, changes a dog's hormonal make-up and metabolism so he doesn't require as much food.  
-  
+Extra weight leads to debilitating joint disease, arthritis, heart disease, pancreatitis, and diabetes.
+
+Neutered dogs become overweight when owners feed the same amount of food as before their dog was neutered. Neutering, you see, changes a dog's hormonal make-up and metabolism so he doesn't require as much food.
+
 Monitor your dog's shape as you feed him. Keep adjusting the amount you feed so he stays on the slender side, and provide plenty of exercise. Then your neutered dog will not become fat.
 
 ### sad faceNeutering increases the risk of a deadly cancer called hemangiosarcoma.
@@ -124,13 +120,11 @@ Your dog's reproductive hormones help his bones and joints develop properly. If 
 
 The moral is.... If you're going to neuter, don't do it before your dog's reproductive hormones have had time to do their valuable work. And when is that? It depends on his size or breed, which is completely covered in my [dog care book](https://www.yourpurebredpuppy.com/books/11T.html). Please don't neuter your dog before you read Chapter 10.
 
-  
-
 ## So....should you neuter your male dog?
 
 Let me ask you some questions:
 
-![Dog jumping up and barking](../graphics/neutering-jumping.jpg)
+*Image hint — Dog jumping up and barking*
 
 If your male dog is hard to control, increased exercise and Respect Training are your first steps.
 
@@ -153,9 +147,7 @@ If he has any of those behavior problems, I would increase his exercise and begi
 
 If none of the above applies to you and your dog, you might decide not to neuter.
 
-  
-
-![Basset Hound with suitcase](../graphics/neutering-suitcase.jpg)
+*Image hint — Basset Hound with suitcase*
 
 Neutering at the wrong age can have unwanted consequences for the rest of your dog's life. So don't hurry your dog off to surgery. Get all the facts first.
 
@@ -170,38 +162,3 @@ And don't forget that neutering is major surgery under general anesthesia. You d
 There are 6 questions you should ask and 6 answers you want to hear to make sure your dog will be as safe as possible during the surgery.
 
 When to neuter (different ages for different breeds).... safety precautions to insist upon.... 6 specific questions to ask your vet, and the 6 answers you want to hear.... plus more info on breeding.... all covered in Chapter 10 of [11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html).
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-#### Check out my other articles on health & feeding
-
-[Spaying Your Female Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)
-
-[Dog Health Care – The Sensible Way](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)
-
-[The Best Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)
-
-[Kibble or Canned Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
-
-[Vaccinations and Booster Shots: Are They Needed?](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)
-
-[Think Your Veterinarian Is Good? Here's How To Tell](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

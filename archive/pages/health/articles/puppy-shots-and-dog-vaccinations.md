@@ -9,9 +9,9 @@ fetched_at: "2026-08-10T13:14:49+00:00"
 
 # Puppy Shots and Dog Vaccinations: Needed or Not?
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![veterinarian giving a dog a shot](../graphics/vaccinations-veterinarian.jpg)
+*Image hint — veterinarian giving a dog a shot*
 
 Don't accept every shot your vet recommends. Many vets are not following the latest guidelines.
 
@@ -33,22 +33,22 @@ But times have changed. We consumers have our eyes open now. We know that what p
 
 Let's see what other experts – leading vets and researchers – have to say about vaccinations.
 
-![Dog vet](../graphics/feeding_vet3.gif)We'll start with Dr. Christina Chambreau DVM:
+*Image hint — Dog vet*
+
+We'll start with Dr. Christina Chambreau DVM:
 
 "Would you rebel if your doctor told you to get measles, mumps, rubella, diphtheria, pertussis, and hepatitis shots every year of your life until you died, instead of only a few doses as a child?"
 
 People don't need yearly revaccinations for core diseases. And veterinary immunological researchers tell us:
 Neither do dogs and cats.
 
-  
-
 ### *Kirk's Current Veterinary Therapy* (the veterinarian's "bible") says....
 
-![Vet holding dog](../graphics/feeding_vet2.gif)"A practice that was started many years ago that lacks scientific validity or verification is annual revaccinations. Almost without exception there is no immunologic requirement for annual revaccination. Immunity to viruses persists for years or for the life of the animal. Only the immune response to toxins requires boosters (for example, tetanus toxin booster, in humans, is recommended once every 7-10 years) and no toxin vaccines are currently used for dogs and cats."
+*Image hint — Vet holding dog*
+
+"A practice that was started many years ago that lacks scientific validity or verification is annual revaccinations. Almost without exception there is no immunologic requirement for annual revaccination. Immunity to viruses persists for years or for the life of the animal. Only the immune response to toxins requires boosters (for example, tetanus toxin booster, in humans, is recommended once every 7-10 years) and no toxin vaccines are currently used for dogs and cats."
 
 That article was written by Dr. Ronald Schultz Ph.D. (Immunologist and Chairman of the Department of Pathobiological Sciences, University of Wisconsin School of Veterinary Medicine) and Dr. Tom Phillips DVM Ph.D.
-
-  
 
 That ground-breaking article has revolutionized our guidelines for vaccinating our pets.
 
@@ -63,21 +63,21 @@ Summing that up....NO annual vaccinations are needed for dogs or cats.
 
 ### What is a vaccine?
 
-![how vaccines work](../graphics/vaccinations-antibodies.jpg)A vaccine is a "diluted disease", such as distemper or parvovirus. Each "disease" is injected into your dog to show his immune system what that disease looks like. His immune system then makes antibodies against it. Antibodies are the warriors that fight disease.
+*Image hint — how vaccines work*
+
+A vaccine is a "diluted disease", such as distemper or parvovirus. Each "disease" is injected into your dog to show his immune system what that disease looks like. His immune system then makes antibodies against it. Antibodies are the warriors that fight disease.
 
 The immune system contains memory cells. Once those memory cells have seen a particular disease **(via one successful vaccination)**, the memory cells will remind the immune system to produce antibodies whenever that disease is encountered in real life.
 
-  
-
 ### Annual reminders are not needed. In fact, annual reminders are useless, because . . .
 
-![Vet holding dog](../graphics/feeding_vet3.gif)That same article by Drs. Schultz and Phillips goes on to say: "Furthermore, revaccination fails to stimulate a secondary response as a result of interference by existing antibodies."
+*Image hint — Vet holding dog*
+
+That same article by Drs. Schultz and Phillips goes on to say: "Furthermore, revaccination fails to stimulate a secondary response as a result of interference by existing antibodies."
 
 In plain English.... booster shots don't work if your dog's system already has antibodies from previous vaccinations. The existing antibodies **neutralize** the booster shot.
 
 So repeating vaccinations doesn't "boost" your dog's immunity. Indeed, re-vaccinating an already-immune dog offers no benefit, because the previous immunity inactivates the vaccine.
-
-  
 
 ### In fact, annual booster shots are *harmful*
 
@@ -85,31 +85,35 @@ You might be thinking, "Well, even if yearly shots aren't necessary, they don't 
 
 Unfortunately, that's not true.
 
-![Dog veterinarian](../graphics/feeding_vet3.gif)Listen to what Dr. Charles Loops DVM has to say about the power of vaccines:
+*Image hint — Dog veterinarian*
+
+Listen to what Dr. Charles Loops DVM has to say about the power of vaccines:
 
 "The first thing that must change is the myth that vaccines are harmless. Veterinarians and animal guardians have to realise that they are not protecting animals from disease by annual vaccinations, but in fact are destroying the health and immune systems of these same animals they love and care for."
 
-  
+*Image hint — Dog veterinarian*
 
-![Dog veterinarian](../graphics/feeding_vet2.gif)Dr. Christina Chambreau DVM agrees:
+Dr. Christina Chambreau DVM agrees:
 
 "Routine vaccinations are probably the worst thing that we do for our animals. Veterinary immunologists tell us that vaccines need only be given once or twice in an animal's life. First, there is no need for annual vaccinations and, second, they cause chronic disease."
 
-  
+*Image hint — Dog vet*
 
-![Dog vet](../graphics/feeding_vet3.gif)Dr. Roger DeHaan DVM has this to say:
+Dr. Roger DeHaan DVM has this to say:
 
 "Over the years it has become increasingly clear that some vaccines are ineffectual or unnecessary, and some vaccines are dangerous, even causing symptoms of the disease they are supposed to prevent."
 
 You might breathe a sigh of relief that your dog has breezed through his vaccinations with no immediate reactions. But in reality, you have no idea what is going inside him. The real problems may surface next month or next year.
 
-![Dog veterinarian](../graphics/feeding_vet2.gif)Dr. Pedro Rivera DVM agrees that excessive vaccinations cause chronic disease:
+*Image hint — Dog veterinarian*
+
+Dr. Pedro Rivera DVM agrees that excessive vaccinations cause chronic disease:
 
 "Vaccinosis is the reaction from common innoculations. Reactions might take months or years to show up."
 
-  
+*Image hint — Dog veterinarian*
 
-![Dog veterinarian](../graphics/feeding_vet3.gif)Dr. Charles Loops DVM says:
+Dr. Charles Loops DVM says:
 
 "Vaccinations represent a major assault on the immune system [which] causes irregularities and abnormalities in the immune system, which then manifests as chronic diseases. What we are now seeing are generations of over-vaccinated animals."
 
@@ -123,7 +127,9 @@ Well, remember that ground-breaking article by Drs. Schultz and Phillips? That a
 
 Drs. Schultz and Phillips write: "The practice of annual vaccination in our opinion should be considered of questionable efficacy unless it is used as a mechanism to provide an annual physical examination."
 
-![veterinarian with syringe](../graphics/veterinarians-syringe.jpg)In other words, your veterinarian gets pets into his office by declaring that they need yearly shots.
+*Image hint — veterinarian with syringe*
+
+In other words, your veterinarian gets pets into his office by declaring that they need yearly shots.
 
 Remember that veterinarians are running a business that needs to make money. Annual shots bring in income on a regular basis, and profit margins from vaccines are high. Plus you pay for the office visit, and you might pick up heartworm and flea preventative while you're there, and maybe a bag of kibble.
 
@@ -141,7 +147,9 @@ The American Veterinary Medical Journal (#208) also says:
 
 "There is little scientific documentation that backs up label claims for annual administration of most vaccines. In the past, it was believed that annual vaccination would not hurt and would probably help most animals. However concerns about side effects have begun to change this attitude. The client is paying for something with no effect or with the potential for an adverse reaction."
 
-![Dog veterinarian](../graphics/feeding_vet3.gif)Dr. Don Hamilton DVM suggests not falling for the guilt trip pushed on you by some vets:
+*Image hint — Dog veterinarian*
+
+Dr. Don Hamilton DVM suggests not falling for the guilt trip pushed on you by some vets:
 
 "Another trend of the past few years," says Dr. Hamilton, "is coercion of guardians into procedures such as vaccination. This coercion may be blatant, such as refusal to provide services, even emergency care, unless the animal is 'current' on vaccines.
 
@@ -149,9 +157,7 @@ More subtle means include induction of fear and/or guilt by asserting (as an aut
 
 Tactics such as this can create feelings of guilt in the guardian, leading to a fear-based decision to vaccinate an animal that is not at risk. This is unethical, if not outright malpractice, and refusal is an acceptable response."
 
-  
-
-![veterinarian giving a bulldog puppy a shot](../graphics/vaccinations-bulldogpup.jpg)
+*Image hint — veterinarian giving a bulldog puppy a shot*
 
 Sad to say, most vets are still ignoring current research about which vaccinations (and how many, and when they should be given) your puppy really needs.
 
@@ -173,65 +179,8 @@ Or sometimes he will seem fine, but in reality he may not be. Too many shots can
 
 Deciding which puppy shots to give, which to skip, when they should be given, and if any of them should be repeated should not be your vet's choice. You are the one who should be deciding, because you, more than anyone else, have little Jake's best interests at heart.
 
-  
-
 ### You must take charge of your dog's vaccination schedule
 
 First, consider [finding a veterinarian](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html) who is practicing holistic or integrated medicine. Most of these vets will not over-vaccinate your dog, and they'll help with other health-promoting changes in how you care for your dog.
 
 If you do need to work with a conventional vet who is recommending annual boosters for adult dogs, and/or a full regimen of shots for puppies, you need to learn more about vaccinations so you can speak up clearly and tell the vet what you want and don't want.
-
-  
-
-[![Dog feeding and health book by Michele Welton](../../books/covers/11T-110.jpg)](https://www.yourpurebredpuppy.com/books/11T.html)My dog care book includes the specific details you need to know so you can make good decisions about vaccinations.... plus the healthiest meals to feed.... healing or improving current health issues.... avoiding known causes of diseases and a shortened lifespan.... these are among the things I write about in [11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html).
-
-It's very readable and easy to understand. You can even download the book and start reading right now.
-
-Getting the right puppy shots and vaccinations is only one part of proper health care for your dog. There are just as many myths about other aspects of doggie health and safety as there are about vaccinations. So you might enjoy my related articles....
-
-[Dog Health Care: The Sensible Way](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)
-
-[Should You Get Pet Insurance?](https://www.yourpurebredpuppy.com/health/articles/pet-insurance.html)
-
-[The Best Dog Food For Your Dog](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)
-
-[The *Second*-Best Dog Food For Your Dog](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
-
-[Think Your Veterinarian Is Good? Here's How To Tell](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-#### Check out my other articles on health & feeding
-
-[Dog Health Care – The Sensible Way](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)
-
-[The Best Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)
-
-[Kibble or Canned Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
-
-[Vaccinations and Booster Shots: Are They Needed?](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)
-
-[Think Your Veterinarian Is Good? Here's How To Tell](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)
-
-[Spaying Your Female Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)
-
-[Neutering Your Male Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

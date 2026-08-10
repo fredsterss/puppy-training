@@ -9,9 +9,9 @@ fetched_at: "2026-08-10T13:14:01+00:00"
 
 # Should You Get a Dog? Pros and Cons of Owning a Dog
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Woman with small dog](../graphics/should-hero.jpg)
+*Image hint — Woman with small dog*
 
 ## The Positives (Advantages, Pleasures) of Dog Ownership
 
@@ -29,7 +29,7 @@ A dog offers you unconditional love and devotion that is neither greater nor les
 
 An epitaph on a beloved pet's gravestone reads: "The reason I loved him is plain to see – with all my faults, he found beauty in me."
 
-![Girl with Labrador Retriever](../graphics/should-children.jpg)
+*Image hint — Girl with Labrador Retriever*
 
 All of the above benefit children, as well as their parents. Growing up with a dog, *when the dog is raised and trained properly,* teaches valuable lessons to a child.
 
@@ -47,19 +47,19 @@ There's the purchase price or adoption fee, then one-time costs like buying a cr
 
 - Food. Dogs require a meat-heavy diet – either [homemade](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html) or [prepackaged/frozen](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html).
 
-  ![Chopped beef](../graphics/should-meat.jpg)
+*Image hint — Chopped beef*
 
   Meat is expensive! If you don't have a lot of money, opt for a small dog whose meat needs you can afford. Don't choose a large dog, then complain that the food he needs is too expensive, so now you're forced to feed an inferior diet. That's not fair to the dog.
 - Vet bills. If you feed the right food (see above) and if you skip the [yearly booster shots](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html) that veterinary immunologists say your dog doesn't need, your vet bills will be lower. On the other hand, if you choose an unhealthy breed or get your dog [from the wrong place](https://www.yourpurebredpuppy.com/buying/articles/dog-breeders.html), your vet bills will probably be higher.
 
-  ![Vet examining sick dog](../graphics/should-vet.jpg)
+*Image hint — Vet examining sick dog*
 
   Don't underestimate the astronomical costs of veterinary emergencies and specialist care – $1200 for knee surgery.... up to $15,000 for cancer treatment. Owners have had to take out loans just to pay their dog's veterinary bills. So when you bring home a dog, I highly recommend [buying pet insurance](https://www.yourpurebredpuppy.com/go/healthy-paws/) – it really helps!
 - Grooming costs. If your breed needs trimming or clipping, you'll need to do it yourself, or else pay a professional groomer every few months.
 
   You need to be able to pay whatever it costs to care for a dog. It might not seem fair that you shouldn't get a dog if you can't afford one. But it's more important to be fair to the dog.
 
-![Ongoing companionship](../graphics/should-ongoing.jpg)
+*Image hint — Ongoing companionship*
 
 ### Dogs should have companionship throughout the day.
 
@@ -77,17 +77,17 @@ A dog will make a lot of demands on your time.
 - Grooming. All dogs need their teeth brushed, toenails clipped, and ears cleaned. Long hair needs to be brushed and combed to avoid painful mats and tangles. Shedding dogs need lots of brushing to pull out the dead hair. Many breeds need trimming and clipping.
 - Training. Sit, lie down, stay, come, no (among many other words). Don't pull on the leash, don't jump on people, don't bark at everything, don't chew things up. Get along peacefully with other people and animals. All of this takes lots of time to teach.
 - Vet visits. You have to make the appointment, drive to the vet, sit in the waiting room, have the actual visit, drive back home. Right in the middle of a work day, which is when the vet is open.
-- Health care. The vet might give you the instructions, but most of the time you're the one who actually has to "do" the health care.  
-    
-  "Administer medication three times a day, at least an hour before a meal and two hours after a meal." You'll need to rearrange your own schedule to fit your dog's medication schedule.  
-    
-  "Keep on-leash for 4 weeks – no running, no climbing stairs, no getting onto furniture." You'll need to rearrange your house to help your dog heal from leg surgery.  
-    
+- Health care. The vet might give you the instructions, but most of the time you're the one who actually has to "do" the health care.
+
+  "Administer medication three times a day, at least an hour before a meal and two hours after a meal." You'll need to rearrange your own schedule to fit your dog's medication schedule.
+
+  "Keep on-leash for 4 weeks – no running, no climbing stairs, no getting onto furniture." You'll need to rearrange your house to help your dog heal from leg surgery.
+
   Changing bandages. Medicated baths. Coaxing a sick dog to eat. Getting him to take a pill....
 
   Health problems tend to occur at the most inconvenient times. A sick or injured dog can't wait while you take college exams or go on a business trip or vacation. Being available to provide health care is another reason I don't recommend dogs for people who work all day.
 
-![Pug behind fence](../graphics/should-fence.jpg)
+*Image hint — Pug behind fence*
 
 ### Dogs should have a fenced yard.
 
@@ -109,7 +109,7 @@ Dogs want and deserve a safe fenced area where they can stretch their legs and r
 
   If you like an immaculate environment, a dog is not the right pet for you.
 
-![St Bernard, happy indoors with owners](../graphics/should-indoors.jpg)
+*Image hint — St Bernard, happy indoors with owners*
 
 ### A dog needs to live indoors with you.
 
@@ -133,7 +133,7 @@ You will need to teach your dog all sorts of polite behaviors – not only for y
 
 That requires training. And to train a dog, you need to learn how to communicate with him so that he understands what you want and respects you enough to do it.
 
-![Girl and dog communicating](../graphics/should-communication.jpg)
+*Image hint — Girl and dog communicating*
 
 You and your dog are two different species. He is not a furry person. He is a wonderful creature with talents and abilities all his own. It is not only incorrect, but wasteful and demeaning, to consider him a furry person.
 
@@ -151,7 +151,7 @@ But there is a difference – a big one. With a child, your relationship changes
 
 Your dog, on the other hand, regards you as his whole world throughout his short life, and the letting go is often sudden and always final.
 
-![Old dog](../graphics/should-olddog.jpg)
+*Image hint — Old dog*
 
 This may be the biggest negative, the biggest disadvantage, the biggest responsibility of owning a dog. You will lose him, and your heart will shatter.
 
@@ -160,54 +160,3 @@ Someday you will find yourself standing in the veterinarian's office for the las
 When you think you want a dog, it's understandable that you focus on the joys and benefits. That's why I've spent more time writing about the challenges and responsibilities – to provide balance so that you don't overlook important aspects of dog ownership.
 
 You thought you might want a dog. Do you know for sure now? I hope I was able to help you decide.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-#### Check out my other articles on finding a good dog
-
-[Do Dogs Need a Fenced Yard?](https://www.yourpurebredpuppy.com/buying/articles/do-dogs-need-fenced-yard.html)
-
-[Should You Get a Dog If You Work All Day?](https://www.yourpurebredpuppy.com/buying/articles/dog-if-you-work-all-day.html)
-
-[Puppies vs Adult Dogs](https://www.yourpurebredpuppy.com/buying/articles/puppy-or-adult-dog.html)
-
-[The Truth About Purebred Dogs](https://www.yourpurebredpuppy.com/buying/articles/purebred-dogs.html)
-
-[The Truth About Crossbred Dogs](https://www.yourpurebredpuppy.com/buying/articles/crossbred-dogs.html)
-
-[The Truth About Mixed Breed Dogs](https://www.yourpurebredpuppy.com/buying/articles/mixed-breed-dogs.html)
-
-[Which Dog Breed Characteristics Are Right For You?](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-traits.html)
-
-[Male Dogs vs Female Dogs: Which One Makes a Better Pet?](https://www.yourpurebredpuppy.com/buying/articles/male-female-dogs.html)
-
-[Adopting a Dog From The Animal Shelter](https://www.yourpurebredpuppy.com/buying/articles/animal-shelters.html)
-
-[Adopting From a Dog Breed Rescue Group](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-rescue.html)
-
-[How To Find a Good Dog Breeder](https://www.yourpurebredpuppy.com/buying/articles/dog-breeders.html)
-
-["AKC Registered Puppies" – Are AKC Papers Important?](https://www.yourpurebredpuppy.com/buying/articles/AKC-registered-puppies.html)
-
-[How To Choose a Good Puppy](https://www.yourpurebredpuppy.com/buying/articles/how-to-choose-a-puppy.html)
-
-[Pet Shop Puppies: Buying a Puppy From a Pet Store](https://www.yourpurebredpuppy.com/buying/articles/petshops-and-pet-stores.html)
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

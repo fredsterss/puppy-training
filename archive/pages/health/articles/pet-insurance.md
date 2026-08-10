@@ -9,9 +9,9 @@ fetched_at: "2026-08-10T13:15:24+00:00"
 
 # Should You Buy Pet Insurance? An Honest Review
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Dog](../graphics/petinsurance-hero.jpg)
+*Image hint — Dog*
 
 Pet insurance will pay a large portion of your dog's vet bills if he is ill or injured. Is pet insurance worth buying?
 
@@ -21,11 +21,13 @@ You have questions about pet insurance? I'm confident my answers will help you d
 2. Then I'll tell you why Healthy Paws is my #1 recommendation for the best pet health insurance.
 
    In a nutshell, Healthy Paws has an unmatched history of great customer service, generous coverage including genetic conditions and alternative treatments, and unlimited lifetime benefits.
-3. Finally, I'll help you get a free quote that includes a special discount – the lowest rate available. To get this discounted rate, be sure to follow my link at the bottom of this review.  
-     
+3. Finally, I'll help you get a free quote that includes a special discount – the lowest rate available. To get this discounted rate, be sure to follow my link at the bottom of this review.
+
    One more thing – when you get a free quote, the Healthy Paws Foundation donates money to a homeless pet who needs medical care!
 
-[![Healthy Paws logo](../graphics/petinsurance-logo.jpg)](https://www.yourpurebredpuppy.com/go/healthy-paws/)
+*Image hint — Healthy Paws logo*
+
+[Healthy Paws logo](https://www.yourpurebredpuppy.com/go/healthy-paws/)
 
 OK, let's get started!
 
@@ -33,7 +35,7 @@ OK, let's get started!
 
 ## Part One: Questions and Answers about Pet Insurance
 
-![Family with Golden Retriever](../graphics/petinsurance-family1.jpg)
+*Image hint — Family with Golden Retriever*
 
 What would happen to those four beautiful smiles if something happened to their dog but they couldn't afford the vet's treatments?
 
@@ -45,13 +47,9 @@ You would never dream of getting family health insurance that doesn't cover all 
 
 Unfortunately, family health insurance doesn't cover pets, even though Jake is definitely part of your family. So Jake has to have his own policy to be protected.
 
-  
-
 ### 2. How does pet insurance work?
 
 When Jake has an accident or illness, you take him to any veterinarian, emergency room, or specialist. You send copies of the bills to the insurance company and they pay for his treatments according to the terms of your policy.
-
-  
 
 ### 3. What about Co-pays and Deductibles?
 
@@ -63,11 +61,9 @@ For example, when Jake needs a $3000 surgery, your deductible and co-pay could t
 
 If you choose a higher deductible or co-pay, your monthly premium is less. Or you could choose a lower deductible or co-pay, and your pet insurance will pay more of the final bill. It's entirely up to you to choose the best co-pay and deductible for you and your furry friend, but we'll get to the details of your personal preferences later.
 
-  
-
 ### 4. Why do I need pet insurance?
 
-![Golden Retriever puppy with children](../graphics/petinsurance-goldenpup.jpg)
+*Image hint — Golden Retriever puppy with children*
 
 Pet insurance protects your dog's health, even his very life. It also protects your family's finances and feelings.
 
@@ -83,7 +79,7 @@ Even if he needs expensive long term cancer treatments....
 
 Even if he falls off the roof....
 
-![Three dog breeds](../graphics/petinsurance-3breeds.jpg)
+*Image hint — Three dog breeds*
 
 What would you do if your dog needed major surgery and follow-up treatments costing over $20,000?
 
@@ -99,8 +95,6 @@ Imagine if your vet were to tell you that Jake needs treatment you can't afford.
 
 That's why I believe a critical question for dog owners is, "Do you have the money to pay the bills yourself, or are you going to get help from your pet insurance company?"
 
-  
-
 ### 5. What does modern veterinary care cost?
 
 We all know that human health care is expensive, and costs are rising rapidly. But did you know that the same cost explosion is happening in veterinary medicine as well? It's partly because diagnostic tests and treatments that were originally developed for humans are now being used for pets.
@@ -114,8 +108,7 @@ Here are a few examples of advanced tests and treatments that the Healthy Paws p
 | Growth/Lump | Biopsies, Radiation, Chemotherapy, Cyberknife | $15,000 |
 | Heart Conditions | Major surgeries & follow up treatments | $20,000 |
 
-  
-![French bulldog](../graphics/petinsurance-frbulldog.jpg)
+*Image hint — French bulldog*
 
 Here's the largest claim ever paid by Healthy Paws:
 
@@ -127,13 +120,13 @@ That was a quick look at the staggering costs for some newer veterinary treatmen
 
 Here's a case study reported by Healthy Paws:
 
-![Boxer pup](../graphics/petinsurance-boxerpup.jpg)
+*Image hint — Boxer pup*
 
 "We had a pet parent call in a stomach issues claim for her Boxer puppy: he had started eating rocks. He managed to ingest 6 or more rocks without his mom's knowledge. It wasn't until he began to throw up a few stones that the pet parent was able to take action. The poor pup ended up having to have the remaining rocks surgically removed, a $4,000 procedure that was covered by her Healthy Paws policy."
 
 ### 6. What's covered by pet insurance?
 
-![Vet with puppy](../../health/graphics/intro-vet.jpg)
+*Image hint — Vet with puppy*
 
 You want your pet insurance to cover whatever modern "miracles" your vet can deliver.
 
@@ -175,8 +168,6 @@ It's also important that alternative treatments, like acupuncture, hydrotherapy,
 
 Healthy Paws gets these things right.
 
-  
-
 ### 7. What's not covered by pet insurance?
 
 We've already discussed that all pet insurance companies exclude "pre-existing conditions" from coverage – that's ailments that start before you sign up.
@@ -185,11 +176,9 @@ Healthy Paws also doesn't cover routine care like vaccinations, flea or heartwor
 
 In my opinion, this is a good trade-off. You pay the vet for routine, small-ticket stuff, but you pay less for your pet insurance. And the pet insurance pays for the big stuff that you really need help with.
 
-  
-
 ### 8. When should I get pet insurance?
 
-![Jack Russell playing with boy](../graphics/petinsurance-jrt.jpg)
+*Image hint — Jack Russell playing with boy*
 
 The right time to get pet insurance is BEFORE something bad happens.
 
@@ -207,7 +196,7 @@ There's another issue that's often overlooked. Without insurance, you might acce
 
 ## Part Two: Why I Believe Healthy Paws Is The Best Pet Insurance
 
-![Family with Golden Retriever](../graphics/petinsurance-golden1.jpg)
+*Image hint — Family with Golden Retriever*
 
 Health Paws insurance offers unlimited benefits, generous coverage, and low rates – with winning customer satisfaction.
 
@@ -219,8 +208,6 @@ If Jake needs continuing treatment, Healthy Paws continues to pay. Many companie
 
 With the spiraling costs of veterinary medicine today, no one knows how high future bills might go. And if your dog were to max out one of those limited policies, you'll never be able to get coverage from another company for what would then be a pre-existing condition.
 
-  
-
 ### 2. Healthy Paws offers generous coverage.
 
 Healthy Paws covers conditions and treatments that are often excluded from other policies. For example, Healthy Paws covers congenital and hereditary conditions. Some companies don't. Healthy Paws covers alternative treatments. Some companies don't.
@@ -229,21 +216,15 @@ Remember the Healthy Paws promise:
 
 If your pet needs treatment for any accident or illness, and it's not a pre-existing condition, you're covered. It's that simple.
 
-  
-
 ### 3. Healthy Paws has only one annual deductible.
 
 No matter how many different ailments your dog has each year, you only need to meet the deductible once. Some companies make you pay the deductible repeatedly if different treatments fall in the same year.
-
-  
 
 ### 4. Healthy Paws has high reimbursement rates.
 
 Healthy Paws pays on the actual bill. Some companies have lists of "usual and customary" charges, and limit their payments to what their list says.
 
 As good as Healthy Paws sounds already, there are some things I haven't told you yet that make choosing their insurance even more obvious...
-
-  
 
 ### 5. Healthy Paws has terrific customer service and customer satisfaction.
 
@@ -272,7 +253,7 @@ Consumer Reports investigated pet insurance companies to see how much it costs t
 
 ## Part three: How much does Healthy Paws pet insurance cost?
 
-![Child with German Shepherd puppy](../graphics/petinsurance-gsdpup1.jpg)
+*Image hint — Child with German Shepherd puppy*
 
 Get a free pet insurance quote from the company that delivers the best value.
 
@@ -291,19 +272,15 @@ Different breeds have different health profiles, so they have different rates. A
 
 After answering those questions on the Healthy Paws site, you'll see a screen with your free quote:
 
-![Pet insurance quote](../graphics/petinsurance-quote1.jpg)
+*Image hint — Pet insurance quote*
 
 This quote is for "Luke", a small mixed breed. For this policy, you would pay $28.36 a month. For any covered illness or injury, you meet your deductible of $250, then Healthy Paws pays 80% of the rest. You can change those figures by clicking on "Customize Rate".
 
-  
-
 See in the pic above where it says Customize Rate? Click on that (on the Healthy Paws site) and you'll get a screen where you can change the Reimbursement percentage and deductible, which changes the monthly rate. It looks like this:
 
-![Pet insurance quote](../graphics/petinsurance-quote3.jpg)
+*Image hint — Pet insurance quote*
 
 You can change the Reimbursement to 90%, 80%, or 70%. Or you can change the deductible to $100, $250, or $500. Each time you change something, your monthly rate changes instantly so you can see how little it costs. You can play with these options until you find the combination that you like the best. (Clicking the boxes only works on the Healthy Paws site, not on this review page!)
-
-  
 
 Healthy Paws is so confident about the quality of their coverage, and their low rates, that they even give you a 30 day money back guarantee.
 
@@ -317,49 +294,12 @@ After researching every pet insurance company out there, I'm so impressed with H
 
 If you haven't gotten your free quote yet, [go get it now](https://www.yourpurebredpuppy.com/go/healthy-paws/). Your quote will include an automatic discount – a great bargain.
 
-[![Pet insurance quote](../graphics/petinsurance-quote2.jpg)](https://www.yourpurebredpuppy.com/go/healthy-paws/)
+*Image hint — Pet insurance quote*
+
+[Pet insurance quote](https://www.yourpurebredpuppy.com/go/healthy-paws/)
 
 Before I close, I'd like to share one more little tidbit that shows Healthy Paws has their heart in the right place: Get a quote, and Healthy Paws donates money to a homeless pet who needs medical care.
 
 Now that's the kind of company I like doing business with!
 
-![All best, Michele Welton](../../Graphics/Allbest14.gif)
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-#### Check out my other articles on health & feeding
-
-[Dog Health Care – The Sensible Way](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)
-
-[The Best Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)
-
-[Kibble or Canned Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
-
-[Homemade Dog Food Delivered To Your House](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food-delivered.html)
-
-[Vaccinations and Booster Shots: Are They Needed?](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)
-
-[Think Your Veterinarian Is Good? Here's How To Tell](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)
-
-[Spaying Your Female Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)
-
-[Neutering Your Male Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
+*Image hint — All best, Michele Welton*

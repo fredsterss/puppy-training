@@ -9,9 +9,9 @@ fetched_at: "2026-08-10T13:30:19+00:00"
 
 # Your Puppy Should Look at You When You Say His Name
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![White pup looking attentively at you](../graphics/rtp/name-whitepup.jpg)
+*Image hint — White pup looking attentively at you*
 
 The most obvious word you want your dog to learn is his name. You want him to recognize that a particular sound means HIM. You want him to look at you when he hears that sound.
 
@@ -23,7 +23,7 @@ Here's my advice:
 - Avoid names that rhyme with *No*  (Beau, Joe, Coco) or start with *No*  (Nova, Noel, Noble). We use No to tell a puppy that certain behaviors are not allowed.
 - Avoid unflattering names like Dumbo, Trouble, Devil, Killer. Of course the dog doesn't understand the meaning, but *people*  do, and every time you or anyone else says that name, it's only natural to think of that dog as being dumb or trouble-making or aggressive. When you have such thoughts, it can come through in your body language... which dogs are very good at reading. You might find that the dog ends up giving you exactly what you expect. So try to pick a positive name.
 
-![Dachshund looking attentively at you](../graphics/rtp/name-dachshund.jpg)
+*Image hint — Dachshund looking attentively at you*
 
 ## Step #1 of teaching your puppy his name
 
@@ -33,7 +33,9 @@ Find a quiet room indoors without distractions. If you have small children or ot
 
 Stand in the quiet spot with your puppy on leash. Because you're just standing there saying and doing nothing, he will probably get bored and look up at you. At that moment call his name in a happy voice: "Jake!" (don't just say  it – call  it) and give him a treat.
 
-![Miniature Pinscher](../graphics/rtp/puppy-respect_html_m8d1631b.jpg)Now wait for his attention to wander. Walk around the room if that gets him to look away from you. Then stop and wait for him to look up at you again. When he does so, call "Jake!" and give him a treat.
+*Image hint — Miniature Pinscher*
+
+Now wait for his attention to wander. Walk around the room if that gets him to look away from you. Then stop and wait for him to look up at you again. When he does so, call "Jake!" and give him a treat.
 
 Repeat this pattern about 10 times.
 
@@ -59,7 +61,7 @@ But when he appears to have that part down pat, walk around in your house or yar
 
 If he doesn't immediately look in your direction, call his name again and take a few steps backward, tightening the leash. This should make him look toward you. Then you can praise ("Good boy! Yay!") and treat.
 
-![Puppy walking toward you](../graphics/rtp/name-tanpup.jpg)
+*Image hint — Puppy walking toward you*
 
 It shouldn't be long before your puppy looks at you immediately when you say his name. Then start cutting back on the treats. Reward for the first look, and the second look. For the third look, praise but give no treat. So it's treat, treat, no treat. Then cut back to treat, no treat, treat, no treat.
 
@@ -72,30 +74,3 @@ Finally, make the treats random. You might treat twice in a row, then nothing th
 - Don't use his name in combination with *No.*  "Jake, good boy!" is fine. "Jake, no!" is less good.
 
   Unfortunately, though, if you have multiple dogs, sometimes you do need to use the name of the misbehaving one so the other dogs within hearing distance don't feel corrected when they haven't done anything wrong.
-
-My [![book cover](../../books/covers/RTP-110.jpg)training program](https://www.yourpurebredpuppy.com/books/RTP.html) is for puppies 2 to 18 months old. It explains, step by step:
-
-- How to establish good patterns and routines that govern everything your pup does.
-- How to teach your pup to be calm and to look to you for guidance, direction, and permission.
-- How to make yourself important – the most important thing – in your puppy’s life. How to show your pup the clear, black-and-white rules and routines he is to follow. And how to make sure he does.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

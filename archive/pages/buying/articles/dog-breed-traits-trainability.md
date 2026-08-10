@@ -9,9 +9,8 @@ fetched_at: "2026-08-10T13:13:49+00:00"
 
 # Dog Breeds That Are Easy (or Challenging) To Train
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-  
 One of a series of 11 articles on Dog Breed Traits to consider before choosing a dog. See the complete list.  +
 
 [Size](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-traits-size.html)
@@ -36,7 +35,7 @@ One of a series of 11 articles on Dog Breed Traits to consider before choosing a
 
 [Appearance](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-traits-appearance.html)
 
-![Cartoon dog](../graphics/dog-breed-traits-trainability1.jpg)
+*Image hint — Cartoon dog*
 
 The brilliant Miniature Pumpkinhead understands 18 languages and can do sums in his head! Move over, Albert Einstein!
 
@@ -50,7 +49,7 @@ Hmm. And hmm.
 
 - **Learns quickly.** Smart dogs catch on fast. You show them something a few times and they get it.
 
-  ![Dog eyeing chess board](../graphics/dog-breed-traits-trainability-chess.jpg)
+*Image hint — Dog eyeing chess board*
 
   I like to think that somewhere, here on earth or in another dimension, there is a dog as advanced as this one. :)
 - **Good memory.** Smart dogs remember what they've learned.
@@ -58,7 +57,7 @@ Hmm. And hmm.
 - **Flexible & creative.** Smart dogs don't get stuck trying the same thing over and over if it isn't working. Smart dogs keep trying new things and play "trial and error" until something works.
 - **Keen observation.** Smart dogs watch you. They observe your facial expressions, read your body language, and interpret your moods. If they see another dog do something that earns a reward, they may try it themselves to see if they get the same reward.
 
-![German Shepherd Dog with laptop](../graphics/dog-breed-traits-trainability-laptop.jpg)
+*Image hint — German Shepherd Dog with laptop*
 
 ### Should you WANT a highly intelligent dog?
 
@@ -68,7 +67,7 @@ Well, because smart dogs can be difficult to live with.
 
 Smart dogs get bored quickly. Smart dogs are always looking for mental stimulation, mental challenges, interesting things to do. They want to go for walks in new places, meet new people, play with new toys, learn new words, solve new puzzles.
 
-![Dog destroying upholstery](../graphics/dog-breed-traits-trainability-destroy.jpg)
+*Image hint — Dog destroying upholstery*
 
 If you don't keep smart dogs busy, they will look for other ways to amuse themselves, i.e. destroying the furniture, or digging craters in the yard.
 
@@ -86,7 +85,7 @@ No matter how high or low their intelligence, dogs can be easy to train, difficu
 
 Now, breeders tend to get all huffy and defensive when their breed is labeled as *difficult* to train. They'll announce, indignantly, that their breed can be trained successfully to the highest levels of obedience, and they'll rattle off the names of notable dogs in their breed who have achieved high scores.
 
-![Dog show winners on stage](../graphics/dog-breed-traits-trainability-dogshow.jpg)
+*Image hint — Dog show winners on stage*
 
 And they're right. In experienced hands, every breed certainly CAN be well-trained to high levels.
 
@@ -96,7 +95,7 @@ BUT... with a novice at the other end of the leash,   some breeds are much more
 
 #### Dogs that are challenging to train
 
-![Shiba Inu, hard to train](../graphics/dog-breed-traits-trainability-shiba.jpg)
+*Image hint — Shiba Inu, hard to train*
 
 Shiba Inu: very challenging to train
 
@@ -117,7 +116,7 @@ Breeds that are easy (or challenging!) to train
 
 #### [TINY DOGS](https://www.yourpurebredpuppy.com/dogbreeds/index-tiny-toy-dog-breeds.html)
 
-![Long Coat Chihuahuas](../graphics/dog-breed-traits-trainability-chihuahuas.jpg)
+*Image hint — Long Coat Chihuahuas*
 
 Chihuahuas need to be treated like real dogs, not carried around like dolls. They should be praised and rewarded for good behavior, and corrected for bad behavior.
 
@@ -140,7 +139,7 @@ Most challenging to train:
 
 **EASIEST** to train are [Miniature Poodles](https://www.yourpurebredpuppy.com/reviews/miniaturepoodles.html) and SOME  [Jack Russells](https://www.yourpurebredpuppy.com/reviews/jackrussellterriers.html) (JRTs can be brilliant, but as I explained earlier, [intelligence isn't the same as trainability](#brilliant)). A distant third is the [Cavalier King Charles Spaniel](https://www.yourpurebredpuppy.com/reviews/cavalierkingcharlesspaniels.html).
 
-![Cavalier King Charles Spaniels](../graphics/dog-breed-traits-trainability-cavaliers.jpg)
+*Image hint — Cavalier King Charles Spaniels*
 
 All the colors Cavaliers come in. This breed responds well to training, but does have serious health problems, needs regular coat care, and sheds a ton.
 
@@ -157,7 +156,7 @@ Most challenging to train:
 
 **EASIEST** to train – as long as their needs for exercise, mental stimulation, and calm leadership are met – are the [Shetland Sheepdog (Sheltie)](https://www.yourpurebredpuppy.com/reviews/shelties.html), [Lagotto Romagnolo](https://www.yourpurebredpuppy.com/reviews/lagotto-romagnolo.html), and Cocker Spaniels ([American](https://www.yourpurebredpuppy.com/reviews/americancockerspaniels.html) and [English](https://www.yourpurebredpuppy.com/reviews/englishcockerspaniels.html)).
 
-![Shetland Sheepdogs, Shelties](../graphics/dog-breed-traits-trainability-shelties.jpg)
+*Image hint — Shetland Sheepdogs, Shelties*
 
 Shetland Sheepdogs (Shelties) are typically sweet-natured and easy to train. The only common behavior issues are barking, hypersensitivity, and sometimes excessive shyness.
 
@@ -175,7 +174,7 @@ Most challenging to train:
 
 **EASIEST** to train – IF their exercise/stimulation needs are met – are the [Australian Shepherd](https://www.yourpurebredpuppy.com/reviews/australianshepherds.html) and [English Shepherd](https://www.yourpurebredpuppy.com/reviews/englishshepherds.html). The two Springer Spaniels ([Welsh](https://www.yourpurebredpuppy.com/reviews/welshspringerspaniels.html) and [English](https://www.yourpurebredpuppy.com/reviews/englishspringerspaniels.html)) are also fairly easy to train.
 
-![Australian Shepherd, blue merle](../graphics/dog-breed-traits-trainability-aussieshep.jpg)
+*Image hint — Australian Shepherd, blue merle*
 
 Australian Shepherds are easy to train if you can provide enough exercise and interesting stuff to do. If you can't... forget it! Just move them onto the Challenging list and look for a breed that isn't so incredibly demanding of your time and energy.
 
@@ -189,23 +188,29 @@ But what about teaching them to lie down, to come when called, to be calm indoor
 
 **EASIEST** to train – as long as their needs for physical exercise, mental stimulation, and calm leadership are met – are the [Golden Retriever](https://www.yourpurebredpuppy.com/reviews/goldenretrievers.html), [Labrador Retriever](https://www.yourpurebredpuppy.com/reviews/labradorretrievers.html), and [Standard Poodle](https://www.yourpurebredpuppy.com/reviews/standardpoodles.html).
 
-![Golden Retriever on beach](../graphics/dog-breed-traits-trainability-golden.jpg)
+*Image hint — Golden Retriever on beach*
 
 The Golden Retriever is one of the finest family dogs in the world. Willing to learn, cheerful, demonstrative, trustworthy with everyone, and forgiving of mistakes made by inexperienced owners. The two major drawbacks? Health issues and heavy shedding.
 
 The most challenging large/giant breeds to train:
 
-- ![Great Pyrenees with sheep](../graphics/dog-breed-traits-trainability-livestock.jpg)
+-
+
+*Image hint — Great Pyrenees with sheep*
 
   Great Pyrenees
 
   **Livestock guardians** (Anatolian Shepherd, Great Pyrenees, Komondor, Kuvasz, Tibetan Mastiff) – Bred to guard flocks, alone in the mountains, they keep watch and make their own decisions about friends and foes and appropriate actions. It is difficult to get these strong-willed, self-reliant dogs to turn decision-making over to you.
-- ![Greyhound running](../graphics/dog-breed-traits-trainability-sighthound.jpg)
+-
+
+*Image hint — Greyhound running*
 
   Greyhound
 
   **Sighthounds** (Afghan Hound, Ibizan, Greyhound, Saluki, Scottish Deerhound) – These tall, slim, long-legged dogs have fairly rigid preferences. They want to race at warp speed after anything that runs, zoom a dozen laps around the yard, then snooze on the sofa. These independent, easily distracted breeds don't see the point in learning or following commands.
-- ![Catahoula Leopard Dog](../graphics/dog-breed-traits-trainability-catahoula.jpg)
+-
+
+*Image hint — Catahoula Leopard Dog*
 
   Catahoula Leopard Dog
 
@@ -217,7 +222,7 @@ In some breeds, different breeding lines produce very different temperaments and
 
 In these breeds, I would say that the dogs from show lines will have moderate trainability, while the dogs from working lines will have easy to moderate to challenging trainability.
 
-![Three German Shepherds sitting](../graphics/dog-breed-traits-trainability-gsds.jpg)
+*Image hint — Three German Shepherds sitting*
 
 German Shepherds can look and act quite differently depending on whether they're from show lines or working lines. Personally I prefer working lines, as I find show lines to be caricatures of what German Shepherds should look like and act like.
 
@@ -233,29 +238,8 @@ Large/giant breeds whose trainability varies from easy to moderate to challengin
 | Boxer | Rottweiler |
 | Bullmastiff |  |
 
-![Black brindle Boxer](../graphics/dog-breed-traits-trainability-boxer.jpg)
+*Image hint — Black brindle Boxer*
 
 Black brindle Boxer. "Fetch, Jazz!"
 
 Once you have your dog, you might enjoy my downloadable ebook, *Test Your Dog's IQ*. It's a free bonus book when you purchase any of [my training or health books](https://www.yourpurebredpuppy.com/books/).
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

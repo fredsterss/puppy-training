@@ -9,17 +9,15 @@ fetched_at: "2026-08-10T13:39:04+00:00"
 
 # Feed Homemade Dog Food – Without Needing To Make It
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
 Some links on this website are affiliate links. If you purchase those products, I may receive a small compensation. Rest assured that I only recommend products that I use myself or strongly believe in. This small compensation helps me offset the costs of maintaining my website so I can keep writing free articles for you.
-
-  
 
 I often get emails from dog owners after they've read my articles on homemade dog food and kibble and canned food.
 
 These owners had never realized there were so many disadvantages and risks of giving their dog commercial kibble or canned foods, and now they're concerned that they're not doing right by their dog.
 
-![Nutritious homemade meal for a dog](../graphics/feeding-homemade-13.jpg)
+*Image hint — Nutritious homemade meal for a dog*
 
 The best food is homemade.
 
@@ -29,7 +27,7 @@ They would love to feed homemade, but....
 - Some owners are concerned about the time it would take to shop for the ingredients, cook the meals, store the leftovers, and clean up the mess. Their lives are already full with work, the kids, chores, recreation....
 - Some owners are worried about the expense.
 
-![Nom Nom homemade dog food](../graphics/nom-logo-2.jpg)
+*Image hint — Nom Nom homemade dog food*
 
 If you're one of those owners, I have good news: I've found a solution for you.
 
@@ -45,7 +43,7 @@ Each homemade meal comes wrapped in a vacuum-sealed wrapper. All you need to do 
 
 ## You might be thinking, "What's the catch? low-quality ingredients? wildly expensive?"
 
-![homemade chicken dog food delivered by Nom Nom](../graphics/nom-chicken-chow-2.jpg)
+*Image hint — homemade chicken dog food delivered by Nom Nom*
 
 I recommend Nom Nom's **Chicken Chow** recipe, made with chicken thighs, sweet potato, yellow squash, and spinach. Plus health-promoting vitamins and minerals.
 
@@ -79,7 +77,7 @@ Nom Nom uses only premium-quality ingredients from the United States. This is re
 
 Nom Nom offers several recipes you can choose from, each recipe headed by a different meat (beef, chicken, turkey, pork), plus dog-healthy vegetables.
 
-![homemade dog food delivered by Nom Nom](../graphics/nom-chicken-meal3.jpg)
+*Image hint — homemade dog food delivered by Nom Nom*
 
 Chicken Chow.... you can see the chicken, spinach, sweet potato, and yellow squash. So delicious and nutritious that **we** could eat it.
 
@@ -105,7 +103,7 @@ Their kitchens have never failed a safety inspection – and I mean rigorous saf
 
 ## The meals are PACKAGED in vacuum-sealed, tear-open pouches
 
-![Nom Nom delivers the right amount of homemade food for your dog](../graphics/nom-preparation.jpg)
+*Image hint — Nom Nom delivers the right amount of homemade food for your dog*
 
 Here's your dog's meal being measured into a vacuum-sealed pouch to keep it perfectly fresh. Each pouch holds exactly the right amount for your individual dog.
 
@@ -129,7 +127,9 @@ Based on your dog's age, weight, and activity level, Nom Nom will determine how 
 
 Remember.... for a limited time, if you [follow my link](https://www.yourpurebredpuppy.com/go/nomnomnow/) to get your custom quote, you'll get 50% OFF.
 
-[![Nom Nom homemade dog food](../graphics/nom-banner-vertical5.jpg)](https://www.yourpurebredpuppy.com/go/nomnomnow/)
+*Image hint — Nom Nom homemade dog food*
+
+[Nom Nom homemade dog food](https://www.yourpurebredpuppy.com/go/nomnomnow/)
 
 Your quote is 100% free and no-obligation.
 
@@ -155,7 +155,7 @@ As you can guess, they're not worried about having to make good on that guarante
 
 ## To sum up
 
-![homemade chicken dog food delivered by Nom Nom](../graphics/nom-chicken-chow-2.jpg)
+*Image hint — homemade chicken dog food delivered by Nom Nom*
 
 I recommend Nom Nom's **Chicken Chow** recipe, made with chicken thighs, sweet potato, yellow squash, and spinach. Plus health-promoting vitamins and minerals.
 
@@ -185,43 +185,6 @@ I recommend Nom Nom's **Chicken Chow** recipe, made with chicken thighs, sweet p
 
 ### [Get your free quote](https://www.yourpurebredpuppy.com/go/nomnomnow/) from Nom Nom and grab that special time-limited 50% discount....
 
-[![Get your quote from Nom Nom](../graphics/nom-orange-button-2.jpg)](https://www.yourpurebredpuppy.com/go/nomnomnow/)
+*Image hint — Get your quote from Nom Nom*
 
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-## HONEST ADVICE ABOUT TRAINING
-
-[![terrier looking up at owner](../../training/graphics/training-related-jrt.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
-
-[Teach Your Dog To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
-
-[![german shepherd dog walking with owner](../../training/graphics/training-related-gsd.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
-
-[Dog Training – What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
-
-[![dog pulling owner on leash](../../training/graphics/training-related-blackwhite.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
-
-[You Need Dog Training Help.... But From Where?](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
-
-[![Golden Retriever pup chewing on furniture](../../training/graphics/training-related-goldenpup.jpg)](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
-
-[Puppy Training Schedule](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
+[Get your quote from Nom Nom](https://www.yourpurebredpuppy.com/go/nomnomnow/)

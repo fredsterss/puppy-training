@@ -9,9 +9,9 @@ fetched_at: "2026-08-10T13:29:11+00:00"
 
 # Aggression or Reactivity Toward People or Other Dogs
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![german shepherd dog baring teeth](../graphics/rtp/aggression-hero.jpg)
+*Image hint — german shepherd dog baring teeth*
 
 It can be frightening when a dog curls his lip, bares his teeth, growls, snarls, or bites.
 
@@ -38,7 +38,7 @@ But if he suddenly found himself off-leash (I'm NOT suggesting you do that!), wo
 
 Surprisingly, most dogs would not. This is one of the signs of a reactive dog – he puts up a great front, but is too insecure to follow through. Even if he did charge the other dog or person, he usually retreats if his target stands its ground.
 
-![two dogs staring at each other](../graphics/rtp/aggression-2dogs.jpg)
+*Image hint — two dogs staring at each other*
 
 Whereas a truly dominant dog who is serious about his aggression is supremely confident and will readily attack other dogs or other people.
 
@@ -50,7 +50,7 @@ Owners don't help these dogs by holding them on a tight leash, which only makes 
 
 You always want your pup on a loose leash. When you need to use the leash to correct your pup, do it rapidly – *pop*  the leash – then loosen it again. We talked all about this when we covered leash training. If your pup is not responding to a normal buckle collar, switch to an alternative collar that does work.
 
-![jack russell terrier on a loose leash, very attentive to owner](../graphics/rtp/aggression-jrt-loose-leash.jpg)
+*Image hint — jack russell terrier on a loose leash, very attentive to owner*
 
 I know it's stressful to go for a walk with a pup who acts aggressively toward other people or other dogs. You tense up whenever you see someone walking toward you.
 
@@ -64,7 +64,9 @@ Proper leadership by itself can turn many reactive dogs around by relieving the 
 
 ## What if a dog is aggressive toward his OWNER?
 
-![Terrier pup](../graphics/rtp/puppy-respect_html_m34cb323b.jpg)This usually doesn't appear until maturity (1 to 3 years old), when a dog's hormones blossom.
+*Image hint — Terrier pup*
+
+This usually doesn't appear until maturity (1 to 3 years old), when a dog's hormones blossom.
 
 But the seeds of that aggression were actually planted in the dog's formative months. You probably weren't aware of that at the time, but it was happening.
 
@@ -84,7 +86,11 @@ Everything suggested here is covered more comprehensively in my  [training book]
 - Follow a consistent leadership-based routine for mealtimes. Have him Sit before the food goes down. Don't allow him in the room where family members are eating. And not a single morsel of food from the table.
 - Limit toys. They should be a privilege, not a right.
 - Keep the pup out of your bedroom. Not just off the bed – out of the bedroom entirely. He should sleep in a crate in another room. And no getting up on the furniture unless you invite him up and send him down..
-- ![Staffordshire](../graphics/rtp/puppy-respect_html_4f389472.jpg)Randomly have the pup go into his crate and stay there for a short time until you let him out. Reactive dogs need to learn calmness and relaxation.
+-
+
+    *Image hint — Staffordshire*
+
+    Randomly have the pup go into his crate and stay there for a short time until you let him out. Reactive dogs need to learn calmness and relaxation.
 - Require him to *Sit*  before you give a treat. Make sure he takes the food gently from your hand. No grabbing.
 - Don't allow him to demand petting. You decide when to pet him, and not before having him do something (*Sit*  or *Down*  or *Place*).
 - Don't allow him to run through doors or gates – he must Wait  until you tell him he can go through.
@@ -97,7 +103,9 @@ Everything suggested here is covered more comprehensively in my  [training book]
 
 People who have witnessed a biting incident often say, "It came out of nowhere!" But virtually all dogs do give warning. You just need to know what to look for.
 
-![Boston Great Dane](../graphics/rtp/puppy-respect_html_6abbede7.jpg)Often these warning signs come over a period of time (could be minutes, days, or weeks), during which the dog becomes increasingly stressed by, for example, strangers petting him, or the excited mannerisms of a child. During these times, watch for these subtle signs that your pup is feeling stressed:
+*Image hint — Boston Great Dane*
+
+Often these warning signs come over a period of time (could be minutes, days, or weeks), during which the dog becomes increasingly stressed by, for example, strangers petting him, or the excited mannerisms of a child. During these times, watch for these subtle signs that your pup is feeling stressed:
 
 - Yawning
 - Licking his lips
@@ -115,29 +123,14 @@ They might hover their head low over the object, their front legs splayed out on
 
 DO NOT work with an aggressive dog yourself if you have any concerns. Be realistic – is your aggressive pup only 6 months old, or 16 months old? Is he a Mini Poodle, or a Rottweiler? Is he just growling, or has he actually punctured someone's skin? If you're worried, get professional help from a local trainer.
 
-If you do want to try yourself, my [![book cover](../../books/covers/RTP-110.jpg)training program](https://www.yourpurebredpuppy.com/books/RTP.html) is for puppies 2 to 18 months old. It explains, step by step:
+If you do want to try yourself, my
+
+*Image hint — book cover*
+
+[training program](https://www.yourpurebredpuppy.com/books/RTP.html)
+
+ is for puppies 2 to 18 months old. It explains, step by step:
 
 - How to establish good patterns and routines that govern everything your pup does.
 - How to teach your pup to be calm and to look to you for guidance, direction, and permission.
 - How to make yourself important  – the most important thing – in your puppy's life. How to show your pup the clear, black-and-white rules and routines he is to follow. And how to make sure he does.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

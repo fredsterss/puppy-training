@@ -18,82 +18,51 @@ This guide combines every archived page for this breed into one document.
 
 ## Breed overview and temperament
 
-White Shepherd temperament, personality, training, behavior, pros and cons, advice, and information, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Behavioral Consultant, Author of 15 [Dog Books](https://www.yourpurebredpuppy.com/books/)
+White Shepherd temperament, personality, training, behavior, pros and cons, advice, and information, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![White Shepherd dog breed](../dogbreeds/photos-TZ/whiteshepherdsf4.jpg)
-
-  
+*Image hint — White Shepherd dog breed*
 
 There are really ***three***  dog breeds that could claim the name White Shepherd.
 
-  
-
 ### (1) AKC **German** Shepherds who happen to be white The very popular breed that we call a **German** Shepherd comes in a variety of colors, including white. For several reasons (not necessarily *good*  reasons), white dogs aren't appreciated by the German Shepherd's national breed club nor by German Shepherd breeders who compete at dog shows. Despite their disapproval, a white puppy who pops up in a litter of German Shepherds can still be registered with the American Kennel Club as a German Shepherd. So if you're considering acquiring an *AKC-registered [German Shepherd](https://www.yourpurebredpuppy.com/reviews/germanshepherds.html)* who just happens to be white, you can expect a similar temperament and behavior as if he were a more familiar black and tan color. (2) **UKC** White Shepherds In the United States, instead of registering a white German Shepherd puppy with the American Kennel Club, you might choose to register him with a different association called the *United*  Kennel Club. The UKC offers separate registration to white dogs under their own breed name: **White Shepherd**. If you're considering acquiring a *UKC-registered White Shepherd*, you need to find out whether the breeder's goal was to make the temperament of his dogs the same as (or different from) normal-colored German Shepherds. White Shepherds are often bred to have a softer, more mellow, more sensitive personality. Because of this sweeter temperament, White Shepherds are seldom used as police dogs, guard dogs, or to participate in protection dog sports such as schutzhund. A White Shepherd can certainly be a very good watchdog, but his "watching" is usually limited to alerting you that someone is coming. White Shepherds are not typically aggressive. In fact, if a White Shepherd is going to have any temperament fault, it's more likely to be timidity or skittishness. White Shepherds need a great deal of early socialization to build a confident attitude toward strangers and strange situations. White Shepherds do need plenty of physical and mental exercise. This smart breed should not be relegated to a home that simply wants a casual pet to walk around the block. White Shepherds can be quite vocal, tending to whine, mumble, and grumble. Though they seldom have dominant personalities, White Shepherds still need a confident, consistent owner who will establish and enforce rules. (3) White *Swiss*  Shepherd (aka Berger Blanc Suisse) Finally, there is another breed, based in Europe and registered with an international association called the *FCI.* This breed is called the **White Swiss Shepherd** (Berger Blanc Suisse) and it differs from both AKC German Shepherds and UKC White Shepherds in key areas of appearance, temperament, and health. I'm currently working on an article about that breed. If you want a dog who... - Is strong, athletic, and natural-looking - Has a "softer," more mellow personality than a traditionally-colored German Shepherd - Thrives on challenging activities and exercise - Is exceptionally intelligent, loyal, and versatile – when well-socialized and well-trained, can learn and do almost anything - Makes a sensible watchdog and is not inappropriately hostile A White Shepherd may be right for you. If you don't want to deal with... - Providing plenty of exercise and interesting things to do - Skittishness or shyness in some lines, or when not extensively socialized - Destructiveness when bored or not exercised enough - Potential aggression toward other dogs, especially of the same sex - Constant heavy shedding A White Shepherd may not be right for you. Keep in mind that the inheritance of **temperament** is less predictable than the inheritance of **physical** traits such as size or shedding. Temperament and behavior are also shaped by raising and training. - You can avoid some negative traits by choosing an ADULT dog from an [animal shelter](https://www.yourpurebredpuppy.com/buying/articles/animal-shelters.html) or [rescue group](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-rescue.html). With an adult dog, you can easily see what you're getting, and plenty of adult White Shepherds have already proven themselves not to have negative characteristics. - If you want a puppy, you can avoid some negative traits by choosing the [right breeder](https://www.yourpurebredpuppy.com/buying/articles/dog-breeders.html) and the [right puppy](https://www.yourpurebredpuppy.com/buying/articles/how-to-choose-a-puppy.html). Unfortunately, you usually can't tell whether a puppy has inherited temperament or health problems until he grows up. - Finally, you can avoid some negative traits by [training your White Shepherd](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html) to respect you and by following the 11-step care program in my book, [11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html). More traits and characteristics of the White Shepherd If I was considering a White Shepherd, I would be most concerned about... 1. **The range of temperaments.** You should know what kind of personality you're looking for before you ever start looking for a White Shepherd. Otherwise you might end up with an individual who is very different than what you can handle. You should be especially cautious with this breed because there are a good number of them with inherited temperament problems such as nervousness and timidity. 2. **Serious health problems.** White Shepherds share a number of health problems with German Shepherds of all colors. Crippling hip and elbow dysplasia, skin diseases, and autoimmune diseases are some examples. Read more about [White Shepherd Health.](https://www.yourpurebredpuppy.com/health/whiteshepherds.html) 3. **Heavy shedding.** White Shepherds shed constantly. Longhaired individuals "appear" to shed less because much of their shed hair gets caught in their long wavy outer coat. But you still need to brush it out and you'll be amazed at how much hair this breed can produce. Make sure you're okay with this. 4. **Socialization requirements.** Standoffish by nature, White Shepherds need extensive exposure to people so that their natural caution does not become shyness or fearfulness, which are very difficult to live with. Read more about the importance of [careful socialization](https://www.yourpurebredpuppy.com/training/articles/dog-socializing.html). 5. **Providing enough mental stimulation.** German Shepherds of all colors are so intelligent and capable. I hate to see them chosen by owners who just want a dog to hang around the house and yard. Shepherds of all colors thrive when you find interesting things for them to do that challenge their minds. Get your White Shepherd involved in agility (obstacle course), or advanced obedience classes. Play fetch games. Take them hiking. They must have physical outlets for their energy, and mental outlets for their intelligent minds. 6. **Potential animal aggression.** Most White Shepherds are good with other dogs and cats in their own family. But some individuals aren't so tolerant of other dogs of the same sex. 7. **Legal liabilities.** White Shepherds may be lumped in with other German Shepherds for purposes of "banning" in certain areas, or refusal of homeowner insurance policies. In this day and age, the legal liabilities of owning any breed that looks intimidating and has a history as a guardian dog should be considered. People are quicker to sue if such a dog does anything even remotely questionable.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![dog training videos](../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
-
-Related posts you might enjoy
-
-![dog looking at owner](https://www.yourpurebredpuppy.com/training/graphics/methods-choices150.jpg) [Dog Training:  
- What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
-
-![puppy sitting beside owner](https://www.yourpurebredpuppy.com/training/graphics/schedule-older150.jpg)[You Need Dog Training Help... But From Where? Classes? Books? Videos?](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
-
-![common dog training commands](https://www.yourpurebredpuppy.com/training/graphics/teachyourdog02-150.jpg)[All a Dog Needs Is Love: True or False?](https://www.yourpurebredpuppy.com/training/articles/all-a-dog-needs-is-love.html)
-
-![respectful dog](https://www.yourpurebredpuppy.com/training/graphics/respectful-dog.jpg)[Solve Behavior Problems By Teaching Your Dog To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
 
 ## Buying or adopting
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Behavioral Consultant, Author of 15 [Dog Books](https://www.yourpurebredpuppy.com/books/)
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![White Shepherd](../dogbreeds/photos-TZ/whiteshepherds-pd1.jpg)
+*Image hint — White Shepherd*
 
 Interested in the White Shepherd? Read each post on this page. Make sure the breed is right for you (and that YOU are right for the breed). Decide on sex and age. Then begin the exciting adventure of finding and evaluating breeders and rescue groups and selecting the right White Shepherd. Don't be in a hurry!
-
-  
 
 If you haven't already, please read my [White Shepherd Review](https://www.yourpurebredpuppy.com/reviews/whiteshepherds.html), which sorts out the various Shepherd-type breeds that are white.
 
 ### Don't set your sights on the White Shepherd until you read my advice in these posts.
 
-![Obedience instructor and author Michele Welton](../training/graphics/ind-dog-training-methods1.jpg)
-[Should You Even Get a Dog? Are You Sure?](https://www.yourpurebredpuppy.com/buying/articles/should-you-get-a-dog.html)  
+*Image hint — Obedience instructor and author Michele Welton*
+
+[Should You Even Get a Dog? Are You Sure?](https://www.yourpurebredpuppy.com/buying/articles/should-you-get-a-dog.html)
 Important –  I've been helping people choose and find dogs for nearly 40 years, and honestly, some people who decide to get a dog are making a big mistake...  [[read more]](https://www.yourpurebredpuppy.com/buying/articles/should-you-get-a-dog.html)
 
-![Purebred dogs](graphics/ind-purebred2.jpg)
-[The Truth About Purebred Dogs](https://www.yourpurebredpuppy.com/buying/articles/purebred-dogs.html)  
+*Image hint — Purebred dogs*
+
+[The Truth About Purebred Dogs](https://www.yourpurebredpuppy.com/buying/articles/purebred-dogs.html)
 Pros and cons... (most people don't know about the cons)
 
-![Crossbred dogs](graphics/ind-crossbred2.jpg)
-[The Truth About Crossbred Dogs](https://www.yourpurebredpuppy.com/buying/articles/crossbred-dogs.html)  
+*Image hint — Crossbred dogs*
+
+[The Truth About Crossbred Dogs](https://www.yourpurebredpuppy.com/buying/articles/crossbred-dogs.html)
 Pros and cons... (don't get taken by breeder hype)
 
-![Mixed breed dogs](graphics/ind-mixed2.jpg)
-[The Truth About Mixed Breed Dogs](https://www.yourpurebredpuppy.com/buying/articles/mixed-breed-dogs.html)  
+*Image hint — Mixed breed dogs*
+
+[The Truth About Mixed Breed Dogs](https://www.yourpurebredpuppy.com/buying/articles/mixed-breed-dogs.html)
 Pros and cons... (are mixes inferior to purebreds and crosses?)
 
 ## Is a White Shepherd the right breed for you?
 
-![Obedience instructor and author Michele Welton](../training/graphics/ind-dog-training-methods1.jpg)
-[White Shepherd Review](https://www.yourpurebredpuppy.com/reviews/whiteshepherds.html)  
+*Image hint — Obedience instructor and author Michele Welton*
+
+[White Shepherd Review](https://www.yourpurebredpuppy.com/reviews/whiteshepherds.html)
 I'll tell you what's good about 'em, and what's bad about 'em... most honest review you'll ever find
 
 [Read my White Shepherd Review →](https://www.yourpurebredpuppy.com/reviews/whiteshepherds.html)
@@ -123,12 +92,14 @@ Can you provide what this breed needs?
 
 ## Which sex? What age?
 
-![Symbols for male and female](graphics/ind-male-female-dogs.gif)
-[Male Dogs vs. Female Dogs](https://www.yourpurebredpuppy.com/buying/articles/male-female-dogs.html)  
+*Image hint — Symbols for male and female*
+
+[Male Dogs vs. Female Dogs](https://www.yourpurebredpuppy.com/buying/articles/male-female-dogs.html)
 Which one makes a better pet?
 
-![Girl hugging a dog](graphics/ind-dog-breed-rescue.gif)
-[Puppies vs. Adult Dogs](https://www.yourpurebredpuppy.com/buying/articles/puppy-or-adult-dog.html)  
+*Image hint — Girl hugging a dog*
+
+[Puppies vs. Adult Dogs](https://www.yourpurebredpuppy.com/buying/articles/puppy-or-adult-dog.html)
 Should you get a young puppy, an older puppy, or an adult dog?
 
 ## Where can you buy or adopt a White Shepherd?
@@ -141,17 +112,17 @@ There are *UKC-registered* German Shepherds who have dropped the word German and
 
 Then there is an *FCI-registered* breed based in Europe and rare in the United States, called the **White Swiss Shepherd** (Berger Blanc Suisse). This breed differs from both AKC German Shepherds and UKC White Shepherds in key areas of appearance, temperament, and health. I'm currently working on an article about the Berger Blanc Suisse.
 
-[Adopting From Dog Rescue Organizations](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-rescue.html)  
+[Adopting From Dog Rescue Organizations](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-rescue.html)
 Dog rescue groups have many German Shepherds available, and a few of those might be white.
 
-[Adopting From Public Animal Shelters and Humane Societies](https://www.yourpurebredpuppy.com/buying/articles/animal-shelters.html)  
+[Adopting From Public Animal Shelters and Humane Societies](https://www.yourpurebredpuppy.com/buying/articles/animal-shelters.html)
 If you see a white German Shepherd in a shelter, is there any way to tell whether it's an AKC German Shepherd who happens to be white, or a UKC White Shepherd? No, not unless the owner brought the dog in with registration papers.
 
-[Buying From a Dog Breeder](https://www.yourpurebredpuppy.com/buying/articles/dog-breeders.html)  
-You can buy a White Shepherd from a *show breeder*, who breeds their dogs to match a detailed standard of appearance for the dog show ring.  
-  
-Or you can buy a White Shepherd from a *performance breeder*, who emphasizes a more energetic temperament and high trainability for participating in dog agility, rally obedience, tracking, flyball, herding, etc. Some breeders are a combination of *show/performance*, though how they prioritize those two goals can vary greatly.  
-  
+[Buying From a Dog Breeder](https://www.yourpurebredpuppy.com/buying/articles/dog-breeders.html)
+You can buy a White Shepherd from a *show breeder*, who breeds their dogs to match a detailed standard of appearance for the dog show ring.
+
+Or you can buy a White Shepherd from a *performance breeder*, who emphasizes a more energetic temperament and high trainability for participating in dog agility, rally obedience, tracking, flyball, herding, etc. Some breeders are a combination of *show/performance*, though how they prioritize those two goals can vary greatly.
+
 You might also be able to buy a White Shepherd from people who "just breed pets" or "just had one litter." But should you? Be sure to read the article to learn more about these people.
 
 Here's one difference between a responsible breeder and an irresponsible breeder – BOTH PARENTS of a White Shepherd puppy should have:
@@ -166,164 +137,143 @@ Also, at least ONE PARENT of a White Shepherd puppy should have:
 
 If a seller can't show you those certificates, the puppies are higher risk for health problems. You might choose to accept that risk. But then you need to be willing (and able) to pay a couple thousand bucks for future surgeries and lifelong meds if your White Shepherd ends up crippled or paralyzed.
 
-![Puppy in a pet shop window](graphics/ind-petshops-and-pet-stores.gif)
-[Pet Shop Puppies: Buying a Puppy From a Pet Store](https://www.yourpurebredpuppy.com/buying/articles/petshops-and-pet-stores.html)  
+*Image hint — Puppy in a pet shop window*
+
+[Pet Shop Puppies: Buying a Puppy From a Pet Store](https://www.yourpurebredpuppy.com/buying/articles/petshops-and-pet-stores.html)
 White Shepherds are sometimes seen in pet shops. I have plenty to say about buying a puppy from a pet shop!
 
 ## Which puppy?
 
-![Symbols for male and female](graphics/ind-how-to-choose-a-puppy.gif)
-[Choosing the Right White Shepherd Puppy](https://www.yourpurebredpuppy.com/buying/articles/how-to-choose-a-puppy.html)  
+*Image hint — Symbols for male and female*
+
+[Choosing the Right White Shepherd Puppy](https://www.yourpurebredpuppy.com/buying/articles/how-to-choose-a-puppy.html)
 How to test the temperament and personality of White Shepherd puppies and pick the best puppy in a litter.
 
-![Girl hugging a dog](graphics/ind-AKC-registered-puppies.gif)
- [AKC Registered Puppies: Are AKC Papers Important?](https://www.yourpurebredpuppy.com/buying/articles/AKC-registered-puppies.html)  
+*Image hint — Girl hugging a dog*
+
+ [AKC Registered Puppies: Are AKC Papers Important?](https://www.yourpurebredpuppy.com/buying/articles/AKC-registered-puppies.html)
 Should you only buy a white shepherd who has registration papers and a pedigree? Do papers and pedigrees really matter?
 
-![Dog Quest book](../books/covers/DQ-110.jpg)
-[Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html)  
+*Image hint — Dog Quest book*
+
+[Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html)
 My dog buying/adoption book will help you find a good-tempered, healthy family companion.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![dog training videos](../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
 
 ## Training
 
-White Shepherd Training and Puppy Training, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 [Dog Books](https://www.yourpurebredpuppy.com/books/)
+White Shepherd Training and Puppy Training, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![White Shepherd](../dogbreeds/photos-TZ/whiteshepherds-pd2.jpg)
+*Image hint — White Shepherd*
 
 Dog training is much less about the teaching of commands and much more about how you live with your dog. Virtually all of your dog's behaviors (good and bad) are created by the way you're living with him. What you do with him... what you don't do with him... what you allow him to do... these are all messages to your dog. Send the right messages and you will have no problems with your dog. Send the wrong messages and you will have problems.
 
-  
-
 #### Check out my advice for dealing with behavior problems and training your White Shepherd puppy or adult dog:
 
-![Obedience instructor and author Michele Welton](graphics/ind-dog-training-methods1.jpg)
-[Dog Training – What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)  
+*Image hint — Obedience instructor and author Michele Welton*
+
+[Dog Training – What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
 Some dog training methods are based on what makes the owner feel good, rather than what on actually makes sense to the dog. For example, "positive-only" dog training is a big fad right now. Now, treats can be great motivators for training White Shepherds, but if your dog will only obey for a treat, then **he** is in charge of his obedience, not you.  [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
 
-![Misbehaving dog pulling owner on leash](graphics/ind-respect-training.gif)
-[Teach Your White Shepherd To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)  
+*Image hint — Misbehaving dog pulling owner on leash*
+
+[Teach Your White Shepherd To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
 "Respect Training" is the dog training method I use and recommend for training White Shepherds. A dog who respects you will do what you say and will stop what he's doing when you tell him "No." Teaching your dog to respect you means interacting with him in specific ways that encourage respect.  [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
 
-![Cute puppy](graphics/ind-new-puppy.gif)
-[Training White Shepherd Puppies](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)  
+*Image hint — Cute puppy*
+
+[Training White Shepherd Puppies](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
 Puppy training starts the moment you bring your puppy home. If you use the wrong teaching method, your puppy will begin making decisions about how he wants **you** to fit into **his** life, and that's a recipe for conflict and behavior problems. Whatever your puppy does, you must react properly or he will learn the wrong things. Here's my recommended schedule (what to teach, when to teach it) for training your White Shepherd puppy. [[read more]](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
 
-![Dog behavior problems](graphics/ind-dog-behavior-problems.jpg)
-[Solving Behavior Problems](https://www.yourpurebredpuppy.com/training/articles/dog-behavior-problems.html)  
+*Image hint — Dog behavior problems*
+
+[Solving Behavior Problems](https://www.yourpurebredpuppy.com/training/articles/dog-behavior-problems.html)
 One of the most common questions dog owners ask me is: "How can I stop my dog from doing (a specific bad behavior)?" My answer is almost always the same, no matter what the misbehavior is.... [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-behavior-problems.html)
 
-![Buddy the dog](graphics/ind-dog-training-videos.jpg)
-[These Dog Training Videos Turned Buddy Into a Good Dog](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)  
+*Image hint — Buddy the dog*
+
+[These Dog Training Videos Turned Buddy Into a Good Dog](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
 Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action. I recommend these dog training videos, which are based on respect and leadership. [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
 
-![](graphics/ind-dog-training-help.jpg)
-[You Need Dog Training Help.... But From Where? Private Lessons? Public Classes? Dog Training Books? Dog Training Videos?](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)  
+*Image placeholder — no alt text*
+
+[You Need Dog Training Help.... But From Where? Private Lessons? Public Classes? Dog Training Books? Dog Training Videos?](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
 So your puppy needs training.... or your adult dog needs training.... and you're looking for some help. Should you hire a professional trainer to come to your house? send your dog away to be trained? sign up for a group obedience class? read a book? watch a few videos? Here's my advice on where to get dog training help when you really need it. [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
 
-![Words and commands to teach your dog](graphics/ind-teach-words.gif)
-[Teach The Right Words In The Right Ways](https://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)  
+*Image hint — Words and commands to teach your dog*
+
+[Teach The Right Words In The Right Ways](https://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
 My method of training White Shepherds includes teaching specific words in specific ways so that your dog not only learns the words but also develops the respectful attitude that makes him happy to obey you. Teach your dog words and he will understand what you say. Teach those words ***in the right ways*** and he will actually DO what you say.  [[read more]](https://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
 
-![Outhouse](graphics/ind-housebreaking.gif)
-[Housebreaking Your White Shepherd](https://www.yourpurebredpuppy.com/training/articles/dog-housebreaking.html)  
+*Image hint — Outhouse*
+
+[Housebreaking Your White Shepherd](https://www.yourpurebredpuppy.com/training/articles/dog-housebreaking.html)
 There are two keys to housebreaking. Just two, but you have to get them both right. And I mean 100% right, not 50% right. Otherwise you're going to end up with a dog who is 50% potty trained, and who wants that? So here they are – your two keys to housebreaking.... [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-housebreaking.html)
 
-![Young man holding his dog](graphics/ind-dog-socializing.gif)
-[Socializing Your White Shepherd](https://www.yourpurebredpuppy.com/training/articles/dog-socializing.html)  
+*Image hint — Young man holding his dog*
+
+[Socializing Your White Shepherd](https://www.yourpurebredpuppy.com/training/articles/dog-socializing.html)
 Socializing means training your Shepherd to get along politely with strangers and other animals. [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-socializing.html)
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![dog training videos](../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
 
 ## Health and feeding
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![White Shepherd](../dogbreeds/photos-TZ/whiteshepherds-pixa4.jpg)
+*Image hint — White Shepherd*
 
 Start your White Shepherd off on the right foot by feeding the right food, giving the right vaccinations, finding the right vet, and if you're going to spay or neuter, don't do it too early.
 
-  
-
 #### Jump down to this list of [White Shepherd Health Problems](#health-problems)
-
-  
 
 #### Or check out my advice for raising a healthy White Shepherd puppy or adult dog:
 
-![Obedience instructor and author Michele Welton](../training/graphics/ind-dog-training-methods1.jpg)
-[Dog Health Care – The Sensible Way](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)  
+*Image hint — Obedience instructor and author Michele Welton*
+
+[Dog Health Care – The Sensible Way](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)
 Read my advice on daily health care so your White Shepherd lives a long, healthy life and seldom needs to see the vet...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)
 
-![numeral 3](../Graphics/number3.png)[3 Best Ways To Feed Your Dog Healthy Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)  
+*Image hint — numeral 3*
+
+[3 Best Ways To Feed Your Dog Healthy Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
 You can dramatically increase your dog's chances of living a long, healthy life by feeding the right food. Cutting right to the chase, the best foods for your White Shepherd are...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
 
-![Real homemade dog food](graphics/ind-feeding.gif)
-[A Quick Way To Make Homemade Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)  
+*Image hint — Real homemade dog food*
+
+[A Quick Way To Make Homemade Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)
 Your Shepherd will love real chicken, turkey, beef, fish, eggs, yogurt, broccoli.... this is not just "people food" and I'll tell you why...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)
 
-![Dry kibble and canned dog food](graphics/ind-feeding2.gif)
-[5 Best Kibble and Canned Dog Foods](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)  
+*Image hint — Dry kibble and canned dog food*
+
+[5 Best Kibble and Canned Dog Foods](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)
 Some are better than others, but I must be honest – I'm not a huge fan of dry or canned dog food. Here are my concerns...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)
 
-![Information on booster shots for your German Shepherd.](graphics/ind-vaccinations.gif)
-[Vaccinations and Booster Shots: Needed or Not?](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)  
+*Image hint — Information on booster shots for your German Shepherd.*
+
+[Vaccinations and Booster Shots: Needed or Not?](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)
 How many vaccinations does your White Shepherd puppy really need? Does your adult dog need yearly booster shots? The vaccination guidelines have changed! Find out what some vets aren't telling you...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)
 
-![Information on spaying](graphics/ind-female.gif)
-[Spaying Your Female Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)  
+*Image hint — Information on spaying*
+
+[Spaying Your Female Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)
 Should your female White Shepherd be spayed? Current research says, "The AGE at which you spay can be vitally important to your dog's future health." So what's the best age?  [[read more]](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)
 
-![Information on neutering your male dog.](graphics/ind-male.gif)
-[Neutering Your Male Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)  
+*Image hint — Information on neutering your male dog.*
+
+[Neutering Your Male Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)
 Have you been told that you **must** neuter your male Shepherd? Current research shows that the issue is not so simple. Pet owners are not being told about some risks associated with neutering male dogs, especially neutering too early...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)
 
-![Information on choosing the best vet](graphics/ind-vets.gif)
-[Make Sure Your Vet is the Best!](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)  
+*Image hint — Information on choosing the best vet*
+
+[Make Sure Your Vet is the Best!](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)
 Is your current veterinarian really the best choice for your dog? Here's how to tell...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)
 
-![Assisi Loop](graphics/ind-assisi.jpg)
-[Assisi Loop Review](https://www.yourpurebredpuppy.com/health/articles/assisi-loop-review.html)  
+*Image hint — Assisi Loop*
+
+[Assisi Loop Review](https://www.yourpurebredpuppy.com/health/articles/assisi-loop-review.html)
 Does your Shepherd suffer from arthritis, hip dysplasia, disk disease, colitis? My honest review of a veterinary device you can use at home to reduce inflammation and pain.  [[read more]](https://www.yourpurebredpuppy.com/health/articles/assisi-loop-review.html)
 
 [Read my White Shepherd Review →](https://www.yourpurebredpuppy.com/reviews/whiteshepherds.html)
 
-![White Shepherd](../dogbreeds/photos-TZ/whiteshepherds-pd1.jpg)
+*Image hint — White Shepherd*
 
 ## Complete list of White Shepherd health problems
 
@@ -347,36 +297,11 @@ Cancer. Epilepsy. Bloat. See [German Shepherd Health Problems](https://www.yourp
 
 Some health problems are inherited. For example, if your dog inherits from his parents the genes for an eye disease called PRA, he will go blind and there's nothing anyone can do about it.
 
-[![Dog feeding and health book by Michele Welton](../books/covers/11T-110.jpg)](https://www.yourpurebredpuppy.com/books/11T.html) But most health problems can be prevented by the ways you raise your dog.
-
-My best-selling book, [11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) shows you how to raise your White Shepherd in all the right ways that help prevent health problems. Become your dog's health care champion!
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![dog training videos](../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
-
 ## Frequently asked questions
 
 By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![White Shepherd dog breed](../dogbreeds/photos-TZ/whiteshepherdsf3.jpg)
-
-  
+*Image hint — White Shepherd dog breed*
 
 What kind of temperament and personality does the White German Shepherd have?
 
@@ -494,20 +419,32 @@ It's probably answered in one of my books:
 
 ## MORE OF MY ARTICLES YOU MIGHT ENJOY.....
 
-![dog looking at owner](https://www.yourpurebredpuppy.com/training/graphics/methods-choices150.jpg) [Dog Training:  
+*Image hint — dog looking at owner*
+
+ [Dog Training:
  What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
 
-![puppy sitting beside owner](https://www.yourpurebredpuppy.com/training/graphics/schedule-older150.jpg)[Puppy Training Schedule: What To Teach, and When](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
+*Image hint — puppy sitting beside owner*
 
-![dog watching owner prepare homemade food](https://www.yourpurebredpuppy.com/health/graphics/lifespan-homemade.jpg)[Why Homemade  
-Is The Best Food  
+[Puppy Training Schedule: What To Teach, and When](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
+
+*Image hint — dog watching owner prepare homemade food*
+
+[Why Homemade
+Is The Best Food
 For Your Dog](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)
 
-![common dog training commands](https://www.yourpurebredpuppy.com/training/graphics/teachyourdog02-150.jpg)[Teach Your Dog Words](https://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
+*Image hint — common dog training commands*
 
-![dry dog food kibble](https://www.yourpurebredpuppy.com/health/graphics/lifespan-kibble2.jpg)[Kibble and Canned Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
+[Teach Your Dog Words](https://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
 
-![respectful dog](https://www.yourpurebredpuppy.com/training/graphics/respectful-dog.jpg)[Solve Behavior Problems By Teaching Your Dog To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
+*Image hint — dry dog food kibble*
+
+[Kibble and Canned Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
+
+*Image hint — respectful dog*
+
+[Solve Behavior Problems By Teaching Your Dog To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
 
 ## Archived source pages
 

@@ -9,9 +9,9 @@ fetched_at: "2026-08-10T13:29:35+00:00"
 
 # Games to Play (and Not Play) With Your Puppy
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![dog accepting a treat from a stranger](../graphics/rtp/games-hero.jpg)
+*Image hint — dog accepting a treat from a stranger*
 
 ### Games to Play
 
@@ -40,7 +40,7 @@ The good news is that some dogs are natural retrievers.
 - Herding breeds, such as shepherds, collies, shelties, corgis, etc. are often natural retrievers. They were bred to chase and gather livestock, so it's easy to extend those chasing/gathering instincts to thrown objects.
 - And a few other breeds, such as Poodles, Papillons, Dachshunds, Jack Russell Terriers, Fox Terriers, and Boston Terriers, seem to be "hardwired" with the desire to chase balls and toys and bring them back to you.
 
-![white shepherd puppy chasing a ball](../graphics/rtp/games-whiteshep.jpg)
+*Image hint — white shepherd puppy chasing a ball*
 
 The bad news is that most dogs are NOT natural retrievers.
 
@@ -88,7 +88,7 @@ Some dogs who won't chase a ball down a long straight hallway become more enthus
 
 Some dogs will begin by chasing the ball but not picking it up. Only later will they begin picking it up, and still later they might begin moving in your direction to return it to you. It's a process, so be patient and encouraging.
 
-![belgian malinois puppy chasing ball](../graphics/rtp/games-belgian.jpg)
+*Image hint — belgian malinois puppy chasing ball*
 
 #### Retrieving outdoors
 
@@ -108,7 +108,7 @@ In Tug-of-War, you hold onto one end of a toy while your dog holds onto the othe
 
 Tug is a controversial game.
 
-![rottweiler puppy ready to play](../graphics/rtp/games-rottpup.jpg)
+*Image hint — rottweiler puppy ready to play*
 
 Many breeds, like this Rottweiler pup, are very enthusiastic about playing Tug. But to avoid behavior problems, be sure to play it properly.
 
@@ -134,7 +134,7 @@ Caution: tug toys are NOT chew toys. They should never be left for the pup to ch
 
 ### What are good Tug toys?
 
-![puppy tug toy by Leerburg Online](../graphics/rtp/games-leerburg-tug.jpg)
+*Image hint — puppy tug toy by Leerburg Online*
 
 Synthetic fabric puppy tug by [Leerburg Online](https://leerburg.com/thinpuppytug-synthetic.htm)
 
@@ -150,7 +150,7 @@ Tug is an energetic game, so it really should be played outdoors. Remember, you 
 
 But if you have a basement or game room, you might decide to designate that space for active games such as Tug or Fetch. If you're consistent, your dog will learn that this is the fun room, but that he needs to be calm in the rest of the house.
 
-![introducing puppy to tug of war game](../graphics/rtp/games-redpup.jpg)
+*Image hint — introducing puppy to tug of war game*
 
 ### Your pup's first Tug game
 
@@ -178,7 +178,7 @@ Who should win games of Tug? Your dog! You want him to view you as a source of f
 
 After 5 to 10 seconds of Tugging, step on the end of the leash, let go of the toy, and let your dog parade around you in triumph, carrying his prize.
 
-![appenzeller mountain dog parading around with his toy](../graphics/rtp/games-appenzeller.jpg)
+*Image hint — appenzeller mountain dog parading around with his toy*
 
 Once he's made a couple of proud circuits around you, use the leash to guide him closer so you can stroke him approvingly along his sides and back while he holds the toy. You want him to feel proud of himself, to think: "Look at me! Aren't I something?" And you want him to connect these great experiences with YOU, his beloved leader.
 
@@ -186,7 +186,7 @@ And yet your dog must learn to let go of the toy.
 
 ### The one essential rule of Tug games
 
-![white swiss shepherd bringing tug toy to owner](../graphics/rtp/games-swiss-shep.jpg)
+*Image hint — white swiss shepherd bringing tug toy to owner*
 
 Your pup shouldn't be allowed to play with tug toys by himself. These toys should be reserved for the interactive game with YOU.
 
@@ -210,7 +210,7 @@ But if he absolutely won't let go even when you're holding the toy very still, o
 
 When you finally have the toy, praise him cheerfully ("Good dog!") and immediately continue the game. Say, "Tug! Play Tug!" and start moving the Tug in that enticing prey animal pattern.
 
-![puppy tug toy by Leerburg Online](../graphics/rtp/games-cairn.jpg)
+*Image hint — puppy tug toy by Leerburg Online*
 
 Cairn Terrier waiting eagerly for you to begin the next round of Tug
 
@@ -254,7 +254,9 @@ For example, attach the tug toy to a 2- or 3-foot cord, then hold the end of the
 
 ### Teach your dog to negotiate an obstacle course
 
-![border collie sailing over double bar jump](../graphics/rtp/games-ag-hero.jpg)In the sport of dog agility, which you may have seen on TV or on YouTube, dogs run through an obstacle course – jumping hurdles, dashing through tunnels, and traversing balance beams.
+*Image hint — border collie sailing over double bar jump*
+
+In the sport of dog agility, which you may have seen on TV or on YouTube, dogs run through an obstacle course – jumping hurdles, dashing through tunnels, and traversing balance beams.
 
 Dog agility is not only great fun, but also provides a constructive physical outlet for your pup's energy. Mastering agility obstacles improves his coordination and self-confidence, as well.
 
@@ -266,7 +268,9 @@ If you assure your pup that something is safe, and he falls off it, or it collap
 
 #### "Jump" or "Over!"
 
-![hurdle](../graphics/rtp/games-ag-jump.gif)A jump can be a solid hurdle or a bar jump (two vertical posts supporting a horizontal bar). You can construct a bar jump using plastic PVC pipe, which is lightweight and inexpensive.
+*Image hint — hurdle*
+
+A jump can be a solid hurdle or a bar jump (two vertical posts supporting a horizontal bar). You can construct a bar jump using plastic PVC pipe, which is lightweight and inexpensive.
 
 To make it easier for your pup to see, wrap strips of colored contact paper around the white pipe at spaced intervals. Or use paint.
 
@@ -274,7 +278,7 @@ Very important: keep jumps set low!
 
 Don't set the height of a jump based on how high your dog can jump – but rather on how LOW it should be for safety.
 
-![miniature australian shepherd clearing a bar jump](../graphics/rtp/games-ag-jump-aussie.jpg)
+*Image hint — miniature australian shepherd clearing a bar jump*
 
 The legs of puppies and adolescent dogs have growth plates that expand as the pup grows. While those growth plates are still expanding, a pup's bones and joints are very fragile. Jumping too high or too often can severely damage them, sometimes irreparably.
 
@@ -286,7 +290,7 @@ Until their growth plates have closed, a pup should only jump his height at the 
 
 Once his growth plates have closed, jump height can be increased to the top of his shoulder blades. No dog should be jumping higher than their shoulder blades on a regular basis. It's simply unnecessary, especially from a health and safety perspective.
 
-![spanish water dog clearing an agility jump](../graphics/rtp/games-ag-jumpblue.jpg)
+*Image hint — spanish water dog clearing an agility jump*
 
 Spanish Water Dog clearing a bar jump.
 
@@ -304,13 +308,15 @@ A mistake made by impatient owners is to take their dog off-leash too soon! An o
 
 #### "Go Tunnel!"
 
-![tunnel](../graphics/rtp/games-ag-tunnel.gif)You can buy a children's play tunnel made of vinyl (kind of flimsy) or nylon (better quality) from a local toy store or from Amazon. Or you can buy a more durable tunnel from [affordableagility.com](https://www.affordableagility.com/practicetunnel.htm)
+*Image hint — tunnel*
+
+You can buy a children's play tunnel made of vinyl (kind of flimsy) or nylon (better quality) from a local toy store or from Amazon. Or you can buy a more durable tunnel from [affordableagility.com](https://www.affordableagility.com/practicetunnel.htm)
 
 You can also make a short homemade tunnel out of large boxes, or a trash can with the bottom cut out. At first, use a short straight tunnel so the dog can see through to the other side.
 
 Brace the tunnel securely along both sides so it can't roll while your pup is inside, which could spook him.
 
-![spanish water dog clearing an agility jump](../graphics/rtp/games-ag-tunnel.jpg)
+*Image hint — spanish water dog clearing an agility jump*
 
 Pyrenean Shepherd racing through the tunnel. See the heavy sandbag weights securing the tunnel so it can't roll. Most dogs come to LOVE tunnels!
 
@@ -328,7 +334,9 @@ Finally, if the tunnel is long enough, you can curve it into an "S" shape.
 
 #### "Go Table!"
 
-![table](../graphics/rtp/games-ag-table.gif)The Pause Table is a 3-foot by 3-foot platform set on four sturdy legs 8 to 24 inches high, depending on your dog's size. Make sure the table is covered with securely-fastened, non-slip carpeting or rubber matting.
+*Image hint — table*
+
+The Pause Table is a 3-foot by 3-foot platform set on four sturdy legs 8 to 24 inches high, depending on your dog's size. Make sure the table is covered with securely-fastened, non-slip carpeting or rubber matting.
 
 You tell your dog "Go table!" and he must jump onto it and remain there for 5 seconds, then you send him on to the next obstacle.
 
@@ -345,9 +353,11 @@ Never reward your dog for jumping OFF the table. If he jumps off before you reac
 
 #### "Walk it!" (balance beam)
 
-![tunnel](../graphics/rtp/games-ag-dogwalk.gif)In agility competition, it's called a dogwalk. It's a wide balance beam with a ramp at each end. The dog trots up one ramp, trots along the central plank, and trots down the far ramp.
+*Image hint — tunnel*
 
-![lakeland terrier traversing the dogwalk](../graphics/rtp/games-ag-dogwalk-lakeland.jpg)
+In agility competition, it's called a dogwalk. It's a wide balance beam with a ramp at each end. The dog trots up one ramp, trots along the central plank, and trots down the far ramp.
+
+*Image hint — lakeland terrier traversing the dogwalk*
 
 You can make a partial  dogwalk with just the central plank (no ramps) by taking a board (at least a foot wide, and 4-8 feet long) and raising it off the ground a few inches with concrete blocks.
 
@@ -357,7 +367,9 @@ Remember.... safety, safety, safety. Build obstacles sturdy. Keep obstacles low.
 
 Use treats to lure your pup across the dogwalk, going nice and slow. Some dogs are more adventurous, while others are more cautious. In general, small and medium-size breeds have better coordination than larger breeds.
 
-![dogwalk](../graphics/rtp/games-ag-dogwalk2.jpg)See the yellow painted area? That's called a contact zone and your dog is supposed to touch it on the UP incline AND on the DOWN incline as well. This is to prevent him from the dangerous habit of taking those ramps too fast and even jumping off them.
+*Image hint — dogwalk*
+
+See the yellow painted area? That's called a contact zone and your dog is supposed to touch it on the UP incline AND on the DOWN incline as well. This is to prevent him from the dangerous habit of taking those ramps too fast and even jumping off them.
 
 Hence the yellow paint, as a reminder to TEACH your pup that for his own safety, he must touch the bottom of the ramps.
 
@@ -367,7 +379,7 @@ It can be amusing to watch a dog's reactions when he encounters a type of footin
 
 Just as it's good for us to learn new skills and try new things, it's good for dogs, too. The more things you expose them to, the more comfortable they are in the world that we all share.
 
-![Rough Collie crossing a wavy bridge](../graphics/rtp/games-ag-footing.jpg)
+*Image hint — Rough Collie crossing a wavy bridge*
 
 So think of things that your dog hasn't encountered yet. For example, different types of surfaces that he might one day need to walk across.
 
@@ -392,13 +404,17 @@ I don't recommend wrestling games.
 
 I don't recommend chasing games.
 
-![Terrier](../graphics/rtp/puppy-respect_html_38d8749f.jpg)It can seem like great fun to creep toward your puppy with your hands outstretched like claws, whispering in an ominous tone, "I'm... gonna.... GET YOU!"
+*Image hint — Terrier*
+
+It can seem like great fun to creep toward your puppy with your hands outstretched like claws, whispering in an ominous tone, "I'm... gonna.... GET YOU!"
 
 Or when you stamp your foot and make a teasing lunge toward him, and he woofs in alarm and dashes away. Upload it to YouTube and watch the Likes pour in!
 
 Unfortunately, chasing games are not good for your relationship with your puppy. What you're doing is teaching him that when you reach for him, he should run away from you. In fact, he can quite easily evade you, which you definitely don't want him to learn.
 
-![question mark icon](../graphics/rtp/puppy-respect_html_m1f4d65b9.png)What if your PUP is the one doing the chasing? Should you encourage your puppy to chase after YOU?
+*Image hint — question mark icon*
+
+What if your PUP is the one doing the chasing? Should you encourage your puppy to chase after YOU?
 
 Well, that depends....
 
@@ -408,30 +424,3 @@ Well, that depends....
 Some pups simply can't engage in chase games in a civilized manner. Often these pups have a strong *prey instinct* compelling them to grab things that move.
 
 Young children should not play chase games with a dog. Young children can't judge when a dog's behavior is over the line, and they can't correct a dog with enough authority. For safety's sake, don't allow your dog to chase any child, and don't allow your kids to run away from your dog.
-
-My [![book cover](../../books/covers/RTP-110.jpg)training program](https://www.yourpurebredpuppy.com/books/RTP.html) is for puppies 2 to 18 months old. It explains, step by step:
-
-- How to establish good patterns and routines that govern everything your pup does.
-- How to teach your pup to be calm and to look to you for guidance, direction, and permission.
-- How to make yourself important – the most important thing – in your puppy’s life. How to show your pup the clear, black-and-white rules and routines he is to follow. And how to make sure he does.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

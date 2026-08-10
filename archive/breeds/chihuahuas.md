@@ -16,15 +16,21 @@ This guide combines every archived page for this breed into one document.
 
 ## Breed overview and temperament
 
-Chihuahua temperament, personality, training, behavior, pros and cons, advice, and information, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Behavioral Consultant, Author of 15 [Dog Books](https://www.yourpurebredpuppy.com/books/)
+Chihuahua temperament, personality, training, behavior, pros and cons, advice, and information, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-06.jpg)
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-01.jpg)
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-02.jpg)
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-03.jpg)
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-04.jpg)
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-05.jpg)
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-07.jpg)
+*Image hint — Chihuahua*
+
+*Image hint — Chihuahua*
+
+*Image hint — Chihuahua*
+
+*Image hint — Chihuahua*
+
+*Image hint — Chihuahua*
+
+*Image hint — Chihuahua*
+
+*Image hint — Chihuahua*
 
 See Photo Gallery
 **[< Prev](#)   
@@ -50,8 +56,6 @@ See Photo Gallery
 | [Puppies](#puppies) | Easy to find |
 | [Rescue dogs](#rescue) | Easy to find |
 | [Similar breeds](#similar) | Papillon, Yorkshire Terrier, Toy Fox Terrier, Maltese |
-
-  
 
 [Temperament](#temperament)
 [Pros and Cons](#pros-cons)
@@ -79,7 +83,7 @@ See Photo Gallery
   - [Puppies](#puppies)
   - [Similar breeds](#similar)
 
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-08.jpg)
+*Image hint — Chihuahua*
 
 Smooth Coat Chihuahua with a bright expression
 
@@ -107,7 +111,7 @@ Or they don't teach any commands, laugh at signs of aggression, make excuses for
 
 It's no wonder that so many Chihuahuas are neurotic when they're made that way by their owners. *Spoiling* is a dreadful way to raise a dog; all it does is make the **owner** feel good, while creating an insecure dog who barks manically whenever he sees something that looks or sounds unfamiliar. What an awful state of mind for that dog to live with.
 
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-09.jpg)
+*Image hint — Chihuahua*
 
 Long Coat Chihuahuas – a black and a chocolate. On a chocolate Chihuahua, even the nose is chocolate brown.
 
@@ -148,13 +152,17 @@ Keep in mind that the inheritance of temperament  is less predictable than the 
 
 ## Books by Michele Welton
 
-![dog icon](../Graphics/icon-training.png)["Respect Training for Puppies"](https://www.yourpurebredpuppy.com/books/RTP.html)  (or ["Respect Training for Adult Dogs"](https://www.yourpurebredpuppy.com/books/RTA.html) ) is a step by step guide to help you bring out the best in your pup so you can enjoy a calm and well-behaved dog, no matter what his age. Get your book today.
+*Image hint — dog icon*
 
-![dog icon](../Graphics/icon-health.png)["11 Things You Must Do Right To Keep Your Dog Healthy and Happy"](https://www.yourpurebredpuppy.com/books/11T.html)  is a comprehensive guide to keeping your dog mentally, physically, and emotionally happy and healthy so you can enjoy a longer lifetime of companionship. A healthy dog is a happy dog, so buy your copy today.
+["Respect Training for Puppies"](https://www.yourpurebredpuppy.com/books/RTP.html)  (or ["Respect Training for Adult Dogs"](https://www.yourpurebredpuppy.com/books/RTA.html) ) is a step by step guide to help you bring out the best in your pup so you can enjoy a calm and well-behaved dog, no matter what his age. Get your book today.
 
-![dog paw](../Graphics/pawprint.png)
+*Image hint — dog icon*
 
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-02.jpg)
+["11 Things You Must Do Right To Keep Your Dog Healthy and Happy"](https://www.yourpurebredpuppy.com/books/11T.html)  is a comprehensive guide to keeping your dog mentally, physically, and emotionally happy and healthy so you can enjoy a longer lifetime of companionship. A healthy dog is a happy dog, so buy your copy today.
+
+*Image hint — dog paw*
+
+*Image hint — Chihuahua*
 
 Some Long Coat Chihuahuas have a bushy coat, while with others (such as these three lovelies), you can only tell they're longhaired by the tufts of hair near their ears.
 
@@ -186,7 +194,7 @@ Would you feel silly bringing a postal scale along when you visit a litter of Ch
 
 Don't be too quick to pass up Chihuahuas who are at the top end of of normal, or even oversized individuals. They're still Chihuahuas, they're still plenty small, and they make sturdier pets.
 
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-icon1.jpg)
+*Image hint — Chihuahua*
 
 ### Are there different "types" of Chihuahuas?
 
@@ -206,7 +214,7 @@ Unofficially, Chihuahuas actually come in SIX coats, because the two varieties h
 - Or a smooth coat can be a **single** coat, with no undercoat. Though this coat feels the cold more, it sheds less than a double coat.
 - Finally, a smooth coat can be a **single** coat that is so short and sleek it's difficult to ripple the hairs backward. It looks and feels somewhat like a Doberman Pinscher's coat. This is not really a "correct" Chihuahua coat, but it does occur.
 
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-11.jpg)
+*Image hint — Chihuahua*
 
 Smooth Coat Chihuahua and Long Coat Chihuahua
 
@@ -220,7 +228,7 @@ Do Smooth Coats and Long Coats have different temperaments? Maybe. I find many (
 
 #### HEAD TYPES
 
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-22.jpg)
+*Image hint — Chihuahua*
 
 Apple head
 
@@ -230,7 +238,7 @@ Chihuahua clubs will tell you there is only one proper head type: a large rounde
 
 However, *shortish* can be carried to extremes. Some Chihuahua show lines have such short, blunt muzzles that they make snorting sounds. Not good.
 
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-12.jpg)
+*Image hint — Chihuahua*
 
 Deer head on a Chihuahua
 
@@ -246,13 +254,13 @@ Cobby build vs deer build
 
 Deer again? Yes, it's a bit confusing, but *deer* can describe a head shape (see above) or a body shape.
 
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-10.jpg)
+*Image hint — Chihuahua*
 
 Cobby build, apple head
 
 Some Chihuahuas are rather chunky and short-legged. This is known as a *cobby* build and you'll see a lot of them in show lines. It's fine in moderation, but if taken to extremes, it can result in squat Chihuahuas with curved legs and joint problems.
 
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-13.jpg)
+*Image hint — Chihuahua*
 
 This cute Chihuahua, all bundled for cold weather, has both a deer head and a deer build.
 
@@ -260,7 +268,7 @@ Other Chihuahuas are more slender and longer-legged. This is known as a *deer* b
 
 So in Chihuahuas, *deer* can refer to a slim, leggy build, or a flat-skulled, long-nosed head. Some Chihuahuas have both a deer-like build and a deer-like head. Others have one deer-like feature, but not the other.
 
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-icon1.jpg)
+*Image hint — Chihuahua*
 
 ### How much exercise do Chihuahuas need?
 
@@ -270,7 +278,7 @@ But truthfully.... Chihuahuas love to have a safe place to run and play on the g
 
 And they adore half-mile walks around the block. Keep your Chihuahua on-leash! Even if you felt that your particular dog would stay with you, there are far too many dangers lurking for a dog of this size.
 
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-21.jpg)
+*Image hint — Chihuahua*
 
 Attentive Chihuahuas with deer heads and deer builds
 
@@ -302,7 +310,7 @@ Raising a Chihuahua properly means making it clear to him that yes, he can be al
 
 Fortunately, there also exist Chihuahuas who are standoffish, but who will eventually approach people in their own good time, especially if the person isn't pushy or insistent. And some Chihuahuas are very friendly right from the get-go and will go to anyone.
 
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-icon2.jpg)
+*Image hint — Chihuahua*
 
 #### Are Chihuahuas good with children?
 
@@ -312,7 +320,7 @@ Younger children cannot help being clumsy, and that a child "meant well" is litt
 
 In addition, most Chihuahuas feel overwhelmed by the loud voices and quick movements that children can't help making, and stress and fearfulness (even defensive biting) may be the result.
 
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-icon1.jpg)
+*Image hint — Chihuahua*
 
 #### Are Chihuahuas good with other pets?
 
@@ -322,7 +330,7 @@ But you should be careful about mixing them with larger dogs. If you want to try
 
 I would not mix a Chihuahua with a breed whose heritage is chasing prey animals. Chihuahuas can look like prey animals, especially when they move quickly. This can trigger instinctive chasing behavior in breeds such as medium to large terriers, medium to large hounds, and northern (spitz) breeds like Alaskan Malamutes and Akitas.
 
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-15.jpg)
+*Image hint — Chihuahua*
 
 Chihuahuas love other Chihuahuas.
 
@@ -337,7 +345,7 @@ This is an anxious state of mind for your little dog to live with. Better to tea
 
 Summary: don't allow your Chihuahua to bellow threats at other dogs. It's not safe for the Chihuahua, it's not psychologically healthy for the Chihuahua, and it contributes to the breed's reputation as a nasty little yapper.
 
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-16.jpg)
+*Image hint — Chihuahua*
 
 Gorgeous Long Coat Chihuahua with a saucy expression
 
@@ -363,7 +371,7 @@ Longhaired Chihuahuas also need trimming every few months. Focus on the longish 
 
 Anything that sticks to long hair eventually ends up on your floor or furnishings. So keep all of your dog's private parts trimmed short.
 
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-17.jpg)
+*Image hint — Chihuahua*
 
 So beautiful! Nice moderate apple head with a graceful deer build
 
@@ -391,7 +399,7 @@ Here are some of the injuries Chihuahuas are vulnerable to:
 
   Owning a toy breed means constant supervision and surveillance of what's going on around your tiny dog. Outside of their own fenced yard, Chihuahuas should always be kept under leash or arm control. Too much can happen to these little guys in the blink of an eye.
 
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-07.jpg)
+*Image hint — Chihuahua*
 
 Chocolate, white, black and tan, and blue (it's actually gray, but it's called blue)
 
@@ -408,10 +416,10 @@ Chihuahuas are most prone to:
 
 Here is my [complete list](../health/chihuahuas.html#healthproblems) of health problems in Chihuahuas.
 
-See my advice on → [keeping your dog healthy](https://www.yourpurebredpuppy.com/health/chihuahuas.html)  
+See my advice on → [keeping your dog healthy](https://www.yourpurebredpuppy.com/health/chihuahuas.html)
 (feeding, vaccinations, neutering, veterinarians, and more).
 
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-icon2.jpg)
+*Image hint — Chihuahua*
 
 ### What colors do Chihuahuas come in?
 
@@ -425,7 +433,7 @@ According to the Chihuahua Standard, Chihuahuas can be any color – solid, mark
 
 Blue is not a normal color in dogs, like black or brown or white. There isn't a *blue* gene. Instead, a blue Chihuahua has inherited a normal black gene... plus a dilution gene that washes the black into a grayish shade that dog fanciers call *blue.*
 
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-06a.jpg)
+*Image hint — Chihuahua*
 
 Dark blue Chihuahua. Blue ranges from light silver to dark charcoal.
 
@@ -439,7 +447,7 @@ If you have a blue Chihuahua or are thinking of getting one, read more about [co
 
 Merle is both striking and attractive: a swirled/patched/mottled pattern, usually gray-blue, black, tan, and white. Often one or both eyes is blue. You've probably seen this color in Australian Shepherds, Shelties, or Collies.
 
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-18.jpg)
+*Image hint — Chihuahua*
 
 Merle Long Coat Chihuahua
 
@@ -463,7 +471,7 @@ Here in the United States, the national Chihuahua Club and the American Kennel C
 
 So buyer beware. Don't buy a merle puppy from two merle parents. And don't let greedy breeders gouge you into paying an outrageous price for a color with potential health risks.
 
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-20.jpg)
+*Image hint — Chihuahua*
 
 Classic apple head, short muzzle, tricolor Smooth Chihuahua
 
@@ -496,7 +504,7 @@ But first, are you really, really sure you want one? Are you sure you can provid
 
 Next, consider whether you want a Smooth Coat or Long Coat, an applehead or deerhead, a cobby build or deer build.
 
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-05.jpg)
+*Image hint — Chihuahua*
 
 Chihuahuas love to be with other Chihuahuas
 
@@ -517,149 +525,106 @@ If a seller can't show you those certificates, the puppies are higher risk for h
 
 See my advice on → [finding  a good dog](https://www.yourpurebredpuppy.com/buying/)
 
-![Chihuahua cross](../dogbreeds/photos2-C/chihuahua-14.jpg)
+*Image hint — Chihuahua cross*
 
 Adopting an adult Chihuahua or Chihuahua mix can be very rewarding – for both you and the dog.
 
 ### How do I adopt a Chihuahua?
 
-[Adopting From Dog Rescue Organizations](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-rescue.html)  
+[Adopting From Dog Rescue Organizations](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-rescue.html)
 Chihuahuas (and Chihuahua crosses and mixes) are frequently available from Dog Rescue groups.
 Chihuahuas may be turned over to Rescue because of housebreaking problems, or barking, or general nastiness when unsocialized or treated like babies. Other Chihuahuas are given up simply because of changed family circumstances, and these dogs may have no behavior problems at all.
 
-[Adopting From Public Animal Shelters and Humane Societies](https://www.yourpurebredpuppy.com/buying/articles/animal-shelters.html)  
+[Adopting From Public Animal Shelters and Humane Societies](https://www.yourpurebredpuppy.com/buying/articles/animal-shelters.html)
 Chihuahuas can sometimes be found here, although shelter personnel can be overzealous in labeling every small dog with big eyes and ears as a "Chihuahua cross." Be aware that dogs can look like Chihuahuas without having any Chihuahua genes at all.
 
 Did you know there's a quick and simple [DNA test](https://www.yourpurebredpuppy.com/go/embark-dna/) that can tell you definitively *which breeds* make up any given dog?
 
 ### What breeds are similar to Chihuahuas?
 
-![Papillon](../dogbreeds/photos2-P/papillon-similar.jpg)
+*Image hint — Papillon*
 
 The [Papillon](https://www.yourpurebredpuppy.com/reviews/papillons.html) is similar to a Chihuahua *in appearance....* at least similar to a longhaired, tricolored Chihuahua with a slender, graceful build. But the Papillon's temperament is quite different, tending to be milder-mannered, quicker-moving, more inclined to play fetch, and loves racing on an agility course. Also easier to housebreak!
 
-![Yorkshire Terrier](../dogbreeds/photos2-Y/yorkshire-terrier-similar.jpg)
+*Image hint — Yorkshire Terrier*
 
 If you want a tiny breed and have allergies, consider the [Yorkshire Terrier](https://www.yourpurebredpuppy.com/dog-breeds/yorkshire-terrier.html). Yorkies are a nice blend of terrier and toy traits and you clip the coat short for easy maintenance. But very hard to housebreak!
 
-![Toy Fox Terrier](../dogbreeds/photos2-T/toy-fox-terrier-similar.jpg)
+*Image hint — Toy Fox Terrier*
 
 If you want a truly spunky little guy with a low-maintenance coat, and you don't mind some shedding, consider the [Toy Fox Terrier](https://www.yourpurebredpuppy.com/reviews/toyfoxterriers.html). He's similar to a Yorkie in being a blend of toy and terrier traits, but coming down a bit more on the terrier side.
 
-![Maltese](../dogbreeds/photos2-M/maltese-similar.jpg)
+*Image hint — Maltese*
 
 If your heart is set on a tiny dog and you're allergic, the light-shedding [Maltese](https://www.yourpurebredpuppy.com/reviews/maltese.html) might fit the bill. Compared to Chihuahuas, Maltese have a softer, sweeter temperament, as their ancestry is not terrier, but spaniel. Hard to housebreak, though!
 
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![dog training videos](../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
-
-Related posts you might enjoy
-
-![dog looking at owner](https://www.yourpurebredpuppy.com/training/graphics/methods-choices150.jpg) [Dog Training:  
- What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
-
-![puppy sitting beside owner](https://www.yourpurebredpuppy.com/training/graphics/schedule-older150.jpg)[You Need Dog Training Help... But From Where? Classes? Books? Videos?](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
-
-![common dog training commands](https://www.yourpurebredpuppy.com/training/graphics/teachyourdog02-150.jpg)[All a Dog Needs Is Love: True or False?](https://www.yourpurebredpuppy.com/training/articles/all-a-dog-needs-is-love.html)
-
-![respectful dog](https://www.yourpurebredpuppy.com/training/graphics/respectful-dog.jpg)[Solve Behavior Problems By Teaching Your Dog To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
-
 ## Training
 
-Chihuahua Training and Puppy Training, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 [Dog Books](https://www.yourpurebredpuppy.com/books/)
+Chihuahua Training and Puppy Training, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-23.jpg)
+*Image hint — Chihuahua*
 
 Dog training is much less about the teaching of commands and much more about how you live with your dog. Virtually all of your dog's behaviors (good and bad) are created by the way you're living with him. What you do with him... what you don't do with him... what you allow him to do... these are all messages to your dog. Send the right messages and you will have no problems with your dog. Send the wrong messages and you will have problems.
 
-  
-
 #### Check out my advice for dealing with behavior problems and training your Chihuahua puppy or adult dog:
 
-![Obedience instructor and author Michele Welton](graphics/ind-dog-training-methods1.jpg)
-[Dog Training – What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)  
+*Image hint — Obedience instructor and author Michele Welton*
+
+[Dog Training – What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
 Some dog training methods are based on what makes the owner feel good, rather than what on actually makes sense to the dog. Now, treats can be great motivators for training Chihuahuas, but if your dog will only obey for a treat, then **he** is in charge of his obedience, not you.  [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
 
-![Cute puppy](graphics/ind-easy.png)
-[Puppy Training Made Easy: 4 Things You MUST Do Right](https://www.yourpurebredpuppy.com/training/articles/puppy-training-made-easy.html)  
+*Image hint — Cute puppy*
+
+[Puppy Training Made Easy: 4 Things You MUST Do Right](https://www.yourpurebredpuppy.com/training/articles/puppy-training-made-easy.html)
 Training your Chihuahua puppy doesn't have to be a struggle. There are four simple things you can do right now to change your pup's behavior and make training easy.  [[read more]](https://www.yourpurebredpuppy.com/training/articles/puppy-training-made-easy.html)
 
-![Cute puppy](graphics/ind-schedule.jpg)
-[Puppy Training Schedule: What to Teach (and When)](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)  
+*Image hint — Cute puppy*
+
+[Puppy Training Schedule: What to Teach (and When)](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
 Puppy training starts the moment you bring your puppy home. If you use the wrong teaching method, your puppy will begin making decisions about how he wants **you** to fit into **his** life, and that's a recipe for conflict and behavior problems. Whatever your puppy does, you must react properly or he will learn the wrong things. Here's my recommended schedule (what to teach, when to teach it) for training your Chihuahua puppy. [[read more]](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
 
-![Misbehaving dog pulling owner on leash](graphics/ind-respect-training.gif)
-[Teach Your Chihuahua To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)  
+*Image hint — Misbehaving dog pulling owner on leash*
+
+[Teach Your Chihuahua To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
 "Respect Training" is the dog training method I use and recommend for training Chihuahuas. A dog who respects you will do what you say and will stop what he's doing when you tell him "No." Teaching your dog to respect you means interacting with him in specific ways that encourage respect.  [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
 
-![Dog behavior problems](graphics/ind-dog-behavior-problems.jpg)
-[Solving Behavior Problems](https://www.yourpurebredpuppy.com/training/articles/dog-behavior-problems.html)  
+*Image hint — Dog behavior problems*
+
+[Solving Behavior Problems](https://www.yourpurebredpuppy.com/training/articles/dog-behavior-problems.html)
 One of the most common questions dog owners ask me is: "How can I stop my dog from doing (a specific bad behavior)?" My answer is almost always the same, no matter what the misbehavior is.... [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-behavior-problems.html)
 
-![Buddy the dog](graphics/ind-dog-training-videos.jpg)
-[These Dog Training Videos Turned Buddy Into a Good Dog](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)  
+*Image hint — Buddy the dog*
+
+[These Dog Training Videos Turned Buddy Into a Good Dog](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
 Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action. I recommend these dog training videos, which are based on respect and leadership. [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
 
-![](graphics/ind-dog-training-help.jpg)
-[You Need Dog Training Help.... But From Where? Private Lessons? Public Classes? Dog Training Books? Dog Training Videos?](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)  
+*Image placeholder — no alt text*
+
+[You Need Dog Training Help.... But From Where? Private Lessons? Public Classes? Dog Training Books? Dog Training Videos?](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
 So your puppy needs training.... or your adult dog needs training.... and you're looking for some help. Should you hire a professional trainer to come to your house? send your dog away to be trained? sign up for a group obedience class? read a book? watch a few videos? Here's my advice on where to get dog training help when you really need it. [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
 
-![Words and commands to teach your dog](graphics/ind-teach-words.gif)
-[Teach The Right Words In The Right Ways](https://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)  
+*Image hint — Words and commands to teach your dog*
+
+[Teach The Right Words In The Right Ways](https://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
 My method of training Chihuahuas includes teaching specific words in specific ways so that your dog not only learns the words but also develops the respectful attitude that makes him happy to obey you. Teach your dog words and he will understand what you say. Teach those words ***in the right ways*** and he will actually DO what you say.  [[read more]](https://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
 
-![Outhouse](graphics/ind-housebreaking.gif)
-[Housebreaking Your Chihuahua](https://www.yourpurebredpuppy.com/training/articles/dog-housebreaking.html)  
+*Image hint — Outhouse*
+
+[Housebreaking Your Chihuahua](https://www.yourpurebredpuppy.com/training/articles/dog-housebreaking.html)
 There are two keys to housebreaking. Just two, but you have to get them both right. And I mean 100% right, not 50% right. Otherwise you're going to end up with a dog who is 50% potty trained, and who wants that? So here they are – your two keys to housebreaking.... [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-housebreaking.html)
 
-![Young man holding his dog](graphics/ind-dog-socializing.gif)
-[Socializing Your Chihuahua](https://www.yourpurebredpuppy.com/training/articles/dog-socializing.html)  
+*Image hint — Young man holding his dog*
+
+[Socializing Your Chihuahua](https://www.yourpurebredpuppy.com/training/articles/dog-socializing.html)
 Socializing means training your Chihuahua to get along politely with strangers and other animals. [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-socializing.html)
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![dog training videos](../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
 
 ## Health and feeding
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-24.jpg)
+*Image hint — Chihuahua*
 
 Start your Chihuahua puppy off on the right foot by feeding the right food, giving the right vaccinations, finding the right vet, and if you're going to spay or neuter, don't do it too early.
-
-  
 
 ## Quick list of Chihuahua health problems
 
@@ -675,50 +640,58 @@ There are several conditions in Chihuahuas that can require expensive surgery: (
 
 #### Or check out my advice for raising a healthy Chihuahua puppy or adult dog:
 
-![Obedience instructor and author Michele Welton](../training/graphics/ind-dog-training-methods1.jpg)
-[Dog Health Care – The Sensible Way](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)  
+*Image hint — Obedience instructor and author Michele Welton*
+
+[Dog Health Care – The Sensible Way](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)
 Read my advice on daily health care so your Chihuahua lives a long, healthy life and seldom needs to see the vet...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)
 
-![numeral 3](../Graphics/number3.png)[3 Best Ways To Feed Your Dog Healthy Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)  
+*Image hint — numeral 3*
+
+[3 Best Ways To Feed Your Dog Healthy Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
 You can dramatically increase your dog's chances of living a long, healthy life by feeding the right food. Cutting right to the chase, the best foods for your Chihuahua are...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
 
-![Real homemade dog food](graphics/ind-feeding.gif)
-[A Quick Way To Make Homemade Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)  
+*Image hint — Real homemade dog food*
+
+[A Quick Way To Make Homemade Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)
 Your Chihuahua will love real chicken, turkey, beef, fish, eggs, yogurt, broccoli.... this is not just "people food" and I'll tell you why...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)
 
-![Dry kibble and canned dog food](graphics/ind-feeding2.gif)
-[5 Best Kibble and Canned Dog Foods](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)  
+*Image hint — Dry kibble and canned dog food*
+
+[5 Best Kibble and Canned Dog Foods](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)
 Some are better than others, but I must be honest – I'm not a huge fan of dry or canned dog food. Here are my concerns...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)
 
-![Information on booster shots for your German Shepherd.](graphics/ind-vaccinations.gif)
-[Vaccinations and Booster Shots: Needed or Not?](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)  
+*Image hint — Information on booster shots for your German Shepherd.*
+
+[Vaccinations and Booster Shots: Needed or Not?](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)
 How many vaccinations does your Chihuahua puppy really need? Does your adult dog need yearly booster shots? The vaccination guidelines have changed! Find out what some vets aren't telling you...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)
 
-![Information on spaying](graphics/ind-female.gif)
-[Spaying Your Female Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)  
+*Image hint — Information on spaying*
+
+[Spaying Your Female Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)
 Should your female Chihuahua be spayed? Current research says, "The AGE at which you spay can be vitally important to your dog's future health." So what's the best age?  [[read more]](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)
 
-![Information on neutering your male dog.](graphics/ind-male.gif)
-[Neutering Your Male Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)  
+*Image hint — Information on neutering your male dog.*
+
+[Neutering Your Male Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)
 Have you been told that you **must** neuter your male Chihuahua? Current research shows that the issue is not so simple. Pet owners are not being told about some risks associated with neutering male dogs, especially neutering too early...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)
 
-![Information on choosing the best vet](graphics/ind-vets.gif)
-[Make Sure Your Vet is the Best!](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)  
+*Image hint — Information on choosing the best vet*
+
+[Make Sure Your Vet is the Best!](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)
 Is your current veterinarian really the best choice for your dog? Here's how to tell...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)
 
-![Assisi Loop](graphics/ind-assisi.jpg)
-[Assisi Loop Review](https://www.yourpurebredpuppy.com/health/articles/assisi-loop-review.html)  
+*Image hint — Assisi Loop*
+
+[Assisi Loop Review](https://www.yourpurebredpuppy.com/health/articles/assisi-loop-review.html)
 Does your Chihuahua suffer from arthritis, hip dysplasia, disk disease, colitis? My honest review of a veterinary device you can use at home to reduce inflammation and pain.  [[read more]](https://www.yourpurebredpuppy.com/health/articles/assisi-loop-review.html)
 
 [Read my Chihuahua Review →](https://www.yourpurebredpuppy.com/reviews/chihuahuas.html)
 
-![Chihuahua dog breed](../dogbreeds/photos2-C/chihuahua-11.jpg)
+*Image hint — Chihuahua dog breed*
 
 ## Complete list of Chihuahua health problems
 
 Good news! Chihuahuas typically live 13-15 years. Some live even longer, though they're usually quite decrepit by then.
-
-  
 
 ### Accidents and injuries....
 
@@ -817,8 +790,8 @@ Then you'll hear your dog cough – a distinctive honking sound like that of a g
 
 Collapsing trachea can be hereditary or caused by an injury to the windpipe. Whatever the cause, it's a serious condition that always gets worse over time. Sometimes surgery can help, but it's risky surgery that might make things even worse.
 
-Important! Chihuahuas are very, very prone to a harmless "coughing" condition that sounds a bit like collapsing trachea. Except it isn't really a cough – it's actually an odd **sneeze** that sort of "backfires" on the dog. Hence the name **reverse sneezing.**  
-  
+Important! Chihuahuas are very, very prone to a harmless "coughing" condition that sounds a bit like collapsing trachea. Except it isn't really a cough – it's actually an odd **sneeze** that sort of "backfires" on the dog. Hence the name **reverse sneezing.**
+
 A LOT of Chihuahuas do this – far more than are affected by collapsing trachea. So if your Chihuahua makes this odd snorting/wheezing sound when he's excited, or during or immediately after eating or drinking, it's most likely harmless reverse sneezing.
 
 ### Eye diseases
@@ -855,7 +828,7 @@ This *hair loss disease* occurs in quite a number of blue Chihuahuas.
 
 Why blues? Because, unlike black or white or brown, blue is not a normal color in dogs. There is no gene labeled *blue.* Rather, blue is the result when a dog inherits a normal black gene, plus a *dilution* gene that washes the black into a grayish shade, anywhere from silvery to charcoal.
 
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-06a.jpg)
+*Image hint — Chihuahua*
 
 Dark blue Chihuahuas aren't affected by this disease as often as light silvery Chihuahuas.
 
@@ -877,7 +850,7 @@ Does every blue Chihuahua have this? No.
 
 You can also look at the **shade** of blue. Light silvery blues are the most common victims, while dark blues are more likely to have a healthy coat.
 
-![Chihuahua](../dogbreeds/photos2-C/chihuahua-19.jpg)
+*Image hint — Chihuahua*
 
 Light silvery blue Chihuahuas are more likely to have skin and coat issues.
 
@@ -914,29 +887,6 @@ In an emergency, if you don't have Nutrical, try a tsp of honey or vanilla ice c
 ### Preventing health problems
 
 Some health problems are inherited. For example, if both parents of your Chihuahua have certificates proving they were tested and cleared of luxating patella, your Chihuahua has less risk of developing it.
-
-[![Dog feeding and health book by Michele Welton](../books/covers/11T-110.jpg)](https://www.yourpurebredpuppy.com/books/11T.html) Other health problems can be prevented, or partially prevented, by the ways you raise your dog.
-
-My best-selling book, [11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) shows you how to raise your Chihuahua puppy (or adult dog) in all the right ways. It will help you be your dog's health care champion!
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![dog training videos](../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
 
 ## Archived source pages
 

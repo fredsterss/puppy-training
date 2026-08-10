@@ -9,7 +9,7 @@ fetched_at: "2026-08-10T13:29:10+00:00"
 
 # Teaching "No" to Your Dog | Don't Make These 7 Mistakes
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
 In previous articles, you learned several ways to stop your puppy from doing something you don't want him to do.
 
@@ -29,7 +29,9 @@ Let's look at those mistakes one at a time.
 
 ### 1) Don't say "No" without backing it up.
 
-![sign at crossroads says Jake Story](../graphics/rtp/puppy-respect_html_m72389cc7.png)When her TV show went to commercial, Kathy wandered into the kitchen for a glass of water. Through the window, she saw her dog Jake digging another hole in the tulip bed. She raised the window. "Jake, No! No!" Jake stopped digging and looked up. But Kathy was
+*Image hint — sign at crossroads says Jake Story*
+
+When her TV show went to commercial, Kathy wandered into the kitchen for a glass of water. Through the window, she saw her dog Jake digging another hole in the tulip bed. She raised the window. "Jake, No! No!" Jake stopped digging and looked up. But Kathy was
 already hurrying back to the TV. Jake resumed his digging.
 
 Here's what Jake learned from Kathy's "correction":
@@ -50,7 +52,9 @@ Remember, your puppy is learning from you all the time. He can either learn good
 
 ### 2) Don't ASK your puppy to stop what he's doing or try to "reason" with him.
 
-![sign at crossroads says Jake Story](../graphics/rtp/puppy-respect_html_m72389cc7.png)Kathy held up her chewed sandal and waved it angrily at her dog. "Jake, these sandals cost me 75 dollars and now you've ruined them. They were a perfect match for my turquoise outfit! It was wrong of you to do this, Jake. It was mean. You've made me very unhappy and you darned well better be sorry! Am I making myself clear, Jake? Do you understand me?"
+*Image hint — sign at crossroads says Jake Story*
+
+Kathy held up her chewed sandal and waved it angrily at her dog. "Jake, these sandals cost me 75 dollars and now you've ruined them. They were a perfect match for my turquoise outfit! It was wrong of you to do this, Jake. It was mean. You've made me very unhappy and you darned well better be sorry! Am I making myself clear, Jake? Do you understand me?"
 
 Poor Jake. All he understands is that his owner is holding up a chew toy and spewing out a long monologue of harmless sounds. As she waves the sandal around, he stares longingly at it. He remembers where he got this tasty toy. He also remembers that there were lots more in the same place.
 
@@ -58,9 +62,13 @@ How  you correct your puppy is important. Ranting, pleading, a barrage of words
 
 ### 3) Don't smile or laugh when you say "No".
 
-![sign at crossroads says Jake Story](../graphics/rtp/puppy-respect_html_m72389cc7.png)Kathy's husband, Roger, couldn't help chuckling as he pulled their dog away from the spitting cat. "Hey, Jake, leave the cat alone, eh?" But he had to admit that it was amusing to see them bickering. Roger wasn't fond of the cat, anyway. As soon as he released Jake's collar, the dog charged after the cat again.
+*Image hint — sign at crossroads says Jake Story*
 
-![dog stealing food from fridge](../graphics/rtp/puppy-respect_html_m9a352dc.png)If you secretly think it's cute or funny when your puppy does something you don't want him to repeat, you need to keep those thoughts off your face and out of your voice.
+Kathy's husband, Roger, couldn't help chuckling as he pulled their dog away from the spitting cat. "Hey, Jake, leave the cat alone, eh?" But he had to admit that it was amusing to see them bickering. Roger wasn't fond of the cat, anyway. As soon as he released Jake's collar, the dog charged after the cat again.
+
+*Image hint — dog stealing food from fridge*
+
+If you secretly think it's cute or funny when your puppy does something you don't want him to repeat, you need to keep those thoughts off your face and out of your voice.
 
 Otherwise, your puppy will read your body language and conclude that your "No"isn't really serious.
 
@@ -68,7 +76,9 @@ When you interact with your puppy, your tone of voice, facial expression, and bo
 
 ### 4) Don't add affection or petting to your corrections.
 
-![sign at crossroads says Jake Story](../graphics/rtp/puppy-respect_html_m72389cc7.png)"Jake, how many times have I told you to stay off the sofa!" Kathy wrapped her arm around the dog and pushed him onto the floor. When he was off, she said "Good boy!" and tickled his head affectionately. As she headed for the kitchen, Jake jumped back onto the sofa.
+*Image hint — sign at crossroads says Jake Story*
+
+"Jake, how many times have I told you to stay off the sofa!" Kathy wrapped her arm around the dog and pushed him onto the floor. When he was off, she said "Good boy!" and tickled his head affectionately. As she headed for the kitchen, Jake jumped back onto the sofa.
 
 A correction isn't much of a correction if it includes personal attention, touching, and praise. Make your corrections swift and impersonal, then turn your attention away from the pup for at least a few minutes. You want him to learn that only when he has been behaving well does he receive touching, petting, and praise.
 
@@ -76,7 +86,9 @@ A correction isn't much of a correction if it includes personal attention, touch
 
 It's tempting to choose a particular corrective technique – for example, a harmless spray of water – because you like it. But the question should always be: Does it work for your particular pup?
 
-![sign at crossroads says Jake Story](../graphics/rtp/puppy-respect_html_m72389cc7.png)Roger was tired of Jake's incessant chewing. The sofa was pitted with holes like the craters on the moon. So he bought a plastic squirt gun, and when he caught Jake chewing, he ran toward the dog, squirting madly.
+*Image hint — sign at crossroads says Jake Story*
+
+Roger was tired of Jake's incessant chewing. The sofa was pitted with holes like the craters on the moon. So he bought a plastic squirt gun, and when he caught Jake chewing, he ran toward the dog, squirting madly.
 
 Well! That was fine and dandy with Jake! He leaped happily into the air, trying to catch the water with his tongue. The "game" ended when Roger, backpedaling frantically, tripped over the ottoman and fell on his backside.
 
@@ -96,7 +108,9 @@ If he keeps right on doing what he's doing, or if he stops for a moment, then go
 
 You're looking for the corrective technique – and the *degree*  of corrective technique – that outweighs  the fun he is getting from the behavior. That's different for every pup and for every behavior.
 
-![brown dog pointing](../graphics/rtp/puppy-respect_html_3d8571c5.png)Ultimately,then...
+*Image hint — brown dog pointing*
+
+Ultimately,then...
 
 it is your PUP who decides which corrective technique you should use.
 
@@ -110,7 +124,9 @@ You don't want your puppy to think that obeying *Come*  might cause discomfort.
 
 And don't try to trick him by coaxing, "Come here, Jake. Mommy's not going to hurt you. Come on, sweetheart."
 
-![unhappy dog in bathtub](../graphics/rtp/puppy-respect_html_752d1361.png)Because if your pup follows his trusting nature and believes you and then discovers your deception, he will not only distrust the word *Come*  but also he might distrust YOU.
+*Image hint — unhappy dog in bathtub*
+
+Because if your pup follows his trusting nature and believes you and then discovers your deception, he will not only distrust the word *Come*  but also he might distrust YOU.
 
 So whenever you need to correct your puppy or do anything uncomfortable with him, don't call him. Go get him. Silently.
 
@@ -118,7 +134,9 @@ And if your pup runs away from you when you're going to get him?
 
 ### 7) Don't chase your dog.
 
-![sign at crossroads says Jake Story](../graphics/rtp/puppy-respect_html_m72389cc7.png)When the garbage can crashed to the kitchen floor, strewing trash everywhere, Jake knew he was in trouble. Kathy was rushing toward him, hands outstretched. Jake feinted left and rushed right. The chase was on!
+*Image hint — sign at crossroads says Jake Story*
+
+When the garbage can crashed to the kitchen floor, strewing trash everywhere, Jake knew he was in trouble. Kathy was rushing toward him, hands outstretched. Jake feinted left and rushed right. The chase was on!
 
 When they don't want to be caught, many pups will dart just out of your reach and lead you on merry chases around the house.
 
@@ -131,30 +149,3 @@ Let's assume your puppy has given up and/or you have cornered him so you can be 
 Put a leash on him and let him drag it around (but only when supervised!) Some owners buy a cheap cotton leash and cut it short so it hangs down just short of the floor. This offers a decent handhold if you need to quickly get hold of the puppy.
 
 As you progress through my training program and establish your leader-follower relationship, he won't run away from you any more.
-
-My [![book cover](../../books/covers/RTP-110.jpg)training program](https://www.yourpurebredpuppy.com/books/RTP.html) is for puppies 2 to 18 months old. It explains, step by step:
-
-- How to establish good patterns and routines that govern everything your pup does.
-- How to teach your pup to be calm and to look to you for guidance, direction, and permission.
-- How to make yourself important – the most important thing – in your puppy’s life. How to show your pup the clear, black-and-white rules and routines he is to follow. And how to make sure he does.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

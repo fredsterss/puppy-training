@@ -9,9 +9,9 @@ fetched_at: "2026-08-10T13:30:16+00:00"
 
 # Teach Your Dog to "Wait" for Permission Before Going Through Doors and Gates
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Pup waiting in his crate with the door open](../graphics/rtp/wait-crate.jpg)
+*Image hint — Pup waiting in his crate with the door open*
 
 Good news! If you're following my training program, you may have already introduced this word when you were [crate-training](https://www.yourpurebredpuppy.com/training/articles/crate-training.html#wait) your pup. When you open his crate or pen, instead of letting him charge out, you always have him *Wait*  for a few seconds before releasing him with "Okay."
 
@@ -23,7 +23,9 @@ Once a puppy is older than 10 weeks and behaves nicely on a leash, I also show h
 
 Why is this behavior so valuable? Well, let's see....
 
-![sign at crossroads says Jake Story](../graphics/rtp/puppy-respect_html_m72389cc7.png)"Watch out for the dog!" Kathy cried. Her friend Mary Sue had just arrived and started to pull open the screen door so she could come into the kitchen.
+*Image hint — sign at crossroads says Jake Story*
+
+"Watch out for the dog!" Kathy cried. Her friend Mary Sue had just arrived and started to pull open the screen door so she could come into the kitchen.
 
 Spotting the crack of daylight, Jake made a mad dash for it.
 
@@ -31,7 +33,7 @@ Mary Sue leaped backward and managed to slam the screen door a split second befo
 
 Mary Sue frowned through the screen at the exuberantly jumping dog. "What a nuisance!" she said to herself. "Why do they let him run through every open door?"
 
-![Dog running across the grass, chasing something](../graphics/rtp/wait-running.jpg)
+*Image hint — Dog running across the grass, chasing something*
 
 Why, indeed? Door-rushing behavior is unacceptable for several reasons:
 
@@ -46,11 +48,13 @@ You can choose to teach it either way: with or without a command. I start with t
 
 ## How to teach "Wait" at the door
 
-1)You're indoors, with your pup on leash. Walk toward the front door. (If there's also a screen door, prop the screen open ahead of time so it won't be blocking you when you open the front door.)
+1. You're indoors, with your pup on leash. Walk toward the front door. (If there's also a screen door, prop the screen open ahead of time so it won't be blocking you when you open the front door.)
 
-![Pomeranian](../graphics/rtp/puppy-respect_html_m60d01201.jpg)2) Put your hand on the doorknob and say, "Wait." Pronounce the word crisply.  Pronounce that "t" at the end – wai**T**. And declare confidently. Don't ask  "Wait?" as though you're asking him a question.
+*Image hint — Pomeranian*
 
-3) Open the door. If your puppy tries to rush out, bring him back inside by using the [Loosen-Tug](https://www.yourpurebredpuppy.com/training/articles/leash-training.html) technique you learned when teaching your pup to walk nicely on a leash.
+2. Put your hand on the doorknob and say, "Wait." Pronounce the word crisply.  Pronounce that "t" at the end – wai**T**. And declare confidently. Don't ask  "Wait?" as though you're asking him a question.
+
+3. Open the door. If your puppy tries to rush out, bring him back inside by using the [Loosen-Tug](https://www.yourpurebredpuppy.com/training/articles/leash-training.html) technique you learned when teaching your pup to walk nicely on a leash.
 
 Be quick! Don't let him get all the way through the door before you pull him back. As soon as one front foot goes over the threshold, pull him back, and as soon as his foot comes back inside, loosen the leash so that the clip is hanging straight down.
 
@@ -68,7 +72,9 @@ From now on, whenever you take your pup for a walk, have him "Wait" inside the o
 
 ### "Wait" with distractions
 
-![French Bulldog](../graphics/rtp/puppy-respect_html_3634665f.jpg)Once a pup is *Waiting*  nicely and is more than 6 months old, I like to add distractions. Assume the front door is open and your pup is standing there with you on a loose leash.
+*Image hint — French Bulldog*
+
+Once a pup is *Waiting*  nicely and is more than 6 months old, I like to add distractions. Assume the front door is open and your pup is standing there with you on a loose leash.
 
 Hum or whistle a tune. Do a few knee bends or jumping jacks. Sit in a chair near the door (inside the house) and read aloud from a book. Talk to an imaginary visitor at the door.
 
@@ -88,7 +94,9 @@ You want him to stay on his side, so help him at first by keeping gentle tension
 
 As soon as your foot hits the ground outside, turn and face him. Now he should be inside the house and you should be just outside, on the porch or stoop, holding tension on the leash to keep him indoors.
 
-![hand as stop sign](../graphics/rtp/puppy-respect_html_476a2d40.png)Caution him again to "Wait" and loosen the leash. I hold up my hand like a stop sign. If he tries to join you outside, the moment his foot crosses the threshold, use the leash to guide/slide him back inside the house.
+*Image hint — hand as stop sign*
+
+Caution him again to "Wait" and loosen the leash. I hold up my hand like a stop sign. If he tries to join you outside, the moment his foot crosses the threshold, use the leash to guide/slide him back inside the house.
 
 Important: try to do that without moving your feet. You don't want to go back in the house with him. Once he's back inside, caution him again to "Wait" and loosen the leash, giving him another chance to either rush out or stay put.
 
@@ -102,40 +110,17 @@ In other words, don't always  give him an "Okay" to come out. In practical life
 
 Teaching your puppy to look to you for direction and guidance is immensely reassuring to him!
 
-![Pup waiting inside the door](../graphics/rtp/wait-door.jpg)
+*Image hint — Pup waiting inside the door*
 
 ### Other places to practice "Wait"
 
 - Have your pup "Wait" before going INTO your house. For example, when you return to your house after a walk, say "Wait" and open the front door but don't let him go IN until you've given the "Okay."
-- ![tricolor Corgi](../graphics/rtp/puppy-respect_html_mdc5799a.jpg)Have him "Wait" at the back door before you let him out into the yard.
+-
+
+    *Image hint — tricolor Corgi*
+
+    Have him "Wait" at the back door before you let him out into the yard.
 - Have him "Wait" before going through the sliding doors to the patio.
 - Have him "Wait" before going in – or out – of the gate to your property.
 
 Don't ask your dog to "Wait" OFF LEASH anywhere where he could dash into the street. A pup will always choose the worst possible moment to forget or ignore a word – and all it takes is once for your pup to be dead.
-
-My [![book cover](../../books/covers/RTP-110.jpg)training program](https://www.yourpurebredpuppy.com/books/RTP.html) is for puppies 2 to 18 months old. It explains, step by step:
-
-- How to establish good patterns and routines that govern everything your pup does.
-- How to teach your pup to be calm and to look to you for guidance, direction, and permission.
-- How to make yourself important – the most important thing – in your puppy’s life. How to show your pup the clear, black-and-white rules and routines he is to follow. And how to make sure he does.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

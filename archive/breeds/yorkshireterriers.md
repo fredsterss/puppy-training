@@ -17,16 +17,23 @@ This guide combines every archived page for this breed into one document.
 
 ## Breed overview and temperament
 
-Yorkie Terrier temperament, personality, training, behavior, pros and cons, advice, and information, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Behavioral Consultant, Author of 15 [Dog Books](https://www.yourpurebredpuppy.com/books/)
+Yorkie Terrier temperament, personality, training, behavior, pros and cons, advice, and information, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Yorkshire Terrier](../dogbreeds/photos2-Y/yorkshire-terrier-03.jpg)
-![Yorkshire Terrier](../dogbreeds/photos2-Y/yorkshire-terrier-04.jpg)
-![Yorkshire Terrier](../dogbreeds/photos2-Y/yorkshire-terrier-07.jpg)
-![Yorkshire Terrier](../dogbreeds/photos2-Y/yorkshire-terrier-01.jpg)
-![Yorkshire Terrier](../dogbreeds/photos2-Y/yorkshire-terrier-02.jpg)
-![Yorkshire Terrier](../dogbreeds/photos2-Y/yorkshire-terrier-05.jpg)
-![Yorkshire Terrier](../dogbreeds/photos2-Y/yorkshire-terrier-06.jpg)
-![Yorkshire Terrier](../dogbreeds/photos2-Y/yorkshire-terrier-08.jpg)
+*Image hint — Yorkshire Terrier*
+
+*Image hint — Yorkshire Terrier*
+
+*Image hint — Yorkshire Terrier*
+
+*Image hint — Yorkshire Terrier*
+
+*Image hint — Yorkshire Terrier*
+
+*Image hint — Yorkshire Terrier*
+
+*Image hint — Yorkshire Terrier*
+
+*Image hint — Yorkshire Terrier*
 
 See Photo Gallery
 **[< Prev](#)   
@@ -52,8 +59,6 @@ See Photo Gallery
 | [Puppies](#puppies) | Easy to find |
 | [Rescue dogs](#rescue) | Easy to find |
 | [Similar breeds](#similar) | Silky Terrier, Toy Fox Terrier, Maltese |
-
-  
 
 [Temperament](#temperament)
 [Pros and Cons](#pros-cons)
@@ -81,7 +86,7 @@ See Photo Gallery
   - [Puppies](#puppies)
   - [Similar breeds](#similar)
 
-![Yorkshire Terrier](../dogbreeds/photos2-Y/yorkshire-terrier-09.jpg)
+*Image hint — Yorkshire Terrier*
 
 Yorkies are bright little dogs who enjoy learning tricks. This lovely girl is clipped in a short coat that looks great and is super easy to maintain.
 
@@ -134,13 +139,17 @@ Keep in mind that the inheritance of temperament  is less predictable than the 
 
 ## Books by Michele Welton
 
-![dog icon](../Graphics/icon-training.png)["Respect Training for Puppies"](https://www.yourpurebredpuppy.com/books/RTP.html)  (or ["Respect Training for Adult Dogs"](https://www.yourpurebredpuppy.com/books/RTA.html) ) is a step by step guide to help you bring out the best in your pup so you can enjoy a calm and well-behaved dog, no matter what his age. Get your book today.
+*Image hint — dog icon*
 
-![dog icon](../Graphics/icon-health.png)["11 Things You Must Do Right To Keep Your Dog Healthy and Happy"](https://www.yourpurebredpuppy.com/books/11T.html)  is a comprehensive guide to keeping your dog mentally, physically, and emotionally happy and healthy so you can enjoy a longer lifetime of companionship. A healthy dog is a happy dog, so buy your copy today.
+["Respect Training for Puppies"](https://www.yourpurebredpuppy.com/books/RTP.html)  (or ["Respect Training for Adult Dogs"](https://www.yourpurebredpuppy.com/books/RTA.html) ) is a step by step guide to help you bring out the best in your pup so you can enjoy a calm and well-behaved dog, no matter what his age. Get your book today.
 
-![dog paw](../Graphics/pawprint.png)
+*Image hint — dog icon*
 
-![Yorkshire Terrier](../dogbreeds/photos2-Y/yorkshire-terrier-10.jpg)
+["11 Things You Must Do Right To Keep Your Dog Healthy and Happy"](https://www.yourpurebredpuppy.com/books/11T.html)  is a comprehensive guide to keeping your dog mentally, physically, and emotionally happy and healthy so you can enjoy a longer lifetime of companionship. A healthy dog is a happy dog, so buy your copy today.
+
+*Image hint — dog paw*
+
+*Image hint — Yorkshire Terrier*
 
 ### How big are Yorkshire Terriers?
 
@@ -166,7 +175,7 @@ How can you tell whether a Yorkshire Terrier puppy will mature at 4 pounds and u
 
 In fact, if you're looking for a robust Yorkie, don't pass up individuals who are at the top end of of normal (7 pounds) or even over-sized individuals who are 10 or 12 pounds. They're still plenty small and they make sturdier pets.
 
-![Yorkshire Terrier](../dogbreeds/photos2-Y/yorkshire-terrier-icon.jpg)
+*Image hint — Yorkshire Terrier*
 
 ### Are there different "types" of Yorkshire Terriers?
 
@@ -180,7 +189,7 @@ Show dog coats are sculpted just so, to win ribbons. But those styles are woeful
 
 Or else the breeder pins up all the hair with curlers, rubber bands, and barrettes. I love Yorkies, but I don't like to see them like that. It just looks.... wrong.
 
-![Yorkshire Terrier](../dogbreeds/photos2-Y/yorkshire-terrier-02.jpg)
+*Image hint — Yorkshire Terrier*
 
 Yorkies love the outdoors in pleasant weather. These active little dogs really deserve an outdoor yard where they can stretch their legs.
 
@@ -194,7 +203,7 @@ So try to take your Yorkshire Terrier outside. You *can* keep a Yorkie in an apa
 
 Yorkies are bright little dogs who would also appreciate mental exercise. Just some interesting activities that engage his mind: interactive dog toys; a miniature homemade obstacle course; learning tricks; games such as Hide 'n Seek.
 
-![Yorkshire Terrier](../dogbreeds/photos2-Y/yorkshire-terrier-11.jpg)
+*Image hint — Yorkshire Terrier*
 
 I love the short hair on this young Yorkshire Terrier! It really lets you see his expressive face.
 
@@ -223,7 +232,7 @@ Keen of eye and sharp of tongue, most Yorkshire Terriers are very quick to annou
 
 Unfortunately, suspicious dogs can morph into shrill dogs who won't stop barking. And shrill dogs can easily turn nasty. You must teach a Yorkshire Terrier that he doesn't need to like strangers, but he **does** need to accept them politely.
 
-![Yorkshire Terrier](../dogbreeds/photos2-Y/yorkshire-terrier-icon.jpg)
+*Image hint — Yorkshire Terrier*
 
 #### Are Yorkshire Terriers good with children?
 
@@ -237,7 +246,7 @@ In addition, many Yorkies feel overwhelmed by the loud voices, roughhousing, and
 
 Safety is especially an issue with the smallest Yorkies. Larger individuals are sturdier.
 
-![Yorkshire Terrier](../dogbreeds/photos2-Y/yorkshire-terrier-icon.jpg)
+*Image hint — Yorkshire Terrier*
 
 #### Are Yorkshire Terriers good with other pets?
 
@@ -247,7 +256,7 @@ With strange dogs, Yorkies are surprisingly bossy and scrappy. If you're out for
 
 Some people find this funny, but it isn't. As with over-reactivity in the house, over-reactivity outdoors puts a dog into an unhealthy mental state and should be stopped immediately.
 
-![Yorkshire Terrier](../dogbreeds/photos2-Y/yorkshire-terrier-12.jpg)
+*Image hint — Yorkshire Terrier*
 
 If you leave the coat too long, it drags on the ground and picks up debris. You must be totally committed to frequent grooming.
 
@@ -257,7 +266,7 @@ Great news! Yorkshire Terriers shed very little, produce very little dander, and
 
 The bad news.... without frequent brushing and combing, Yorkshire Terriers become a matted mess. Mats and tangles are painful. When hairs fuse together, they pull on the dog's skin whenever he walks. Especially look for mats behind the ears, under the arms, and on the stomach. In longhaired dogs, I always clip the groin (and anal area) short so it stays clean and sanitary when the dog goes to the bathroom.
 
-![Yorkshire Terrier](../dogbreeds/photos2-Y/yorkshire-terrier-13.jpg)
+*Image hint — Yorkshire Terrier*
 
 Another example of a classic short clip.
 
@@ -265,7 +274,7 @@ If you can't commit to the brushing, you have to commit to frequent trimming to 
 
 For the easiest maintenance, you can shear the coat very short with clippers. Then you won't need to brush it at all. Personally, I love this sheared cut. It's so easy to care for, so comfortable for the dog, and makes a Yorkshire Terrier look like a cute puppy throughout his life!
 
-![Yorkshire Terrier](../dogbreeds/photos2-Y/yorkshire-terrier-01.jpg)
+*Image hint — Yorkshire Terrier*
 
 Yorkies are especially vulnerable to injury, liver disease, slipping kneecaps, and eye diseases such as cataracts.
 
@@ -293,10 +302,10 @@ Eye diseases are also worrisome; lots of Yorkies are blind from cataracts.
 
 Here is my [complete list](../health/yorkshireterriers.html#health-problems) of health problems in Yorkshire Terriers.
 
-See my advice on → [keeping your dog healthy](https://www.yourpurebredpuppy.com/health/yorkshireterriers.html)  
+See my advice on → [keeping your dog healthy](https://www.yourpurebredpuppy.com/health/yorkshireterriers.html)
 (feeding, vaccinations, neutering, veterinarians, and more).
 
-![Yorkshire Terrier](../dogbreeds/photos2-Y/yorkshire-terrier-14.jpg)
+*Image hint — Yorkshire Terrier*
 
 Rich gold coloration. The dark gray "saddle" on the back is called *blue* in Yorkshire Terriers.
 
@@ -321,7 +330,7 @@ There is even a tricolored "spin-off" breed called the *Biewer* (pronounced *Bea
 
 Unfortunately, from a genetic standpoint, creating dogs with an emphasis on "perfect" markings is never a good thing. You end up with a limited, non-diverse gene pool. Also, focusing on something as trivial as color usually leads to problems with health and temperament down the line. Currently Biewers are being marketed for pretty high prices.
 
-![Yorkshire Terrier](../dogbreeds/photos2-Y/yorkshire-terrier-15.jpg)
+*Image hint — Yorkshire Terrier*
 
 Yorkie puppies are born black and tan, with the black morphing into blue as they mature.
 
@@ -366,7 +375,7 @@ If a seller can't show you those certificates, the puppies are higher risk for h
 
 See my advice on → [finding  a good dog](https://www.yourpurebredpuppy.com/buying/)
 
-![Yorkshire Terrier](../dogbreeds/photos2-Y/yorkshire-terrier-icon.jpg)
+*Image hint — Yorkshire Terrier*
 
 ### How do I adopt a Yorkshire Terrier?
 
@@ -378,185 +387,151 @@ But Yorkies are often owned by elderly people, and when elderly people pass away
 
 ### What breeds are similar to Yorkshire Terriers?
 
-![ZZZ](../dogbreeds/photos2-S/silky-terrier-similar.jpg)
+*Image hint — ZZZ*
 
 The [Silky Terrier](https://www.yourpurebredpuppy.com/reviews/silkyterriers.html) looks like a largish (8-12 pounds) Yorkshire Terrier. Compared to Yorkies, Silkys tend to be more stable in temperament, but also more terrier-ish – more independent and hardier. Silkys are fine for some allergy-sufferers, but perhaps not as tried-and-true as a Yorkie.
 
-![ZZZ](../dogbreeds/photos2-M/maltese-similar.jpg)
+*Image hint — ZZZ*
 
 If your heart is set on a tiny dog and you're allergic, the light-shedding [Maltese](https://www.yourpurebredpuppy.com/reviews/maltese.html) also fits the bill. Compared to Yorkshire Terriers, Maltese have a softer, sweeter temperament, as their ancestry is not terrier, but spaniel.
 
-![ZZZ](../dogbreeds/photos2-T/toy-poodle-similar.jpg)
+*Image hint — ZZZ*
 
 The [Toy Poodle](https://www.yourpurebredpuppy.com/reviews/toypoodles.html) is the most hypo-allergenic of all coated breeds. Compared to a Yorkie, the Toy Poodle has a softer, sweeter temperament, is very quick to learn, and is easier to housebreak. The trade-off is more grooming.
 
-![ZZZ](../dogbreeds/photos2-T/toy-fox-terrier-similar.jpg)
+*Image hint — ZZZ*
 
 If you would prefer a spunkier little guy with a low-maintenance coat, and you don't mind some shedding, consider the [Toy Fox Terrier](https://www.yourpurebredpuppy.com/reviews/toyfoxterriers.html). He's similar to a Yorkie and a Silky in being a blend of toy and terrier traits.
 
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![dog training videos](../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
-
-Related posts you might enjoy
-
-![dog looking at owner](https://www.yourpurebredpuppy.com/training/graphics/methods-choices150.jpg) [Dog Training:  
- What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
-
-![puppy sitting beside owner](https://www.yourpurebredpuppy.com/training/graphics/schedule-older150.jpg)[You Need Dog Training Help... But From Where? Classes? Books? Videos?](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
-
-![common dog training commands](https://www.yourpurebredpuppy.com/training/graphics/teachyourdog02-150.jpg)[All a Dog Needs Is Love: True or False?](https://www.yourpurebredpuppy.com/training/articles/all-a-dog-needs-is-love.html)
-
-![respectful dog](https://www.yourpurebredpuppy.com/training/graphics/respectful-dog.jpg)[Solve Behavior Problems By Teaching Your Dog To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
-
 ## Training
 
-Yorkshire Terrier Training and Yorkie Puppy Training, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 [Dog Books](https://www.yourpurebredpuppy.com/books/)
+Yorkshire Terrier Training and Yorkie Puppy Training, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Yorkshire Terrier](../dogbreeds/photos2-Y/yorkshire-terrier-09.jpg)
+*Image hint — Yorkshire Terrier*
 
 Dog training is much less about the teaching of commands and much more about how you live with your dog. Virtually all of your dog's behaviors (good and bad) are created by the way you're living with him. What you do with him... what you don't do with him... what you allow him to do... these are all messages to your dog. Send the right messages and you will have no problems with your dog. Send the wrong messages and you will have problems.
 
-  
-
 #### Check out my advice for dealing with behavior problems and training your Yorkshire Terrier puppy or adult dog:
 
-![Obedience instructor and author Michele Welton](graphics/ind-dog-training-methods1.jpg)
-[Dog Training – What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)  
+*Image hint — Obedience instructor and author Michele Welton*
+
+[Dog Training – What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
 Some dog training methods are based on what makes the owner feel good, rather than what on actually makes sense to the dog. Now, treats can be great motivators for training Yorkshire Terriers, but if your dog will only obey for a treat, then **he** is in charge of his obedience, not you.  [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
 
-![Heart, dog](graphics/ind-love.jpg)
-[True or False? All a Dog Needs is Love](https://www.yourpurebredpuppy.com/training/articles/all-a-dog-needs-is-love.html)  
+*Image hint — Heart, dog*
+
+[True or False? All a Dog Needs is Love](https://www.yourpurebredpuppy.com/training/articles/all-a-dog-needs-is-love.html)
 As a canine behavioral consultant, one of the most common claims I hear about dogs is this: All a dog needs is love. Now, is that true or false? My answer might surprise you!  [[read more]](https://www.yourpurebredpuppy.com/training/articles/all-a-dog-needs-is-love.html)
 
-![Cute puppy](graphics/ind-easy.png)
-[Puppy Training Made Easy: 4 Things You MUST Do Right](https://www.yourpurebredpuppy.com/training/articles/puppy-training-made-easy.html)  
+*Image hint — Cute puppy*
+
+[Puppy Training Made Easy: 4 Things You MUST Do Right](https://www.yourpurebredpuppy.com/training/articles/puppy-training-made-easy.html)
 Training your Yorkshire Terrier puppy doesn't have to be a struggle. There are four simple things you can do right now to change your pup's behavior and make training easy.  [[read more]](https://www.yourpurebredpuppy.com/training/articles/puppy-training-made-easy.html)
 
-![Cute puppy](graphics/ind-schedule.jpg)
-[Puppy Training Schedule: What to Teach (and When)](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)  
+*Image hint — Cute puppy*
+
+[Puppy Training Schedule: What to Teach (and When)](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
 Puppy training starts the moment you bring your puppy home. If you use the wrong teaching method, your puppy will begin making decisions about how he wants **you** to fit into **his** life, and that's a recipe for conflict and behavior problems. Whatever your puppy does, you must react properly or he will learn the wrong things. Here's my recommended schedule (what to teach, when to teach it) for training your Yorkshire Terrier puppy. [[read more]](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
 
-![Misbehaving dog pulling owner on leash](graphics/ind-respect-training.gif)
-[Teach Your Yorkie To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)  
+*Image hint — Misbehaving dog pulling owner on leash*
+
+[Teach Your Yorkie To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
 "Respect Training" is the dog training method I use and recommend for training Yorkshire Terriers. A dog who respects you will do what you say and will stop what he's doing when you tell him "No." Teaching your dog to respect you means interacting with him in specific ways that encourage respect.  [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
 
-![Dog behavior problems](graphics/ind-dog-behavior-problems.jpg)
-[Solving Behavior Problems](https://www.yourpurebredpuppy.com/training/articles/dog-behavior-problems.html)  
+*Image hint — Dog behavior problems*
+
+[Solving Behavior Problems](https://www.yourpurebredpuppy.com/training/articles/dog-behavior-problems.html)
 One of the most common questions dog owners ask me is: "How can I stop my dog from doing (a specific bad behavior)?" My answer is almost always the same, no matter what the misbehavior is.... [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-behavior-problems.html)
 
-![Buddy the dog](graphics/ind-dog-training-videos.jpg)
-[These Dog Training Videos Turned Buddy Into a Good Dog](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)  
+*Image hint — Buddy the dog*
+
+[These Dog Training Videos Turned Buddy Into a Good Dog](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
 Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action. I recommend these dog training videos, which are based on respect and leadership. [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
 
-![](graphics/ind-dog-training-help.jpg)
-[You Need Dog Training Help.... But From Where? Private Lessons? Public Classes? Dog Training Books? Dog Training Videos?](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)  
+*Image placeholder — no alt text*
+
+[You Need Dog Training Help.... But From Where? Private Lessons? Public Classes? Dog Training Books? Dog Training Videos?](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
 So your puppy needs training.... or your adult dog needs training.... and you're looking for some help. Should you hire a professional trainer to come to your house? send your dog away to be trained? sign up for a group obedience class? read a book? watch a few videos? Here's my advice on where to get dog training help when you really need it. [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
 
-![Words and commands to teach your dog](graphics/ind-teach-words.gif)
-[Teach The Right Words In The Right Ways](https://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)  
+*Image hint — Words and commands to teach your dog*
+
+[Teach The Right Words In The Right Ways](https://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
 My method of training Yorkshire Terriers includes teaching specific words in specific ways so that your dog not only learns the words but also develops the respectful attitude that makes him happy to obey you. Teach your dog words and he will understand what you say. Teach those words ***in the right ways*** and he will actually DO what you say.  [[read more]](https://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
 
-![Outhouse](graphics/ind-housebreaking.gif)
-[Housebreaking Your Yorkshire Terrier](https://www.yourpurebredpuppy.com/training/articles/dog-housebreaking.html)  
+*Image hint — Outhouse*
+
+[Housebreaking Your Yorkshire Terrier](https://www.yourpurebredpuppy.com/training/articles/dog-housebreaking.html)
 There are two keys to housebreaking. Just two, but you have to get them both right. And I mean 100% right, not 50% right. Otherwise you're going to end up with a dog who is 50% potty trained, and who wants that? So here they are – your two keys to housebreaking.... [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-housebreaking.html)
 
-![Young man holding his dog](graphics/ind-dog-socializing.gif)
-[Socializing Your Yorkshire Terrier](https://www.yourpurebredpuppy.com/training/articles/dog-socializing.html)  
+*Image hint — Young man holding his dog*
+
+[Socializing Your Yorkshire Terrier](https://www.yourpurebredpuppy.com/training/articles/dog-socializing.html)
 Socializing means training your Yorkie to get along politely with strangers and other animals. [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-socializing.html)
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![dog training videos](../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
 
 ## Health and feeding
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Yorkshire Terrier](../dogbreeds/photos2-Y/yorkshire-terrier-11.jpg)
+*Image hint — Yorkshire Terrier*
 
 Start your Yorkshire Terrier puppy off on the right foot by feeding the right food, giving the right vaccinations, finding the right vet, and if you're going to spay or neuter, don't do it too early.
 
 #### Jump down to this list of [Yorkshire Terrier Health Problems](#health-problems)
 
-  
-
 #### Or check out my advice for raising a healthy Yorkie puppy or adult dog:
 
-![Obedience instructor and author Michele Welton](../training/graphics/ind-dog-training-methods1.jpg)
-[Dog Health Care – The Sensible Way](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)  
+*Image hint — Obedience instructor and author Michele Welton*
+
+[Dog Health Care – The Sensible Way](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)
 Read my advice on daily health care so your Yorkshire Terrier lives a long, healthy life and seldom needs to see the vet...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)
 
-![numeral 3](../Graphics/number3.png)[3 Best Ways To Feed Your Dog Healthy Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)  
+*Image hint — numeral 3*
+
+[3 Best Ways To Feed Your Dog Healthy Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
 You can dramatically increase your dog's chances of living a long, healthy life by feeding the right food. Cutting right to the chase, the best foods for your Yorkshire Terrier are...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
 
-![Real homemade dog food](graphics/ind-feeding.gif)
-[A Quick Way To Make Homemade Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)  
+*Image hint — Real homemade dog food*
+
+[A Quick Way To Make Homemade Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)
 Your Yorkshire Terrier will love real chicken, turkey, beef, fish, eggs, yogurt, broccoli.... this is not just "people food" and I'll tell you why...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)
 
-![Dry kibble and canned dog food](graphics/ind-feeding2.gif)
-[5 Best Kibble and Canned Dog Foods](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)  
+*Image hint — Dry kibble and canned dog food*
+
+[5 Best Kibble and Canned Dog Foods](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)
 Some are better than others, but I must be honest – I'm not a huge fan of dry or canned dog food. Here are my concerns...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)
 
-![Information on booster shots for your German Shepherd.](graphics/ind-vaccinations.gif)
-[Vaccinations and Booster Shots: Needed or Not?](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)  
+*Image hint — Information on booster shots for your German Shepherd.*
+
+[Vaccinations and Booster Shots: Needed or Not?](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)
 How many vaccinations does your Yorkshire Terrier puppy really need? Does your adult dog need yearly booster shots? The vaccination guidelines have changed! Find out what some vets aren't telling you...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)
 
-![Information on spaying](graphics/ind-female.gif)
-[Spaying Your Female Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)  
+*Image hint — Information on spaying*
+
+[Spaying Your Female Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)
 Should your female Yorkshire Terrier be spayed? Current research says, "The AGE at which you spay can be vitally important to your dog's future health." So what's the best age?  [[read more]](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)
 
-![Information on neutering your male dog.](graphics/ind-male.gif)
-[Neutering Your Male Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)  
+*Image hint — Information on neutering your male dog.*
+
+[Neutering Your Male Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)
 Have you been told that you **must** neuter your male Yorkie? Current research shows that the issue is not so simple. Pet owners are not being told about some risks associated with neutering male dogs, especially neutering too early...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)
 
-![Information on choosing the best vet](graphics/ind-vets.gif)
-[Make Sure Your Vet is the Best!](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)  
+*Image hint — Information on choosing the best vet*
+
+[Make Sure Your Vet is the Best!](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)
 Is your current veterinarian really the best choice for your dog? Here's how to tell...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)
 
-![Assisi Loop](graphics/ind-assisi.jpg)
-[Assisi Loop Review](https://www.yourpurebredpuppy.com/health/articles/assisi-loop-review.html)  
+*Image hint — Assisi Loop*
+
+[Assisi Loop Review](https://www.yourpurebredpuppy.com/health/articles/assisi-loop-review.html)
 Does your Yorkshire Terrier suffer from arthritis, hip dysplasia, disk disease, colitis? My honest review of a veterinary device you can use at home to reduce inflammation and pain.  [[read more]](https://www.yourpurebredpuppy.com/health/articles/assisi-loop-review.html)
 
 [Read my Yorkshire Terrier Review →](https://www.yourpurebredpuppy.com/reviews/yorkshireterriers.html)
 
-![Yorkshire Terrier dog breed](../dogbreeds/photos2-Y/yorkshire-terrier-02.jpg)
+*Image hint — Yorkshire Terrier dog breed*
 
 ## Complete list of Yorkshire Terrier health problems
 
 Like most toy breeds, Yorkshire Terriers are usually long-lived, with a typical lifespan of 12-15 years.
-
-  
 
 ### Accidents and injuries
 
@@ -627,29 +602,6 @@ If blood sugar drops too low, a tiny dog can have a hypoglycemic attack, which m
 ### Preventing health problems
 
 Some health problems are inherited. For example, if both parents of your Yorkshire Terrier have certificates proving they were tested and cleared of luxating patella and eye diseases, your Yorkie has less risk of developing those conditions. And the dog himself should have a simple *bile acids* blood test that tests his liver function.
-
-[![Dog feeding and health book by Michele Welton](../books/covers/11T-110.jpg)](https://www.yourpurebredpuppy.com/books/11T.html) Other health problems can be prevented, or partially prevented, by the ways you raise your dog.
-
-My best-selling book, [11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) shows you how to raise your Yorkshire Terrier puppy (or adult dog) in all the right ways. It will help you be your dog's health care champion!
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![dog training videos](../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
 
 ## Archived source pages
 

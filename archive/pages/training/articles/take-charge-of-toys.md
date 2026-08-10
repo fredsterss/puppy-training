@@ -9,9 +9,9 @@ fetched_at: "2026-08-10T13:30:12+00:00"
 
 # Take Charge of Your Pup's Toys
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![dog with toys](../graphics/rtp/toys-hero.jpg)
+*Image hint — dog with toys*
 
 Is your floor littered with lots of dog toys? A tennis ball here. Two chew bones over there. A plush teddy bear on the sofa. Squeaky toys on the rug by the door.
 
@@ -25,7 +25,9 @@ Sure, IF your pup....
 
 But I wouldn't advise leaving all those toys down at once. To maintain interest, I recommend rotating toys. Let your pup have a few toys for a few weeks. Then put them away and offer a different set.
 
-![dog clinging to a bone](../graphics/rtp/puppy-respect_html_m1497590.png)Rotating toys keeps your pup's mind open to accepting new things, which is a healthy attitude. Rotating toys also makes them seem new and exciting whenever you return them.
+*Image hint — dog clinging to a bone*
+
+Rotating toys keeps your pup's mind open to accepting new things, which is a healthy attitude. Rotating toys also makes them seem new and exciting whenever you return them.
 
 ### If your pup is a destructive chewer (meaning he's chewing up **your** stuff, too), he should NOT have a bunch of toys.
 
@@ -60,30 +62,3 @@ It typically starts with a dog hovering over something (a toy, his food, your la
 So if your pup is acting possessive, take that toy away as soon as you can do so safely. Put it away in a drawer. A few days later, try a different toy. If he does the same thing with that one, pick up every single toy for a full month while you continue implementing my training program.
 
 If you reach a point where you think you've been successful in establishing the proper leader-follower relationship, you can try reintroducing one  toy and see what happens.
-
-My [![book cover](../../books/covers/RTP-110.jpg)training program](https://www.yourpurebredpuppy.com/books/RTP.html) is for puppies 2 to 18 months old. It explains, step by step:
-
-- How to establish good patterns and routines that govern everything your pup does.
-- How to teach your pup to be calm and to look to you for guidance, direction, and permission.
-- How to make yourself important – the most important thing – in your puppy’s life. How to show your pup the clear, black-and-white rules and routines he is to follow. And how to make sure he does.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

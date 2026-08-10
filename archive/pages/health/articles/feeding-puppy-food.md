@@ -9,9 +9,8 @@ fetched_at: "2026-08-10T13:14:43+00:00"
 
 # What Every Puppy Owner Should Know About Feeding
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-  
 One of a series of 13 feeding articles. See the complete list.  +
 
 [3 Best Ways To Feed Your Dog Healthy Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
@@ -38,7 +37,7 @@ One of a series of 13 feeding articles. See the complete list.  +
 
 [How To Tell If Your Dog Is Overweight – And What To Do About It](https://www.yourpurebredpuppy.com/health/articles/feeding-weight-loss-dog-food.html)
 
-![Three puppies](../graphics/feeding-01.jpg)
+*Image hint — Three puppies*
 
 ## ***What***  to feed a puppy
 
@@ -64,7 +63,7 @@ You want large breeds to grow slo-o-o-wly. Why?
 
 Because a large breed pup has so much bone that needs to grow and so much weight that needs to be supported by that bone. Slow, steady growth is necessary. If a large-breed pup puts on weight too quickly and his skeleton is too immature to provide proper support, the result is microscopic tearing of skeletal tissue and malformed bones and joints. That can lead to hip dysplasia, elbow dysplasia, and osteochondritis.
 
-![Rottweiler pup](../graphics/feeding-24-rottweiler-pup.jpg)
+*Image hint — Rottweiler pup*
 
 You can protect this Rottweiler puppy's bones and joints by not letting him run and jump too much, by not overfeeding, and by not supplementing with extra calcium.
 
@@ -113,20 +112,20 @@ Every pup is so different that all you can do is *estimate* the amount of food a
 2. What should he weigh, roughly, as an adult?
 3. Compare the two numbers.
 
-![Golden Retriever puppy and adult dog](../graphics/feeding-homemade-11.jpg)
+*Image hint — Golden Retriever puppy and adult dog*
 
 #### If the puppy is currently less than half his adult size...
 
 ...he should be eating between 6 and 10% of his current weight (total food per day).
 
-For example, if your male pup weighs 20 lbs, and males of his breed typically mature at 60-70 lbs, your pup is less than half his adult weight.  
-  
-Multiply his 20 lbs by 6% (equals 1.2 lbs of food per day) and also by 10% (2 lbs of food). Within that 1.2 to 2 lbs range, you'll need to experiment to find the right amount of daily food for your particular pup.  
-  
-Large breed pups should eat at the lower end of their range, to slow down their growth. We've already talked about the importance of this.  
-  
-Also generally, a pup whose weight is getting *close* to the halfway point needs less food, while a pup whose weight is still far away from the halfway point needs more.  
-  
+For example, if your male pup weighs 20 lbs, and males of his breed typically mature at 60-70 lbs, your pup is less than half his adult weight.
+
+Multiply his 20 lbs by 6% (equals 1.2 lbs of food per day) and also by 10% (2 lbs of food). Within that 1.2 to 2 lbs range, you'll need to experiment to find the right amount of daily food for your particular pup.
+
+Large breed pups should eat at the lower end of their range, to slow down their growth. We've already talked about the importance of this.
+
+Also generally, a pup whose weight is getting *close* to the halfway point needs less food, while a pup whose weight is still far away from the halfway point needs more.
+
 But every pup is different in metabolism and activity level!
 
 And remember, his current weight will keep changing, so you should monitor his weight on a weekly basis and adjust your food quantity as he grows.
@@ -149,7 +148,7 @@ See how it works?
 
 Important! These feeding guidelines are only a starting point. Every dog is different. You MUST [monitor your pup's shape](https://www.yourpurebredpuppy.com/health/articles/feeding-weight-loss-dog-food.html) and energy to make sure he's getting enough food, but not too much food.
 
-Related:  
+Related:
 [What Makes a Dog Food Good or Awful](https://www.yourpurebredpuppy.com/health/articles/feeding-what-makes-dog-food-good.html)
 
 ## How to introduce new food
@@ -175,7 +174,7 @@ If you've introduced the new food slowly, mixing it with his familiar kibble or 
 3. When it's time for his next meal (he should be eating 2-4 meals a day, depending on his age), take it out of the fridge. Let it sit for a few minutes until it's room temperature, stir it up, and put it down again.
 4. If he still doesn't eat it, throw it out. Prepare the exact same food for his next meal.
 
-![Grumpy dog holding out for different food](../graphics/feeding-homemade-16.jpg)
+*Image hint — Grumpy dog holding out for different food*
 
 Seriously, that's how you do it.
 
@@ -190,62 +189,3 @@ Just make sure your pup is drinking during this time.
 If he's a toy breed, keep his blood sugar up! Buy a tube of a supplement called *Nutrical* from the pet store. Dab a tiny fingerful of it on the roof of his mouth several times a day to make sure he has enough calories while he's on his stubborn hunger strike.
 
 As with all things related to your dog, use common sense. Make sure the food you're offering isn't spoiled; some smart pups won't eat something that's contaminated. And if your pup acts truly ill, a vet visit is in order.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-## MORE ABOUT FEEDING
-
-[![dry and wet dog food](../graphics/feeding-related-kibble-canned.jpg)](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)
-
-[5 Best Kibble and Canned Dog Foods](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)
-
-[![woman reading dog food package](../graphics/feeding-related-package.jpg)](https://www.yourpurebredpuppy.com/health/articles/feeding-dog-food-package.html)
-
-[Truth and Lies on Dog Food Packages: How To Tell The Difference](https://www.yourpurebredpuppy.com/health/articles/feeding-dog-food-package.html)
-
-[![commercial raw dog food in a bowl](../graphics/feeding-related-frozen.jpg)](https://www.yourpurebredpuppy.com/health/articles/feeding-commercial-raw-dog-food.html)
-
-[5 Best Raw Dog Foods (Frozen & Freeze-Dried)](https://www.yourpurebredpuppy.com/health/articles/feeding-commercial-raw-dog-food.html)
-
-[![cans of dog food](../graphics/feeding-related-safe.jpg)](https://www.yourpurebredpuppy.com/health/articles/feeding-is-dog-food-safe.html)
-
-[Is Your Dog's Food Safe? Concerns About Pet Food Recalls](https://www.yourpurebredpuppy.com/health/articles/feeding-is-dog-food-safe.html)
-
-  
-
-## HONEST ADVICE ABOUT TRAINING
-
-[![terrier looking up at owner](../../training/graphics/training-related-jrt.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
-
-[Teach Your Dog To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
-
-[![german shepherd dog walking with owner](../../training/graphics/training-related-gsd.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
-
-[Dog Training – What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
-
-[![dog pulling owner on leash](../../training/graphics/training-related-blackwhite.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
-
-[You Need Dog Training Help.... But From Where?](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
-
-[![Golden Retriever pup chewing on furniture](../../training/graphics/training-related-goldenpup.jpg)](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
-
-[Puppy Training Schedule](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

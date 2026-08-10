@@ -9,9 +9,9 @@ fetched_at: "2026-08-10T13:30:08+00:00"
 
 # Take Your Dog for a Structured Walk
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![owners walking with their dog on a loose leash](../graphics/rtp/structured-walk-hero.jpg)
+*Image hint — owners walking with their dog on a loose leash*
 
 This young Boxer is walking along nicely with his owners. No pulling on the leash or stopping to pee on trees.
 
@@ -23,7 +23,9 @@ It's deceptively simple. Your pup simply walks beside you. Left side or right si
 - He doesn't drop his head to snuffle along the ground like a hound following a rabbit trail.
 - He doesn't stop to go to the bathroom. Before you even put on the leash to start the walk, your dog should have been allowed to relieve himself in his own yard.
 
-![tricolored dog](../graphics/rtp/puppy-respect_html_m4956bd57.jpg)Remember, this is not for exercise, a potty break, or a sightseeing tour. Your pup is simply going on a walk with YOU  and he should pay attention to YOU.
+*Image hint — tricolored dog*
+
+Remember, this is not for exercise, a potty break, or a sightseeing tour. Your pup is simply going on a walk with YOU  and he should pay attention to YOU.
 
 Don't worry, depending on how far you go, there will be a chance during the walk when he can  sniff around and eliminate. You'll give him that freedom when you come to a good spot for those activities. Once we start the structured walk, you'll see how that works.
 
@@ -48,7 +50,9 @@ Only everything!
 
 The most important part of the structured walk actually comes before  you start to walk. In fact, the structured walk begins inside  your house.
 
-![dalmatian dog](../graphics/rtp/puppy-respect_html_4bde8000.jpg)If you have trouble getting your pup to stay still while you attach the leash.... if he jumps on you... if he barks and won't stop when you tell him to... if he tries to forge through the door when you open it... he isn't ready for a structured walk.
+*Image hint — dalmatian dog*
+
+If you have trouble getting your pup to stay still while you attach the leash.... if he jumps on you... if he barks and won't stop when you tell him to... if he tries to forge through the door when you open it... he isn't ready for a structured walk.
 
 His body isn't calm. His state of mind isn't calm. A pup with an excited body and mind indoors  will have the same excited body and mind outdoors.
 
@@ -62,7 +66,7 @@ Let's be optimistic and assume that your pup passed the tests, you've given him 
 
 ### Once you get outside with your calm  pup, give the signal for a structured walk.
 
-![pit bull puppy wearing a leash](../graphics/rtp/structured-pitbull.jpg)
+*Image hint — pit bull puppy wearing a leash*
 
 Calm puppy waiting patiently for the walk to begin.
 
@@ -85,7 +89,7 @@ So, first and foremost, you and your pup should be *together.*  He shouldn't be
 If he tries to forge ahead, don't forget the Opposite-Direction  technique! It's one of the best ways to teach a dog to stay
 close.
 
-![dog walking with owner on loose leash](../graphics/rtp/structured-loose.jpg)
+*Image hint — dog walking with owner on loose leash*
 
 This is how your dog walks with YOU, rather than charging ahead to "more important" things.
 
@@ -105,7 +109,9 @@ This means your pup is free to romp about a bit, sniff the ground, find a place 
 
 Bring along a ball or toy so you can interact with your pup. Make yourself interesting, make yourself a source of fun and play, as well as a source of guidance and direction. Then your pup will gravitate to you as someone he both trusts and enjoys being with.
 
-![JRT sitting on a loose leash](../graphics/rtp/puppy-respect_html_67bd9fd3.jpg)The break needn't be very long. Five or ten minutes is fine. Then get your pup sitting beside you with a loose leash. Say, "Heel" or "Close" and continue with the structured walk back to your house.
+*Image hint — JRT sitting on a loose leash*
+
+The break needn't be very long. Five or ten minutes is fine. Then get your pup sitting beside you with a loose leash. Say, "Heel" or "Close" and continue with the structured walk back to your house.
 
 You might be wondering, "Can I sometimes take my puppy for a non-structured walk? Where he can wander around on the leash, sniff the ground, and pee when he wants to?"
 
@@ -116,30 +122,3 @@ My answer is "Maybe."
 
   On these walks, I do allow moderate sniffing and reasonable bathroom breaks, but [no pulling](https://www.yourpurebredpuppy.com/training/articles/leash-training.html) whatsoever. That should always be a no-no... unless you're sitting on a sled and your Husky pup is all harnessed up for towing you across the snowy plains.
 - If you have an older pup or adolescent, and he has behavior issues, structured walks are a must for developing and reinforcing your leader-follower relationship. Until those behavior issues stop, a structured walk is the only  kind of walk you should take with this pup.
-
-My [![book cover](../../books/covers/RTP-110.jpg)training program](https://www.yourpurebredpuppy.com/books/RTP.html) is for puppies 2 to 18 months old. It explains, step by step:
-
-- How to establish good patterns and routines that govern everything your pup does.
-- How to teach your pup to be calm and to look to you for guidance, direction, and permission.
-- How to make yourself important – the most important thing – in your puppy’s life. How to show your pup the clear, black-and-white rules and routines he is to follow. And how to make sure he does.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

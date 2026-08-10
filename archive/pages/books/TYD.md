@@ -9,7 +9,7 @@ fetched_at: "2026-08-10T13:38:08+00:00"
 
 # A dog who respects you will do what you say, and will stop what he's doing when you tell him "No." I will show you how to teach YOUR dog to be a respectful dog who listens to you and does what you say.
 
-![Tippy, the famous cover dog of Teach Your Dog 100 English Words](graphics/tippy300ws.jpg)
+*Image hint — Tippy, the famous cover dog of Teach Your Dog 100 English Words*
 
 "My name is Tippy (guess why?) and now I'm a smart, well-behaved dog because my owner read this web page!"
 
@@ -27,7 +27,7 @@ I came the next day. As we were sitting at the dining table, her husband came in
 
 Actually, that's an understatement.
 
-![Schipperke](graphics/TYD-schipperke.jpg)
+*Image hint — Schipperke*
 
 Taz was a Schipperke, about 12 inches high and 12 pounds. Bold, inquisitive, independent... training Taz was going to be a challenge!
 
@@ -45,71 +45,71 @@ I know YOUR dog isn't like Taz. And yet....
 
 ## Do any of these behaviors look familiar?
 
-![Housebreaking accident](./../training/graphics/dog-behavior_01.gif)
+*Image hint — Housebreaking accident*
 
 Housebreaking "accidents"
 
-![Dog barking](../training/graphics/respect_02.gif)
+*Image hint — Dog barking*
 
 Barks too much
 
-![Dog won't let go of things](../training/graphics/respect_04.gif)
+*Image hint — Dog won't let go of things*
 
 Won't let go of things
 
-![Dog jumping on people](../training/graphics/respect_09.gif)
+*Image hint — Dog jumping on people*
 
 Jumps on people
 
-![Dog getting into trash](../training/graphics/respect_05.gif)
+*Image hint — Dog getting into trash*
 
 Gets into trash
 
-![Dog pesters you when you're busy](../training/graphics/respect_06.gif)
+*Image hint — Dog pesters you when you're busy*
 
 Demands attention
 
-![Dog growling, guarding food](../training/graphics/dog-behavior_02.gif)
+*Image hint — Dog growling, guarding food*
 
 Growls, guards food
 
-![Dog pulling on leash](../training/graphics/dog-behavior_04.gif)
+*Image hint — Dog pulling on leash*
 
 Pulls on leash!
 
-![Aggressive dog](../training/graphics/dog-behavior_06.gif)
+*Image hint — Aggressive dog*
 
 Aggressive on leash
 
-![Dog struggles during bath](../training/graphics/dog-behavior_05.gif)
+*Image hint — Dog struggles during bath*
 
 Struggles, resists
 
-![Dog stealing food](../training/graphics/dog-behavior_07.gif)
+*Image hint — Dog stealing food*
 
 Steals food
 
-![Dog chasing cat](../training/graphics/dog-behavior_08.jpg)
+*Image hint — Dog chasing cat*
 
 Chases the cat
 
-![Mischievous dog pulling tablecloth](../training/graphics/dog-behavior_03.gif)
+*Image hint — Mischievous dog pulling tablecloth*
 
 Mischievous, gets into trouble
 
-![Dog with flowerpot on head](../training/graphics/respect_19.gif)
+*Image hint — Dog with flowerpot on head*
 
 NOW what???
 
 If your dog does any of the things above, don't feel bad. You're not alone. For 40 years, dog owners have been calling or emailing me with these same problems. And many hundreds of owners have hired me to HELP them with these problems.
 
-![Cuckoo dog out of control](graphics/TYD05.gif)In my experience, 99 out of 100 owners say their dog's behavior "could be better".
+*Image hint — Cuckoo dog out of control*
 
-  
+In my experience, 99 out of 100 owners say their dog's behavior "could be better".
 
 ## How do you get your dog's behavior to be better?
 
-![obedience class](graphics/TYD-obedclass.jpg)
+*Image hint — obedience class*
 
 Obedience classes are too hectic and the exercises your dog learns are not very useful.
 
@@ -133,9 +133,7 @@ Respect Training teaches your dog to:
 
 When your dog respects you, he looks up to you. He will do anything for you, and he trusts you to do anything with him. A respect-based relationship is what makes a dog a terrific companion.
 
-  
-
-![Teach Your Dog 100 English Words book cover](covers/TYD-225.jpg)
+*Image hint — Teach Your Dog 100 English Words book cover*
 
 New Second Edition!
 
@@ -145,15 +143,19 @@ You'll learn all the right things to say and do so that your dog listens to you.
 
 No hitting.  No yelling.  No choke collars.  No clickers.
 
-![checkmark](graphics/checkmark.gif)So if you have a new puppy and you want him to grow up with excellent behavior, you can start right away establishing the right relationship of respect. Then you will never see behavior problems in your dog.
+*Image hint — checkmark*
 
-![checkmark](graphics/checkmark.gif)If you have a dog who is currently misbehaving, you've lost his respect. But not to worry.... I'll show you how to get it back.
+So if you have a new puppy and you want him to grow up with excellent behavior, you can start right away establishing the right relationship of respect. Then you will never see behavior problems in your dog.
+
+*Image hint — checkmark*
+
+If you have a dog who is currently misbehaving, you've lost his respect. But not to worry.... I'll show you how to get it back.
 
 ### What will your dog learn in *Teach Your Dog 100 English Words?*
 
 Well, it might be quicker to tell you what he **won't** learn – he won't learn how to herd sheep. Sorry! What he WILL learn is everything he needs to know to be an excellent family companion.
 
-![Dog stealing food off table](./graphics/TYD_stealing.jpg)
+*Image hint — Dog stealing food off table*
 
 Quick.... someone send her a copy of my book. Follow my respect training progam and your dog won't take things behind your back!
 
@@ -167,7 +169,7 @@ Your dog will learn to:
 - **Stop barking** when you tell him to. (Chapter 11)
 - Greet guests politely. No jumping on people. (complete cure in Chapter 4)
 
-![Puppy chewing on shoe](./graphics/TYD_chewing.jpg)
+*Image hint — Puppy chewing on shoe*
 
 Oh, yes, he's cute! But boots are expensive, shoelaces can strangle his intestines, and a puppy who is destroying your belongings is learning to be DISrespectful. I'll show you how to channel your cute little guy's playfulness into good manners.
 
@@ -181,16 +183,14 @@ Accept touching on any part of his body. No more struggling or fussing when you 
 
 **Lie down** when told – and **STAY lying down** for up to a half-hour – even if you walk away. (Chapter 29)
 
-**Take treats gently** from your hand. No grabbing.  
+**Take treats gently** from your hand. No grabbing.
  (Chapter 18)
 
 **Get along peacefully** with strangers and other dogs. (Chapters 45-46)
 
 **Open his mouth and let go** when you need to take something from him. No more tug-of-war with your socks and underwear. (Chapter 21)
 
-  
-
-![Golden Retriever](graphics/TYD_golden.jpg)
+*Image hint — Golden Retriever*
 
 ### "It's like this light bulb went on in their heads"
 
@@ -198,14 +198,11 @@ Accept touching on any part of his body. No more struggling or fussing when you 
 
 – Deb Gulick
 
-  
-   
-
-![Dogs waiting inside an open door without running out](./graphics/TYD_wait1.jpg)
+*Image hint — Dogs waiting inside an open door without running out*
 
 My dogs waiting patiently inside the house, won't cross the threshold. This isn't even our house. We were visiting, and when I stepped outside, I told the dogs to "Wait" inside. Your dogs can learn this, too!
 
-![Dogs waiting inside an open door without running out](./graphics/TYD_wait1a.jpg)
+*Image hint — Dogs waiting inside an open door without running out*
 
 Dogs waiting patiently inside the house, won't cross the threshold
 
@@ -218,7 +215,7 @@ Dogs waiting patiently inside the house, won't cross the threshold
 
 ### Train your dog AT HOME
 
-![Attentive puppy](../training/graphics/schedule-respect.jpg)
+*Image hint — Attentive puppy*
 
 This young lady has learned my secrets for teaching her puppy to be attentive and to respect her.
 
@@ -230,7 +227,7 @@ I've taught public obedience classes, you see. Several hundred public obedience 
 
 And many of those classes are teaching the "cookie" method, where your dog obeys only when he's hungry for a treat. With my Respect Training Program, your dog will obey you ALL the time. Because he respects you.
 
-![Cocker Spaniel playing fetch](graphics/TYD_fetch.jpg)
+*Image hint — Cocker Spaniel playing fetch*
 
 Fetch is a fun game to play, and great exercise. Using the methods in my book, many dogs can be taught to fetch a ball, stuffed toy, or frisbee.
 
@@ -242,9 +239,7 @@ Fetch is a fun game to play, and great exercise. Using the methods in my book, m
 - Search for a specific toy that you ask him to find and bring to you. Lots of fun and a very impressive skill in front of your friends. (Chapter 24)
 - More....and more....and more.... you and your dog will love this program!
 
-  
-
-![Beagle](graphics/TYD_beagle.jpg)
+*Image hint — Beagle*
 
 ### "Now he minds me and has settled down"
 
@@ -252,10 +247,7 @@ Fetch is a fun game to play, and great exercise. Using the methods in my book, m
 
 – Aiko Yoshida
 
-  
-  
-
-![Basset Hound observing your behavior](graphics/TYD_basset.jpg)
+*Image hint — Basset Hound observing your behavior*
 
 Your dog watches your facial expressions and body language whenever you tell him to do something. If you want your dog to listen to you and do what you say, you need to interact with him in all the right ways.... all the time. Then he will listen to you.... all the time.
 
@@ -269,8 +261,6 @@ That's right, whenever you do **anything** with your dog, he observes your tone 
 
 As soon as you start doing those things RIGHT, your dog will start paying attention to you. I'll show you how to interact with your dog in all the right ways that make him respect you.
 
-  
-
 ### In *Teach Your Dog 100 English Words,* you will learn:
 
 - What to do if you say **"No!"** and your dog doesn't stop what he's doing. (Chapter 4) The "No" command is the most important of all. You'll use it to stop any and all misbehavior. You must teach this word perfectly.
@@ -279,7 +269,7 @@ As soon as you start doing those things RIGHT, your dog will start paying attent
 
 **HINT: This isn't how you do it!**
 
-![Great Dane pulling on leash](graphics/TYD_pulling.jpg)
+*Image hint — Great Dane pulling on leash*
 
 - How much petting and cuddling is **TOO MUCH** – and why it isn't good for your dog. (Chapter 13)
 - 3 things you should never do if your dog is afraid of something. (Chapter 45)
@@ -288,7 +278,7 @@ As soon as you start doing those things RIGHT, your dog will start paying attent
 - A step-by-step socialization program to encourage your dog to get along well with other people and with other dogs and cats. (Chapter 45-46)
 - How to groom your dog without getting into World War III. (Chapter 16)
 
-![Mastiff](graphics/TYD_mastiff.jpg)
+*Image hint — Mastiff*
 
 ### "A 1000% improvement in his attitude"
 
@@ -310,74 +300,69 @@ As soon as you start doing those things RIGHT, your dog will start paying attent
 
 "No dog owner can afford to be WITHOUT this book. It is the most sensible teaching program I've ever read. The lessons are easy to understand and easy to follow." – Connie Hiller
 
-  
-  
-
 Teach Your Dog 100 English Words is my best-selling, most popular book. I'd like you to have it for just $24.
 
 I'd also like to give you, absolutely free when you order Teach Your Dog, another book that will make a big difference in your dog's life – 11 Things You Must Do Right To Keep Your Dog Healthy and Happy. Your dog's future health depends on the way you're raising him today.... and there are 11 things you must get right. So I want to give you this book for free.
 
 In fact, I want to give you **7** free books when you order *Teach Your Dog 100 English Words.*
 
-  
-
 Free bonus books that will help you care for your dog
 
-  
+*Image hint — 11 Things You Must Do Right To Keep Your Dog Healthy and Happy*
 
-![11 Things You Must Do Right To Keep Your Dog Healthy and Happy](covers/11T-110.jpg)
-![11 Things You Must Do Right To Keep Your Dog Healthy and Happy](covers/11T-110.jpg)
-![Free dog health book](./graphics/free5.gif)
+*Image hint — 11 Things You Must Do Right To Keep Your Dog Healthy and Happy*
+
+*Image hint — Free dog health book*
 
 11 Things You Must Do Right To Keep Your Dog Healthy and Happy
 
 **Bonus Book # 1....** Feeding, vaccinations, neutering, physical exercise, mental exercise, grooming, safety, much more! Follow the 11 Things You Must Do Right and your dog should live a long, healthy life and seldom need to visit the vet.
 
-  
+*Image hint — Symptom Checker From Nose To Tail*
 
-![Symptom Checker From Nose To Tail](covers/SC-110.jpg)
-![Symptom Checker From Nose To Tail](covers/SC-110.jpg)
-![Free dog health book](./graphics/free5.gif)
+*Image hint — Symptom Checker From Nose To Tail*
+
+*Image hint — Free dog health book*
 
 Symptom Checker: The Nose To Tail Checkup
 
 **Bonus Book # 2....** Use this easy-to-follow, step-by-step guide to check your dog's health on a regular basis, so you can catch health problems when they're still minor and easy to correct. Tells you exactly what's normal and abnormal on every part of your dog's body.
 
-  
+*Image hint — Purebred Problems: Health Profiles for 165 Dog Breeds*
 
-![Purebred Problems: Health Profiles for 165 Dog Breeds](covers/PP-110.jpg)
-![Purebred Problems: Health Profiles for 165 Dog Breeds](covers/PP-110.jpg)
-![Free dog health book](./graphics/free5.gif)
+*Image hint — Purebred Problems: Health Profiles for 165 Dog Breeds*
+
+*Image hint — Free dog health book*
 
 Purebred Problems: Health Profiles By Breed
 
 **Bonus Book # 3....** It's hard to find honest information about health problems because breeders don't want to admit to problems in their favorite breed. But I've done the digging for you! Now you'll know which health problems to be especially watchful for in your breed.
 
-  
+*Image hint — Safest Remedies: Treatment Options*
 
-![Safest Remedies: Treatment Options](covers/SR-110.jpg)
-![Safest Remedies: Treatment Options](covers/SR-110.jpg)
-![Free dog health book](./graphics/free5.gif)
+*Image hint — Safest Remedies: Treatment Options*
+
+*Image hint — Free dog health book*
 
 Safest Remedies For Canine Health Problems
 
 **Bonus Book # 4....** This is the book to turn to if your dog develops any health problem. You'll learn about symptoms, diagnosis, and the most effective treatments with the fewest side effects. You'll even learn when inexpensive at-home treatments are better options than going to the vet.
 
-  
+*Image hint — Test Your Dog's IQ*
 
-![Test Your Dog's IQ](covers/IQ-110.jpg)
-![Test Your Dog's IQ](covers/IQ-110.jpg)
-![Free dog health book](./graphics/free5.gif)
+*Image hint — Test Your Dog's IQ*
+
+*Image hint — Free dog health book*
 
 Test Your Dog's IQ
 
 **Bonus Book # 5....** Is your dog smarter than your best friend's dog? You'll never know until you test him! These 25 fun tests measure your dog's intelligence and problem-solving skills. Find out how smart your dog really is....or isn't!
 
-  
+*Image hint — Dog Quest*
 
-![Dog Quest](covers/DQ-110.jpg)
-![Dog Quest](covers/DQ-110.jpg)
-![Free dog buying guide](./graphics/free5.gif)
+*Image hint — Dog Quest*
+
+*Image hint — Free dog buying guide*
 
 Dog Quest: Find the Dog of Your Dreams
 
@@ -387,13 +372,15 @@ You don't want a mismatch, or a puppy with serious behavioral issues or health p
 
 I'll guide you through your journey of choosing and finding the best dog for your family – what kind of dog is best for you, where to get your dog, and which individual puppy (or adult dog) you should pick.
 
-  
+*Image hint — Respect Training For Puppies*
 
-![Respect Training For Puppies](covers/RTP-110.jpg)
-![Respect Training For Adult Dogs](covers/RTA-110.jpg)
-![Respect Training For Puppies](covers/RTP-110.jpg)
-![Respect Training For Adult Dogs](covers/RTA-110.jpg)
-![Free training book](./graphics/free5.gif)
+*Image hint — Respect Training For Adult Dogs*
+
+*Image hint — Respect Training For Puppies*
+
+*Image hint — Respect Training For Adult Dogs*
+
+*Image hint — Free training book*
 
 Respect Training – (choose one)
 
@@ -407,52 +394,65 @@ That's why I want you to have them ALL.... for just $24.
 
 I charge so little for my books because I know they will make your dog's life better..... and that will make YOUR life better. I would much rather have **many** owners read my books for a **lower price** than have fewer owners read them for a higher price. My compensation would be the same either way, but at the lower price more owners and dogs benefit.
 
-  
-
 ## 30-Day Money-Back Guarantee
 
-![Money back guarantee](graphics/guarantee.gif)I offer a 30-day money back guarantee. Plain and simple, if you're not satisfied with my book within 30 days, I'll refund your money. I'm a respected author, and I want you to be happy!
+*Image hint — Money back guarantee*
+
+I offer a 30-day money back guarantee. Plain and simple, if you're not satisfied with my book within 30 days, I'll refund your money. I'm a respected author, and I want you to be happy!
 
 I'm absolutely confident that you will be. Dog owners have been buying my books online since 2002 and my refund rate is an infinitesimal 0.1%. That means 999 people out of a thousand are satisfied. I'm pretty happy about that!
 
 To sum up....
 
-![Attentive Labrador Retriever](./graphics/TYD_lab.jpg)
+*Image hint — Attentive Labrador Retriever*
 
-*Teach Your Dog 100 English Words* is extremely clear and easy to read. Everything is laid out for you.... what to do.... what not to do.  
-  
-Every vocabulary word your dog needs to know to be a top-notch canine citizen is included.  
-  
+*Teach Your Dog 100 English Words* is extremely clear and easy to read. Everything is laid out for you.... what to do.... what not to do.
+
+Every vocabulary word your dog needs to know to be a top-notch canine citizen is included.
+
 More importantly, I'll show you how to teach those words to your dog in specific ways so that he respects you. Then he will pay attention to you and follow your directions. All the time. I guarantee it.
-
-  
 
 ## Order *Teach Your Dog 100 English Words*
 
-![Teach Your Dog 100 English Words cover](covers/TYD-225.jpg)
+*Image hint — Teach Your Dog 100 English Words cover*
 
-![Money back guarantee](graphics/guarantee.gif "Satisfaction guaranteed or your money back")30-day money-back guarantee
+*Image hint — Money back guarantee*
+
+30-day money-back guarantee
 
 Follow my Respect Training program and your dog will look right at you, listen to your words, and do what you say.
 
 No hitting. No choke collars or shock collars. No clicker training.
 
-![checkmark](graphics/checkmark.gif)I'll show you how to teach all the vocabulary words your dog needs to know, plus calmness, gentleness, acceptance of being handled, housebreaking, crate training, come when called, greet people politely, stop barking, walk nicely on a leash, get along with other pets, obedience training, and much more.
+*Image hint — checkmark*
 
-![checkmark](graphics/checkmark.gif)I'll show you how to teach your dog to **stop** doing whatever he's doing when you say, "No" and I'll tell you what to do if you tell your dog to do something and he doesn't listen to you.
+I'll show you how to teach all the vocabulary words your dog needs to know, plus calmness, gentleness, acceptance of being handled, housebreaking, crate training, come when called, greet people politely, stop barking, walk nicely on a leash, get along with other pets, obedience training, and much more.
 
-![checkmark](graphics/checkmark.gif)My Respect Training program has been tested with puppies and adult dogs of all ages and all breeds. So, yes... it will work with your dog!
+*Image hint — checkmark*
+
+I'll show you how to teach your dog to **stop** doing whatever he's doing when you say, "No" and I'll tell you what to do if you tell your dog to do something and he doesn't listen to you.
+
+*Image hint — checkmark*
+
+My Respect Training program has been tested with puppies and adult dogs of all ages and all breeds. So, yes... it will work with your dog!
 
 ## If you have a puppy 2 to 18 months old (or if you're planning to get a PUPPY)... you'll want this package of 8 books for $24
 
-![book cover](covers/TYD-110.jpg "Teach Your Dog 100 English Words")
-![book cover](covers/RTP-110.jpg "Respect Training For Puppies")
-![book cover](covers/11T-110.jpg "11 Things You Must Do Right To Keep Your Dog Healthy and Happy")
-![book cover](covers/DQ-110.jpg "Dog Quest")
-![book cover](covers/SC-110.jpg "Symptom Checker From Nose To Tail")
-![book cover](covers/PP-110.jpg "Purebred Problems: Health Issues By Breed")
-![book cover](covers/SR-110.jpg "Safest Remedies For Canine Health Problems")
-![book cover](covers/IQ-110.jpg "Test Your Dog's IQ!")
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
 
 |  |  |
 | --- | --- |
@@ -460,14 +460,21 @@ No hitting. No choke collars or shock collars. No clicker training.
 
 ## If you have an adult dog over 18 months old (or if you're planning to get an adult dog)... you'll want this package of 8 books for $24
 
-![book cover](covers/TYD-110.jpg "Teach Your Dog 100 English Words")
-![book cover](covers/RTA-110.jpg "Respect Training For Adult Dogs")
-![book cover](covers/11T-110.jpg "11 Things You Must Do Right To Keep Your Dog Healthy and Happy")
-![book cover](covers/DQ-110.jpg "Dog Quest")
-![book cover](covers/SC-110.jpg "Symptom Checker From Nose To Tail")
-![book cover](covers/PP-110.jpg "Purebred Problems: Health Issues By Breed")
-![book cover](covers/SR-110.jpg "Safest Remedies For Canine Health Problems")
-![book cover](covers/IQ-110.jpg "Test Your Dog's IQ!")
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
 
 |  |  |
 | --- | --- |

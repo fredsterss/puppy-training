@@ -16,15 +16,21 @@ This guide combines every archived page for this breed into one document.
 
 ## Breed overview and temperament
 
-German Shepherd temperament, personality, training, behavior, pros and cons, advice, and information, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Behavioral Consultant, Author of 15 [Dog Books](https://www.yourpurebredpuppy.com/books/)
+German Shepherd temperament, personality, training, behavior, pros and cons, advice, and information, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![German Shepherd](../dogbreeds/photos2-G/german-shepherd-01.jpg)
-![German Shepherd](../dogbreeds/photos2-G/german-shepherd-02.jpg)
-![German Shepherd](../dogbreeds/photos2-G/german-shepherd-03.jpg)
-![German Shepherd](../dogbreeds/photos2-G/german-shepherd-04.jpg)
-![German Shepherd](../dogbreeds/photos2-G/german-shepherd-05.jpg)
-![German Shepherd](../dogbreeds/photos2-G/german-shepherd-06.jpg)
-![German Shepherd](../dogbreeds/photos2-G/german-shepherd-07.jpg)
+*Image hint — German Shepherd*
+
+*Image hint — German Shepherd*
+
+*Image hint — German Shepherd*
+
+*Image hint — German Shepherd*
+
+*Image hint — German Shepherd*
+
+*Image hint — German Shepherd*
+
+*Image hint — German Shepherd*
 
 See Photo Gallery
 **[< Prev](#)   
@@ -50,8 +56,6 @@ See Photo Gallery
 | [Puppies](#puppies) | Easy to find |
 | [Rescue dogs](#rescue) | Easy to find |
 | [Similar breeds](#similar) | Shiloh Shepherd, White Shepherd, Belgian Shepherd |
-
-  
 
 [Temperament](#temperament)
 [Pros and Cons](#pros-cons)
@@ -79,7 +83,7 @@ See Photo Gallery
   - [Puppies](#puppies)
   - [Similar breeds](#similar)
 
-![German Shepherd](../dogbreeds/photos2-G/german-shepherd-10.jpg)
+*Image hint — German Shepherd*
 
 German Shepherds were my very first breed. This noble-looking male has a beautiful rugged head, intelligent expression, and rich coloration.
 
@@ -125,7 +129,7 @@ Just be careful with the whites. A good number of them are *too* soft, which can
 
 Because if you don't know what you want, and what you don't want, and if you don't ask the right questions, you're likely to end up with a German Shepherd that isn't at all what you were looking for – and possibly one who is too much for you to handle.
 
-![German Shepherd](../dogbreeds/photos2-G/german-shepherd-08.jpg)
+*Image hint — German Shepherd*
 
 Such an intelligent expression – confident and inquiring.
 
@@ -154,11 +158,15 @@ Keep in mind that the inheritance of temperament  is less predictable than the 
 
 ## Books by Michele Welton
 
-![dog icon](../Graphics/icon-training.png)["Respect Training for Puppies"](https://www.yourpurebredpuppy.com/books/RTP.html)  (or ["Respect Training for Adult Dogs"](https://www.yourpurebredpuppy.com/books/RTA.html) ) is a step by step guide to help you bring out the best in your pup so you can enjoy a calm and well-behaved dog, no matter what his age. Get your book today.
+*Image hint — dog icon*
 
-![dog icon](../Graphics/icon-health.png)["11 Things You Must Do Right To Keep Your Dog Healthy and Happy"](https://www.yourpurebredpuppy.com/books/11T.html)  is a comprehensive guide to keeping your dog mentally, physically, and emotionally happy and healthy so you can enjoy a longer lifetime of companionship. A healthy dog is a happy dog, so buy your copy today.
+["Respect Training for Puppies"](https://www.yourpurebredpuppy.com/books/RTP.html)  (or ["Respect Training for Adult Dogs"](https://www.yourpurebredpuppy.com/books/RTA.html) ) is a step by step guide to help you bring out the best in your pup so you can enjoy a calm and well-behaved dog, no matter what his age. Get your book today.
 
-![dog paw](../Graphics/pawprint.png)
+*Image hint — dog icon*
+
+["11 Things You Must Do Right To Keep Your Dog Healthy and Happy"](https://www.yourpurebredpuppy.com/books/11T.html)  is a comprehensive guide to keeping your dog mentally, physically, and emotionally happy and healthy so you can enjoy a longer lifetime of companionship. A healthy dog is a happy dog, so buy your copy today.
+
+*Image hint — dog paw*
 
 ### How big are German Shepherds?
 
@@ -168,7 +176,7 @@ Females stand about 22-24 inches and weigh 65-90 pounds.
 
 Some German Shepherds are considerably larger than that, but shouldn't be. This breed is supposed to be athletic and agile, not giant-sized and ponderous. Larger dogs can have more joint problems and a shorter lifespan.
 
-![German Shepherd](../dogbreeds/photos2-G/german-shepherd-icon2.jpg)
+*Image hint — German Shepherd*
 
 ### Are there different "types" of German Shepherds?
 
@@ -188,7 +196,7 @@ There are many West German bloodlines in the United States. So if you're interes
 
 Just be aware that these dogs aren't couch potatoes: they do have plenty of energy and some working drives that will need to be [exercised](#exercise).
 
-![German Shepherd](../dogbreeds/photos2-G/german-shepherd-07.jpg)
+*Image hint — German Shepherd*
 
 Solid black German Shepherds are less common, but when combined with a rugged build, makes for a very handsome dog.
 
@@ -214,7 +222,7 @@ Some breeders emphasize high trainability, competing with their intelligent dogs
 
 Other breeders emphasize "old style" German Shepherds with a more rugged build. But avoid breeders who boast about their "giant" German Shepherds. Packing more weight onto the frame and joints of a breed that's supposed to be medium to large is a huge (pun intended) mistake.
 
-![German Shepherd](../dogbreeds/photos2-G/german-shepherd-14.jpg)
+*Image hint — German Shepherd*
 
 German Shepherd with long hair. This particular dog has a minimalist long coat – just some ear tufts and a body coat that's slightly longer than normal.
 
@@ -232,7 +240,7 @@ Do long haired German Shepherds have a different build or temperament? Yes, ofte
 
 And because they're seldom seen in protection dog sports, their temperament tends to be softer and milder, which fits well into many families.
 
-![German Shepherd](../dogbreeds/photos2-G/german-shepherd-04.jpg)
+*Image hint — German Shepherd*
 
 German Shepherds are active dogs, but should not be hyperactive. Fetch games are a great way to exercise this breed.
 
@@ -252,7 +260,7 @@ This might be a dog sport such as agility, rally obedience, musical freestyle, t
 
 Some of these activities are included in my training book, [Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html).
 
-![German Shepherd](../dogbreeds/photos2-G/german-shepherd-11.jpg)
+*Image hint — German Shepherd*
 
 Handsome black German Shepherd, attentively awaiting your next words.
 
@@ -296,7 +304,7 @@ But if you have young children, you need to be especially careful about bringing
 
 Also I wouldn't be comfortable with some high-drive German Shepherds around toddlers. These vigorous, intense dogs could send a toddler flying without even meaning to.
 
-![German Shepherd](../dogbreeds/photos2-G/german-shepherd-icon.jpg)
+*Image hint — German Shepherd*
 
 #### Are German Shepherds good with other pets?
 
@@ -306,7 +314,7 @@ However, some German Shepherds show strong predatory/chasing behavior toward cat
 
 And some German Shepherds are dominant, or aggressive, toward other dogs of the same sex. My dog Luke, for example, would never dream of harming a female dog – but he would have loved to engage any strange male. Only a firm Respect Training program kept his behavior under control.
 
-![German Shepherd](../dogbreeds/photos2-G/german-shepherd-12.jpg)
+*Image hint — German Shepherd*
 
 Long-coated German Shepherd. Keep their feathering combed out to avoid painful mats and tangles.
 
@@ -330,7 +338,7 @@ So year-round, you'll find hair on your clothing, on your carpets, and under you
 
 You might be wondering, "How can a shorthaired dog shed so much?" The answer is that German Shepherds have a **double** coat. They have a short outer coat (harsh to the touch), plus a woolly undercoat (for insulation). Breeds with a double coat always shed more than breeds who simply have an outer coat but no undercoat.
 
-![German Shepherd](../dogbreeds/photos2-G/german-shepherd-06.jpg)
+*Image hint — German Shepherd*
 
 German Shepherds come in a long coat, as well as a short coat. Both coats shed heavily.
 
@@ -350,7 +358,7 @@ Along with brushing and combing, longhaired German Shepherds need trimming every
 
 Focus on the longish hair around the dog's private parts. Otherwise whenever he goes to the bathroom, the result is going to be unsanitary, both for the dog and for your house. Remember, anything that sticks to long hair eventually ends up on your floor or furnishings. So keep your dog's private parts trimmed short.
 
-![German Shepherd](../dogbreeds/photos2-G/german-shepherd-09.jpg)
+*Image hint — German Shepherd*
 
 Gray sable pattern
 
@@ -366,10 +374,10 @@ It's a good idea to have [pet insurance](https://www.yourpurebredpuppy.com/healt
 
 Here is a [complete list](../health/germanshepherds.html#health-problems) of health problems in German Shepherds.
 
-See my advice on → [keeping your dog healthy](https://www.yourpurebredpuppy.com/health/germanshepherds.html)  
+See my advice on → [keeping your dog healthy](https://www.yourpurebredpuppy.com/health/germanshepherds.html)
 (feeding, vaccinations, neutering, veterinarians, and more).
 
-![German Shepherd](../dogbreeds/photos2-G/german-shepherd-15.jpg)
+*Image hint — German Shepherd*
 
 The most common color in German Shepherds – black and tan, in the saddleback pattern
 
@@ -396,7 +404,7 @@ If a dog has inherited either of these color-modifying genes, all of his black p
 
 Blue and liver are considered serious faults by the official German Shepherd clubs and breeders who show their dogs in the conformation ring. But you can still register these dogs and compete with them in activities such as obedience and agility.
 
-![German Shepherd](../dogbreeds/photos2-G/german-shepherd-16.jpg)
+*Image hint — German Shepherd*
 
 #### Controversial color: solid white
 
@@ -410,7 +418,7 @@ If you love the white color, you might be pleased to hear that [White Shepherd](
 
 Ah, you're thinking about *cropping*, a surgical procedure to make the ears stand up. That's done with Doberman Pinschers, but not with German Shepherds. A Shepherd puppy's ears prick up naturally – they're never cropped.
 
-![German Shepherd](../dogbreeds/photos2-G/german-shepherd-13.jpg)
+*Image hint — German Shepherd*
 
 German Shepherd puppy with perfectly normal ears at this age. If the pup inherited normal genes, the other ear should come up shortly.
 
@@ -424,7 +432,7 @@ Unfortunately, some puppies do inherit poor genes for ear strength and often tho
 
 I had a German Shepherd with one soft ear. It flopped sideways on top of his head, while the other ear stood up beautifully. Of course I loved him dearly anyway!
 
-![German Shepherd](../dogbreeds/photos2-G/german-shepherd-17.jpg)
+*Image hint — German Shepherd*
 
 Most German Shepherd puppies start out with floppy ears and dark coloration.
 
@@ -456,7 +464,7 @@ Or you can just hop onto Craigslist and buy a puppy from someone who "just breed
 
 Not unless the seller has done the proper health certifications on the puppy's parents. One huge difference between a responsible breeder and an irresponsible "puppy producer" is – health certifications.
 
-![German Shepherd](../dogbreeds/photos2-G/german-shepherd-05.jpg)
+*Image hint — German Shepherd*
 
 Both parents of a German Shepherd puppy should have OFA certificates for hips, elbows, and heart. One parent should have a certificate showing them to be clear of degenerative myelopathy. This is the fastest way to rule out all the bad breeders. No certificates equals irresponsible breeding.
 
@@ -474,7 +482,7 @@ If a seller can't show you those certificates, the puppies are higher risk for h
 
 See my advice on → [finding  a good dog](https://www.yourpurebredpuppy.com/buying/)
 
-![German Shepherd](../dogbreeds/photos2-G/german-shepherd-icon.jpg)
+*Image hint — German Shepherd*
 
 ### How do I adopt a German Shepherd?
 
@@ -488,175 +496,143 @@ Did you know there's a quick and simple [DNA test](https://www.yourpurebredpuppy
 
 ### What breeds are similar to German Shepherds?
 
-![Shiloh Shepherd](../dogbreeds/photos2-S/shiloh-shepherd-similar.jpg)
+*Image hint — Shiloh Shepherd*
 
 The [Shiloh Shepherd](https://www.yourpurebredpuppy.com/reviews/shilohshepherds.html) looks like a large German Shepherd, which is not surprising since the Shiloh was developed 50 years ago by crossing German Shepherds with larger breeds. Compared to German Shepherds, Shiloh Shepherds tend to have a calmer, more easygoing personality.
 
-![White Shepherd](../dogbreeds/photos2-W/white-shepherd-similar.jpg)
+*Image hint — White Shepherd*
 
 Compared to German Shepherds, most [White Shepherds](https://www.yourpurebredpuppy.com/reviews/whiteshepherds.html) have a softer, more sensitive personality. White Shepherds are fine watchdogs, but seldom aggressive. In fact, if a White Shepherd is going to have any temperament fault, it's more likely to be timidity or skittishness.
 
-![Belgian Shepherd](../dogbreeds/photos2-B/belgian-shepherd-similar.jpg)
+*Image hint — Belgian Shepherd*
 
 The [Belgian Shepherd](https://www.yourpurebredpuppy.com/reviews/belgianshepherds.html) is recommended only for experienced owners. Compared to the German Shepherd, a Belgian is more agile, graceful, and elegant. Belgian Shepherds are highly intelligent, but also easily bored and prone to obsessive behaviors. This is a demanding breed that needs ongoing supervision and structured activities.
 
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![dog training videos](../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
-
-Related posts you might enjoy
-
-![dog looking at owner](https://www.yourpurebredpuppy.com/training/graphics/methods-choices150.jpg) [Dog Training:  
- What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
-
-![puppy sitting beside owner](https://www.yourpurebredpuppy.com/training/graphics/schedule-older150.jpg)[You Need Dog Training Help... But From Where? Classes? Books? Videos?](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
-
-![common dog training commands](https://www.yourpurebredpuppy.com/training/graphics/teachyourdog02-150.jpg)[All a Dog Needs Is Love: True or False?](https://www.yourpurebredpuppy.com/training/articles/all-a-dog-needs-is-love.html)
-
-![respectful dog](https://www.yourpurebredpuppy.com/training/graphics/respectful-dog.jpg)[Solve Behavior Problems By Teaching Your Dog To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
-
 ## Training
 
-German Shepherd Training and Puppy Training, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 [Dog Books](https://www.yourpurebredpuppy.com/books/)
+German Shepherd Training and Puppy Training, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![German Shepherd](../dogbreeds/photos2-G/german-shepherd-04.jpg)
+*Image hint — German Shepherd*
 
 Dog training is much less about the teaching of commands and much more about how you live with your dog. Virtually all of your dog's behaviors (good and bad) are created by the way you're living with him. What you do with him... what you don't do with him... what you allow him to do... these are all messages to your dog. Send the right messages and you will have no problems with your dog. Send the wrong messages and you will have problems.
 
-  
-
 #### Check out my advice for dealing with behavior problems and training your German Shepherd puppy or adult dog:
 
-![Obedience instructor and author Michele Welton](graphics/ind-dog-training-methods1.jpg)
-[Dog Training – What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)  
+*Image hint — Obedience instructor and author Michele Welton*
+
+[Dog Training – What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
 Some dog training methods are based on what makes the owner feel good, rather than what on actually makes sense to the dog. Now, treats can be great motivators for training German Shepherds, but if your dog will only obey for a treat, then **he** is in charge of his obedience, not you.  [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
 
-![Heart, dog](graphics/ind-love.jpg)
-[True or False? All a Dog Needs is Love](https://www.yourpurebredpuppy.com/training/articles/all-a-dog-needs-is-love.html)  
+*Image hint — Heart, dog*
+
+[True or False? All a Dog Needs is Love](https://www.yourpurebredpuppy.com/training/articles/all-a-dog-needs-is-love.html)
 As a canine behavioral consultant, one of the most common claims I hear about dogs is this: All a dog needs is love. Now, is that true or false? My answer might surprise you!  [[read more]](https://www.yourpurebredpuppy.com/training/articles/all-a-dog-needs-is-love.html)
 
-![Cute puppy](graphics/ind-easy.png)
-[Puppy Training Made Easy: 4 Things You MUST Do Right](https://www.yourpurebredpuppy.com/training/articles/puppy-training-made-easy.html)  
+*Image hint — Cute puppy*
+
+[Puppy Training Made Easy: 4 Things You MUST Do Right](https://www.yourpurebredpuppy.com/training/articles/puppy-training-made-easy.html)
 Training your German Shepherd puppy doesn't have to be a struggle. There are four simple things you can do right now to change your pup's behavior and make training easy.  [[read more]](https://www.yourpurebredpuppy.com/training/articles/puppy-training-made-easy.html)
 
-![Cute puppy](graphics/ind-schedule.jpg)
-[Puppy Training Schedule: What to Teach (and When)](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)  
+*Image hint — Cute puppy*
+
+[Puppy Training Schedule: What to Teach (and When)](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
 Puppy training starts the moment you bring your puppy home. If you use the wrong teaching method, your puppy will begin making decisions about how he wants **you** to fit into **his** life, and that's a recipe for conflict and behavior problems. Whatever your puppy does, you must react properly or he will learn the wrong things. Here's my recommended schedule (what to teach, when to teach it) for training your German Shepherd puppy. [[read more]](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
 
-![Misbehaving dog pulling owner on leash](graphics/ind-respect-training.gif)
-[Teach Your German Shepherd To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)  
+*Image hint — Misbehaving dog pulling owner on leash*
+
+[Teach Your German Shepherd To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
 "Respect Training" is the dog training method I use and recommend for training German Shepherds. A dog who respects you will do what you say and will stop what he's doing when you tell him "No." Teaching your dog to respect you means interacting with him in specific ways that encourage respect.  [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
 
-![Dog behavior problems](graphics/ind-dog-behavior-problems.jpg)
-[Solving Behavior Problems](https://www.yourpurebredpuppy.com/training/articles/dog-behavior-problems.html)  
+*Image hint — Dog behavior problems*
+
+[Solving Behavior Problems](https://www.yourpurebredpuppy.com/training/articles/dog-behavior-problems.html)
 One of the most common questions dog owners ask me is: "How can I stop my dog from doing (a specific bad behavior)?" My answer is almost always the same, no matter what the misbehavior is.... [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-behavior-problems.html)
 
-![Buddy the dog](graphics/ind-dog-training-videos.jpg)
-[These Dog Training Videos Turned Buddy Into a Good Dog](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)  
+*Image hint — Buddy the dog*
+
+[These Dog Training Videos Turned Buddy Into a Good Dog](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
 Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action. I recommend these dog training videos, which are based on respect and leadership. [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
 
-![](graphics/ind-dog-training-help.jpg)
-[You Need Dog Training Help.... But From Where? Private Lessons? Public Classes? Dog Training Books? Dog Training Videos?](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)  
+*Image placeholder — no alt text*
+
+[You Need Dog Training Help.... But From Where? Private Lessons? Public Classes? Dog Training Books? Dog Training Videos?](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
 So your puppy needs training.... or your adult dog needs training.... and you're looking for some help. Should you hire a professional trainer to come to your house? send your dog away to be trained? sign up for a group obedience class? read a book? watch a few videos? Here's my advice on where to get dog training help when you really need it. [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
 
-![Words and commands to teach your dog](graphics/ind-teach-words.gif)
-[Teach The Right Words In The Right Ways](https://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)  
+*Image hint — Words and commands to teach your dog*
+
+[Teach The Right Words In The Right Ways](https://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
 My method of training German Shepherds includes teaching specific words in specific ways so that your dog not only learns the words but also develops the respectful attitude that makes him happy to obey you. Teach your dog words and he will understand what you say. Teach those words ***in the right ways*** and he will actually DO what you say.  [[read more]](https://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
 
-![Outhouse](graphics/ind-housebreaking.gif)
-[Housebreaking Your German Shepherd](https://www.yourpurebredpuppy.com/training/articles/dog-housebreaking.html)  
+*Image hint — Outhouse*
+
+[Housebreaking Your German Shepherd](https://www.yourpurebredpuppy.com/training/articles/dog-housebreaking.html)
 There are two keys to housebreaking. Just two, but you have to get them both right. And I mean 100% right, not 50% right. Otherwise you're going to end up with a dog who is 50% potty trained, and who wants that? So here they are – your two keys to housebreaking.... [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-housebreaking.html)
 
-![Young man holding his dog](graphics/ind-dog-socializing.gif)
-[Socializing Your German Shepherd](https://www.yourpurebredpuppy.com/training/articles/dog-socializing.html)  
+*Image hint — Young man holding his dog*
+
+[Socializing Your German Shepherd](https://www.yourpurebredpuppy.com/training/articles/dog-socializing.html)
 Socializing means training your German Shepherd to get along politely with strangers and other animals. [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-socializing.html)
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![dog training videos](../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
 
 ## Health and feeding
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 [Dog Books](https://www.yourpurebredpuppy.com/books/)
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![German Shepherd](../dogbreeds/photos2-G/german-shepherd-05.jpg)
+*Image hint — German Shepherd*
 
 Start your German Shepherd puppy off on the right foot by feeding the right food, giving the right vaccinations, finding the right vet, and if you're going to spay or neuter, don't do it too early.
 
 #### Jump down to this list of [German Shepherd Health Problems](#health-problems)
 
-  
-
 #### Or check out my advice for raising a healthy German Shepherd puppy or adult dog:
 
-![Obedience instructor and author Michele Welton](../training/graphics/ind-dog-training-methods1.jpg)
-[Dog Health Care – The Sensible Way](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)  
+*Image hint — Obedience instructor and author Michele Welton*
+
+[Dog Health Care – The Sensible Way](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)
 Read my advice on daily health care so your German Shepherd lives a long, healthy life and seldom needs to see the vet...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)
 
-![numeral 3](../Graphics/number3.png)[3 Best Ways To Feed Your Dog Healthy Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)  
+*Image hint — numeral 3*
+
+[3 Best Ways To Feed Your Dog Healthy Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
 You can dramatically increase your dog's chances of living a long, healthy life by feeding the right food. Cutting right to the chase, the best foods for your German Shepherd are...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
 
-![Real homemade dog food](graphics/ind-feeding.gif)
-[A Quick Way To Make Homemade Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)  
+*Image hint — Real homemade dog food*
+
+[A Quick Way To Make Homemade Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)
 Your German Shepherd will love real chicken, turkey, beef, fish, eggs, yogurt, broccoli.... this is not just "people food" and I'll tell you why...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)
 
-![Dry kibble and canned dog food](graphics/ind-feeding2.gif)
-[5 Best Kibble and Canned Dog Foods](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)  
+*Image hint — Dry kibble and canned dog food*
+
+[5 Best Kibble and Canned Dog Foods](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)
 Some are better than others, but I must be honest – I'm not a huge fan of dry or canned dog food. Here are my concerns...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)
 
-![Information on booster shots for your German Shepherd.](graphics/ind-vaccinations.gif)
-[Vaccinations and Booster Shots: Needed or Not?](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)  
+*Image hint — Information on booster shots for your German Shepherd.*
+
+[Vaccinations and Booster Shots: Needed or Not?](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)
 How many vaccinations does your German Shepherd puppy really need? Does your adult dog need yearly booster shots? The vaccination guidelines have changed! Find out what some vets aren't telling you...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)
 
-![Information on spaying](graphics/ind-female.gif)
-[Spaying Your Female Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)  
+*Image hint — Information on spaying*
+
+[Spaying Your Female Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)
 Should your female German Shepherd be spayed? Current research says, "The AGE at which you spay can be vitally important to your dog's future health." So what's the best age?  [[read more]](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)
 
-![Information on neutering your male dog.](graphics/ind-male.gif)
-[Neutering Your Male Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)  
+*Image hint — Information on neutering your male dog.*
+
+[Neutering Your Male Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)
 Have you been told that you **must** neuter your male German Shepherd? Current research shows that the issue is not so simple. Pet owners are not being told about some risks associated with neutering male dogs, especially neutering too early...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)
 
-![Information on choosing the best vet](graphics/ind-vets.gif)
-[Make Sure Your Vet is the Best!](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)  
+*Image hint — Information on choosing the best vet*
+
+[Make Sure Your Vet is the Best!](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)
 Is your current veterinarian really the best choice for your dog? Here's how to tell...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)
 
-![Assisi Loop](graphics/ind-assisi.jpg)
-[Assisi Loop Review](https://www.yourpurebredpuppy.com/health/articles/assisi-loop-review.html)  
+*Image hint — Assisi Loop*
+
+[Assisi Loop Review](https://www.yourpurebredpuppy.com/health/articles/assisi-loop-review.html)
 Does your German Shepherd suffer from arthritis, hip dysplasia, disk disease, colitis? My honest review of a veterinary device you can use at home to reduce inflammation and pain.  [[read more]](https://www.yourpurebredpuppy.com/health/articles/assisi-loop-review.html)
 
 [Read my German Shepherd Review →](https://www.yourpurebredpuppy.com/reviews/germanshepherds.html)
 
-![German Shepherd dog breed](../dogbreeds/photos2-G/german-shepherd-14.jpg)
+*Image hint — German Shepherd dog breed*
 
 ## Complete list of German Shepherd health problems
 
@@ -720,31 +696,6 @@ Sigh. I love this breed and hate to see them suffering.
 ### Preventing health problems
 
 Some health problems are inherited. For example, if both parents of your German Shepherd have certificates proving they were tested and cleared of hip dysplasia, elbow dysplasia, heart disease, and degenerative myelopathy, your German Shepherd has less risk of developing those conditions.
-
-[![Dog feeding and health book by Michele Welton](../books/covers/11T-110.jpg)](https://www.yourpurebredpuppy.com/books/11T.html) Other health problems can be prevented, or partially prevented, by the ways you raise your dog.
-
-My best-selling book, [11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) shows you how to raise your German Shepherd puppy (or adult dog) in all the right ways. It will help you be your dog's health care champion!
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
 
 ## Archived source pages
 

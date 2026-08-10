@@ -9,9 +9,9 @@ fetched_at: "2026-08-10T13:14:33+00:00"
 
 # My Honest Assisi Loop Review – Electromagnetic Field Therapy For Dogs
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Chihuahua dog](../../dogbreeds/photos2-C/chihuahua-06a.jpg)
+*Image hint — Chihuahua dog*
 
 Mouse is a 14 and a half year old Chihuahua with a neurological disease and disk disease. I used the Assisi Loop device to try to help her inflammation and pain.
 
@@ -38,7 +38,7 @@ A good treatment program....but syringomyelia is progressive, so I kept research
 
 That's when I discovered a medical device called the [Assisi Loop](https://www.assisianimalhealth.com).
 
-![Assisi Loop](../graphics/assisi-loop.jpg)
+*Image hint — Assisi Loop*
 
 ## The Assisi Loop
 
@@ -64,11 +64,9 @@ You can google it yourself. A good phrase to use is
 
 PEMF therapy studies
 
-  
-
 ### In a nutshell, here is how the Assisi Loop works.
 
-![electromagnetic field coverage](../graphics/assisi-field.jpg)
+*Image hint — electromagnetic field coverage*
 
 On each side of the Loop, the electromagnetic field extends 2/3 the diameter of the Loop.
 
@@ -87,7 +85,7 @@ The discovery of **nitric oxide's** role in promoting healing was awarded the No
 
 ### Here is how we used the Assisi Loop with Mouse
 
-![Assisi Loop PEMF treatment session](../graphics/assisi-loop-treatment1.jpg)
+*Image hint — Assisi Loop PEMF treatment session*
 
 Mouse just sleeps through her treatments.
 
@@ -99,16 +97,16 @@ My husband (Mouse's Good Daddy) was actually the one who did her treatments.
 4. Assisi recommends starting with **3-4 sessions per day** for a couple of weeks. As healing takes place, your vet may decide you can drop to 1-2 treatments per day for awhile, before phasing it out entirely. Chronic conditions may benefit from continued treatment once or twice a week, or during a particularly bad flare-up.
 5. Each treatment session is **15 minutes**. The battery automatically turns off after the 15 minutes.
 
-   Here is one negative of the Assisi Loop....  
-     
-   The battery powers a certain number of treatment sessions – then no more. It's not rechargeable nor replaceable, which means when the battery is done, the Loop is done.  
-     
-   Assisi says you get at least 150 treatment sessions from a battery. We got 225 sessions from ours.  
-     
-   Now, depending on your dog's health issue, when the battery runs out she might be healed and need no more treatments....great!  
-     
-   But if she has a chronic or degenerative condition such as arthritis or disk disease, she may need some ongoing treatment and you would need to purchase another one. A Loop costs around $300, including shipping.  
-     
+   Here is one negative of the Assisi Loop....
+
+   The battery powers a certain number of treatment sessions – then no more. It's not rechargeable nor replaceable, which means when the battery is done, the Loop is done.
+
+   Assisi says you get at least 150 treatment sessions from a battery. We got 225 sessions from ours.
+
+   Now, depending on your dog's health issue, when the battery runs out she might be healed and need no more treatments....great!
+
+   But if she has a chronic or degenerative condition such as arthritis or disk disease, she may need some ongoing treatment and you would need to purchase another one. A Loop costs around $300, including shipping.
+
    Some good news....since the Loop is veterinary-prescribed, many pet insurance programs will cover it. If you have pet insurance, definitely call and ask!
 
 ### Is the Assisi Loop the only electromagnetic device available?
@@ -117,7 +115,7 @@ No, I found other devices claiming to do the same thing as the Assisi Loop – m
 
 But they all deliver lower doses of the PEMF signal. Or signals that aren't pulsed. Or signals that aren't targeted specifically to those essential nitric oxide channels.
 
-![Assisi Loop PEMF treatment session](../graphics/assisi-loop-treatment2.jpg)
+*Image hint — Assisi Loop PEMF treatment session*
 
 Mouse sleeping on her daddy's lap.
 
@@ -139,8 +137,8 @@ So you can rest assured that I am writing exactly what happened after trying thi
 
 When I was researching potential new treatments, I was actually looking for a treatment for a DIFFERENT health issue. Poor little Mouse had just torn the cranial cruciate ligament (CCL) in the knee of her right rear leg. Sometimes it's called an ACL rupture. Same thing.
 
-The cruciate ligament holds the bones in the knee in proper alignment so the knee joint works. There's the thigh bone (femur) and the shin bone (tibia), with a couple of ligaments between them, holding them closely together.  
-  
+The cruciate ligament holds the bones in the knee in proper alignment so the knee joint works. There's the thigh bone (femur) and the shin bone (tibia), with a couple of ligaments between them, holding them closely together.
+
 When a ligament is torn, the connection between the two bones becomes looser. With each step, the bones slide forward and backward, grating against each other. Ouch! Inflammation, pain, limping.
 
 With two weak front legs from her syringomyelia, and now an injured rear leg, Mouse had to shift most of her weight to her only remaining good leg.
@@ -168,8 +166,6 @@ Some owners add a custom-made polypropylene knee brace. A custom brace lends sup
 
 It takes a long time for scar tissue to form, from several months to a full year. Sadly, some dogs (mostly over 30 pounds) don't respond to conservative management and then surgery is your only other option. Unfortunately, a surprisingly high percentage of dogs don't respond well to surgery, either.
 
-  
-
 ### So.....what about the Assisi Loop? Could it help heal a cruciate ligament rupture?
 
 At first we thought yes. The Assisi people thought so, too. But then.....
@@ -178,8 +174,8 @@ I learned from multiple medical sites that a pulsed electromagnetic field could 
 
 Now, for most health conditions, that is a very good thing! Scar tissue is tough and fibrous and when too much builds up, it restricts flexibility. So for conditions like arthritis, disk disease, skin wounds, etc., helping scar tissue turn into normal tissue is a great benefit.
 
-But maybe not so great for a CCL tear  
-where strong scar tissue is required  
+But maybe not so great for a CCL tear
+where strong scar tissue is required
 for holding canine knee bones together.
 
 We spoke with a Ph.D. consultant at Assisi. After pondering the issue, he said the following (bold italics are mine):
@@ -202,47 +198,12 @@ But we DID try it for Mouse's disk disease and syringomyelia. The Assisi people 
 
 **Summary:** After 8 weeks, no improvement. The Loop would probably do better with a different dog or with different health issues (especially arthritis or other conditions or injuries that include inflammation or pain). Sadly, it did not work for Mouse.
 
-  
+*Image hint — book cover*
 
-[![book cover](../../books/covers/11T-110.jpg)](https://www.yourpurebredpuppy.com/books/11T.html)If you want a big head start on learning how to provide the best daily care for your dog, start by reading my book, 11 Things You Must Do Right To Keep Your Dog Healthy and Happy.  
-  
-All the specific details you need to know about the best dog foods.... how to prepare healthy meals.... the right (and wrong) vaccinations.... preventing fleas, ticks, and heartworm.... healing or improving current health issues.... avoiding known causes of diseases.... increasing your dog's lifespan....  
-  
+[book cover](https://www.yourpurebredpuppy.com/books/11T.html)
+
+If you want a big head start on learning how to provide the best daily care for your dog, start by reading my book, 11 Things You Must Do Right To Keep Your Dog Healthy and Happy.
+
+All the specific details you need to know about the best dog foods.... how to prepare healthy meals.... the right (and wrong) vaccinations.... preventing fleas, ticks, and heartworm.... healing or improving current health issues.... avoiding known causes of diseases.... increasing your dog's lifespan....
+
 [11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) is a real eye-opener. Very readable and easy to understand.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-#### Check out my other articles on health & feeding
-
-[Dog Health Care – The Sensible Way](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)
-
-[The Best Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)
-
-[Kibble or Canned Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
-
-[Vaccinations and Booster Shots: Are They Needed?](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)
-
-[Think Your Veterinarian Is Good? Here's How To Tell](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)
-
-[Spaying Your Female Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)
-
-[Neutering Your Male Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

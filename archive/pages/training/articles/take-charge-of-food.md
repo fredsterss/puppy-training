@@ -9,9 +9,9 @@ fetched_at: "2026-08-10T13:30:10+00:00"
 
 # Take Charge of Your Pup's Feeding Routine
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![chocolate lab licking his lips](../graphics/rtp/food-choclab.jpg)
+*Image hint — chocolate lab licking his lips*
 
 At feeding time, don't just casually throw your dog's bowl on the floor. Instead, use this excellent opportunity for building that solid leader-follow relationship you should have with your dog.
 
@@ -39,7 +39,7 @@ Now, WHAT  to feed your puppy is a more complicated question that I address in 
 
 ## A good mealtime routine
 
-![whippet waiting politely for his food bowl](../graphics/rtp/food-whippet.jpg)
+*Image hint — whippet waiting politely for his food bowl*
 
 Structured routines always make dogs feel secure because they can predict what's going to happen next. No worries, no stress.
 
@@ -49,7 +49,11 @@ Structured routines always make dogs feel secure because they can predict what's
 - When he is calm, the bowl is ready to go down. If he already knows how to sit (Chapter 31), have him sit first – another subtle and gentle leadership thing. Then.... "Okay!" and place the bowl on the floor, in the same spot every time. "Here's your food."
 - If you have multiple dogs, each should have his own eating spot away from the others. Place the bowls down in the same order each time, saying the dog's name as his bowl goes down. "Buffy... here's your food.  Kelly... food."
 - During mealtime, leaders protect followers. Don't let kids or other pets approach a dog who is eating. If one of your dogs is not well-behaved enough to obey this rule, he should be dragging his leash so you can get hold of him. If necessary, feed the dogs in separate crates or separate rooms. Stealing food is completely unacceptable.
-- ![Welsh Terrier](../graphics/rtp/puppy-respect_html_m36758480.jpg)If a pup walks away from his bowl, pick it up; if there is still food left, make a mental or written note to monitor for any other symptoms that might suggest illness. After 10 minutes, all bowls, finished or not, should be picked up to avoid picky behavior or food guarding.
+-
+
+    *Image hint — Welsh Terrier*
+
+    If a pup walks away from his bowl, pick it up; if there is still food left, make a mental or written note to monitor for any other symptoms that might suggest illness. After 10 minutes, all bowls, finished or not, should be picked up to avoid picky behavior or food guarding.
 
 The final part of the routine is a potty break immediately after every meal. If you're still housebreaking, take the pup out on leash. If he's already 100%  housebroken and eliminates reliably when you send him out himself, that's fine.
 
@@ -61,7 +65,7 @@ No scheduled mealtimes? You leave kibble down all day?
 
 Oops, that's not a good idea. You shouldn't even leave food down for an hour, let alone all day.
 
-![dog uninterested in food left down all the time](../graphics/rtp/food-asleep.jpg)
+*Image hint — dog uninterested in food left down all the time*
 
 #### Here are 5 reasons "free feeding" is not a good idea:
 
@@ -75,7 +79,7 @@ Scheduled, controlled feeding reinforces the subtle leader-follower relationship
 
 ### Should you pick up your pup's food bowl while he's eating, to teach him that you can take his food away?
 
-![dog staring into his bowl](../graphics/rtp/food-whitebowl.jpg)
+*Image hint — dog staring into his bowl*
 
 On this issue, my fellow trainers are divided.
 
@@ -97,7 +101,11 @@ I do this only once every couple of months, no more. This positive technique tur
 If you approach your pup while he's eating and he...
 
 - stops eating and stares fixedly at you
-- ![dog guarding food](../graphics/rtp/puppy-respect_html_6a62c145.jpg)or drops his head close to his bowl and freezes his body
+-
+
+    *Image hint — dog guarding food*
+
+    or drops his head close to his bowl and freezes his body
 - or braces his front legs on either side of the bowl as though claiming it
 - or maneuvers his body so it's between you and his bowl, making it more difficult for you to reach
 - or curls his lip or growls
@@ -110,7 +118,9 @@ If your pup is large or if he has already snapped at someone, you should call a 
 
 Start immediately working through my training book: [Respect Training for Puppies (2-18 months old)](https://www.yourpurebredpuppy.com/books/RTP.html). The pup should not be allowed on your bed or furniture. He should not be allowed to demand petting. He should *Wait* for your permission before going through any door or gate. Give only one toy, but take even that away if he makes any attempt to guard it.
 
-![French Bulldog](../graphics/rtp/puppy-respect_html_718e04e.jpg)Feed the pup in his crate. Put the food in first, then move well away from the crate and send the pup in. When he's done, call the pup out and make sure he's well away from the crate before you remove the bowl.
+*Image hint — French Bulldog*
+
+Feed the pup in his crate. Put the food in first, then move well away from the crate and send the pup in. When he's done, call the pup out and make sure he's well away from the crate before you remove the bowl.
 
 Always think *safety.*
 
@@ -121,30 +131,3 @@ If you do all that but see no improvement, I strongly urge you to find a local b
 This is a serious issue. Many dogs get dropped off at shelters or offered *free to good home* because they're resource guarders. Many biting dogs started out as resource guarders of food or toys or sleeping spots. Some dogs even view their owner's lap as a resource to be guarded against all comers (animal or human!)
 
 P.S.... I would not allow a child around a dog who is a resource guarder.
-
-My [![book cover](../../books/covers/RTP-110.jpg)training program](https://www.yourpurebredpuppy.com/books/RTP.html) is for puppies 2 to 18 months old. It explains, step by step:
-
-- How to establish good patterns and routines that govern everything your pup does.
-- How to teach your pup to be calm and to look to you for guidance, direction, and permission.
-- How to make yourself important – the most important thing – in your puppy’s life. How to show your pup the clear, black-and-white rules and routines he is to follow. And how to make sure he does.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

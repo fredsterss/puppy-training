@@ -9,9 +9,9 @@ fetched_at: "2026-08-10T13:13:56+00:00"
 
 # The Truth About Mixed Breed Dogs
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![mixed breed dog](../../dogbreeds/photos-MNOP/mixedbreeddogs9-large.jpg)
+*Image hint — mixed breed dog*
 
 Would this lovely mixed breed dog be a good match for you?
 
@@ -27,12 +27,14 @@ Hence my three articles:
 
 [The Truth About Crossbred Dogs](https://www.yourpurebredpuppy.com/buying/articles/crossbred-dogs.html)
 
-and the article you're reading right now:  
+and the article you're reading right now:
 **The Truth About Mixed Breed Dogs**
 
 ## The most common question people ask me about mixed breed dogs is....
 
-![question mark](../../Graphics/question.gif)"Can you look at a mixed breed dog and tell me which breeds he's a mix of?"
+*Image hint — question mark*
+
+"Can you look at a mixed breed dog and tell me which breeds he's a mix of?"
 
 Unfortunately the answer is "No."
 
@@ -49,7 +51,7 @@ Simply by looking at him, there's no way to tell which of those genes and traits
 
 People who look at a mixed breed dog, and then based on appearance or "how the dog acts", declare which breed's genes are inside that dog, are simply guessing. There are too many possible breed- and gene-combinations.
 
-![mixed breed dog](../../dogbreeds/photos-MNOP/mixedbreeddogs400.jpg)
+*Image hint — mixed breed dog*
 
 Mixed breed dogs are sometimes called mutts or mongrels. Their uniqueness makes them truly special!
 
@@ -79,35 +81,39 @@ Finally, since your puppy's ancestors include several different breeds, many of 
 
 To paraphrase Forrest Gump, "A mixed breed puppy is like a box of chocolates. You never know what you're gonna get."
 
-  
-
 Mixed breed dogs do "tend" to have moderate temperaments
 
-![Smiley face](../../Graphics/smileygood.gif)The extremes of temperament and behavior often seen in purebreds are less common in mixed breeds. This is because many purebreds were specifically bred to be very energetic, or very independent, or to have strong chasing or barking or digging instincts. These traits helped the breed perform his work (herding, hunting, guarding, and so on).
+*Image hint — Smiley face*
+
+The extremes of temperament and behavior often seen in purebreds are less common in mixed breeds. This is because many purebreds were specifically bred to be very energetic, or very independent, or to have strong chasing or barking or digging instincts. These traits helped the breed perform his work (herding, hunting, guarding, and so on).
 
 Whereas in mixed breeds, extreme temperaments and behaviors are by happenstance rather than deliberate design.
 
 In general, the temperament and behavior of a mixed breed *tends* to be more middle-of-the-road. They are often more flexible and may adjust to a greater variety of households and lifestyles.
 
-![Frowning face](../../Graphics/smileybad.gif)Potential negative: A mixed breed is not the best choice if you want a dog with specific skills, such as herding sheep, or hunting pheasants or rabbits. *Doing a specific type of work* is where purebreds (and some specific crossbreeds) excel.
+*Image hint — Frowning face*
 
-  
+Potential negative: A mixed breed is not the best choice if you want a dog with specific skills, such as herding sheep, or hunting pheasants or rabbits. *Doing a specific type of work* is where purebreds (and some specific crossbreeds) excel.
 
 Mixed breed dogs tend to be healthier
 
-![Smiley face](../../Graphics/smileygood.gif)Most mixed breed dogs have good **genetic diversity.** When parents are unrelated, their genes include a little of this and a little of that. Biologists tell us this is good for health. In fact, some serious health problems only occur when the same genes from related parents are paired up in their puppies. That happens a lot when you breed two purebreds together.
+*Image hint — Smiley face*
 
-![Smiley face](../../Graphics/smileygood.gif)Mother Nature tends to make dogs *moderately sized* (about 30 to 60 pounds) with natural builds. Mixed breeds are seldom 5 pounds or 120 pounds. They seldom have smooshed-in faces like Pugs. Or bodies as long as a Dachshund or as barrel-shaped as a Bulldog. All of these unnatural sizes and shapes and physical features are connected with serious health problems.
+Most mixed breed dogs have good **genetic diversity.** When parents are unrelated, their genes include a little of this and a little of that. Biologists tell us this is good for health. In fact, some serious health problems only occur when the same genes from related parents are paired up in their puppies. That happens a lot when you breed two purebreds together.
 
-![Frowning face](../../Graphics/smileybad.gif)
+*Image hint — Smiley face*
+
+Mother Nature tends to make dogs *moderately sized* (about 30 to 60 pounds) with natural builds. Mixed breeds are seldom 5 pounds or 120 pounds. They seldom have smooshed-in faces like Pugs. Or bodies as long as a Dachshund or as barrel-shaped as a Bulldog. All of these unnatural sizes and shapes and physical features are connected with serious health problems.
+
+*Image hint — Frowning face*
+
 Potential negative: The parents of a mixed breed puppy have not been *medically screened* for inherited health problems. If you're looking for a **pure**bred or **cross**bred dog and you search very carefully, you can find good breeders who have done the proper tests on the parents. Whereas with a mixed breed dog, you have to put your faith in his genetic diversity, rather than in medical testing.
 
-![Frowning face](../../Graphics/smileybad.gif)
+*Image hint — Frowning face*
+
 Potential negative: Some mixed breed dogs are blends of purebreds that share similar health problems. This means the same bad genes *could* easily come over from both parents and pair up in their puppies.
 
 For example, suppose a mixed breed puppy has Cocker Spaniel, Poodle, and Bichon Frise genes. Although he has much more genetic diversity than a purebred Cocker or Poodle, or Bichon, he could still inherit hip problems, knee problems, eye diseases, or chronic ear infections – because **all** of those breeds are prone to the same problems.
-
-  
 
 To sum up, a mixed breed dog can be a fine choice...
 
@@ -116,7 +122,9 @@ To sum up, a mixed breed dog can be a fine choice...
 3. if you don't want to pay a high purchase price.
 4. and if you like the idea of saving a life that no one else may want.
 
-[![book cover](../../books/covers/DQ-110.jpg)](https://www.yourpurebredpuppy.com/books/DQ.html)
+*Image hint — book cover*
+
+[book cover](https://www.yourpurebredpuppy.com/books/DQ.html)
 
 In my book, ***Dog Quest: Find The Dog Of Your Dreams***, I'll show you how to find a nice mixed breed dog and how to determine whether he might make a good family pet for you.
 
@@ -130,56 +138,3 @@ I'll explain:
 - The adoption contract – what to expect, and which terms to watch out for
 
 Crossbred dogs and purebred dogs are covered just as thoroughly. [Dog Quest](https://www.yourpurebredpuppy.com/books/DQ.html) is your step-by-step guide to choosing and finding the right dog for your family.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-#### Check out my other articles on finding a good dog
-
-[Pros and Cons of Owning a Dog](https://www.yourpurebredpuppy.com/buying/articles/should-you-get-a-dog.html)
-
-[Do Dogs Need a Fenced Yard?](https://www.yourpurebredpuppy.com/buying/articles/do-dogs-need-fenced-yard.html)
-
-[Should You Get a Dog If You Work All Day?](https://www.yourpurebredpuppy.com/buying/articles/dog-if-you-work-all-day.html)
-
-[Puppies vs Adult Dogs](https://www.yourpurebredpuppy.com/buying/articles/puppy-or-adult-dog.html)
-
-[The Truth About Purebred Dogs](https://www.yourpurebredpuppy.com/buying/articles/purebred-dogs.html)
-
-[The Truth About Crossbred Dogs](https://www.yourpurebredpuppy.com/buying/articles/crossbred-dogs.html)
-
-[The Truth About Mixed Breed Dogs](https://www.yourpurebredpuppy.com/buying/articles/mixed-breed-dogs.html)
-
-[Which Dog Breed Characteristics Are Right For You?](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-traits.html)
-
-[Male Dogs vs Female Dogs: Which One Makes a Better Pet?](https://www.yourpurebredpuppy.com/buying/articles/male-female-dogs.html)
-
-[Adopting a Dog From The Animal Shelter](https://www.yourpurebredpuppy.com/buying/articles/animal-shelters.html)
-
-[Adopting From a Dog Breed Rescue Group](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-rescue.html)
-
-[How To Find a Good Dog Breeder](https://www.yourpurebredpuppy.com/buying/articles/dog-breeders.html)
-
-["AKC Registered Puppies" – Are AKC Papers Important?](https://www.yourpurebredpuppy.com/buying/articles/AKC-registered-puppies.html)
-
-[How To Choose a Good Puppy](https://www.yourpurebredpuppy.com/buying/articles/how-to-choose-a-puppy.html)
-
-[Pet Shop Puppies: Buying a Puppy From a Pet Store](https://www.yourpurebredpuppy.com/buying/articles/petshops-and-pet-stores.html)
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

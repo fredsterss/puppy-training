@@ -9,9 +9,9 @@ fetched_at: "2026-08-10T13:29:40+00:00"
 
 # Go To Your Bed and Stay There
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![dachshund on dog bed](../graphics/rtp/place-dachshund.jpg)
+*Image hint — dachshund on dog bed*
 
 Smooth Miniature Dachshund, red merle color, resting comfortably on her bed.
 
@@ -39,11 +39,17 @@ Or you can have different beds in different rooms.
 
 ## Place is one of the easiest commands to teach.
 
-![K and H brand elevated platform bed](../graphics/rtp/puppy-respect_html_m5b074f44.jpg)For most pups, the best kind of bed for teaching *Place* is an elevated bed. Either a hammock-style bed, like this one by K&H Products....
+*Image hint — K and H brand elevated platform bed*
 
-![Petfusion dog bed](../graphics/rtp/puppy-respect_html_m5c955278.jpg)....or a raised bed like this Petfusion® memory foam. I like an elevated bed because it's so obvious when the dog is ON it, and when he's not.
+For most pups, the best kind of bed for teaching *Place* is an elevated bed. Either a hammock-style bed, like this one by K&H Products....
 
-![sheepskin bolstered bed](../graphics/rtp/puppy-respect_html_e377a9.jpg)Or you can use a flat bed with rounded bolsters around the edge to help define the bed. Very small pups often prefer it because it's right on the ground, so they don't need to hop up onto it.
+*Image hint — Petfusion dog bed*
+
+....or a raised bed like this Petfusion® memory foam. I like an elevated bed because it's so obvious when the dog is ON it, and when he's not.
+
+*Image hint — sheepskin bolstered bed*
+
+Or you can use a flat bed with rounded bolsters around the edge to help define the bed. Very small pups often prefer it because it's right on the ground, so they don't need to hop up onto it.
 
 To start teaching *Place,* position the bed in the middle of a room (rather than in a corner or against a wall) so you and your pup can easily walk around it. Or practice in your yard.
 
@@ -67,7 +73,9 @@ At first, nothing. Simply walk him on, praise/treat, say "Okay", and walk him of
 
 When you think he's ready to stay longer, say "Yes or "Good" when he gets on the bed and give him the treat. But instead of saying "Okay" and walking away with him, just stand there.
 
-![gray Schnauzer](../graphics/rtp/puppy-respect_html_m78834675.jpg)If he tries to step off the bed, use the leash to gently stop him. Then loosen it again. Check him gently with the leash, then loosen it, as many times as necessary until he shows understanding that he's supposed to stay there.
+*Image hint — gray Schnauzer*
+
+If he tries to step off the bed, use the leash to gently stop him. Then loosen it again. Check him gently with the leash, then loosen it, as many times as necessary until he shows understanding that he's supposed to stay there.
 
 When you're first teaching this exercise, you should only ask your dog to stay on the bed for a few seconds. Then say, "Okay" and walk him off. He must wait for your "Okay" before stepping off.
 
@@ -107,19 +115,25 @@ Eventually you'll be able to leave the room and return to find him still on his 
 
 I don't start teaching *Place*  until a pup is 10 or 12 weeks old, and then I only have him stay on his bed for a minute or two. I push that up to 15-30 minutes for pups 3 to 6 months old. Pups over 6 months can stay on their bed for an hour.
 
-![red Doberman](../graphics/rtp/puppy-respect_html_51e54f0c.jpg)If you're laughing out loud at the idea that your rambunctious 8-month-old pup could hang around on his bed for an hour.... then he is the perfect candidate for learning how.
+*Image hint — red Doberman*
+
+If you're laughing out loud at the idea that your rambunctious 8-month-old pup could hang around on his bed for an hour.... then he is the perfect candidate for learning how.
 
 Because any pup who feels secure and stress-free is perfectly able to relax for an hour or two on a comfy bed in a comfy house with his trusted leader close by. If your dog "can't", that's powerful evidence that he is feeling too anxious to be truly secure and stress-free.
 
 When you teach him how to relax and be calm, his stress levels will go way down and his contentment levels will go way up. *Place*  is the perfect lesson to make that happen.
 
-![cartoon dog sleeping on his back](../graphics/rtp/puppy-respect_html_m4f1759c0.png)In fact, it's often easier  for a dog to stay on his bed for an hour than to stay for just a few minutes.
+*Image hint — cartoon dog sleeping on his back*
+
+In fact, it's often easier  for a dog to stay on his bed for an hour than to stay for just a few minutes.
 
 You see, if he learns that he only needs to wait 20 seconds and then you'll let him up, he'll be tensed up the whole time. He'll stare at you, shift restlessly, and tighten his muscles whenever you look in his direction. He's waiting for the slightest sign that he can explode off his bed and be free, free, free!
 
 Not very calming or meditative, is it?
 
-![dog snoring](../graphics/rtp/puppy-respect_html_m2350606e.png)However, over an hour, most pups relax and go to sleep.
+*Image hint — dog snoring*
+
+However, over an hour, most pups relax and go to sleep.
 
 But let's say your pup doesn't go to sleep, at least not right away.
 
@@ -145,7 +159,9 @@ In any case, be generous but when he truly seems off to you, use the leash to sc
 
 #### What if he rolls on his back with all four feet in the air?
 
-![dog snoring on back](../graphics/rtp/puppy-respect_html_m5dcac0b6.png)Ha-ha! That's fine. All he has to do is stay on the bed, quietly and peacefully. That looks pretty quiet/peaceful to me!
+*Image hint — dog snoring on back*
+
+Ha-ha! That's fine. All he has to do is stay on the bed, quietly and peacefully. That looks pretty quiet/peaceful to me!
 
 Remember: your pup doesn't need to lie down on the bed. He can if he wants to, but he can also sit or stand or move around. He simply can't get off the bed. No barking either.
 
@@ -155,7 +171,7 @@ Only use *Place*  when you're sure you will remember  to keep a close eye on y
 
 Otherwise, when he's first learning this exercise, he'll probably walk off the bed while you're busy elsewhere. That's not good for your leader-follower relationship. Once you've put him on his *Place,*  he needs to wait for YOU to release him.
 
-![belgian sheepdog pup, groenendael variety](../graphics/rtp/place-belgian.jpg "Belgian Shepherd/Groenendael puppy")
+*Image hint — belgian sheepdog pup, groenendael variety*
 
 ## Using Place to "sound-proof" your puppy
 
@@ -173,7 +189,9 @@ Owners who soothe and pet and cuddle a worried dog aren't helping the dog, but a
 
 I recommend using *Place*  to prevent sound sensitivity from developing in your dog. Or if you already have a pup with this problem, you can use *Place*  to help the pup overcome it.
 
-![large white dog](../graphics/rtp/puppy-respect_html_m695dfa52.jpg)Get hold of a sound effects CD such as *Calm Pet: Desensitizing Sounds*  or *Sounds for Hounds*.  Or find free sound effects on YouTube. Try to include all the sounds I mentioned earlier.
+*Image hint — large white dog*
+
+Get hold of a sound effects CD such as *Calm Pet: Desensitizing Sounds*  or *Sounds for Hounds*.  Or find free sound effects on YouTube. Try to include all the sounds I mentioned earlier.
 
 Play these sounds for 10-15 minutes a day while your puppy is on his *Place.* If the pup ignores the sounds, walk over a couple of times and give him a treat. This helps him associate hearing and ignoring sounds  with rewards.
 
@@ -189,37 +207,10 @@ If he keeps getting off and running into another room, move the bed near a heavy
 
 What you're doing is removing his opportunities to practice poor coping skills – running, hiding, pacing, or coming to you for frantic cuddling. Allowing him to choose any of those options only makes the situation grow progressively worse.
 
-![black shepherd](../graphics/rtp/place-shepherd.jpg)
+*Image hint — black shepherd*
 
 When you remove those bad options by requiring him to stay on the bed, he might still cower and shake for quite some time. But as he focuses more on his responsibility to stay on the bed and less on the becoming-more-familiar sounds, he will work through his nervousness and develop much better coping skills.
 
 Yes, we're stressing the pup. But imagine the stress he would experience throughout his life whenever something frightened him and he had no coping skills other than running away.
 
 We don't help our dogs by avoiding all stress in their lives. We help them by exposing them to stress in a safe, controlled environment and teaching them to cope calmly with it. Dogs with "issues" can't grow or change unless they're nudged out of their comfort zone. Working through something they didn't think they could do builds confidence and is satisfying and empowering to dogs. To us, too.
-
-My [![book cover](../../books/covers/RTP-110.jpg)training program](https://www.yourpurebredpuppy.com/books/RTP.html) is for puppies 2 to 18 months old. It explains, step by step:
-
-- How to establish good patterns and routines that govern everything your pup does.
-- How to teach your pup to be calm and to look to you for guidance, direction, and permission.
-- How to make yourself important – the most important thing – in your puppy’s life. How to show your pup the clear, black-and-white rules and routines he is to follow. And how to make sure he does.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

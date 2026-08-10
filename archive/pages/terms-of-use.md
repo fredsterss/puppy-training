@@ -28,31 +28,21 @@ The term "we" or "us" or "our" refers to Your Purebred Puppy, yourpurebredpuppy.
 
 By using our site, you are agreeing to comply with and be bound by the terms of use of this agreement and all revisions thereof. We may revise these terms at any time by updating this page. The revised terms will take effect when they are posted. We encourage you to review this page whenever you revisit the site.
 
-  
-
 ### Disclaimer
 
 We make no guarantee or warranty that our information is accurate, legal, reliable, or safe. Always consult other professionals before following our advice. We are not responsible for your use of information contained in this site.
-
-  
 
 ### Copyrighted Material
 
 The content, organization, graphics, design, and other matters related to this site are protected under applicable copyrights, trademarks, and other proprietary (including but not limited to intellectual property) rights. You may not copy, distribute, use, or post on any another website or in any other venue any part of this site. You do not acquire ownership rights to any content viewed through this site. Some of the content on this site is the copyrighted work of third parties.
 
-  
-
 ### Limited License and Permitted Uses
 
 You are granted a non-exclusive, non-transferable, revocable license (a) to use this site strictly in accordance with this agreement; (b) to use this site solely for internal, personal, non-commercial purposes; and (c) to print out discrete information from this site solely for internal, personal, non-commercial purposes and provided that you maintain all copyright and other policies contained therein. No printed or electronic version of any part of the site may be used by you in any litigation or arbitration matter whatsoever under any circumstances.
 
-  
-
 ### Links From This Site
 
 This site contains links to other web sites or resources, including breeders who sell dogs and merchants who sell products or services. The inclusion of any link on our site does not imply that we endorse the linked site. We are not responsible or liable for anything found on or available from linked sites. Your dealings with any of these sites or resources are solely between you and the other party. You agree not to hold us liable for any loss, damage, cost, or expense incurred as the result of any such dealings. You use linked sites at your own risk.
-
-  
 
 ### Disclaimer of Warranties
 
@@ -64,19 +54,13 @@ WE ALSO MAKE NO WARRANTY THAT THE SITE WILL MEET YOUR REQUIREMENTS NOR DO WE MAK
 
 NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM US SHALL CREATE ANY WARRANTY NOT EXPRESSLY MADE HEREIN.
 
-  
-
 ### Indemnity
 
 You agree to defend, indemnify, and hold harmless Petbridge LLC, Your Purebred Puppy, yourpurebredpuppy.com, and Michele Welton from and against any claims, actions or demands, including without limitation reasonable legal and accounting fees, made by any third party due to or resulting from your use of the site or the site content.
 
-  
-
 ### Limitation of Liability
 
 OUR AGGREGATE LIABILITY TO YOU FOR ALL CLAIMS ARISING OUT OF OR IN CONNECTION WITH THE SITE OR THE SITE CONTENT IS LIMITED TO ONE HUNDRED DOLLARS ($100.00). NEITHER WE NOR ANY OTHER PARTY INVOLVED IN CREATING, PRODUCING, OR DELIVERING THE SITE SHALL BE LIABLE FOR ANY INCIDENTAL, SPECIAL, CONSEQUENTIAL OR INDIRECT DAMAGES RESULTING FROM YOUR ACCESS TO, OR USE OF, OR INABILITY TO USE THE SITE AND THE SITE CONTENT, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE) OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT WE KNOW OF THE POSSIBILITY OF SUCH DAMAGE. You acknowledge, accept, and agree that without these limitations we could not provide free access to the site. Because some jurisdictions do not allow the exclusion or limitation of liability for consequential or incidental damages, the above limitation or exclusion may not apply to you.
-
-  
 
 ### General Provisions
 

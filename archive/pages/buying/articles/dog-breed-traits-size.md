@@ -9,9 +9,8 @@ fetched_at: "2026-08-10T13:13:47+00:00"
 
 # Which Size Dog is Right For You?
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-  
 One of a series of 11 articles on Dog Breed Traits to consider before choosing a dog. See the complete list.  +
 
 [Size](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-traits-size.html)
@@ -44,11 +43,9 @@ James chose a large dog because "it looks like a real man's dog and will protect
 
 Again, you shouldn't choose the size of dog you "want" – you should choose the size of dog you're sure you can provide for.
 
-  
-
 TINY DOGS
 
-![Yorkshire Terrier](../graphics/dog-breed-traits-size-tiny.jpg)
+*Image hint — Yorkshire Terrier*
 
 Toy breeds, like this [Yorkie](https://www.yourpurebredpuppy.com/reviews/yorkshireterriers.html), have many wonderful characteristics, but you need to be aware of the problems that come with their tiny size.
 
@@ -62,7 +59,7 @@ TINY dogs, generally speaking, weigh up to 10 pounds and stand up to 12 inches a
 
 #### Pros of tiny dogs
 
-![Japanese Chin](../graphics/dog-breed-traits-size-tiny4.jpg)
+*Image hint — Japanese Chin*
 
 [Japanese Chin](https://www.yourpurebredpuppy.com/reviews/japanesechin.html)
 
@@ -78,10 +75,9 @@ TINY dogs, generally speaking, weigh up to 10 pounds and stand up to 12 inches a
 
 Many owners acquire tiny dogs when they should NOT.
 
-- **TINY dogs can be hard to keep safe.** They get stepped on, sat on, squeezed too tightly, or hit on the head by a falling object. They jump from your arms or fall off the bed. They choke on things. They're stomped on by a playful larger dog. They wriggle through the railing of an upstairs balcony and plummet to the ground. They squeeze through the narrowest fence opening and escape. They can even be snatched up by a great horned owl.  
-    
+- **TINY dogs can be hard to keep safe.** They get stepped on, sat on, squeezed too tightly, or hit on the head by a falling object. They jump from your arms or fall off the bed. They choke on things. They're stomped on by a playful larger dog. They wriggle through the railing of an upstairs balcony and plummet to the ground. They squeeze through the narrowest fence opening and escape. They can even be snatched up by a great horned owl.
 
-  ![Chihuahua peering under fence](../graphics/dog-breed-traits-size-tiny3.jpg)
+*Image hint — Chihuahua peering under fence*
 
   You would be astonished at the narrow gaps that a tiny dog can squeeze through.
 
@@ -93,7 +89,7 @@ Many owners acquire tiny dogs when they should NOT.
 
   Housebreaking a tiny dog is best done with a crate or pen. Either you commit to taking your tiny dog outside every hour or two (can be tough when the weather's bad, as tiny dogs dislike bad weather), or else you provide a litterbox inside his crate or pen. Some tiny dogs don't become housebroken for many months, and some are never fully housebroken.
 
-  ![Papillon housebreaking](../graphics/dog-breed-traits-size-tiny2.jpg)
+*Image hint — Papillon housebreaking*
 
   On the plus side, Papillons (pic above) and Toy Poodles are the quickest tiny breeds to pick up the concepts of housebreaking. But even in these bright breeds, youngsters are still physically hampered by their tiny organs.
 
@@ -103,7 +99,7 @@ Are you sure you can keep a tiny dog safe? Can you commit to a firm housebreakin
 
 SMALL DOGS
 
-![Bichon Frise](../graphics/dog-breed-traits-size-small.jpg)
+*Image hint — Bichon Frise*
 
 Small breeds, like this [Bichon Frise](https://www.yourpurebredpuppy.com/reviews/bichonfrise.html), are sturdier than tiny breeds, but still need protection from injury.
 
@@ -117,7 +113,7 @@ SMALL dogs, generally speaking, weigh 10-20 pounds and stand 12-15 inches at the
 
 #### Pros of small dogs
 
-![Longhaired Dachshund](../graphics/dog-breed-traits-size-small2.jpg)
+*Image hint — Longhaired Dachshund*
 
 [Dachshunds](https://www.yourpurebredpuppy.com/health/dachshunds.html) make terrific pets, but you need to protect them from damaging their unnaturally long back.
 
@@ -139,7 +135,7 @@ Are you interested in small dogs, but have young kids? Keep reading! I recommend
 
 MIDSIZE DOGS
 
-![Soft Coated Wheaten Terrier](../graphics/dog-breed-traits-size-midsize.jpg)
+*Image hint — Soft Coated Wheaten Terrier*
 
 Midsize dogs, like this [Wheaten Terrier](https://www.yourpurebredpuppy.com/reviews/softcoatedwheatenterriers.html), are larger than small dogs, but smaller than medium dogs. Most midsize breeds are okay with older children who are well-behaved.
 
@@ -155,7 +151,7 @@ MIDSIZE dogs, generally speaking, are between SMALL and MEDIUM, weighing 20-40 p
 
 - MIDSIZE is the smallest size I usually recommend for families with energetic or tough-and-tumble children. Medium and large dogs are even better for children, but most medium and large dogs need a great deal more exercise.
 
-  ![Puggle](../graphics/dog-breed-traits-size-midsize1.jpg)
+*Image hint — Puggle*
 
   Puggle – a midsized cross between a Pug and a Beagle. Loads of shedding!
 - MIDSIZE dogs share most of the pros of small dogs. They don't take up much room. They're easy to feed and clean up after. They're convenient to travel with. And they usually enjoy a good lifespan of 12-15 years.
@@ -168,7 +164,7 @@ MIDSIZE dogs, generally speaking, are between SMALL and MEDIUM, weighing 20-40 p
 
 MEDIUM-SIZE DOGS
 
-![English Springer Spaniel](../graphics/dog-breed-traits-size-medium.jpg)
+*Image hint — English Springer Spaniel*
 
 Although lots of families would like a medium-size dog, like this [English Springer Spaniel](https://www.yourpurebredpuppy.com/reviews/englishspringerspaniels.html), most medium-size purebreds need too much exercise and mental stimulation.
 
@@ -187,7 +183,7 @@ MEDIUM-SIZE dogs, generally speaking, weigh 40-60 pounds and stand 18-22 inches 
 - A pretty good lifespan of 11-13 years. However, [Chinese Shar-Peis](https://www.yourpurebredpuppy.com/health/chinesesharpei.html) can die early from inherited kidney disease, while [Welsh Springer Spaniels](https://www.yourpurebredpuppy.com/health/welshspringerspaniels.html) can die early from a severe form of inherited epilepsy.
 - Easy to housebreak. In this size range, I usually encounter issues only with Basset Hounds and English Bulldogs.
 
-![Keeshond](../graphics/dog-breed-traits-size-medium2.jpg)
+*Image hint — Keeshond*
 
 The [Keeshond](https://www.yourpurebredpuppy.com/reviews/keeshonds.html) is a nice family dog who needs moderate exercise. Also moderate trimming... and lots of brushing. Sheds? YES!
 
@@ -201,7 +197,7 @@ Be careful.... lots of heavy shedders in this size range!
 
 LARGE DOGS
 
-![Golden Retriever](../graphics/dog-breed-traits-size-large.jpg)
+*Image hint — Golden Retriever*
 
 Large breeds, like this Golden Retriever, make excellent family dogs if you have a nice fenced yard where you and your dog can play vigorous games like fetch and hide n' seek. Don't forget long daily walks!
 
@@ -213,7 +209,7 @@ LARGE dogs, generally speaking, weigh 60-90 pounds and stand 22-26 inches at the
 - LARGE crossbreds usually include a Standard Poodle as one of the breeds. You'll see a Standard Poodle crossed with a Labrador Retriever (Labradoodle), Golden Retriever (Goldendoodle), German Shepherd (Shepadoodle), or Bernese Mountain Dog (Bernedoodle). Standard Poodles are used as one parent because they're non-shedding, which balances the heavy shedding of the other breed.
 - LARGE mixed breeds fill animal shelters and rescue groups almost everywhere in our country. DNA tests have shown that many of these large mixed breeds have genes from pit bulls, rottweilers, shepherds, collies, and/or spitzes.
 
-![White Shepherd](../graphics/dog-breed-traits-size-large2.jpg)
+*Image hint — White Shepherd*
 
 [White Shepherds](https://www.yourpurebredpuppy.com/reviews/whiteshepherds.html) are great family dogs as long as you can provide for all their needs.
 
@@ -234,7 +230,7 @@ Bad guys are less willing to break into homes with a large dog.
 - Large dogs require more food and produce more waste.
 - Large dogs are more vulnerable to serious and expensive-to-treat health problems such as joint diseases, heart diseases, and cancer.
 
-![Standard Poodles](../graphics/dog-breed-traits-size-large3.jpg)
+*Image hint — Standard Poodles*
 
 Standard Poodles are nice family dogs when handled calmly and gently. Non-shedding, but need a lot of exercise. Fences need to be high for these athletic jumpers.
 
@@ -257,7 +253,7 @@ But certain large breeds are susceptible to inherited health problems (usually c
 
 GIANT DOGS
 
-![Great Dane](../graphics/dog-breed-traits-size-giant.jpg)
+*Image hint — Great Dane*
 
 GIANT breeds, like this [Great Dane](https://www.yourpurebredpuppy.com/reviews/greatdanes.html), are not simply "bigger" LARGE breeds. Giant breeds have a complex metabolism and very special needs that you must be able to handle if both of you are going to be happy.
 
@@ -278,7 +274,7 @@ Giant dogs, generally speaking, weigh 100+ pounds and/or stand 26+ inches at the
 
   By "messes" I mean not only the amount of waste they excrete, but also the massive destructive chewing when bored, and the slobbering/drooling of some giant breeds.
 
-![Irish Wolfhound](../graphics/dog-breed-traits-size-giant3.jpg)
+*Image hint — Irish Wolfhound*
 
 The life expectancy of an Irish Wolfhound is very short.
 
@@ -296,29 +292,8 @@ Then their bones and joints break down, their heart weakens, or they develop can
 - Typical lifespan of a Dogue de Bordeaux, Newfoundland, or St. Bernard is 8-10 years.
 - Typical lifespan of a Cane Corso, Great Pyrenees, Neapolitan Mastiff, or Scottish Deerhound is 8-11 years.
 
-![Newfoundland](../graphics/dog-breed-traits-size-giant2.jpg)
+*Image hint — Newfoundland*
 
 Newfoundlands look most familiar in black. But they also come in particolor (called landseer) or brown (called bronze). These big guys have mastered the arts of shedding, drooling, and slobbering!
 
 Can you provide the space, control, and patience that GIANT dogs need? Can you pay for their health problems as they mature? Are you prepared for their short lifespan? If not, you might be better off with a LARGE dog.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

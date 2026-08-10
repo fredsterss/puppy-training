@@ -9,7 +9,7 @@ fetched_at: "2026-08-10T13:28:53+00:00"
 
 # How Long Do Dogs Live? (Dog Lifespan)
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
 Typical lifespan of small dogs
 
@@ -29,11 +29,11 @@ Not all small breeds are long-lived. A few small breeds have serious health prob
 
 Most other smallish dogs typically do enjoy a long life. However... they're not necessarily **healthy** throughout their longer life. On the contrary, many small breeds are vulnerable to a long list of health problems. It's just that their particular health problems tend to affect their QUALITY of life, rather than its length.
 
-![question mark](../graphics/lifespan_question.gif)**Is there anything you can do** to help your small dogs live not only a long life, but a healthier  life?
+*Image hint — question mark*
+
+**Is there anything you can do** to help your small dogs live not only a long life, but a healthier  life?
 
 **Yes! [Click here](#books)** to learn about keeping your small dog healthy and longer-lived.
-
-  
 
 Typical lifespan of giant dogs
 
@@ -51,11 +51,11 @@ Giant breeds are elderly at six or seven, and gone by age ten. Not all individua
 - Typical lifespan of a Dogue de Bordeaux, Newfoundland, or St. Bernard is 8-10 years.
 - Typical lifespan of a Cane Corso, Great Pyrenees, Neapolitan Mastiff, or Scottish Deerhound is 8-11 years.
 
-![question mark](../graphics/lifespan_question.gif)**Is there anything you can do** to help your giant dog live a longer, healthier life?
+*Image hint — question mark*
+
+**Is there anything you can do** to help your giant dog live a longer, healthier life?
 
 **Yes! [Click here](#books)** to learn about keeping your giant dog healthier and longer-lived.
-
-  
 
 Typical lifespan of medium to large dogs
 
@@ -81,11 +81,11 @@ In certain medium to large breeds, there are serious inherited health problems t
 - Welsh Springer Spaniel – inherited epilepsy
 - and others
 
-![question mark](../graphics/lifespan_question.gif)**Is there anything you can do** to lengthen the lifespan of medium to large breeds and protect them from some of these health problems?
+*Image hint — question mark*
+
+**Is there anything you can do** to lengthen the lifespan of medium to large breeds and protect them from some of these health problems?
 
 **Yes! See below.**
-
-  
 
 To find a healthy dog and KEEP him healthy. . .
 
@@ -98,24 +98,18 @@ To find a healthy dog and KEEP him healthy. . .
 
 Two of my best dog books can help increase a dog's lifespan.
 
-If you already have your dog, [![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) will help you keep him healthy for a lifetime. **Environmental** health problems can be avoided by raising your dog in all the right ways.
+If you already have your dog,
 
-If you don't yet have your dog, [![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a dog with the best chance of growing up healthy. Many **genetic** health problems can be avoided if you know what to look for before you buy a puppy.
+*Image hint — book cover*
 
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
+[11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html)
 
-#### Check out my other articles on health & feeding
+ will help you keep him healthy for a lifetime. **Environmental** health problems can be avoided by raising your dog in all the right ways.
 
-[Dog Health Care – The Sensible Way](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)
+If you don't yet have your dog,
 
-[The Best Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)
+*Image hint — book cover*
 
-[Kibble or Canned Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
+[Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html)
 
-[Vaccinations and Booster Shots: Are They Needed?](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)
-
-[Think Your Veterinarian Is Good? Here's How To Tell](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)
-
-[Spaying Your Female Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)
-
-[Neutering Your Male Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)
+ will help you find a dog with the best chance of growing up healthy. Many **genetic** health problems can be avoided if you know what to look for before you buy a puppy.

@@ -7,13 +7,11 @@ capture_timestamp: "20180806143047"
 fetched_at: "2026-08-10T13:28:52+00:00"
 ---
 
-![A dog's eyes](../graphics/what-eyes1.jpg)
+*Image hint — A dog's eyes*
 
 # A Practical, Close-Up Look At What a Dog Is Like
 
 By Michele Welton. Copyright © 2000-2018
-
-  
 
 ## What does the world look like to him?
 
@@ -23,7 +21,7 @@ If you crouch down to his eye level, you'll get an idea of his perspective on th
 
 Can your dog see details? Although his vision is fuzzy, he may wag his tail when you smile and drop his tail when you frown, because most dogs are very observant at picking out details in your expression. You may think he is slinking away from your shredded slipper because he feels guilty, but usually he's reacting to your outraged expression and threatening body posture. He knows from past experience, not from any sense of guilt, that this particular facial expression and body posture don't bode well to him.
 
-![A dog's eyes](../graphics/what-eyes3.jpg)
+*Image hint — A dog's eyes*
 
 Your dog's peripheral, sudden-movement vision is far better than yours. Even when he's looking in another direction, he'll suddenly spy the wriggle of a mouse in the grass.
 
@@ -35,7 +33,7 @@ Can he see color or just shades of gray? This is still being debated, but many d
 
 Just as your world is full of sights, his world is full of scents. He relies upon his nose as you rely upon your eyes. He can pick out, from a dozen articles, the single one touched by his owner, just as easily as you can pick out a green ball from a pile of blue ones.
 
-![A dog's nose](../graphics/what-nose.jpg)
+*Image hint — A dog's nose*
 
 He actually creates mental pictures based on smells. When the family car pulls into a campground where he has been before, he will get excited. He can't read the campground sign, but he recognizes the tree and wildlife scents, and from past experience he associates these with a fun-filled time: Oh, boy!
 
@@ -43,7 +41,7 @@ But when you lead him toward the veterinarian's front door, he may balk. He can'
 
 He also recognizes and reacts to your happy "campground" attitude and your nervous "veterinary" attitude.
 
-![A dog's ears](../graphics/what-ears.jpg)
+*Image hint — A dog's ears*
 
 ## What does the world sound like to him?
 
@@ -63,7 +61,7 @@ In the same way, when you're teaching your dog what words mean, you need to use 
 
 This is instrumental in making your dog a full-fledged member of your family. Dogs are sociable animals who like to live with other sociable animals in a group or pack.
 
-![Puppies have pack instincts](../graphics/what-pups.jpg)
+*Image hint — Puppies have pack instincts*
 
 ### Dogs like hierarchies
 
@@ -75,13 +73,11 @@ Pack animals are not unhappy with this structure. On the contrary. Knowing exact
 
 The pack instinct is the main reason dogs wedge themselves into our families. Dogs are born to belong to a pack. When a dog joins your family, even if your family is only yourself, a pack is formed.
 
-![Doberman and his new owner](../graphics/what-pack.jpg)
+*Image hint — Doberman and his new owner*
 
 Oh yes, in his mind, it certainly is, and his instincts compel him to seek out its structure. Who is the leader? Who is the follower?
 
 If you don't establish yourself as the leader, he may take the position himself, because most dogs are not comfortable in a leaderless world.
-
-  
 
 ### When the dog is the leader
 
@@ -97,9 +93,7 @@ Don't all behavioral consultants wish! Dogs want to please the people they respe
 
 They will love you either way, for dogs don't equate love with respect. They love blindly; they respect only those who have earned it. So teaching them to respect you will in no way diminish their love for you, and teaching them to respect you is mandatory if you are to take proper care of them.
 
-  
-
-![Dogs listen to people they respect](../graphics/what-multiperson.jpg)
+*Image hint — Dogs listen to people they respect*
 
 ### Multi-owner households
 
@@ -111,9 +105,7 @@ Dogs often seem to pester guests who don't like them, or who are afraid of them.
 
 And yet it demonstrates that in a dog's mind, life is filled with leaders and followers, and he likes to find out who's who.
 
-  
-
-![Dog with child](../graphics/what-child.jpg)
+*Image hint — Dog with child*
 
 ### Children and dogs
 
@@ -123,13 +115,9 @@ A child should gradually be moved up the ladder above the dog by feeding the dog
 
 Young children should never be allowed to wrestle with a dog or play tug-of-war. A child should not be allowed to run away from a dog, or chase after a dog. These games only reinforce the dog's speed and strength compared to the child's.
 
-  
-
 ### Multi-dog households
 
 In a multi-dog household, if an unruly dog dominates an obedient dog, the obedient dog is likely to follow the unruly one into bad behavior. It's important that both dogs see you as a strong authority figure so that they don't ignore you to follow each other.
-
-  
 
 ### Establishing yourself as the leader
 
@@ -139,7 +127,7 @@ You demonstrate your leadership by interacting with your dog in specific ways �
 
 Whenever you do anything with your dog, even just walking through the kitchen, or petting him, or speaking to him.... he is busy judging your tone of voice, your facial expression, your body language, how you're touching him, how you're responding when he does *X* or *Y*.
 
-![Beagle and owner](../graphics/what-leader.jpg)
+*Image hint — Beagle and owner*
 
 All of these seemingly little things are very important to your dog. They're the clues he uses to draw conclusions about you and to decide whether you're worthy of respect or not.
 

@@ -16,14 +16,19 @@ This guide combines every archived page for this breed into one document.
 
 ## Breed overview and temperament
 
-Lagotto Romagnolo temperament, personality, training, behavior, pros and cons, advice, and information, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Behavioral Consultant, Author of 15 [Dog Books](https://www.yourpurebredpuppy.com/books/)
+Lagotto Romagnolo temperament, personality, training, behavior, pros and cons, advice, and information, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Lagotto Romagnolo](../dogbreeds/photos2-L/lagotto-romagnolo-04.jpg)
-![Lagotto Romagnolo](../dogbreeds/photos2-L/lagotto-romagnolo-02.jpg)
-![Lagotto Romagnolo](../dogbreeds/photos2-L/lagotto-romagnolo-03.jpg)
-![Lagotto Romagnolo](../dogbreeds/photos2-L/lagotto-romagnolo-01.jpg)
-![Lagotto Romagnolo](../dogbreeds/photos2-L/lagotto-romagnolo-05.jpg)
-![Lagotto Romagnolo](../dogbreeds/photos2-L/lagotto-romagnolo-06.jpg)
+*Image hint — Lagotto Romagnolo*
+
+*Image hint — Lagotto Romagnolo*
+
+*Image hint — Lagotto Romagnolo*
+
+*Image hint — Lagotto Romagnolo*
+
+*Image hint — Lagotto Romagnolo*
+
+*Image hint — Lagotto Romagnolo*
 
 See Photo Gallery
 **[< Prev](#)   
@@ -48,8 +53,6 @@ See Photo Gallery
 | [Puppies](#puppies) | Moderate availability |
 | [Rescue dogs](#rescue) | Seldom available |
 | [Similar breeds](#similar) | Portuguese Water Dog, Spanish Water Dog, Miniature Poodle |
-
-  
 
 [Temperament](#temperament)
 [Pros and Cons](#pros-cons)
@@ -76,7 +79,7 @@ See Photo Gallery
   - [Puppies](#puppies)
   - [Similar breeds](#similar)
 
-![Lagotto Romagnolo](../dogbreeds/photos2-L/lagotto-romagnolo-02.jpg)
+*Image hint — Lagotto Romagnolo*
 
 ## My experience with Lagotto Romagnolo temperament
 
@@ -146,13 +149,17 @@ Keep in mind that the inheritance of temperament  is less predictable than the 
 
 ## Books by Michele Welton
 
-![dog icon](../Graphics/icon-training.png)["Respect Training for Puppies"](https://www.yourpurebredpuppy.com/books/RTP.html)  (or ["Respect Training for Adult Dogs"](https://www.yourpurebredpuppy.com/books/RTA.html) ) is a step by step guide to help you bring out the best in your pup so you can enjoy a calm and well-behaved dog, no matter what his age. Get your book today.
+*Image hint — dog icon*
 
-![dog icon](../Graphics/icon-health.png)["11 Things You Must Do Right To Keep Your Dog Healthy and Happy"](https://www.yourpurebredpuppy.com/books/11T.html)  is a comprehensive guide to keeping your dog mentally, physically, and emotionally happy and healthy so you can enjoy a longer lifetime of companionship. A healthy dog is a happy dog, so buy your copy today.
+["Respect Training for Puppies"](https://www.yourpurebredpuppy.com/books/RTP.html)  (or ["Respect Training for Adult Dogs"](https://www.yourpurebredpuppy.com/books/RTA.html) ) is a step by step guide to help you bring out the best in your pup so you can enjoy a calm and well-behaved dog, no matter what his age. Get your book today.
 
-![dog paw](../Graphics/pawprint.png)
+*Image hint — dog icon*
 
-![Lagotto Romagnolo](../dogbreeds/photos2-L/lagotto-romagnolo-01.jpg)
+["11 Things You Must Do Right To Keep Your Dog Healthy and Happy"](https://www.yourpurebredpuppy.com/books/11T.html)  is a comprehensive guide to keeping your dog mentally, physically, and emotionally happy and healthy so you can enjoy a longer lifetime of companionship. A healthy dog is a happy dog, so buy your copy today.
+
+*Image hint — dog paw*
+
+*Image hint — Lagotto Romagnolo*
 
 ### How big is the Lagotto Romagnolo?
 
@@ -171,7 +178,7 @@ So the Lagotto is about the same weight as a Cocker Spaniel... but the Lagotto s
 
 The AKC Standard says, "The dog should give the impression that he has the strength and endurance to work all day in difficult and challenging terrain."
 
-![Lagotto Romagnolo](../dogbreeds/photos2-L/lagotto-romagnolo-04.jpg)
+*Image hint — Lagotto Romagnolo*
 
 ### How much exercise does a Lagotto Romagnolo need?
 
@@ -233,7 +240,7 @@ Also be aware that young Lagottos can be rowdy. Until you **teach** them that ju
 
 Most Lagotti are fine with other dogs and cats. Unlike most other hunting breeds, most of which have strong instincts to pursue small animals, the Lagotto has been designed to have ***reduced***  chasing instincts so the dog wouldn't get distracted by, say, a passing rabbit when on the "hunt" for truffles.
 
-![Lagotto Romagnolo](../dogbreeds/photos2-L/lagotto-romagnolo-05.jpg)
+*Image hint — Lagotto Romagnolo*
 
 ### Grooming: does the Lagotto Romagnolo shed a lot? Are they easy to groom?
 
@@ -247,7 +254,7 @@ From a practical perspective, the wooly curls pick up burrs, thorns, leaves, mud
 
 The Lagotto's curly hair keeps on growing, so requires regular trimming and clipping. I recommend clipping every 6-8 weeks to keep the curls short, no more than an inch (measured with the coat curled, not brushed out straight). The longer the curls are allowed to grow, the easier it is for them to twist together into a tangled mess.
 
-![Lagotto Romagnolo](../dogbreeds/photos2-L/lagotto-romagnolo-06.jpg)
+*Image hint — Lagotto Romagnolo*
 
 - Keep the beard/whiskers short – when a bearded dog drinks, water soaks up into the hair, then drips all over your house.
 - Also keep the hair short around the dog's private parts. Otherwise when he goes to the bathroom, fecal matter will adhere to his bottom and end up transferred to your floor and furnishings.
@@ -268,7 +275,7 @@ Along with epilepsy, three more neurological diseases (all inherited, all severe
 
 Here is my [complete list](../health/lagotto-romagnolo.html#health-problems) of health problems in Lagotto Romagnolo.
 
-See my advice on → [keeping your dog healthy](https://www.yourpurebredpuppy.com/health/lagotto-romagnolo.html)  
+See my advice on → [keeping your dog healthy](https://www.yourpurebredpuppy.com/health/lagotto-romagnolo.html)
 (feeding, vaccinations, neutering, veterinarians, and more).
 
 ### What colors does the Lagotto Romagnolo come in?
@@ -288,7 +295,7 @@ For example, a young puppy might be chocolate brown or golden orange, but as he 
 
 Owners who are unprepared might find themselves unhappy with the diluted color. But you might get lucky.... occasionally a dark brown puppy will maintain his dark shade into adulthood.
 
-![Lagotto Romagnolo](../dogbreeds/photos2-L/lagotto-romagnolo-03.jpg)
+*Image hint — Lagotto Romagnolo*
 
 ### Lagotto Romagnolo Puppies
 
@@ -340,169 +347,134 @@ Or one of their own puppies may have been returned to them, now all grown up and
 
 ### What breeds are similar to a Lagotto Romagnolo?
 
-![Portuguese Water Dog](../dogbreeds/photos2-P/portuguese-water-dog-similar.jpg)
+*Image hint — Portuguese Water Dog*
 
 Depending on how he's trimmed, a curly-haired [Portuguese Water Dog](https://www.yourpurebredpuppy.com/reviews/portuguesewaterdogs.html) can look like a Lagotto. Both breeds are athletic nature-lovers who enjoy playing in water and mud. Compared to a Lagotto, the Portuguese Water Dog is larger and stronger-willed.
 
-![Miniature Poodle](../dogbreeds/photos2-M/miniature-poodle-similar.jpg)
+*Image hint — Miniature Poodle*
 
 Again depending on trimming style, a [Miniature Poodle](https://www.yourpurebredpuppy.com/reviews/miniaturepoodles.html) can resemble a Lagotto. Both breeds are lively, athletic, sensitive, and very bright. Compared to a Lagotto, a Miniature Poodle is a bit smaller, needs less exercise, and is easier to train. If you prefer something a bit **larger** than a Lagotto, there's an "unofficial" Poodle size called *moyen*, meaning middle, which is in-between a [Miniature Poodle](https://www.yourpurebredpuppy.com/reviews/miniaturepoodles.html) and a [Standard Poodle](https://www.yourpurebredpuppy.com/reviews/standardpoodles.html).
 
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![dog training videos](../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
-
-Related posts you might enjoy
-
-![dog looking at owner](https://www.yourpurebredpuppy.com/training/graphics/methods-choices150.jpg) [Dog Training:  
- What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
-
-![puppy sitting beside owner](https://www.yourpurebredpuppy.com/training/graphics/schedule-older150.jpg)[You Need Dog Training Help... But From Where? Classes? Books? Videos?](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
-
-![common dog training commands](https://www.yourpurebredpuppy.com/training/graphics/teachyourdog02-150.jpg)[All a Dog Needs Is Love: True or False?](https://www.yourpurebredpuppy.com/training/articles/all-a-dog-needs-is-love.html)
-
-![respectful dog](https://www.yourpurebredpuppy.com/training/graphics/respectful-dog.jpg)[Solve Behavior Problems By Teaching Your Dog To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
-
 ## Training
 
-Lagotto Romagnolo Training and Puppy Training, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 [Dog Books](https://www.yourpurebredpuppy.com/books/)
+Lagotto Romagnolo Training and Puppy Training, by [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Lagotto Romagnolo](../dogbreeds/photos2-L/lagotto-romagnolo-02.jpg)
+*Image hint — Lagotto Romagnolo*
 
 Dog training is much less about the teaching of commands and much more about how you live with your dog. Virtually all of your dog's behaviors (good and bad) are created by the way you're living with him. What you do with him... what you don't do with him... what you allow him to do... these are all messages to your dog. Send the right messages and you will have no problems with your dog. Send the wrong messages and you will have problems.
 
-  
-
 #### Check out my advice for dealing with behavior problems and training your Lagotto Romagnolo puppy or adult dog:
 
-![Obedience instructor and author Michele Welton](graphics/ind-dog-training-methods1.jpg)
-[Dog Training – What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)  
+*Image hint — Obedience instructor and author Michele Welton*
+
+[Dog Training – What Works, and What Doesn't](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
 Some dog training methods are based on what makes the owner feel good, rather than what on actually makes sense to the dog. Now, treats can be great motivators for training Lagottos, but if your dog will only obey for a treat, then **he** is in charge of his obedience, not you.  [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-training-methods.html)
 
-![Cute puppy](graphics/ind-easy.png)
-[Puppy Training Made Easy: 4 Things You MUST Do Right](https://www.yourpurebredpuppy.com/training/articles/puppy-training-made-easy.html)  
+*Image hint — Cute puppy*
+
+[Puppy Training Made Easy: 4 Things You MUST Do Right](https://www.yourpurebredpuppy.com/training/articles/puppy-training-made-easy.html)
 Training your Lagotto puppy doesn't have to be a struggle. There are four simple things you can do right now to change your pup's behavior and make training easy.  [[read more]](https://www.yourpurebredpuppy.com/training/articles/puppy-training-made-easy.html)
 
-![Cute puppy](graphics/ind-schedule.jpg)
-[Puppy Training Schedule: What to Teach (and When)](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)  
+*Image hint — Cute puppy*
+
+[Puppy Training Schedule: What to Teach (and When)](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
 Puppy training starts the moment you bring your puppy home. If you use the wrong teaching method, your puppy will begin making decisions about how he wants **you** to fit into **his** life, and that's a recipe for conflict and behavior problems. Whatever your puppy does, you must react properly or he will learn the wrong things. Here's my recommended schedule (what to teach, when to teach it) for training your Lagotto Romagnolo puppy. [[read more]](https://www.yourpurebredpuppy.com/training/articles/puppy-training-schedule.html)
 
-![Misbehaving dog pulling owner on leash](graphics/ind-respect-training.gif)
-[Teach Your Lagotto To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)  
+*Image hint — Misbehaving dog pulling owner on leash*
+
+[Teach Your Lagotto To Respect You](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
 "Respect Training" is the dog training method I use and recommend for training Lagottos. A dog who respects you will do what you say and will stop what he's doing when you tell him "No." Teaching your dog to respect you means interacting with him in specific ways that encourage respect.  [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-respect-training.html)
 
-![Dog behavior problems](graphics/ind-dog-behavior-problems.jpg)
-[Solving Behavior Problems](https://www.yourpurebredpuppy.com/training/articles/dog-behavior-problems.html)  
+*Image hint — Dog behavior problems*
+
+[Solving Behavior Problems](https://www.yourpurebredpuppy.com/training/articles/dog-behavior-problems.html)
 One of the most common questions dog owners ask me is: "How can I stop my dog from doing (a specific bad behavior)?" My answer is almost always the same, no matter what the misbehavior is.... [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-behavior-problems.html)
 
-![Buddy the dog](graphics/ind-dog-training-videos.jpg)
-[These Dog Training Videos Turned Buddy Into a Good Dog](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)  
+*Image hint — Buddy the dog*
+
+[These Dog Training Videos Turned Buddy Into a Good Dog](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
 Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action. I recommend these dog training videos, which are based on respect and leadership. [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
 
-![](graphics/ind-dog-training-help.jpg)
-[You Need Dog Training Help.... But From Where? Private Lessons? Public Classes? Dog Training Books? Dog Training Videos?](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)  
+*Image placeholder — no alt text*
+
+[You Need Dog Training Help.... But From Where? Private Lessons? Public Classes? Dog Training Books? Dog Training Videos?](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
 So your puppy needs training.... or your adult dog needs training.... and you're looking for some help. Should you hire a professional trainer to come to your house? send your dog away to be trained? sign up for a group obedience class? read a book? watch a few videos? Here's my advice on where to get dog training help when you really need it. [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-training-help.html)
 
-![Words and commands to teach your dog](graphics/ind-teach-words.gif)
-[Teach The Right Words In The Right Ways](https://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)  
+*Image hint — Words and commands to teach your dog*
+
+[Teach The Right Words In The Right Ways](https://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
 My method of training Lagottos includes teaching specific words in specific ways so that your dog not only learns the words but also develops the respectful attitude that makes him happy to obey you. Teach your dog words and he will understand what you say. Teach those words ***in the right ways*** and he will actually DO what you say.  [[read more]](https://www.yourpurebredpuppy.com/training/articles/teach-your-dog-words.html)
 
-![Outhouse](graphics/ind-housebreaking.gif)
-[Housebreaking Your Lagotto](https://www.yourpurebredpuppy.com/training/articles/dog-housebreaking.html)  
+*Image hint — Outhouse*
+
+[Housebreaking Your Lagotto](https://www.yourpurebredpuppy.com/training/articles/dog-housebreaking.html)
 There are two keys to housebreaking. Just two, but you have to get them both right. And I mean 100% right, not 50% right. Otherwise you're going to end up with a dog who is 50% potty trained, and who wants that? So here they are – your two keys to housebreaking.... [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-housebreaking.html)
 
-![Young man holding his dog](graphics/ind-dog-socializing.gif)
-[Socializing Your Lagotto](https://www.yourpurebredpuppy.com/training/articles/dog-socializing.html)  
+*Image hint — Young man holding his dog*
+
+[Socializing Your Lagotto](https://www.yourpurebredpuppy.com/training/articles/dog-socializing.html)
 Socializing means training your Lagotto Romagnolo to get along politely with strangers and other animals. [[read more]](https://www.yourpurebredpuppy.com/training/articles/dog-socializing.html)
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![dog training videos](../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
 
 ## Health and feeding
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Lagotto Romagnolo](../dogbreeds/photos2-L/lagotto-romagnolo-05.jpg)
+*Image hint — Lagotto Romagnolo*
 
 Start your Lagotto Romagnolo off on the right foot by feeding the right food, giving the right vaccinations, finding the right vet, and if you're going to spay or neuter, don't do it too early.
 
-  
-
 #### Jump down to this list of [Lagotto Romagnolo Health Problems](#health-problems)
-
-  
 
 #### Or check out my advice for raising a healthy Lagotto Romagnolo puppy or adult dog:
 
-![Obedience instructor and author Michele Welton](../training/graphics/ind-dog-training-methods1.jpg)
-[Dog Health Care – The Sensible Way](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)  
+*Image hint — Obedience instructor and author Michele Welton*
+
+[Dog Health Care – The Sensible Way](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)
 Read my advice on daily health care so your Lagotto lives a long, healthy life and seldom needs to see the vet...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/dog-health-care-intro.html)
 
-![numeral 3](../Graphics/number3.png)[3 Best Ways To Feed Your Dog Healthy Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)  
+*Image hint — numeral 3*
+
+[3 Best Ways To Feed Your Dog Healthy Food](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
 You can dramatically increase your dog's chances of living a long, healthy life by feeding the right food. Cutting right to the chase, the best foods for your Lagotto are...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/feeding-healthy-natural-dog-food.html)
 
-![Real homemade dog food](graphics/ind-feeding.gif)
-[A Quick Way To Make Homemade Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)  
+*Image hint — Real homemade dog food*
+
+[A Quick Way To Make Homemade Dog Food](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)
 Your Lagotto will love real chicken, turkey, beef, fish, eggs, yogurt, broccoli.... this is not just "people food" and I'll tell you why...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/feeding-homemade-dog-food.html)
 
-![Dry kibble and canned dog food](graphics/ind-feeding2.gif)
-[5 Best Kibble and Canned Dog Foods](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)  
+*Image hint — Dry kibble and canned dog food*
+
+[5 Best Kibble and Canned Dog Foods](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)
 Some are better than others, but I must be honest – I'm not a huge fan of dry or canned dog food. Here are my concerns...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/feeding-kibble-canned-dog-food.html)
 
-![Information on booster shots for your German Shepherd.](graphics/ind-vaccinations.gif)
-[Vaccinations and Booster Shots: Needed or Not?](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)  
+*Image hint — Information on booster shots for your German Shepherd.*
+
+[Vaccinations and Booster Shots: Needed or Not?](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)
 How many vaccinations does your Lagotto puppy really need? Does your adult dog need yearly booster shots? The vaccination guidelines have changed! Find out what some vets aren't telling you...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/puppy-shots-and-dog-vaccinations.html)
 
-![Information on spaying](graphics/ind-female.gif)
-[Spaying Your Female Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)  
+*Image hint — Information on spaying*
+
+[Spaying Your Female Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)
 Should your female Lagotto be spayed? Current research says, "The AGE at which you spay can be vitally important to your dog's future health." So what's the best age?  [[read more]](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)
 
-![Information on neutering your male dog.](graphics/ind-male.gif)
-[Neutering Your Male Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)  
+*Image hint — Information on neutering your male dog.*
+
+[Neutering Your Male Dog: Pros and Cons](https://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)
 Have you been told that you **must** neuter your male Lagotto? Current research shows that the issue is not so simple. Pet owners are not being told about some risks associated with neutering male dogs, especially neutering too early...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/neutering-male-dog.html)
 
-![Information on choosing the best vet](graphics/ind-vets.gif)
-[Make Sure Your Vet is the Best!](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)  
+*Image hint — Information on choosing the best vet*
+
+[Make Sure Your Vet is the Best!](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)
 Is your current veterinarian really the best choice for your dog? Here's how to tell...  [[read more]](https://www.yourpurebredpuppy.com/health/articles/finding-the-best-dog-vet.html)
 
-![Assisi Loop](graphics/ind-assisi.jpg)
-[Assisi Loop Review](https://www.yourpurebredpuppy.com/health/articles/assisi-loop-review.html)  
+*Image hint — Assisi Loop*
+
+[Assisi Loop Review](https://www.yourpurebredpuppy.com/health/articles/assisi-loop-review.html)
 Does your Lagotto suffer from arthritis, hip dysplasia, disk disease, colitis? My honest review of a veterinary device you can use at home to reduce inflammation and pain.  [[read more]](https://www.yourpurebredpuppy.com/health/articles/assisi-loop-review.html)
 
 [Read my Lagotto Romagnolo Review →](https://www.yourpurebredpuppy.com/reviews/lagotto-romagnolo.html)
 
-![Lagotto Romagnolo](../dogbreeds/photos2-L/lagotto-romagnolo-06.jpg)
+*Image hint — Lagotto Romagnolo*
 
 ## Complete list of Lagotto Romagnolo health problems
 
@@ -576,29 +548,6 @@ Fortunately, there is a DNA test for this disorder.
 ### Preventing health problems
 
 Some health problems are inherited. For example, if your dog inherits from his parents the genes for an eye disease called PRA, he will go blind and there's nothing anyone can do about it.
-
-[![Dog feeding and health book by Michele Welton](../books/covers/11T-110.jpg)](https://www.yourpurebredpuppy.com/books/11T.html) But most health problems can be prevented by the ways you raise your dog.
-
-My best-selling book, [11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) shows you how to raise your Lagotto in all the right ways that help prevent health problems. Become your dog's health care champion!
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![dog training videos](../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
 
 ## Archived source pages
 

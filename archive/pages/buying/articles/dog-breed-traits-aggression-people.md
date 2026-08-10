@@ -9,9 +9,8 @@ fetched_at: "2026-08-10T13:13:38+00:00"
 
 # These Dog Breeds Can Be Aggressive Toward People
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-  
 One of a series of 11 articles on Dog Breed Traits to consider before choosing a dog. See the complete list.  +
 
 [Size](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-traits-size.html)
@@ -40,7 +39,7 @@ It is an unfortunate reality that (1) dogs have teeth and that (2) they sometime
 
 ### Which breeds bite?
 
-![Dog showing teeth](../graphics/dog-breed-traits-people1.jpg)
+*Image hint — Dog showing teeth*
 
 Any dog can be triggered to bite. Some are more easily triggered than others, and the triggers are also different in different dogs.
 
@@ -57,7 +56,7 @@ In short, some breeds are more likely to inherit genes for a gentler, more peace
 
 In my experience, most crossbred and mixed breed dogs tend to be on the peaceful side. Unless, that is, two commonly aggressive breeds are crossed (for example, a Doberman crossed with a Rottweiler).
 
-![Cane Corso](../graphics/dog-breed-traits-people-cane.jpg)
+*Image hint — Cane Corso*
 
 Like most mastiff breeds, a Cane Corso should only be owned by people who are experienced with large breeds with a potentially high risk of aggression.
 
@@ -95,7 +94,7 @@ In these dog breeds, a sizable percentage of individuals are dominant, territori
 | Dobermann | Tibetan Mastiff |
 | Dogo Argentino | Tosa Inu |
 
-![three Pit Bull Terriers](../graphics/dog-breed-traits-people-pitbulls.jpg)
+*Image hint — three Pit Bull Terriers*
 
 "Pit Bulls" with a high risk of aggression toward people are usually unregistered or crosses/mixes. UKC-registered *American Pit Bull Terriers* from champion show lines are seldom aggressive toward people.
 
@@ -115,7 +114,7 @@ Protective instincts  are NOT the same thing as protective abilities or skills.
 
 How do I know this? Because for many years I trained dogs in protection and police work, and competed in a German sport called schutzhund (German for *protection dog*). The training is long and rigorous, and for the safety of both owner and public, protection training is paired equally with obedience training for maximum control.
 
-![Practicing protection work](../graphics/dog-breed-traits-people-ipo.jpg)
+*Image hint — Practicing protection work*
 
 You need a skilled instructor to help your dog learn how to engage effectively with a bad guy.
 
@@ -135,7 +134,7 @@ Dogs who threaten bad guys, but can't back it up with actual fighting skills, ar
 
 I've already explained that dogs with protective instincts but no training can't actually protect you from serious bad guys.
 
-![Doberman threatening mailman](../graphics/dog-breed-traits-people-mailman.jpg)
+*Image hint — Doberman threatening mailman*
 
 Dogs frequently can't tell who is a threat, as any mailman or delivery driver will tell you.
 
@@ -147,7 +146,7 @@ We live in a litigious society. That means people are quick to sue.
 
 If your dog bites an innocent person, if he even charges toward them and causes them to fall or have a heart attack, you will wind up in court paying medical bills, pain & suffering, even punitive damages. Not to mention the guilt you'll feel.
 
-![Bouvier des Flandres offering a paw](../graphics/dog-breed-traits-people-bouvier.jpg)
+*Image hint — Bouvier des Flandres offering a paw*
 
 This particular Bouvier des Flandres happens to be friendly and playful with everyone. Most aren't.
 
@@ -175,7 +174,7 @@ Here's a related issue.....
 
 In response to an increasing number of dog bites, communities around the world have enacted laws against the ownership of certain breeds.
 
-![Rottweiler wearing muzzle](../graphics/dog-breed-traits-people-muzzle.jpg)
+*Image hint — Rottweiler wearing muzzle*
 
 In some areas, a muzzle might be required if you own certain breeds.
 
@@ -198,24 +197,3 @@ Most owners do best with a dog that doesn't have a high risk of aggression towar
 Don't worry that your lower-aggression dog won't be a good watchdog. Every breed can (and usually will) bark or offer some kind of alerting behavior when he sees or hears something unusual near his property.
 
 Even the barking of a friendly or inoffensive dog is all the "watching" that most families need. Barking draws attention, so the majority of burglars will shy away from homes in which any dog is barking.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

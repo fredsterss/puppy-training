@@ -9,9 +9,8 @@ fetched_at: "2026-08-10T13:13:40+00:00"
 
 # You Want a Dog... But You Have Children
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-  
 One of a series of 11 articles on Dog Breed Traits to consider before choosing a dog. See the complete list.  +
 
 [Size](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-traits-size.html)
@@ -51,11 +50,11 @@ In this article, I cover:
 
 The plan here is that the kids will come home from school and take the dog for a long walk and outside to play.
 
-![Dog pulling kids on leash](../graphics/dog-breed-traits-children1.jpg)
+*Image hint — Dog pulling kids on leash*
 
 The problem is that most children don't interact with a dog in ways that encourage good habits. They don't create good routines, avoid bad routines, add rewards to good behavior, and correct bad behavior. Not consistently, anyway.
 
-![Child pulling dog on leash](../graphics/dog-breed-traits-children5.jpg)
+*Image hint — Child pulling dog on leash*
 
 Not good lessons for the pup (or the child) to be learning here!
 
@@ -68,7 +67,7 @@ In fact, children can (unintentionally) undermine your attempts to raise a dog t
 
 Mind you, none of this is done with bad intentions! Children who are having fun simply can't judge when a dog is out of control and they can't correct a dog with enough authority when his behavior does go over the line.
 
-![Over-excited dog jumping on child's back](../graphics/dog-breed-traits-children9.jpg)
+*Image hint — Over-excited dog jumping on child's back*
 
 More bad routines being ingrained here.
 
@@ -80,7 +79,7 @@ You need to look at your children as honestly and objectively as possible. Are t
 
 If not, they should not be allowed to interact with the dog unless you are right there supervising.
 
-![Family supervising kids with the dog](../graphics/dog-breed-traits-children2.jpg)
+*Image hint — Family supervising kids with the dog*
 
 But it's not just the dog's behavior you need to monitor – it's the kids' behavior too. Some owners think that it's entirely up to the dog to change his jumping or nipping behaviors even when the kids are egging him on.
 
@@ -90,7 +89,7 @@ If one or more of your kids can't or won't follow your instructions even when yo
 
 I realize this will be a great disappointment to parents who got the dog for the kids. And I'm sorry for needing to say it.
 
-![Kids feeding dog from the table](../graphics/dog-breed-traits-children14.jpg)
+*Image hint — Kids feeding dog from the table*
 
 The kids are having a good time, but the dog is learning bad habits from this.
 
@@ -98,23 +97,33 @@ A dog is a living sponge soaking up all the undesirable things they're doing wit
 
 From the kids, the dog will learn that rowdy, excited, impulsive, dramatic behaviors are encouraged. And there is no behavior more dramatic than a sudden bite.
 
-![Dog baring teeth](../graphics/dog-breed-traits-children15.jpg)
+*Image hint — Dog baring teeth*
 
 ### How often dogs bite children
 
 Regrettably, it's time for a few statistics:
 
 - In the United States alone, **4.7 million people each year** are bitten by a dog. Nearly 400,000 of them require emergency room treatment, and 10,000 are hospitalized.
-  ![Two thirds of bite victimes are kids](../graphics/dog-breed-traits-children8.jpg)
+
+*Image hint — Two thirds of bite victimes are kids*
+
 - About **two-thirds of bite victims are children**, mostly under the age of 12.
-- ![70 percent](../graphics/dog-breed-traits-children6.jpg)**70% of bite injuries to kids** under age 10 are bites to the face, often damaging the eyes or requiring major reconstructive surgery. Some children, including sleeping infants, are killed by dogs.
-- ![50 percent](../graphics/dog-breed-traits-children7.jpg)**Over 50% of bitten children are bitten by the family's own dog.** Another 25% are bitten by a dog owned by a friend or relative. So even though we tell our kids, "Never pet a strange dog," the much more serious threat is inside our own home or over at the neighbor's.
+-
+
+    *Image hint — 70 percent*
+
+    **70% of bite injuries to kids** under age 10 are bites to the face, often damaging the eyes or requiring major reconstructive surgery. Some children, including sleeping infants, are killed by dogs.
+-
+
+    *Image hint — 50 percent*
+
+    **Over 50% of bitten children are bitten by the family's own dog.** Another 25% are bitten by a dog owned by a friend or relative. So even though we tell our kids, "Never pet a strange dog," the much more serious threat is inside our own home or over at the neighbor's.
 
 I've been working with dogs for many decades and love them dearly. But I respect that they have strong jaws and teeth. I hope you'll have that kind of healthy respect as well.
 
 #### Dogs may not always know that a young child is human.
 
-![Dog looking quizzically at baby](../graphics/dog-breed-traits-children3.jpg)
+*Image hint — Dog looking quizzically at baby*
 
 This dog is thinking, "What the..? Crawling critter?? Doesn't look or act like a human.... also smells bad... did you go potty? Hey, whatever you are, you're gonna get in trouble for that!"
 
@@ -153,26 +162,39 @@ You can find temperament tests (for pups and adult dogs) in my dog buying guide,
 
 #### When you have kids under age 10 (or thereabouts), it is safest to...
 
-![sad face](../../health/graphics/lifespan-sad2.jpg)Avoid dogs who are shy, sensitive, or easily startled – they will have a low tolerance for sudden movements (like a child waving her arms), sudden sounds (a child yelling), roughhousing, even the kind of enthusiastic patting that kids like to do. This describes many Poodles, Shelties, and *sighthounds* (fast, slender breeds like Greyhounds and Whippets).
+*Image hint — sad face*
+
+Avoid dogs who are shy, sensitive, or easily startled – they will have a low tolerance for sudden movements (like a child waving her arms), sudden sounds (a child yelling), roughhousing, even the kind of enthusiastic patting that kids like to do. This describes many Poodles, Shelties, and *sighthounds* (fast, slender breeds like Greyhounds and Whippets).
 
 Sensitive dogs often become stressed and nervous around small children and may react with an involuntary, defensive snap.
 
-![Toddler with Longhaired Chihuahua](../graphics/dog-breed-traits-children13.jpg)
+*Image hint — Toddler with Longhaired Chihuahua*
 
 I don't recommend toy dogs, like this Longhaired Chihuahua, for young children.
 
-![sad face](../../health/graphics/lifespan-sad2.jpg)Avoid [tiny dogs](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-traits-size.html) (under 10 pounds). First, it's unsafe for the dog. Even when a child means well, a tiny dog can be accidentally stepped on, sat on, squeezed too hard, or dropped. You can supervise them 24 hours a day, but the one day your child plays Speed Racer with his bike will be the day your tiny dog will be in the wrong place at the wrong time.
+*Image hint — sad face*
+
+Avoid [tiny dogs](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-traits-size.html) (under 10 pounds). First, it's unsafe for the dog. Even when a child means well, a tiny dog can be accidentally stepped on, sat on, squeezed too hard, or dropped. You can supervise them 24 hours a day, but the one day your child plays Speed Racer with his bike will be the day your tiny dog will be in the wrong place at the wrong time.
 
 Second, tiny dogs often become stressed and nervous around small children and may react with a defensive snap if a child suddenly tries to pick the dog up or *pat-pat-pat* the top of its head. We should appreciate the perspective of a wee little dog who sees a palm suddenly swooping down from the sky... looks threatening, doesn't it?
 
-![sad face](../../health/graphics/lifespan-sad2.jpg)Avoid feisty or opinionated dogs (for example: most terriers, many Dachshunds, Lhasa Apsos, Basenjis, Chows, Australian Cattle Dogs) who won't put up with nonsense from little life forms that they view as below themselves in importance.
+*Image hint — sad face*
 
-![sad face](../../health/graphics/lifespan-sad2.jpg)Avoid dogs who act aggressively toward other dogs. Fortunately, most dogs who are [dog-aggressive](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-traits-aggression-dogs.html) are not automatically people-aggressive! But some dogs do have this dual aggression, and for others, it's only a short hop to becoming so. In addition, you can't safely allow a child to take a dog who is dog-aggressive for a walk.
+Avoid feisty or opinionated dogs (for example: most terriers, many Dachshunds, Lhasa Apsos, Basenjis, Chows, Australian Cattle Dogs) who won't put up with nonsense from little life forms that they view as below themselves in importance.
 
-![sad face](../../health/graphics/lifespan-sad2.jpg)![dog guarding food](../graphics/dog-breed-traits-children23.jpg)
+*Image hint — sad face*
+
+Avoid dogs who act aggressively toward other dogs. Fortunately, most dogs who are [dog-aggressive](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-traits-aggression-dogs.html) are not automatically people-aggressive! But some dogs do have this dual aggression, and for others, it's only a short hop to becoming so. In addition, you can't safely allow a child to take a dog who is dog-aggressive for a walk.
+
+*Image hint — sad face*
+
+*Image hint — dog guarding food*
+
 Avoid possessive dogs who guard their food or toys. This trait isn't breed-specific; any breed can develop this bad habit. Now, no child should be allowed to approach a dog who is eating or chewing on a bone. But if a child once in a while happened to do so, you wouldn't want a dog who is likely to lash out. I simply would not keep a food-possessive or toy-possessive dog around a child.
 
-![sad face](../../health/graphics/lifespan-sad2.jpg)And finally, when you have young children, I don't recommend these breeds:
+*Image hint — sad face*
+
+And finally, when you have young children, I don't recommend these breeds:
 
 - Akita
 - American Bulldog
@@ -192,11 +214,13 @@ My concern is (1) there are so many people producing these breeds with aggressiv
 
 When I consult with people who are looking for personal breed selection advice, we discuss your family, lifestyle, house, yard, other pets, your experience with dogs, etc. Without that specific info, there's no carved-in-stone, one-size-fits-all list of breeds I can recommend. And I don't know your particular kids either.
 
-![check mark](../graphics/dog-breed-traits-greencheck.jpg)That being said, it's hard to beat a good [Golden Retriever](https://www.yourpurebredpuppy.com/reviews/goldenretrievers.html) or [Labrador Retriever](https://www.yourpurebredpuppy.com/reviews/labradorretrievers.html). My top two GO-TO breeds for families with young children, these retrievers are among the most good-natured, friendly, and stable of all breeds – seldom aggressive toward anyone.
+*Image hint — check mark*
+
+That being said, it's hard to beat a good [Golden Retriever](https://www.yourpurebredpuppy.com/reviews/goldenretrievers.html) or [Labrador Retriever](https://www.yourpurebredpuppy.com/reviews/labradorretrievers.html). My top two GO-TO breeds for families with young children, these retrievers are among the most good-natured, friendly, and stable of all breeds – seldom aggressive toward anyone.
 
 A good [German Shepherd](https://www.yourpurebredpuppy.com/reviews/germanshepherds.html) can also be great with young children. Unfortunately, it's harder to find a good German Shepherd today. There are so many different "types" and temperaments, so many health problems, so many irresponsible breeders. But if you can find a good one, they're great.
 
-![German Shepherd and Labrador Retriever](../graphics/dog-breed-traits-children24.jpg)
+*Image hint — German Shepherd and Labrador Retriever*
 
 German Shepherds and Labrador Retrievers are solid family dogs. Just be careful where you get them!
 
@@ -220,7 +244,8 @@ Let's say you've done the first step: You've chosen a dog who is good-natured an
 - Maintain your dog's health and grooming so he isn't in chronic discomfort. A dog who hurts feels irritable and could lash out if a child did something (even accidentally) that made the pain worse. Painful health issues include hip dysplasia, arthritis, infected teeth, matted hair that pulls on the dog's skin, even an ear infection. So stay on top of your dog's health!
 - Don't tether your dog outside, and don't leave him unsupervised in a yard where he can run up and down the fence barking. Tied-up dogs and fence-runners are more likely to develop frustration and subsequent aggression.
 
-  ![Dog chained to doghouse](../graphics/dog-breed-traits-children16.jpg)
+*Image hint — Dog chained to doghouse*
+
 - Don't allow your dog to practice excitable behaviors such as rough play, jumping on people, or bark-bark-bark-bark-bark. Families with kids need a calm dog. If you need help with this, see my [training books](https://www.yourpurebredpuppy.com/books/).
 
 Let's say you've done the first two steps: You've chosen a dog who is good-natured and friendly, and you're raising that dog properly. What's the final thing you should you to keep kids from being bitten by your dog?
@@ -241,16 +266,19 @@ Don't allow a child to:
 - stamp her foot at a dog, even playfully
 - yell or scream around a dog
 
-![Inappropriate child/dog interaction](../graphics/dog-breed-traits-children12.jpg)
-![Inappropriate child/dog interaction](../graphics/dog-breed-traits-children17.jpg)
-![Inappropriate child/dog interaction](../graphics/dog-breed-traits-children20.jpg)
-![Inappropriate child/dog interaction](../graphics/dog-breed-traits-children18.jpg)
-![Inappropriate child/dog interaction](../graphics/dog-breed-traits-children19.jpg)
-![Inappropriate child/dog interaction](../graphics/dog-breed-traits-children21.jpg)
+*Image hint — Inappropriate child/dog interaction*
+
+*Image hint — Inappropriate child/dog interaction*
+
+*Image hint — Inappropriate child/dog interaction*
+
+*Image hint — Inappropriate child/dog interaction*
+
+*Image hint — Inappropriate child/dog interaction*
+
+*Image hint — Inappropriate child/dog interaction*
 
 This. This is why many dog bites occur – when a child, even unintentionally, pesters or disrespects the dog. Don't allow a child to do anything like this with any dog.
-
-  
 
 ### You must stay in charge of your kids' behavior
 
@@ -264,7 +292,7 @@ I'm sorry, but that's bad parenting of the child and bad leadership/guardianship
 
 My **no-no list** above – what things children should not do with a dog – also applies to any child who visits your home. That's nieces and nephews, grandchildren, and neighborhood kids who come over to play with yours.
 
-![Golden Retriever with group of kids](../graphics/dog-breed-traits-children22.jpg)
+*Image hint — Golden Retriever with group of kids*
 
 Stand up for your dog – don't let any child be rough or persistent. And stand up for the kids – don't let your dog jump on them or chase wildly after them. Children and canines must both be respectful.
 
@@ -280,7 +308,7 @@ Still, around age 10 or so is a reasonable dividing line, simply because many ch
 
 In addition, children around this age are better able to understand that their behaviors have consequences, so they're more likely to be consistent in behaving properly around dogs.
 
-![Older girl petting dog](../graphics/dog-breed-traits-children4.jpg)
+*Image hint — Older girl petting dog*
 
 But you need to look carefully at your individual child. If your 11-year-old is still quite childish (loud, boisterous, clumsy, or likes to roughhouse), don't trust him with unsupervised canine care. Give him more time to mature.
 
@@ -294,8 +322,9 @@ That's not true. Many dogs are uncomfortable around babies. Many dogs don't even
 
 Yet parents will pose their infants with the family dog with the infant propped against the side of the dog's head, or "riding" the dog like a pony. These parents mean well, but it shows a lack of respect for canine thought processes and canine teeth.
 
-![Infant with dog](../graphics/dog-breed-traits-babies2.jpg)
-![Infant with dog](../graphics/dog-breed-traits-babies4.jpg)
+*Image hint — Infant with dog*
+
+*Image hint — Infant with dog*
 
 The body language of these dogs shows stress. Licking their lips. Worried expression. These dogs are saying, "I wish I was somewhere else right now..."
 
@@ -308,7 +337,7 @@ The safest way to have both a dog and an infant is to make it clear to the dog t
 1. At first you don't allow the dog to touch the baby or even enter the baby's nursery.
 2. If your dog wants to accompany you to the nursery, teach him to "Wait" just outside the door. (The "Wait" command is taught in my training books.)
 
-   ![Beagle lying at open door](../graphics/dog-breed-traits-babies6.jpg)
+*Image hint — Beagle lying at open door*
 
    "Good boy to wait at the door!"
 3. Once he is doing well with this lesson and won't enter the room, you can start giving him permission ("Okay") to come in and sniff around a bit. You want him to learn that this special room is **yours** and that **you** decide if and when he can enter.
@@ -321,27 +350,6 @@ The safest way to have both a dog and an infant is to make it clear to the dog t
 
 When should you allow the dog to actually touch the baby with his nose, or lick the baby? There's no definitive answer to such questions, but if your dog is calm and relaxed and you can control him at all times, you might give him the "Okay" to come closer to the baby.
 
-![Bloodhound sniffing baby](../graphics/dog-breed-traits-babies5.jpg)
+*Image hint — Bloodhound sniffing baby*
 
 This dog is appropriately curious but calm, with a relaxed facial expression. The child is also calm and not intruding on the dog's space. I present the child as a possession of mine. "Baby. Good baby. Easy!" If you repeat it often enough and your Leader-Follower relationship is solid, your dog will understand that anything claimed by the Leader must be respected and treated gently.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

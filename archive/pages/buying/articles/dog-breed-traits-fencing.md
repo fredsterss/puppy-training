@@ -9,9 +9,8 @@ fetched_at: "2026-08-10T13:13:43+00:00"
 
 # The Best and Worst Fences For Dogs
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-  
 One of a series of 11 articles on Dog Breed Traits to consider before choosing a dog. See the complete list.  +
 
 [Size](https://www.yourpurebredpuppy.com/buying/articles/dog-breed-traits-size.html)
@@ -46,7 +45,7 @@ But if your fencing is different, you might want to exclude some breeds from you
 
 ### Traditional privacy fence
 
-![Stafford inside solid wood privacy fence](../graphics/dog-breed-traits-fencing-solid.jpg)
+*Image hint — Stafford inside solid wood privacy fence*
 
 This Staffordshire Bull Terrier belongs to a family of dogs that can be aggressive toward other dogs. They're best contained with a solid privacy fence.
 
@@ -58,7 +57,7 @@ The safest fence is a solid privacy fence, usually wood or vinyl.
 
 ### See-through fencing (chain link, wire mesh, pickets, wrought iron)
 
-![white picket fence](../graphics/dog-breed-traits-fencing-picket1.jpg)
+*Image hint — white picket fence*
 
 Pickets are one type of see-through fence.
 
@@ -66,13 +65,13 @@ Pickets are one type of see-through fence.
 - See-through fencing leaves your dog more vulnerable to being teased or stolen.
 - See-through fencing leaves you more open to legal liabilities if someone sticks their hand through it and gets bitten. So again, I wouldn't recommend putting a potentially aggressive breed behind this fencing unless there are no passersby in your setting.
 
-  ![Cane Corso looking thru wire fencing](../graphics/dog-breed-traits-fencing-wire.jpg)
+*Image hint — Cane Corso looking thru wire fencing*
 
   I don't recommend keeping a barky breed, or a potentially suspicious or aggressive breed (like a Cane Corso), behind a see-through wire fence unless your setting is so private that no one walks by.
 - See-through fencing can be dangerous if you choose a breed who can squeeze through the openings. Remember that puppies and adolescents are usually much slimmer than adults and can squirm through amazingly narrow gaps. You might want to run a strip of small-mesh chicken wire across the gaps, if necessary.
 - See-through fencing is climbable, so I don't recommend nimble escape artists like Siberian Huskies, Shibas, Basenjis, Border Collies, Miniature Pinschers, Jack Russells (and other agile terriers), and Beagles, among others.
 
-  ![Terrier mix climbing chain link fence](../graphics/dog-breed-traits-fencing-climbing.jpg)
+*Image hint — Terrier mix climbing chain link fence*
 
   Terrier mixes can be both nimble and adventurous. I don't recommend them for climbable fencing.
 
@@ -84,7 +83,7 @@ Don't measure the height of your fencing at its tallest point, but at the lowest
 
 #### If your fence is less than 6 feet
 
-![Siberian Husky scaling chain link fence](../graphics/dog-breed-traits-fencing-climbing2.jpg)
+*Image hint — Siberian Husky scaling chain link fence*
 
 Siberian Huskies need high solid fences, as these canine escapists can both jump and climb.
 
@@ -112,24 +111,3 @@ What if you don't have a traditional fenced yard? Suppose you only have...
 In all these cases, see my article: [Do dogs need a fenced yard?](https://www.yourpurebredpuppy.com/buying/articles/do-dogs-need-fenced-yard.html)
 
 Finally, don't put your dog in a position to escape or to bark at or charge toward passersby. Simply don't leave him outdoors unless you're home AND you're outside with him, or inside but watching him closely, prepared to go out immediately if he starts doing something inappropriate. In other words, don't allow a bad behavior to become a bad habit.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-  
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.

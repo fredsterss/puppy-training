@@ -9,11 +9,9 @@ fetched_at: "2026-08-10T13:13:07+00:00"
 
 # So you want to get a dog.... great! I'll guide you through your journey of choosing and finding the best dog for your family.
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-  
-
-![Miniature Poodle puppy, Buffy](graphics/buffy1.jpg)
+*Image hint — Miniature Poodle puppy, Buffy*
 
 Buffy (the Vampire Slayer) the day we brought her home.
 
@@ -33,7 +31,7 @@ But puppyhood lasts only a year or two. Then you'll be living with an ADULT dog 
 
 So when choosing a dog, you must look beyond the puppy and envision what the ADULT will look like and act like.
 
-![Buffy and Jenna](graphics/jenna-buffy.jpg)
+*Image hint — Buffy and Jenna*
 
 Buffy doesn't shed. Jenna does. Buffy needs to be clipped every 6 weeks. Jenna needs regular combing and trimming. Buffy loves everyone. Jenna is standoffish. Buffy is moderately active. Jenna is extremely active and will chase her ball for hours. Very different dogs!
 
@@ -45,7 +43,9 @@ However.....
 
 ## Finding a good dog is not as easy as you might think.
 
-![man puzzling over a newspaper](graphics/HTB_newspaper.gif)You might think you know how to find a good dog. Watch a dog show on TV and pick an attractive breed. Google it to make sure the breed's national club agrees that this is a fine breed.
+*Image hint — man puzzling over a newspaper*
+
+You might think you know how to find a good dog. Watch a dog show on TV and pick an attractive breed. Google it to make sure the breed's national club agrees that this is a fine breed.
 
 Open your newspaper to the classifieds and make a few phone calls. Drive over to see the pups. Pick the one who jumps into your lap.
 
@@ -57,9 +57,7 @@ Except....
 
 ### Problem #1: You discover that the dog doesn't match your family and lifestyle.
 
-  
-
-![dog pulling wildly on leash](graphics/HTB_wilddog.gif)
+*Image hint — dog pulling wildly on leash*
 
 Wrong dog, maybe?
 
@@ -75,8 +73,7 @@ If you haven't done the right research, here is what many new owners discover:
 
 ### Problem #2: Your dog develops serious health problems as he grows up. Your vet says these health problems were ***inherited.***
 
-  
-![Sick dog](graphics/DQ-inherited.jpg)
+*Image hint — Sick dog*
 
 Inherited health problems are a serious concern in dogs today – especially **purebred** dogs.
 
@@ -86,8 +83,7 @@ I can show you how to lessen the risk of inherited health problems in your new d
 
 ### Problem #3: Your puppy starts growling or acting fearful as he grows up. Your trainer says these temperament problems were ***inherited.***
 
-  
-![dog growling at owner](graphics/HTB_aggression.gif)
+*Image hint — dog growling at owner*
 
 Puppies change as they grow, and not always for the better. We've all seen aggressive or shy or hyperactive adult dogs we wouldn't want in our home.... yet virtually all of them started out as cute puppies.
 
@@ -95,9 +91,7 @@ But hidden beneath that cute surface were inherited temperament problems that to
 
 How SHOULD you choose a puppy, then? Well, as you might have guessed, I can tell you how.... but my advice won't fit in this little yellow box!
 
-  
-
-![book cover](covers/DQ-225.jpg)
+*Image hint — book cover*
 
 373 pages
 
@@ -111,27 +105,31 @@ In my book, I guide you through **three steps:**
 2. Where to get your dog.
 3. Which individual dog you should pick.
 
-![Puppies, choosing a dog breed](graphics/7pkg-puppies.jpg)
+*Image hint — Puppies, choosing a dog breed*
 
 What kind of dog is right for you? I'll help you choose.
-
-  
 
 ## Step 1: What kind of dog should you get?
 
 In Dog Quest: Find The Dog Of Your Dreams......
 
-![checkmark](graphics/checkmark.gif)I help you sort out what kind of dog to get – the pros and cons of purebred dogs, crossbreed dogs, and mixed breed dogs.
+*Image hint — checkmark*
 
-![checkmark](graphics/checkmark.gif)I explain how to choose the right breed based on 17 key characteristics
+I help you sort out what kind of dog to get – the pros and cons of purebred dogs, crossbreed dogs, and mixed breed dogs.
 
-![checkmark](graphics/checkmark.gif)I compare male and female dogs so you can make an informed decision about which gender would be best for you.
+*Image hint — checkmark*
 
-![checkmark](graphics/checkmark.gif)I explain the pros and cons of young puppies, older puppies, adolescent dogs, and adult dogs. Hint: Often a young puppy may not be your best choice. Adolescent and adult dogs have many advantages, which I'll tell you about.
+I explain how to choose the right breed based on 17 key characteristics
 
-  
+*Image hint — checkmark*
 
-![Soft Coated Wheaten Terrier](graphics/TYD_wheaten.jpg)
+I compare male and female dogs so you can make an informed decision about which gender would be best for you.
+
+*Image hint — checkmark*
+
+I explain the pros and cons of young puppies, older puppies, adolescent dogs, and adult dogs. Hint: Often a young puppy may not be your best choice. Adolescent and adult dogs have many advantages, which I'll tell you about.
+
+*Image hint — Soft Coated Wheaten Terrier*
 
 ### "Your buying book taught me so much."
 
@@ -139,28 +137,27 @@ In Dog Quest: Find The Dog Of Your Dreams......
 
 – Carol Zell
 
-  
-  
-
-![Puppies in a cage](graphics/DQ-where.jpg)
+*Image hint — Puppies in a cage*
 
 Should you get your dog from a breeder? Rescue group? Animal shelter? I'll help you decide.
-
-  
 
 ## Step 2: Where should you get your dog?
 
 In Dog Quest: Find The Dog Of Your Dreams......
 
-![checkmark](graphics/checkmark.gif)I review animal shelters and humane societies, rescue groups, show breeders, performance breeders, pet breeders, pet shops, and private owners giving their dogs away.
+*Image hint — checkmark*
 
-![checkmark](graphics/checkmark.gif)I explain what makes a source good, and what makes a source risky, so you'll quickly be able to tell good sources from bad ones. Hint: You can't tell whether a source is good simply by looking at the puppies.
+I review animal shelters and humane societies, rescue groups, show breeders, performance breeders, pet breeders, pet shops, and private owners giving their dogs away.
 
-![checkmark](graphics/checkmark.gif)I tell you the exact questions you should ask each potential source. I tell you what answers you should expect to hear – and most importantly, which answers are "red flags" that mean you should stay away.
+*Image hint — checkmark*
 
-  
+I explain what makes a source good, and what makes a source risky, so you'll quickly be able to tell good sources from bad ones. Hint: You can't tell whether a source is good simply by looking at the puppies.
 
-![Rat Terrier](graphics/TYD_ratterrier.jpg)
+*Image hint — checkmark*
+
+I tell you the exact questions you should ask each potential source. I tell you what answers you should expect to hear – and most importantly, which answers are "red flags" that mean you should stay away.
+
+*Image hint — Rat Terrier*
 
 ### "Your advice on picking out a puppy....."
 
@@ -168,112 +165,113 @@ In Dog Quest: Find The Dog Of Your Dreams......
 
 – Jim Johansen
 
-  
-  
-
-![Puppies with their mother](graphics/DQ-which.jpg)
+*Image hint — Puppies with their mother*
 
 Which one should you choose? One of the puppies? Or perhaps the mother dog! I can help you decide.
-
-  
 
 ## Step 3: Which individual dog should you pick?
 
 In Dog Quest: Find The Dog Of Your Dreams......
 
-![checkmark](graphics/checkmark.gif)I'll show you how to do simple personality tests that can tell you whether a puppy or adult dog is likely to make a good pet. I'll tell you how to watch out for "red flags" that indicate potential behavior problems like hyperactivity, stubbornness, shyness, or aggression
+*Image hint — checkmark*
 
-![checkmark](graphics/checkmark.gif)I'll tell you what you need to know about ***health clearance tests*** and how to verify that they've been done. If they haven't been done, the risk of health problems is much greater. Which tests need to be done depends on the breed.... what's mandatory in one breed is unnecessary in another.... we'll talk about this.
+I'll show you how to do simple personality tests that can tell you whether a puppy or adult dog is likely to make a good pet. I'll tell you how to watch out for "red flags" that indicate potential behavior problems like hyperactivity, stubbornness, shyness, or aggression
+
+*Image hint — checkmark*
+
+I'll tell you what you need to know about ***health clearance tests*** and how to verify that they've been done. If they haven't been done, the risk of health problems is much greater. Which tests need to be done depends on the breed.... what's mandatory in one breed is unnecessary in another.... we'll talk about this.
 
 Caution: MOST people who sell puppies are totally ignorant about health clearance tests. Some people will try to pass off a "general health certificate" from their vet as though it's a health clearance test – it isn't. I'll show you what real clearance certificates look like and how to read them, so you won't be fooled.
 
-![checkmark](graphics/checkmark.gif)Finally, did you know that a written pedigree can reveal a great deal about a puppy's future health? Knowing how to evaluate a pedigree will help you avoid puppies that are more likely to have expensive and heartbreaking health problems. I'll show you how.
+*Image hint — checkmark*
 
-  
+Finally, did you know that a written pedigree can reveal a great deal about a puppy's future health? Knowing how to evaluate a pedigree will help you avoid puppies that are more likely to have expensive and heartbreaking health problems. I'll show you how.
 
-![Dachshund](graphics/DQ-dachshund.jpg)
+*Image hint — Dachshund*
 
 ### "It was my dog buying bible."
 
-"I have a great new puppy, thanks entirely to your book! It was my dog buying bible.  
-  
-I passed over something like a dozen puppies that would probably have turned out badly and I kept searching until I found my dream puppy, Cheyenne.  
-  
+"I have a great new puppy, thanks entirely to your book! It was my dog buying bible.
+
+I passed over something like a dozen puppies that would probably have turned out badly and I kept searching until I found my dream puppy, Cheyenne.
+
 Now that I have the perfect puppy I'm going to raise her according to the advice in your other books about dog training and health. Thanks Michelle for helping my family's dreams come true."
 
 – Cindy Miller
-
-  
 
 Dog Quest will help you choose your next best friend. But the moment you get him home, you need to start training, feeding, and caring for him. Since you want to be totally prepared for that, you should read up on training and caring for your new dog BEFORE you bring him home.
 
 That's why I'm GIVING you 7 of my books on training and health care.... free.... when you order Dog Quest. Here are the 7 books you will get for free:
 
-![Teach Your Dog 100 English Words](covers/TYD-110.jpg)
-![Teach Your Dog 100 English Words](covers/TYD-110.jpg)
-![Free dog training book](./graphics/free5.gif)
+*Image hint — Teach Your Dog 100 English Words*
+
+*Image hint — Teach Your Dog 100 English Words*
+
+*Image hint — Free dog training book*
 
 Teach Your Dog 100 English Words
 
 **Bonus Book # 1....** Make your dog the smartest, most well-behaved companion you've ever had. Follow my Respect Training and Vocabulary program and your dog will listen to your words and do what you say. Also includes games, activities, and tricks!
 
-  
+*Image hint — 11 Things You Must Do Right To Keep Your Dog Healthy and Happy*
 
-![11 Things You Must Do Right To Keep Your Dog Healthy and Happy](covers/11T-110.jpg)
-![11 Things You Must Do Right To Keep Your Dog Healthy and Happy](covers/11T-110.jpg)
-![Free dog health book](./graphics/free5.gif)
+*Image hint — 11 Things You Must Do Right To Keep Your Dog Healthy and Happy*
+
+*Image hint — Free dog health book*
 
 11 Things You Must Do Right To Keep Your Dog Healthy and Happy
 
 **Bonus Book # 2....** Feeding, vaccinations, neutering, physical exercise, mental exercise, grooming, safety, much more! Follow the 11 Things You Must Do Right and your dog should live a long, healthy life and seldom need to visit the vet.
 
-  
+*Image hint — Symptom Checker From Nose To Tail*
 
-![Symptom Checker From Nose To Tail](covers/SC-110.jpg)
-![Symptom Checker From Nose To Tail](covers/SC-110.jpg)
-![Free dog health book](./graphics/free5.gif)
+*Image hint — Symptom Checker From Nose To Tail*
+
+*Image hint — Free dog health book*
 
 Symptom Checker: The Nose To Tail Checkup
 
 **Bonus Book # 3....** Use this easy-to-follow, step-by-step guide to check your dog's health on a regular basis, so you can catch health problems when they're still minor and easy to correct. Tells you exactly what's normal and abnormal on every part of your dog's body.
 
-  
+*Image hint — Purebred Problems: Health Profiles for 165 Dog Breeds*
 
-![Purebred Problems: Health Profiles for 165 Dog Breeds](covers/PP-110.jpg)
-![Purebred Problems: Health Profiles for 165 Dog Breeds](covers/PP-110.jpg)
-![Free dog health book](./graphics/free5.gif)
+*Image hint — Purebred Problems: Health Profiles for 165 Dog Breeds*
+
+*Image hint — Free dog health book*
 
 Purebred Problems: Health Profiles By Breed
 
 **Bonus Book # 4....** It's hard to find honest information about health problems because breeders don't want to admit to problems in their favorite breed. But I've done the digging for you! Now you'll know which health problems to be especially watchful for in your breed.
 
-  
+*Image hint — Safest Remedies: Treatment Options*
 
-![Safest Remedies: Treatment Options](covers/SR-110.jpg)
-![Safest Remedies: Treatment Options](covers/SR-110.jpg)
-![Free dog health book](./graphics/free5.gif)
+*Image hint — Safest Remedies: Treatment Options*
+
+*Image hint — Free dog health book*
 
 Safest Remedies For Canine Health Problems
 
 **Bonus Book # 5....** This is the book to turn to if your dog develops any health problem. You'll learn about symptoms, diagnosis, and the most effective treatments with the fewest side effects. You'll even learn when inexpensive at-home treatments are better options than going to the vet.
 
-  
+*Image hint — Test Your Dog's IQ*
 
-![Test Your Dog's IQ](covers/IQ-110.jpg)
-![Test Your Dog's IQ](covers/IQ-110.jpg)
-![Free dog health book](./graphics/free5.gif)
+*Image hint — Test Your Dog's IQ*
+
+*Image hint — Free dog health book*
 
 Test Your Dog's IQ
 
 **Bonus Book # 6....** Is your dog smarter than your best friend's dog? You'll never know until you test him! These 25 fun tests measure your dog's intelligence and problem-solving skills. Find out how smart your dog really is....or isn't!
 
-  
+*Image hint — Respect Training For Puppies*
 
-![Respect Training For Puppies](covers/RTP-110.jpg)
-![Respect Training For Adult Dogs](covers/RTA-110.jpg)
-![Respect Training For Puppies](covers/RTP-110.jpg)
-![Respect Training For Adult Dogs](covers/RTA-110.jpg)
-![Free training book](./graphics/free5.gif)
+*Image hint — Respect Training For Adult Dogs*
+
+*Image hint — Respect Training For Puppies*
+
+*Image hint — Respect Training For Adult Dogs*
+
+*Image hint — Free training book*
 
 Respect Training – (choose one)
 
@@ -287,7 +285,9 @@ I charge so little for my books because I know they will make your dog's life be
 
 ## 30-Day Money-Back Guarantee
 
-![Money back guarantee](graphics/guarantee.gif)I offer a 30-day money back guarantee. Plain and simple, if you're not satisfied with my book within 30 days, I'll refund your money. I'm a respected author, and I want you to be happy!
+*Image hint — Money back guarantee*
+
+I offer a 30-day money back guarantee. Plain and simple, if you're not satisfied with my book within 30 days, I'll refund your money. I'm a respected author, and I want you to be happy!
 
 I'm absolutely confident that you will be. Dog owners have been buying my books online since 2002 and my refund rate is an infinitesimal 0.1%. That means 999 people out of a thousand are satisfied. I'm pretty happy about that!
 
@@ -303,34 +303,47 @@ My books will help ensure that your next 10 to 15 years with your new dog will b
 
 Sounds like the kind of dog **I** want.... how about you?
 
-  
-
 ## Order *"Dog Quest: Find The Dog Of Your Dreams"*
 
-![Dog Quest: Find The Dog Of Your Dreams cover](covers/DQ-225.jpg)
+*Image hint — Dog Quest: Find The Dog Of Your Dreams cover*
 
-![Money back guarantee](graphics/guarantee.gif "Satisfaction guaranteed or your money back")30-day money-back guarantee
+*Image hint — Money back guarantee*
+
+30-day money-back guarantee
 
 What kind of dog is best for you? Where should you get your dog? Which individual dog should you pick? Purebred, crossbred, or mixed? Male or female? Puppy or adult? Buy from a breeder? Adopt from rescue?
 
 I will guide you through your journey of choosing and finding your new best friend... then I'll show you how to raise and train him to be a healthy, well-behaved companion. Everything is covered!
 
-![checkmark](graphics/checkmark.gif)The best kind of dog for you. The best gender. The best age. The best places to find your dog. How to pick the best puppy or adult dog.
+*Image hint — checkmark*
 
-![checkmark](graphics/checkmark.gif)All the words your new dog needs to know, plus calmness, gentleness, acceptance of being handled, obedience training, housebreaking, and solving behavior problems.
+The best kind of dog for you. The best gender. The best age. The best places to find your dog. How to pick the best puppy or adult dog.
 
-![checkmark](graphics/checkmark.gif)Plus feeding, vaccinations, grooming, safety, exercise, neutering, symptom checker, health problems, inexpensive at-home treatments, and more.... so your new dog will live a long, healthy life and seldom need to visit the vet.
+*Image hint — checkmark*
+
+All the words your new dog needs to know, plus calmness, gentleness, acceptance of being handled, obedience training, housebreaking, and solving behavior problems.
+
+*Image hint — checkmark*
+
+Plus feeding, vaccinations, grooming, safety, exercise, neutering, symptom checker, health problems, inexpensive at-home treatments, and more.... so your new dog will live a long, healthy life and seldom need to visit the vet.
 
 ## If you have a puppy 2 to 18 months old (or if you're planning to get a PUPPY)... you'll want this package of 8 books for $24
 
-![book cover](covers/DQ-110.jpg "Dog Quest")
-![book cover](covers/RTP-110.jpg "Respect Training For Puppies")
-![book cover](covers/11T-110.jpg "11 Things You Must Do Right To Keep Your Dog Healthy and Happy")
-![book cover](covers/TYD-110.jpg "Teach Your Dog 100 English Words")
-![book cover](covers/SC-110.jpg "Symptom Checker From Nose To Tail")
-![book cover](covers/PP-110.jpg "Purebred Problems: Health Issues By Breed")
-![book cover](covers/SR-110.jpg "Safest Remedies For Canine Health Problems")
-![book cover](covers/IQ-110.jpg "Test Your Dog's IQ!")
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
 
 |  |  |
 | --- | --- |
@@ -338,14 +351,21 @@ I will guide you through your journey of choosing and finding your new best frie
 
 ## If you have an adult dog over 18 months old (or if you're planning to get an adult dog)... you'll want this package of 8 books for $24
 
-![book cover](covers/DQ-110.jpg "Dog Quest")
-![book cover](covers/RTA-110.jpg "Respect Training For Adult Dogs")
-![book cover](covers/11T-110.jpg "11 Things You Must Do Right To Keep Your Dog Healthy and Happy")
-![book cover](covers/TYD-110.jpg "Teach Your Dog 100 English Words")
-![book cover](covers/SC-110.jpg "Symptom Checker From Nose To Tail")
-![book cover](covers/PP-110.jpg "Purebred Problems: Health Issues By Breed")
-![book cover](covers/SR-110.jpg "Safest Remedies For Canine Health Problems")
-![book cover](covers/IQ-110.jpg "Test Your Dog's IQ!")
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
+
+*Image hint — book cover*
 
 |  |  |
 | --- | --- |

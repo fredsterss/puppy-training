@@ -9,9 +9,9 @@ fetched_at: "2026-08-10T13:41:24+00:00"
 
 # Teaching Your Dog To Respect You
 
-By [Michele Welton](https://www.yourpurebredpuppy.com/about.html), Dog Trainer, Breed Selection Consultant, Author of 15 Dog Books
+By [Michele Welton](https://www.yourpurebredpuppy.com/about.html)
 
-![Dog owner calling me about behavior problems with her dog](../graphics/respect-kathy.jpg)
+*Image hint — Dog owner calling me about behavior problems with her dog*
 
 Frustrated dog owners often call or email me when their dog has behavior problems and needs training. Here is "Kathy" calling about "Jake."
 
@@ -27,8 +27,7 @@ Kathy (surprised): "What do you mean? How can a dog be rude?"
 
 Ah, how indeed! Let us count the ways!
 
-  
-![barking dog](../graphics/respect-barking.jpg)
+*Image hint — barking dog*
 
 ## Talking back
 
@@ -36,16 +35,13 @@ Me: "Does Jake sass you when you tell him to do something? Does he bark back at 
 
 Kathy: "Well, sometimes. If he doesn't want to do something."
 
-  
-
 ## Grumbling when annoyed
 
 Me: "Does he ever growl at you when you wake him up? When you try to move him off his favorite chair? When you reach toward his toy to take it away? When you touch some "sensitive" part of his body, like his tail or paw?"
 
 Kathy: "Yes, he does grumble sometimes. But he's just telling me not to bother him."
 
-  
-![bad dog behavior](../graphics/respect-tug.jpg)
+*Image hint — bad dog behavior*
 
 ## Hanging onto objects
 
@@ -53,9 +49,7 @@ Me: "Does he sometimes brace his legs and refuse to let go when you try to take 
 
 Kathy: "Yes, if it's something he wants to keep for himself."
 
-  
-  
-![dog misbehaving](../graphics/respect-pestering.jpg)
+*Image hint — dog misbehaving*
 
 ## Pestering you
 
@@ -63,8 +57,7 @@ Me: "Does he frequently nudge or pester you for attention when you're trying to 
 
 Kathy: "Yes, when I'm not paying attention to him."
 
-  
-![dog steals food](../graphics/respect-stealing.jpg)
+*Image hint — dog steals food*
 
 ## Stealing food
 
@@ -72,9 +65,7 @@ Me: "Does he ever steal food off your plate or off the kitchen counter when you 
 
 Kathy:: "Um...."
 
-  
-  
-![dog won't come when called](../graphics/respect-avoidance.jpg)
+*Image hint — dog won't come when called*
 
 ## Staying just out of your reach
 
@@ -82,9 +73,7 @@ Me: "When you reach toward him, does he sometimes dart away from you, keeping ju
 
 Kathy: "Yes, he doesn't want to be caught."
 
-  
-  
-![dog runs away from you](../graphics/respect-running.jpg)
+*Image hint — dog runs away from you*
 
 ## Running away from you
 
@@ -92,9 +81,7 @@ Me: "When you catch him doing something wrong, does he run from you? Does he lea
 
 Kathy:: "Uh-huh. So he can't be scolded. He doesn't always come back when I call him either, unless I have a cookie."
 
-  
-  
-![dog barks at people](../graphics/respect-tellingoff.jpg)
+*Image hint — dog barks at people*
 
 ## "Telling off" strangers or other dogs
 
@@ -102,9 +89,7 @@ Me: "Does **Jake** decide who's welcome in your home and who isn't? Does he bark
 
 Kathy: "Well, if he's excited....or if he doesn't like them...."
 
-  
-  
-![dog jumps on people](../graphics/respect-jumping.jpg)
+*Image hint — dog jumps on people*
 
 ## Jumping on people
 
@@ -114,9 +99,7 @@ Me: "Ah, and if he does like them, is he calm and polite? Or does he jump all ov
 
 Kathy: "I'm beginning to see your point."
 
-  
-  
-![dog with his head stuck inside a flowerpot](../graphics/respect_19.gif)
+*Image hint — dog with his head stuck inside a flowerpot*
 
 Me: "And you said he only obeys when he's in the mood.
 
@@ -126,7 +109,7 @@ Kathy (sighing): "You're right, Michele. Jake does do quite a few of those thing
 
 Me: "I'm afraid so. Those behaviors are disrespectful, you see. If a dog is allowed to do things that are rude and disrespectful, he starts believing that **he** is more in charge of his behavior than **you** are.
 
-![Puppies have social group instincts](../graphics/respect-2pups.jpg)
+*Image hint — Puppies have social group instincts*
 
 Even young puppies have an instinct to belong to a group and to sort out "Who's Who" in that group.
 
@@ -135,7 +118,9 @@ Dogs have an instinctive desire to belong to a *social group* – what we might 
 - Who is the leader who sets the boundaries?
 - Who are the followers who follow the leader?
 
-![dominant dog holding owner on a leash](../graphics/respect_13.gif)If you and your other family members don't establish **yourselves** as the leaders, Jake will assume that role himself."
+*Image hint — dominant dog holding owner on a leash*
+
+If you and your other family members don't establish **yourselves** as the leaders, Jake will assume that role himself."
 
 Kathy (worried): "So dogs want to be in charge?"
 
@@ -143,7 +128,7 @@ Me: "No, the vast majority of dogs don't want to be leaders. They really, really
 
 But a dog isn't comfortable in a world where *no one* seems to be in charge.
 
-![dog doesn't like baths](../graphics/respect-notlike1.jpg)
+*Image hint — dog doesn't like baths*
 
 If your dog won't calmly "let" you bathe him, the relationship between the two of you needs to be changed.
 
@@ -157,7 +142,7 @@ There are times when you need to do things with Jake that he doesn't understand 
 
 For example, you might need to give medicine that tastes awful.... or take something dangerous out of his mouth..... or roll him onto his back so you can remove a tick from his belly.
 
-![dog doesn't let you brush his teeth](../graphics/respect-notlike2.jpg)
+*Image hint — dog doesn't let you brush his teeth*
 
 If your dog won't "let" you clean his teeth or take something out of his mouth, the relationship between the two of you needs to be changed.
 
@@ -167,7 +152,7 @@ Me: "Yes. Jake may be smart, but he can't understand the things that YOU underst
 
 For your own peace of mind as your dog's guardian and caregiver, you must be able to restrain and handle him in any way you see fit, at any time you see fit.
 
-![dog doesn't like being brushed](../graphics/respect-wontlet.jpg)
+*Image hint — dog doesn't like being brushed*
 
 If your dog won't "let" you groom him, the relationship between the two of you needs to be changed.
 
@@ -184,7 +169,7 @@ Kathy: "Are you sure he won't resent me for being in charge?"
 
 Me: "He absolutely won't resent you. Dogs LOVE having someone to look up to. When your dog trusts you as the leader, he will behave beautifully for you – and also he'll feel happy and secure, because it's a great load off his shoulders."
 
-![Doberman and his new owner](../graphics/respect-doberman.jpg)
+*Image hint — Doberman and his new owner*
 
 ### Five reasons dogs LOVE being followers
 
@@ -212,7 +197,7 @@ Me: "Now...what dog wouldn't love all that?
 
 Kathy: "Great! I'm really loving this idea! So how do I teach Jake to be a follower dog?"
 
-![Dogs listen to people they respect](../graphics/respect-whitegolden.jpg)
+*Image hint — Dogs listen to people they respect*
 
 Your relationship with your dog should be one where he is taught to look trustingly at you for guidance, direction, and permission. That's the relationship that every dog thrives on.
 
@@ -230,22 +215,3 @@ I cover all the right ways to interact with your dog – and the wrong ways that
 - If you have an adult dog, check out [Respect Training for Adult Dogs: 30 Seconds to a Calm, Polite, Well-Behaved Dog.](https://www.yourpurebredpuppy.com/books/RTA.html)
 
 If you follow the chapters faithfully, the result will be a calm, well-behaved dog who loves, trusts, AND respects you.
-
-[![Michele Welton with Buffy](https://www.yourpurebredpuppy.com/Graphics/author-bio90-orange.jpg)](https://www.yourpurebredpuppy.com/about.html)**About the author**: Michele Welton has over 40 years of experience as a Dog Trainer, Dog Breed Consultant, and founder of three Dog Training Centers. An expert researcher and author of 15 books about dogs, she loves helping people choose, train, and care for their dogs.
-
-To help you train and care for your dog
-
-[![dog training videos](../../training/graphics/videos-buddy-200.jpg)](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html)
-[Dog training videos.](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) Sometimes it's easier to train your puppy (or adult dog) when you can see the correct training techniques in action.  
-  
-The problem is that most dog training videos on the internet are worthless, because they use the wrong training method. I recommend these [dog training videos](https://www.yourpurebredpuppy.com/training/articles/dog-training-videos.html) that are based on respect and leadership.
-
-[![book cover](../../books/covers/RTP-110.jpg)Respect Training For Puppies: 30 seconds to a calm, polite, well-behaved puppy.](https://www.yourpurebredpuppy.com/books/RTP.html) For puppies 2 to 18 months old. Your puppy will learn the 21 skills that all family dogs need to know.
-
-If your dog is **over** 18 months, you'll want [![book cover](../../books/covers/RTA-110.jpg)Respect Training For Adult Dogs: 30 seconds to a calm, polite, well-behaved dog.](https://www.yourpurebredpuppy.com/books/RTA.html) Again your dog will learn the 21 skills that all family dogs need to know.
-
-[![book cover](../../books/covers/TYD-110.jpg)Teach Your Dog 100 English Words](https://www.yourpurebredpuppy.com/books/TYD.html) is a unique Vocabulary and Respect Training Program that will teach your adult dog to listen to you and do what you say.
-
-[![book cover](../../books/covers/11T-110.jpg)11 Things You Must Do Right To Keep Your Dog Healthy and Happy](https://www.yourpurebredpuppy.com/books/11T.html) helps your dog live a longer, healthier life.
-
-[![book cover](../../books/covers/DQ-110.jpg)Dog Quest: Find The Dog Of Your Dreams](https://www.yourpurebredpuppy.com/books/DQ.html) will help you find a good-tempered, healthy family companion.
