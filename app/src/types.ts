@@ -28,7 +28,6 @@ export interface PuppyEvent {
   type: EventType
   occurredAt: string
   amount?: number
-  meal?: 'breakfast' | 'lunch' | 'dinner' | 'snack'
   note?: string
 }
 

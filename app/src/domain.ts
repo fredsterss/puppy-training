@@ -3,7 +3,7 @@ import type { Article, ArticleView, ArticleViewFilter, EventType, PuppyEvent } f
 const eventLabels: Record<EventType, string> = {
   pee: 'Pee',
   poo: 'Poo',
-  food: 'Food',
+  food: 'Ate',
   water: 'Water',
   sleep: 'Sleep',
   wake: 'Wake'
@@ -11,20 +11,6 @@ const eventLabels: Record<EventType, string> = {
 
 export function labelForEvent(type: EventType): string {
   return eventLabels[type]
-}
-
-export function formatEventDetails(event: PuppyEvent): string | undefined {
-  if (event.type !== 'food') return event.note
-  const parts = [event.meal && event.meal[0].toUpperCase() + event.meal.slice(1)]
-  if (event.amount) parts.push(`${event.amount} ${event.amount === 1 ? 'cup' : 'cups'}`)
-  if (event.note?.trim()) parts.push(event.note.trim())
-  return parts.filter(Boolean).join(' · ') || undefined
-}
-
-export function foodAmountToday(events: PuppyEvent[], now = new Date()): number {
-  return eventsToday(events, now)
-    .filter((event) => event.type === 'food')
-    .reduce((total, event) => total + (event.amount ?? 0), 0)
 }
 
 export function searchArticles(articles: Article[], rawQuery: string): Article[] {

@@ -74,7 +74,7 @@ Reader state is stored as preferences: current destination, current article iden
 - Article links that point outside the generated collection open externally.
 - Legacy preformatted prose, long links, lists, and tables are constrained to the mobile reader width.
 - The installed iPhone reader uses a dedicated header/content grid so article controls and metadata remain below the status-bar-safe header.
-- Food entries capture meal type, amount served in cups, and an optional note; existing timestamp-only food history remains valid.
+- Food tracking is deliberately one tap: “Ate” records only the current timestamp.
 - Tracking guidance is an estimate, not medical advice; the user can always log or correct events manually.
 
 ## Testing strategy
