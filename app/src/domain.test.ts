@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { eventsToday, filterArticlesByView, formatRelativeTime, formatViewSummary, labelForEvent, nextPottyAt, searchArticles } from './domain'
+import { eventsToday, filterArticlesByView, formatRelativeTime, formatViewSummary, labelForEvent, nextPottyAt, normalizeTags, searchArticles } from './domain'
 import type { Article, ArticleView, PuppyEvent } from './types'
 
 const articles: Article[] = [
@@ -57,4 +57,7 @@ describe('care summaries', () => {
     expect(eventsToday([{ type: 'pee', occurredAt: today }, { type: 'poo', occurredAt: yesterday }], localNoon)).toHaveLength(1)
   })
   it('labels a food timestamp as eaten', () => expect(labelForEvent('food')).toBe('Ate'))
+  it('normalizes arbitrary accident tags', () => {
+    expect(normalizeTags(' rug, #upstairs, Rug, after nap ')).toEqual(['rug', 'upstairs', 'after nap'])
+  })
 })

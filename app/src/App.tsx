@@ -2,7 +2,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import DOMPurify from 'dompurify'
 import { marked } from 'marked'
 import { db, getPreference, setPreference } from './db'
-import { eventsToday, filterArticlesByView, formatRelativeTime, formatViewSummary, labelForEvent, mostRecent, nextPottyAt, searchArticles } from './domain'
+import { eventsToday, filterArticlesByView, formatRelativeTime, formatViewSummary, labelForEvent, mostRecent, nextPottyAt, normalizeTags, searchArticles } from './domain'
 import type { Article, ArticleBundle, ArticleView, ArticleViewFilter, ChecklistProgress, EventType, PuppyEvent, Screen } from './types'
 
 const screens: Array<{ id: Screen; label: string; icon: string }> = [
@@ -16,6 +16,7 @@ const quickEvents: Array<{ type: EventType; icon: string }> = [
   { type: 'pee', icon: '💧' },
   { type: 'poo', icon: '●' },
   { type: 'food', icon: '◒' },
+  { type: 'accident', icon: '!' },
   { type: 'water', icon: '◡' },
   { type: 'sleep', icon: '☾' },
   { type: 'wake', icon: '☀' }
@@ -39,6 +40,8 @@ function App() {
   const [viewFilter, setViewFilter] = useState<ArticleViewFilter>('all')
   const [ready, setReady] = useState(false)
   const [message, setMessage] = useState<string>()
+  const [taggingAccidentId, setTaggingAccidentId] = useState<number>()
+  const [accidentTags, setAccidentTags] = useState('')
   const readerRef = useRef<HTMLElement>(null)
   const scrollSaveTimer = useRef<number | undefined>(undefined)
 
@@ -142,11 +145,36 @@ function App() {
       const id = await db.events.add(event)
       setEvents((current) => [{ ...event, id }, ...current])
       setMessage(`${labelForEvent(type)} logged`)
+      if (type === 'accident') {
+        setTaggingAccidentId(id)
+        setAccidentTags('')
+      }
       window.setTimeout(() => setMessage(undefined), 1800)
     } catch {
       setMessage('Could not save that event. Check available device storage and try again.')
     }
   }, [])
+
+  const editAccidentTags = useCallback((event: PuppyEvent) => {
+    if (event.id === undefined) return
+    setTaggingAccidentId(event.id)
+    setAccidentTags((event.tags ?? []).join(', '))
+  }, [])
+
+  const saveAccidentTags = useCallback(async () => {
+    if (taggingAccidentId === undefined) return
+    const tags = normalizeTags(accidentTags)
+    try {
+      await db.events.update(taggingAccidentId, { tags })
+      setEvents((current) => current.map((event) => event.id === taggingAccidentId ? { ...event, tags } : event))
+      setTaggingAccidentId(undefined)
+      setAccidentTags('')
+      setMessage(tags.length ? 'Accident tags saved' : 'Accident saved')
+      window.setTimeout(() => setMessage(undefined), 1800)
+    } catch {
+      setMessage('Could not save those tags. Please try again.')
+    }
+  }, [accidentTags, taggingAccidentId])
 
   const toggleChecklist = useCallback(async (id: string) => {
     const completed = !progress.get(id)?.completed
@@ -283,13 +311,29 @@ function App() {
             <div className="section-heading"><h2>Recent activity</h2><span>{events.length} total</span></div>
             <div className="timeline">
               {events.slice(0, 100).map((event) => (
-                <article key={event.id}><span className={`event-dot ${event.type}`} /> <div><strong>{labelForEvent(event.type)}</strong><small>{new Date(event.occurredAt).toLocaleString([], { weekday: 'short', hour: 'numeric', minute: '2-digit' })}</small></div><span>{formatRelativeTime(event.occurredAt)}</span><button className="delete-event" aria-label={`Remove ${labelForEvent(event.type)} entry`} onClick={() => void removeEvent(event)}>×</button></article>
+                <article key={event.id} className={event.type === 'accident' ? 'accident-entry' : undefined}>
+                  <span className={`event-dot ${event.type}`} />
+                  <div><strong>{labelForEvent(event.type)}</strong><small>{new Date(event.occurredAt).toLocaleString([], { weekday: 'short', hour: 'numeric', minute: '2-digit' })}</small>{event.type === 'accident' && <div className="tag-list">{event.tags?.map((tag) => <span key={tag}>#{tag}</span>)}<button onClick={() => editAccidentTags(event)}>{event.tags?.length ? 'Edit tags' : '+ Add tags'}</button></div>}</div>
+                  <span>{formatRelativeTime(event.occurredAt)}</span>
+                  <button className="delete-event" aria-label={`Remove ${labelForEvent(event.type)} entry`} onClick={() => void removeEvent(event)}>×</button>
+                </article>
               ))}
               {!events.length && <div className="empty-state"><strong>No activity yet</strong><p>Use a button above to start today’s log.</p></div>}
             </div>
           </section>
         )}
       </main>
+
+      {taggingAccidentId !== undefined && (
+        <div className="sheet-backdrop" role="presentation" onClick={() => setTaggingAccidentId(undefined)}>
+          <form className="tag-sheet" aria-label="Tag accident" onSubmit={(event) => { event.preventDefault(); void saveAccidentTags() }} onClick={(event) => event.stopPropagation()}>
+            <div className="sheet-heading"><div><p className="eyebrow">Accident logged</p><h2>Add context</h2></div><button type="button" aria-label="Close accident tags" onClick={() => setTaggingAccidentId(undefined)}>×</button></div>
+            <p>Optional tags make patterns easier to spot later.</p>
+            <label>Tags, separated by commas<input value={accidentTags} onChange={(event) => setAccidentTags(event.target.value)} placeholder="rug, upstairs, after nap" autoFocus /></label>
+            <button className="primary-button" type="submit">Save tags</button>
+          </form>
+        </div>
+      )}
 
       <nav className="bottom-nav" aria-label="Primary navigation">
         {screens.map((item) => <button key={item.id} className={screen === item.id ? 'active' : ''} onClick={() => navigate(item.id)}><span>{item.icon}</span>{item.label}</button>)}

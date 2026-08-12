@@ -4,6 +4,7 @@ const eventLabels: Record<EventType, string> = {
   pee: 'Pee',
   poo: 'Poo',
   food: 'Ate',
+  accident: 'Accident',
   water: 'Water',
   sleep: 'Sleep',
   wake: 'Wake'
@@ -11,6 +12,19 @@ const eventLabels: Record<EventType, string> = {
 
 export function labelForEvent(type: EventType): string {
   return eventLabels[type]
+}
+
+export function normalizeTags(rawTags: string): string[] {
+  const seen = new Set<string>()
+  return rawTags
+    .split(',')
+    .map((tag) => tag.trim().replace(/^#+/, '').replace(/\s+/g, ' '))
+    .filter((tag) => {
+      const key = tag.toLocaleLowerCase()
+      if (!tag || seen.has(key)) return false
+      seen.add(key)
+      return true
+    })
 }
 
 export function searchArticles(articles: Article[], rawQuery: string): Article[] {

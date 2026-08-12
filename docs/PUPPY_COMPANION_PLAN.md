@@ -47,10 +47,11 @@ preferences
 
 events
   id: auto-increment integer
-  type: pee | poo | food | water | sleep | wake
+  type: pee | poo | food | accident | water | sleep | wake
   occurredAt: ISO timestamp
   amount?: number
   note?: string
+  tags?: arbitrary string[] (accidents)
 
 checklistProgress
   id: stable template-item identifier
@@ -75,6 +76,7 @@ Reader state is stored as preferences: current destination, current article iden
 - Legacy preformatted prose, long links, lists, and tables are constrained to the mobile reader width.
 - The installed iPhone reader uses a dedicated header/content grid so article controls and metadata remain below the status-bar-safe header.
 - Food tracking is deliberately one tap: “Ate” records only the current timestamp.
+- Accident tracking records immediately, then offers optional arbitrary comma-separated tags that remain editable from history.
 - Tracking guidance is an estimate, not medical advice; the user can always log or correct events manually.
 
 ## Testing strategy
