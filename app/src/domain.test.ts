@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { eventsToday, filterArticlesByView, formatRelativeTime, formatViewSummary, nextPottyAt, searchArticles } from './domain'
+import { eventsToday, filterArticlesByView, foodAmountToday, formatEventDetails, formatRelativeTime, formatViewSummary, nextPottyAt, searchArticles } from './domain'
 import type { Article, ArticleView, PuppyEvent } from './types'
 
 const articles: Article[] = [
@@ -55,5 +55,13 @@ describe('care summaries', () => {
     const today = new Date(2026, 7, 10, 1).toISOString()
     const yesterday = new Date(2026, 7, 9, 23, 59).toISOString()
     expect(eventsToday([{ type: 'pee', occurredAt: today }, { type: 'poo', occurredAt: yesterday }], localNoon)).toHaveLength(1)
+  })
+  it('totals and describes detailed food entries', () => {
+    const meals: PuppyEvent[] = [
+      { type: 'food', meal: 'breakfast', amount: 0.5, note: 'Ate everything', occurredAt: new Date(2026, 7, 10, 8).toISOString() },
+      { type: 'food', meal: 'lunch', amount: 0.25, occurredAt: new Date(2026, 7, 10, 12).toISOString() }
+    ]
+    expect(foodAmountToday(meals, new Date(2026, 7, 10, 13))).toBe(0.75)
+    expect(formatEventDetails(meals[0])).toBe('Breakfast · 0.5 cups · Ate everything')
   })
 })

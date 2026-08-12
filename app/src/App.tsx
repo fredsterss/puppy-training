@@ -2,7 +2,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import DOMPurify from 'dompurify'
 import { marked } from 'marked'
 import { db, getPreference, setPreference } from './db'
-import { eventsToday, filterArticlesByView, formatRelativeTime, formatViewSummary, labelForEvent, mostRecent, nextPottyAt, searchArticles } from './domain'
+import { eventsToday, filterArticlesByView, foodAmountToday, formatEventDetails, formatRelativeTime, formatViewSummary, labelForEvent, mostRecent, nextPottyAt, searchArticles } from './domain'
 import type { Article, ArticleBundle, ArticleView, ArticleViewFilter, ChecklistProgress, EventType, PuppyEvent, Screen } from './types'
 
 const screens: Array<{ id: Screen; label: string; icon: string }> = [
@@ -39,6 +39,10 @@ function App() {
   const [viewFilter, setViewFilter] = useState<ArticleViewFilter>('all')
   const [ready, setReady] = useState(false)
   const [message, setMessage] = useState<string>()
+  const [foodFormOpen, setFoodFormOpen] = useState(false)
+  const [foodMeal, setFoodMeal] = useState<NonNullable<PuppyEvent['meal']>>('breakfast')
+  const [foodAmount, setFoodAmount] = useState('')
+  const [foodNote, setFoodNote] = useState('')
   const readerRef = useRef<HTMLElement>(null)
   const scrollSaveTimer = useRef<number | undefined>(undefined)
 
@@ -82,6 +86,7 @@ function App() {
     return recent.length ? recent : articles.filter(({ path }) => path.includes('training/articles')).slice(0, 3)
   }, [articles, articleViews])
   const todayEvents = useMemo(() => eventsToday(events), [events])
+  const todayFoodAmount = useMemo(() => foodAmountToday(events), [events])
   const nextPotty = useMemo(() => nextPottyAt(events), [events])
   const completedCount = checklistArticle?.checklistItems.filter(({ id }) => progress.get(id)?.completed).length ?? 0
   const articleCountNoun = viewFilter === 'all' ? 'offline article' : `${viewFilter} article`
@@ -137,6 +142,10 @@ function App() {
   }, [selectedArticleId, ready])
 
   const addEvent = useCallback(async (type: EventType) => {
+    if (type === 'food') {
+      setFoodFormOpen(true)
+      return
+    }
     try {
       const event: PuppyEvent = { type, occurredAt: new Date().toISOString() }
       const id = await db.events.add(event)
@@ -147,6 +156,32 @@ function App() {
       setMessage('Could not save that event. Check available device storage and try again.')
     }
   }, [])
+
+  const addFood = useCallback(async () => {
+    const amount = Number(foodAmount)
+    if (!Number.isFinite(amount) || amount <= 0) {
+      setMessage('Enter how many cups were served.')
+      return
+    }
+    try {
+      const event: PuppyEvent = {
+        type: 'food',
+        occurredAt: new Date().toISOString(),
+        meal: foodMeal,
+        amount,
+        note: foodNote.trim() || undefined
+      }
+      const id = await db.events.add(event)
+      setEvents((current) => [{ ...event, id }, ...current])
+      setFoodAmount('')
+      setFoodNote('')
+      setFoodFormOpen(false)
+      setMessage(`${foodMeal[0].toUpperCase() + foodMeal.slice(1)} logged`)
+      window.setTimeout(() => setMessage(undefined), 1800)
+    } catch {
+      setMessage('Could not save that meal. Check available device storage and try again.')
+    }
+  }, [foodAmount, foodMeal, foodNote])
 
   const toggleChecklist = useCallback(async (id: string) => {
     const completed = !progress.get(id)?.completed
@@ -178,7 +213,7 @@ function App() {
   if (!ready) return <main className="loading"><div className="loader" /><p>Preparing your puppy companion…</p></main>
 
   return (
-    <div className="app-shell">
+    <div className={`app-shell ${selectedArticle ? 'reader-open' : ''}`}>
       <header className="topbar">
         <div>
           <p className="eyebrow">Puppy companion</p>
@@ -212,7 +247,8 @@ function App() {
             <section className="summary-grid">
               {(['pee', 'poo', 'food'] as EventType[]).map((type) => {
                 const latest = mostRecent(events, type)
-                return <article className="mini-card" key={type}><span>{labelForEvent(type)}</span><strong>{todayEvents.filter((event) => event.type === type).length}</strong><small>{latest ? formatRelativeTime(latest.occurredAt) : 'none yet'}</small></article>
+                const summary = type === 'food' && todayFoodAmount ? `${todayFoodAmount} cups` : todayEvents.filter((event) => event.type === type).length
+                return <article className="mini-card" key={type}><span>{labelForEvent(type)}</span><strong>{summary}</strong><small>{latest ? formatRelativeTime(latest.occurredAt) : 'none yet'}</small></article>
               })}
             </section>
 
@@ -282,13 +318,25 @@ function App() {
             <div className="section-heading"><h2>Recent activity</h2><span>{events.length} total</span></div>
             <div className="timeline">
               {events.slice(0, 100).map((event) => (
-                <article key={event.id}><span className={`event-dot ${event.type}`} /> <div><strong>{labelForEvent(event.type)}</strong><small>{new Date(event.occurredAt).toLocaleString([], { weekday: 'short', hour: 'numeric', minute: '2-digit' })}</small></div><span>{formatRelativeTime(event.occurredAt)}</span><button className="delete-event" aria-label={`Remove ${labelForEvent(event.type)} entry`} onClick={() => void removeEvent(event)}>×</button></article>
+                <article key={event.id}><span className={`event-dot ${event.type}`} /> <div><strong>{labelForEvent(event.type)}</strong><small>{formatEventDetails(event) ?? new Date(event.occurredAt).toLocaleString([], { weekday: 'short', hour: 'numeric', minute: '2-digit' })}</small>{formatEventDetails(event) && <small>{new Date(event.occurredAt).toLocaleString([], { weekday: 'short', hour: 'numeric', minute: '2-digit' })}</small>}</div><span>{formatRelativeTime(event.occurredAt)}</span><button className="delete-event" aria-label={`Remove ${labelForEvent(event.type)} entry`} onClick={() => void removeEvent(event)}>×</button></article>
               ))}
               {!events.length && <div className="empty-state"><strong>No activity yet</strong><p>Use a button above to start today’s log.</p></div>}
             </div>
           </section>
         )}
       </main>
+
+      {foodFormOpen && (
+        <div className="sheet-backdrop" role="presentation" onClick={() => setFoodFormOpen(false)}>
+          <form className="food-sheet" aria-label="Log food" onSubmit={(event) => { event.preventDefault(); void addFood() }} onClick={(event) => event.stopPropagation()}>
+            <div className="sheet-heading"><div><p className="eyebrow">Food tracking</p><h2>Log a meal</h2></div><button type="button" aria-label="Close food form" onClick={() => setFoodFormOpen(false)}>×</button></div>
+            <label>Meal<select value={foodMeal} onChange={(event) => setFoodMeal(event.target.value as NonNullable<PuppyEvent['meal']>)}><option value="breakfast">Breakfast</option><option value="lunch">Lunch</option><option value="dinner">Dinner</option><option value="snack">Snack</option></select></label>
+            <label>Amount served (cups)<input type="number" inputMode="decimal" min="0.01" step="0.01" value={foodAmount} onChange={(event) => setFoodAmount(event.target.value)} placeholder="0.5" autoFocus /></label>
+            <label>Note (optional)<input value={foodNote} onChange={(event) => setFoodNote(event.target.value)} placeholder="Ate everything, new food…" /></label>
+            <button className="primary-button" type="submit">Save meal</button>
+          </form>
+        </div>
+      )}
 
       <nav className="bottom-nav" aria-label="Primary navigation">
         {screens.map((item) => <button key={item.id} className={screen === item.id ? 'active' : ''} onClick={() => navigate(item.id)}><span>{item.icon}</span>{item.label}</button>)}

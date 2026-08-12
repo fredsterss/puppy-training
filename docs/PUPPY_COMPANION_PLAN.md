@@ -73,6 +73,8 @@ Reader state is stored as preferences: current destination, current article iden
 - Empty search, empty history, and first-run training states have intentional UI.
 - Article links that point outside the generated collection open externally.
 - Legacy preformatted prose, long links, lists, and tables are constrained to the mobile reader width.
+- The installed iPhone reader uses a dedicated header/content grid so article controls and metadata remain below the status-bar-safe header.
+- Food entries capture meal type, amount served in cups, and an optional note; existing timestamp-only food history remains valid.
 - Tracking guidance is an estimate, not medical advice; the user can always log or correct events manually.
 
 ## Testing strategy
