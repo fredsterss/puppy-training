@@ -77,6 +77,7 @@ Reader state is stored as preferences: current destination, current article iden
 - The installed iPhone reader uses a dedicated header/content grid so article controls and metadata remain below the status-bar-safe header.
 - Food tracking is deliberately one tap: “Ate” records only the current timestamp.
 - Accident tracking records immediately, then offers optional arbitrary comma-separated tags that remain editable from history.
+- Every activity timestamp can be corrected from its history row; editing updates and re-sorts the existing event.
 - Tracking guidance is an estimate, not medical advice; the user can always log or correct events manually.
 
 ## Testing strategy

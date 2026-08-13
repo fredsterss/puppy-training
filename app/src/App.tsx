@@ -29,6 +29,12 @@ const viewFilters: Array<{ id: ArticleViewFilter; label: string }> = [
   { id: 'recent', label: 'Recent' }
 ]
 
+function toLocalDateTimeInput(isoDate: string): string {
+  const date = new Date(isoDate)
+  const offset = date.getTimezoneOffset() * 60_000
+  return new Date(date.getTime() - offset).toISOString().slice(0, 16)
+}
+
 function App() {
   const [articles, setArticles] = useState<Article[]>([])
   const [screen, setScreen] = useState<Screen>('today')
@@ -42,6 +48,8 @@ function App() {
   const [message, setMessage] = useState<string>()
   const [taggingAccidentId, setTaggingAccidentId] = useState<number>()
   const [accidentTags, setAccidentTags] = useState('')
+  const [editingEventId, setEditingEventId] = useState<number>()
+  const [eventTime, setEventTime] = useState('')
   const readerRef = useRef<HTMLElement>(null)
   const scrollSaveTimer = useRef<number | undefined>(undefined)
 
@@ -175,6 +183,34 @@ function App() {
       setMessage('Could not save those tags. Please try again.')
     }
   }, [accidentTags, taggingAccidentId])
+
+  const editEventTime = useCallback((event: PuppyEvent) => {
+    if (event.id === undefined) return
+    setEditingEventId(event.id)
+    setEventTime(toLocalDateTimeInput(event.occurredAt))
+  }, [])
+
+  const saveEventTime = useCallback(async () => {
+    if (editingEventId === undefined) return
+    const date = new Date(eventTime)
+    if (!eventTime || Number.isNaN(date.getTime())) {
+      setMessage('Choose a valid date and time.')
+      return
+    }
+    const occurredAt = date.toISOString()
+    try {
+      await db.events.update(editingEventId, { occurredAt })
+      setEvents((current) => current
+        .map((event) => event.id === editingEventId ? { ...event, occurredAt } : event)
+        .sort((a, b) => b.occurredAt.localeCompare(a.occurredAt)))
+      setEditingEventId(undefined)
+      setEventTime('')
+      setMessage('Activity time updated')
+      window.setTimeout(() => setMessage(undefined), 1800)
+    } catch {
+      setMessage('Could not update that time. Please try again.')
+    }
+  }, [editingEventId, eventTime])
 
   const toggleChecklist = useCallback(async (id: string) => {
     const completed = !progress.get(id)?.completed
@@ -313,7 +349,7 @@ function App() {
               {events.slice(0, 100).map((event) => (
                 <article key={event.id} className={event.type === 'accident' ? 'accident-entry' : undefined}>
                   <span className={`event-dot ${event.type}`} />
-                  <div><strong>{labelForEvent(event.type)}</strong><small>{new Date(event.occurredAt).toLocaleString([], { weekday: 'short', hour: 'numeric', minute: '2-digit' })}</small>{event.type === 'accident' && <div className="tag-list">{event.tags?.map((tag) => <span key={tag}>#{tag}</span>)}<button onClick={() => editAccidentTags(event)}>{event.tags?.length ? 'Edit tags' : '+ Add tags'}</button></div>}</div>
+                  <div><strong>{labelForEvent(event.type)}</strong><button className="edit-time" onClick={() => editEventTime(event)}>{new Date(event.occurredAt).toLocaleString([], { weekday: 'short', hour: 'numeric', minute: '2-digit' })} · Edit</button>{event.type === 'accident' && <div className="tag-list">{event.tags?.map((tag) => <span key={tag}>#{tag}</span>)}<button onClick={() => editAccidentTags(event)}>{event.tags?.length ? 'Edit tags' : '+ Add tags'}</button></div>}</div>
                   <span>{formatRelativeTime(event.occurredAt)}</span>
                   <button className="delete-event" aria-label={`Remove ${labelForEvent(event.type)} entry`} onClick={() => void removeEvent(event)}>×</button>
                 </article>
@@ -331,6 +367,16 @@ function App() {
             <p>Optional tags make patterns easier to spot later.</p>
             <label>Tags, separated by commas<input value={accidentTags} onChange={(event) => setAccidentTags(event.target.value)} placeholder="rug, upstairs, after nap" autoFocus /></label>
             <button className="primary-button" type="submit">Save tags</button>
+          </form>
+        </div>
+      )}
+
+      {editingEventId !== undefined && (
+        <div className="sheet-backdrop" role="presentation" onClick={() => setEditingEventId(undefined)}>
+          <form className="time-sheet" aria-label="Edit activity time" onSubmit={(event) => { event.preventDefault(); void saveEventTime() }} onClick={(event) => event.stopPropagation()}>
+            <div className="sheet-heading"><div><p className="eyebrow">Activity history</p><h2>Edit time</h2></div><button type="button" aria-label="Close time editor" onClick={() => setEditingEventId(undefined)}>×</button></div>
+            <label>Date and time<input type="datetime-local" value={eventTime} onChange={(event) => setEventTime(event.target.value)} required /></label>
+            <button className="primary-button" type="submit">Save time</button>
           </form>
         </div>
       )}
