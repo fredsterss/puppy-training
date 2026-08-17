@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { eventsToday, filterArticlesByView, formatRelativeTime, formatViewSummary, labelForEvent, nextPottyAt, normalizeTags, searchArticles } from './domain'
+import { bladderHoldHours, eventsToday, filterArticlesByView, formatPottyCountdown, formatRelativeTime, formatViewSummary, labelForEvent, nextPottyAt, normalizeTags, puppyAgeInMonths, searchArticles } from './domain'
 import type { Article, ArticleView, PuppyEvent } from './types'
 
 const articles: Article[] = [
@@ -38,13 +38,25 @@ describe('article view history', () => {
 
 describe('care summaries', () => {
   const now = new Date('2026-08-10T12:00:00Z')
+  const birthDate = new Date(2026, 5, 8)
   const events: PuppyEvent[] = [
     { type: 'pee', occurredAt: '2026-08-10T11:20:00Z' },
     { type: 'poo', occurredAt: '2026-08-09T23:55:00Z' }
   ]
 
-  it('derives the next check from the most recent pee', () => expect(nextPottyAt(events)?.toISOString()).toBe('2026-08-10T12:20:00.000Z'))
-  it('does not invent a time before the first pee', () => expect(nextPottyAt([])).toBeUndefined())
+  it('uses completed months plus one hour for the bladder interval', () => {
+    expect(puppyAgeInMonths(birthDate, now)).toBe(2)
+    expect(bladderHoldHours(birthDate, now)).toBe(3)
+    expect(puppyAgeInMonths(birthDate, new Date(2026, 8, 7, 23, 59, 59))).toBe(2)
+    expect(puppyAgeInMonths(birthDate, new Date(2026, 8, 8))).toBe(3)
+  })
+  it('derives the next check from the latest pee and age-based interval', () => expect(nextPottyAt(events, birthDate, now)?.toISOString()).toBe('2026-08-10T14:20:00.000Z'))
+  it('does not invent a time before the first pee', () => expect(nextPottyAt([], birthDate, now)).toBeUndefined())
+  it('formats a live remaining or overdue countdown', () => {
+    const deadline = new Date('2026-08-10T14:20:00Z')
+    expect(formatPottyCountdown(deadline, now)).toBe('2h 20m 0s remaining')
+    expect(formatPottyCountdown(deadline, new Date('2026-08-10T14:20:08Z'))).toBe('Outside now · overdue by 8s')
+  })
   it('formats elapsed time at minute and hour boundaries', () => {
     expect(formatRelativeTime('2026-08-10T11:59:45Z', now)).toBe('just now')
     expect(formatRelativeTime('2026-08-10T11:42:00Z', now)).toBe('18m ago')

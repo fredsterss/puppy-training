@@ -2,7 +2,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import DOMPurify from 'dompurify'
 import { marked } from 'marked'
 import { db, getPreference, setPreference } from './db'
-import { eventsToday, filterArticlesByView, formatRelativeTime, formatViewSummary, labelForEvent, mostRecent, nextPottyAt, normalizeTags, searchArticles } from './domain'
+import { bladderHoldHours, eventsToday, filterArticlesByView, formatPottyCountdown, formatRelativeTime, formatViewSummary, labelForEvent, mostRecent, nextPottyAt, normalizeTags, puppyAgeInMonths, searchArticles } from './domain'
 import type { Article, ArticleBundle, ArticleView, ArticleViewFilter, ChecklistProgress, EventType, PuppyEvent, Screen } from './types'
 
 const screens: Array<{ id: Screen; label: string; icon: string }> = [
@@ -29,6 +29,8 @@ const viewFilters: Array<{ id: ArticleViewFilter; label: string }> = [
   { id: 'recent', label: 'Recent' }
 ]
 
+const puppyBirthDate = new Date(2026, 5, 8)
+
 function toLocalDateTimeInput(isoDate: string): string {
   const date = new Date(isoDate)
   const offset = date.getTimezoneOffset() * 60_000
@@ -50,6 +52,7 @@ function App() {
   const [accidentTags, setAccidentTags] = useState('')
   const [editingEventId, setEditingEventId] = useState<number>()
   const [eventTime, setEventTime] = useState('')
+  const [now, setNow] = useState(() => new Date())
   const readerRef = useRef<HTMLElement>(null)
   const scrollSaveTimer = useRef<number | undefined>(undefined)
 
@@ -81,6 +84,11 @@ function App() {
     void load()
   }, [])
 
+  useEffect(() => {
+    const timer = window.setInterval(() => setNow(new Date()), 1_000)
+    return () => window.clearInterval(timer)
+  }, [])
+
   const selectedArticle = articles.find(({ id }) => id === selectedArticleId)
   const checklistArticle = articles.find(({ checklistItems }) => checklistItems.length > 0)
   const filteredArticles = useMemo(() => {
@@ -93,7 +101,9 @@ function App() {
     return recent.length ? recent : articles.filter(({ path }) => path.includes('training/articles')).slice(0, 3)
   }, [articles, articleViews])
   const todayEvents = useMemo(() => eventsToday(events), [events])
-  const nextPotty = useMemo(() => nextPottyAt(events), [events])
+  const puppyAgeMonths = puppyAgeInMonths(puppyBirthDate, now)
+  const pottyIntervalHours = bladderHoldHours(puppyBirthDate, now)
+  const nextPotty = useMemo(() => nextPottyAt(events, puppyBirthDate, now), [events, now])
   const completedCount = checklistArticle?.checklistItems.filter(({ id }) => progress.get(id)?.completed).length ?? 0
   const articleCountNoun = viewFilter === 'all' ? 'offline article' : `${viewFilter} article`
 
@@ -259,7 +269,7 @@ function App() {
             <div className="hero-card">
               <p className="card-kicker">Next potty check</p>
               <strong>{nextPotty ? nextPotty.toLocaleTimeString([], { hour: 'numeric', minute: '2-digit' }) : 'Log the first pee'}</strong>
-              <span>{nextPotty ? (nextPotty.getTime() <= Date.now() ? 'It may be time to head outside.' : 'Based on a 60-minute starter interval.') : 'We’ll estimate the next check from there.'}</span>
+              <span>{nextPotty ? `${formatPottyCountdown(nextPotty, now)} · ${pottyIntervalHours}-hour limit at ${puppyAgeMonths} ${puppyAgeMonths === 1 ? 'month' : 'months'} old.` : `We’ll use her ${pottyIntervalHours}-hour age-based limit from there.`}</span>
             </div>
 
             <section className="section-block">

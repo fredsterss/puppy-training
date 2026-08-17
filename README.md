@@ -93,3 +93,9 @@ actual resolved replay URL and timestamp are recorded per page.
 
 Promotional “Get 8 books for $24” checkout pages are excluded during link
 normalization and purged from existing exports.
+
+## Puppy Companion app
+
+The Today screen calculates the next potty trip from the latest logged pee using
+the puppy's completed age in months plus one hour (birth date: June 8, 2026), and
+keeps a live remaining/overdue countdown on screen.

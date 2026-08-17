@@ -78,10 +78,34 @@ export function mostRecent(events: PuppyEvent[], type: EventType): PuppyEvent | 
     .sort((a, b) => b.occurredAt.localeCompare(a.occurredAt))[0]
 }
 
-export function nextPottyAt(events: PuppyEvent[], intervalMinutes = 60): Date | undefined {
+export function puppyAgeInMonths(birthDate: Date, now = new Date()): number {
+  if (now.getTime() < birthDate.getTime()) return 0
+
+  let months = (now.getFullYear() - birthDate.getFullYear()) * 12 + now.getMonth() - birthDate.getMonth()
+  if (now.getDate() < birthDate.getDate()) months -= 1
+  return Math.max(0, months)
+}
+
+export function bladderHoldHours(birthDate: Date, now = new Date()): number {
+  return puppyAgeInMonths(birthDate, now) + 1
+}
+
+export function nextPottyAt(events: PuppyEvent[], birthDate: Date, now = new Date()): Date | undefined {
   const lastPee = mostRecent(events, 'pee')
   if (!lastPee) return undefined
-  return new Date(new Date(lastPee.occurredAt).getTime() + intervalMinutes * 60_000)
+  return new Date(new Date(lastPee.occurredAt).getTime() + bladderHoldHours(birthDate, now) * 60 * 60_000)
+}
+
+export function formatPottyCountdown(deadline: Date, now = new Date()): string {
+  const remainingSeconds = Math.ceil((deadline.getTime() - now.getTime()) / 1_000)
+  const overdue = remainingSeconds <= 0
+  let seconds = Math.abs(remainingSeconds)
+  const hours = Math.floor(seconds / 3_600)
+  seconds %= 3_600
+  const minutes = Math.floor(seconds / 60)
+  seconds %= 60
+  const parts = [hours ? `${hours}h` : '', minutes ? `${minutes}m` : '', `${seconds}s`].filter(Boolean).join(' ')
+  return overdue ? `Outside now · overdue by ${parts}` : `${parts} remaining`
 }
 
 export function formatRelativeTime(isoDate: string, now = new Date()): string {
