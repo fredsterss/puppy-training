@@ -96,6 +96,51 @@ normalization and purged from existing exports.
 
 ## Puppy Companion app
 
+The repository now includes a phone-first progressive web app under `app/`.
+It turns the curated archive into an installable offline library with local
+search, exact reading-position restoration, a persistent 23-step training
+checklist, per-article view counts and last-viewed history, one-tap pee, poo,
+ate, water, sleep, and wake tracking, plus immediately logged accidents with
+optional arbitrary tags.
+Activity timestamps can be edited afterward from the history screen.
+Optional Supabase household sync lets two phones share one offline-first event
+feed after opening the same private capability link once. Pairing and subsequent
+sync are invisible in the app; setup SQL lives in `supabase/schema.sql`.
 The Today screen calculates the next potty trip from the latest logged pee using
 the puppy's completed age in months plus one hour (birth date: June 8, 2026), and
 keeps a live remaining/overdue countdown on screen.
+
+All personal progress and care events are stored locally in IndexedDB first, so
+logging never waits for the network. A configured cloud backend silently shares
+care events between paired phones; the rest of the app remains device-local.
+Its service worker precaches the app shell and all 303 generated articles for
+offline use.
+
+```bash
+cd app
+npm install
+npm run dev
+```
+
+Open the displayed network URL on a phone while it is on the same network. For
+a production bundle and local preview:
+
+```bash
+npm test
+npm run build
+npm run dev -- --host 0.0.0.0
+```
+
+`npm run content` regenerates `app/public/content/articles.json` from the
+curated Markdown and content catalog. The same command runs automatically
+before development and production builds.
+
+The architecture and delivery plan are documented in
+`docs/PUPPY_COMPANION_PLAN.md`. Scheduled native notifications and App Store
+packaging remain intentionally deferred until real usage establishes that they
+are needed.
+
+The `Deploy Puppy Companion` GitHub Actions workflow tests, builds, and deploys
+the app to GitHub Pages whenever app or curated content files change on `main`.
+In the repository settings, select **GitHub Actions** as the Pages source once;
+subsequent updates deploy automatically.

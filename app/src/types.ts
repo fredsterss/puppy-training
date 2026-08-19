@@ -25,11 +25,21 @@ export interface ArticleBundle {
 
 export interface PuppyEvent {
   id?: number
+  syncId: string
   type: EventType
   occurredAt: string
   amount?: number
   note?: string
   tags?: string[]
+  updatedAt: string
+  deletedAt?: string
+  syncState: 'pending' | 'synced'
+}
+
+export interface HouseholdMembership {
+  householdId: string
+  householdName: string
+  displayName: string
 }
 
 export interface ChecklistProgress {

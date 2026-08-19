@@ -20,6 +20,18 @@ class PuppyDatabase extends Dexie {
       preferences: 'key',
       articleViews: 'articleId, lastViewedAt'
     })
+    this.version(3).stores({
+      events: '++id, &syncId, type, occurredAt, updatedAt, syncState',
+      checklistProgress: 'id, completed, completedAt',
+      preferences: 'key',
+      articleViews: 'articleId, lastViewedAt'
+    }).upgrade(async (transaction) => {
+      await transaction.table<PuppyEvent, number>('events').toCollection().modify((event) => {
+        event.syncId = event.syncId ?? crypto.randomUUID()
+        event.updatedAt = event.updatedAt ?? event.occurredAt
+        event.syncState = event.syncState ?? 'pending'
+      })
+    })
   }
 }
 
