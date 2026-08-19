@@ -40,8 +40,8 @@ describe('care summaries', () => {
   const now = new Date('2026-08-10T12:00:00Z')
   const birthDate = new Date(2026, 5, 8)
   const events: PuppyEvent[] = [
-    { type: 'pee', occurredAt: '2026-08-10T11:20:00Z' },
-    { type: 'poo', occurredAt: '2026-08-09T23:55:00Z' }
+    { syncId: 'pee-1', type: 'pee', occurredAt: '2026-08-10T11:20:00Z', updatedAt: '2026-08-10T11:20:00Z', syncState: 'synced' },
+    { syncId: 'poo-1', type: 'poo', occurredAt: '2026-08-09T23:55:00Z', updatedAt: '2026-08-09T23:55:00Z', syncState: 'synced' }
   ]
 
   it('uses completed months plus one hour for the bladder interval', () => {
@@ -66,7 +66,10 @@ describe('care summaries', () => {
     const localNoon = new Date(2026, 7, 10, 12)
     const today = new Date(2026, 7, 10, 1).toISOString()
     const yesterday = new Date(2026, 7, 9, 23, 59).toISOString()
-    expect(eventsToday([{ type: 'pee', occurredAt: today }, { type: 'poo', occurredAt: yesterday }], localNoon)).toHaveLength(1)
+    expect(eventsToday([
+      { syncId: 'today', type: 'pee', occurredAt: today, updatedAt: today, syncState: 'synced' },
+      { syncId: 'yesterday', type: 'poo', occurredAt: yesterday, updatedAt: yesterday, syncState: 'synced' }
+    ], localNoon)).toHaveLength(1)
   })
   it('labels a food timestamp as eaten', () => expect(labelForEvent('food')).toBe('Ate'))
   it('normalizes arbitrary accident tags', () => {

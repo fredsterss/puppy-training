@@ -11,9 +11,9 @@ The first release is an installable progressive web app (PWA). It has four prima
 - **Today**: recent care events, an estimated next potty check, and training progress.
 - **Learn**: offline full-text search, persistent view history, viewed/unread/recent filters, and a readable article view.
 - **Train**: persistent checklist progress, initially sourced from “Perfect Puppy Manners, Just 23 Steps.”
-- **Log**: one-tap recording for pee, poo, food, water, sleep, and wake events.
+- **Log**: one-tap recording for pee, poo, food, water, sleep, wake, and tagged accident events, with editable timestamps.
 
-The app is local-first and has no account or server dependency. A future native wrapper can reuse the web code if reliable offline scheduled notifications become essential.
+The app is offline-first. IndexedDB remains usable without an account or network; background household sync uses Supabase anonymous device identities, a one-time private capability link, Postgres Row Level Security, and Realtime. Pairing and sync have no visible application UI. A future native wrapper can reuse the web code if reliable offline scheduled notifications become essential.
 
 ## Architecture
 
@@ -31,9 +31,9 @@ archive Markdown + content catalog
         installable PWA shell
           |           |
           v           v
- service-worker cache  IndexedDB
- articles + assets     events, progress,
-                       reader state
+ service-worker cache  IndexedDB <----> Supabase
+ articles + assets     offline queue     shared events,
+                       + app state       membership + realtime
 ```
 
 The crawler database remains the archival source of truth. The phone receives only generated reading content and the app assets. Generated content is rebuilt before development and production builds, so archive improvements flow into the app without duplicating editorial data.
@@ -47,11 +47,15 @@ preferences
 
 events
   id: auto-increment integer
+  syncId: device-generated UUID
   type: pee | poo | food | accident | water | sleep | wake
   occurredAt: ISO timestamp
   amount?: number
   note?: string
   tags?: arbitrary string[] (accidents)
+  updatedAt: ISO timestamp
+  deletedAt?: ISO timestamp tombstone
+  syncState: pending | synced
 
 checklistProgress
   id: stable template-item identifier
@@ -70,6 +74,8 @@ Reader state is stored as preferences: current destination, current article iden
 
 - The service worker precaches the shell and generated article bundle.
 - IndexedDB writes are awaited before confirming a log action.
+- Cloud writes happen after local confirmation; pending changes retry on the next successful sync.
+- Remote updates merge by event UUID, and deletion tombstones propagate between household phones.
 - If browser storage fails, the app keeps running and shows an actionable error.
 - Empty search, empty history, and first-run training states have intentional UI.
 - Article links that point outside the generated collection open externally.
@@ -107,10 +113,10 @@ browser QA
 3. Persistent 23-step training checklist.
 4. Care-event logging and Today summary.
 5. Mobile and offline QA, documentation, and deployment configuration.
+6. Opaque shared-household event synchronization through one private bootstrap link.
 
 ## NOT in scope
 
-- Cloud accounts or multi-caregiver synchronization: local use proves the workflow first.
 - Push or scheduled local notifications: evaluate after real tracking usage establishes reminder requirements.
 - App Store packaging: the web code remains compatible with a later Capacitor wrapper.
 - Automated health conclusions: the app records observations and offers transparent time estimates only.
@@ -132,6 +138,8 @@ browser QA
 - [x] Implement persistent care-event logging and derived Today summaries.
 - [x] Add automated tests and mobile/offline browser verification.
 - [x] Document local development, deployment, and current project status.
+- [x] Implement the offline queue, invisible capability-link bootstrap, database schema, and realtime sync client.
+- [x] Provision the Supabase project and configure production deployment secrets.
 
 ## GSTACK REVIEW REPORT
 

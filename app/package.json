@@ -9,10 +9,12 @@
     "dev": "vite --host 0.0.0.0",
     "prebuild": "npm run content",
     "build": "tsc -b && vite build",
+    "cloud:smoke": "node scripts/cloud-smoke.mjs",
     "test": "vitest run",
     "test:watch": "vitest"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.112.3",
     "@vitejs/plugin-react": "latest",
     "dexie": "latest",
     "dompurify": "latest",

@@ -1,9 +1,10 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import DOMPurify from 'dompurify'
 import { marked } from 'marked'
+import { cloudConfigured, loadMembership, subscribeToHousehold, syncEvents, unsubscribeFromHousehold } from './cloud'
 import { db, getPreference, setPreference } from './db'
 import { bladderHoldHours, eventsToday, filterArticlesByView, formatPottyCountdown, formatRelativeTime, formatViewSummary, labelForEvent, mostRecent, nextPottyAt, normalizeTags, puppyAgeInMonths, searchArticles } from './domain'
-import type { Article, ArticleBundle, ArticleView, ArticleViewFilter, ChecklistProgress, EventType, PuppyEvent, Screen } from './types'
+import type { Article, ArticleBundle, ArticleView, ArticleViewFilter, ChecklistProgress, EventType, HouseholdMembership, PuppyEvent, Screen } from './types'
 
 const screens: Array<{ id: Screen; label: string; icon: string }> = [
   { id: 'today', label: 'Today', icon: '⌂' },
@@ -52,6 +53,7 @@ function App() {
   const [accidentTags, setAccidentTags] = useState('')
   const [editingEventId, setEditingEventId] = useState<number>()
   const [eventTime, setEventTime] = useState('')
+  const [membership, setMembership] = useState<HouseholdMembership>()
   const [now, setNow] = useState(() => new Date())
   const readerRef = useRef<HTMLElement>(null)
   const scrollSaveTimer = useRef<number | undefined>(undefined)
@@ -72,7 +74,7 @@ function App() {
         setArticles(bundle.articles)
         setScreen(savedScreen)
         setSelectedArticleId(savedArticle && bundle.articles.some(({ id }) => id === savedArticle) ? savedArticle : undefined)
-        setEvents(savedEvents)
+        setEvents(savedEvents.filter((event) => !event.deletedAt))
         setProgress(new Map(savedProgress.map((item) => [item.id, item])))
         setArticleViews(new Map(savedViews.map((item) => [item.articleId, item])))
       } catch (error) {
@@ -106,6 +108,41 @@ function App() {
   const nextPotty = useMemo(() => nextPottyAt(events, puppyBirthDate, now), [events, now])
   const completedCount = checklistArticle?.checklistItems.filter(({ id }) => progress.get(id)?.completed).length ?? 0
   const articleCountNoun = viewFilter === 'all' ? 'offline article' : `${viewFilter} article`
+
+  const refreshCloudEvents = useCallback(async (activeMembership: HouseholdMembership) => {
+    try {
+      const syncedEvents = await syncEvents(activeMembership)
+      setEvents(syncedEvents)
+    } catch { /* Local writes stay pending and retry when connectivity returns. */ }
+  }, [])
+
+  useEffect(() => {
+    if (!ready || !cloudConfigured) return
+    let active = true
+    let channel: ReturnType<typeof subscribeToHousehold> | undefined
+    let connecting = false
+    const connect = async () => {
+      if (connecting || !active) return
+      connecting = true
+      try {
+        const savedMembership = await loadMembership()
+        if (!active || !savedMembership) return
+        setMembership(savedMembership)
+        await refreshCloudEvents(savedMembership)
+        if (!active || channel) return
+        channel = subscribeToHousehold(savedMembership, () => void refreshCloudEvents(savedMembership))
+      } catch { /* The app remains fully usable offline. */ }
+      finally { connecting = false }
+    }
+    const reconnect = () => void connect()
+    void connect()
+    window.addEventListener('online', reconnect)
+    return () => {
+      active = false
+      window.removeEventListener('online', reconnect)
+      void unsubscribeFromHousehold(channel)
+    }
+  }, [ready, refreshCloudEvents])
 
   const navigate = useCallback((destination: Screen) => {
     setScreen(destination)
@@ -159,7 +196,8 @@ function App() {
 
   const addEvent = useCallback(async (type: EventType) => {
     try {
-      const event: PuppyEvent = { type, occurredAt: new Date().toISOString() }
+      const now = new Date().toISOString()
+      const event: PuppyEvent = { syncId: crypto.randomUUID(), type, occurredAt: now, updatedAt: now, syncState: 'pending' }
       const id = await db.events.add(event)
       setEvents((current) => [{ ...event, id }, ...current])
       setMessage(`${labelForEvent(type)} logged`)
@@ -168,10 +206,11 @@ function App() {
         setAccidentTags('')
       }
       window.setTimeout(() => setMessage(undefined), 1800)
+      if (membership) void refreshCloudEvents(membership)
     } catch {
       setMessage('Could not save that event. Check available device storage and try again.')
     }
-  }, [])
+  }, [membership, refreshCloudEvents])
 
   const editAccidentTags = useCallback((event: PuppyEvent) => {
     if (event.id === undefined) return
@@ -183,16 +222,18 @@ function App() {
     if (taggingAccidentId === undefined) return
     const tags = normalizeTags(accidentTags)
     try {
-      await db.events.update(taggingAccidentId, { tags })
-      setEvents((current) => current.map((event) => event.id === taggingAccidentId ? { ...event, tags } : event))
+      const updatedAt = new Date().toISOString()
+      await db.events.update(taggingAccidentId, { tags, updatedAt, syncState: 'pending' })
+      setEvents((current) => current.map((event) => event.id === taggingAccidentId ? { ...event, tags, updatedAt, syncState: 'pending' } : event))
       setTaggingAccidentId(undefined)
       setAccidentTags('')
       setMessage(tags.length ? 'Accident tags saved' : 'Accident saved')
       window.setTimeout(() => setMessage(undefined), 1800)
+      if (membership) void refreshCloudEvents(membership)
     } catch {
       setMessage('Could not save those tags. Please try again.')
     }
-  }, [accidentTags, taggingAccidentId])
+  }, [accidentTags, membership, refreshCloudEvents, taggingAccidentId])
 
   const editEventTime = useCallback((event: PuppyEvent) => {
     if (event.id === undefined) return
@@ -209,18 +250,20 @@ function App() {
     }
     const occurredAt = date.toISOString()
     try {
-      await db.events.update(editingEventId, { occurredAt })
+      const updatedAt = new Date().toISOString()
+      await db.events.update(editingEventId, { occurredAt, updatedAt, syncState: 'pending' })
       setEvents((current) => current
-        .map((event) => event.id === editingEventId ? { ...event, occurredAt } : event)
+        .map((event) => event.id === editingEventId ? { ...event, occurredAt, updatedAt, syncState: 'pending' as const } : event)
         .sort((a, b) => b.occurredAt.localeCompare(a.occurredAt)))
       setEditingEventId(undefined)
       setEventTime('')
       setMessage('Activity time updated')
       window.setTimeout(() => setMessage(undefined), 1800)
+      if (membership) void refreshCloudEvents(membership)
     } catch {
       setMessage('Could not update that time. Please try again.')
     }
-  }, [editingEventId, eventTime])
+  }, [editingEventId, eventTime, membership, refreshCloudEvents])
 
   const toggleChecklist = useCallback(async (id: string) => {
     const completed = !progress.get(id)?.completed
@@ -240,14 +283,16 @@ function App() {
   const removeEvent = useCallback(async (event: PuppyEvent) => {
     if (event.id === undefined) return
     try {
-      await db.events.delete(event.id)
+      const deletedAt = new Date().toISOString()
+      await db.events.update(event.id, { deletedAt, updatedAt: deletedAt, syncState: 'pending' })
       setEvents((current) => current.filter(({ id }) => id !== event.id))
       setMessage(`${labelForEvent(event.type)} entry removed`)
       window.setTimeout(() => setMessage(undefined), 1800)
+      if (membership) void refreshCloudEvents(membership)
     } catch {
       setMessage('Could not remove that entry. Please try again.')
     }
-  }, [])
+  }, [membership, refreshCloudEvents])
 
   if (!ready) return <main className="loading"><div className="loader" /><p>Preparing your puppy companion…</p></main>
 
