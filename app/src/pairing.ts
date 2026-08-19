@@ -17,6 +17,8 @@ export function newPairingAccessKey(randomUUID: () => string = () => crypto.rand
 
 export function pairingInviteUrl(origin: string, pathname: string, accessKey: string): string {
   const url = new URL(pathname, origin)
-  url.hash = new URLSearchParams({ sync: accessKey }).toString()
+  // iOS drops URL fragments when creating a Home Screen app, but preserves
+  // the installation page query. The app removes this query after pairing.
+  url.searchParams.set('sync', accessKey)
   return url.toString()
 }

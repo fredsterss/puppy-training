@@ -21,6 +21,7 @@ describe('pairing install handoff', () => {
     const accessKey = newPairingAccessKey(() => uuids.shift()!)
     expect(accessKey).toHaveLength(64)
     expect(pairingInviteUrl('https://example.com', '/puppy-training/', accessKey))
-      .toBe(`https://example.com/puppy-training/#sync=${accessKey}`)
+      .toBe(`https://example.com/puppy-training/?sync=${accessKey}`)
+    expect(pairingAccessKey(`?sync=${accessKey}`)).toBe(accessKey)
   })
 })

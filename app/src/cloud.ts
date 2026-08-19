@@ -30,13 +30,13 @@ export async function ensureCloudSession(): Promise<void> {
 }
 
 export async function loadMembership(): Promise<HouseholdMembership | undefined> {
-  const linkAccessKey = pairingAccessKey(window.location.hash)
+  const linkAccessKey = pairingAccessKey(window.location.search) ?? pairingAccessKey(window.location.hash)
   // Safari must retain the capability in the installation URL. With no fixed
   // manifest start_url, the first Home Screen launch inherits this exact URL.
   if (linkAccessKey && !isStandaloneLaunch()) return undefined
   if (linkAccessKey) {
     await setPreference(accessKeyPreference, linkAccessKey)
-    window.history.replaceState(null, '', window.location.pathname + window.location.search)
+    window.history.replaceState(null, '', window.location.pathname)
   }
   const saved = await getPreference<HouseholdMembership | undefined>(membershipPreference, undefined)
   if (!cloudConfigured) return saved
