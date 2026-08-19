@@ -10,3 +10,13 @@ export function isStandaloneLaunch(): boolean {
 export function shouldConsumePairingLink(hash: string, standalone: boolean): boolean {
   return Boolean(pairingAccessKey(hash) && standalone)
 }
+
+export function newPairingAccessKey(randomUUID: () => string = () => crypto.randomUUID()): string {
+  return `${randomUUID()}${randomUUID()}`.replaceAll('-', '')
+}
+
+export function pairingInviteUrl(origin: string, pathname: string, accessKey: string): string {
+  const url = new URL(pathname, origin)
+  url.hash = new URLSearchParams({ sync: accessKey }).toString()
+  return url.toString()
+}

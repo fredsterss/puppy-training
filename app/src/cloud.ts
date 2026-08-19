@@ -1,6 +1,6 @@
 import { createClient, type RealtimeChannel, type SupabaseClient } from '@supabase/supabase-js'
 import { db, getPreference, setPreference } from './db'
-import { isStandaloneLaunch, pairingAccessKey } from './pairing'
+import { isStandaloneLaunch, newPairingAccessKey, pairingAccessKey, pairingInviteUrl } from './pairing'
 import type { EventType, HouseholdMembership, PuppyEvent } from './types'
 
 const cloudUrl = import.meta.env.VITE_SUPABASE_URL as string | undefined
@@ -79,6 +79,19 @@ export async function loadMembership(): Promise<HouseholdMembership | undefined>
   }
   await setPreference(membershipPreference, membership)
   return membership
+}
+
+export async function createPhoneInvite(): Promise<{ membership: HouseholdMembership; url: string }> {
+  const savedMembership = await getPreference<HouseholdMembership | undefined>(membershipPreference, undefined)
+  let accessKey = await getPreference<string | undefined>(accessKeyPreference, undefined)
+  if (!savedMembership) {
+    accessKey = newPairingAccessKey()
+    await setPreference(accessKeyPreference, accessKey)
+  }
+  if (!accessKey) throw new Error('This phone is missing its private household key.')
+  const membership = await loadMembership()
+  if (!membership) throw new Error('Could not create the private phone invitation.')
+  return { membership, url: pairingInviteUrl(window.location.origin, window.location.pathname, accessKey) }
 }
 
 type CloudEvent = {
