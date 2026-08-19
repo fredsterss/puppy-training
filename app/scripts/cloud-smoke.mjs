@@ -23,12 +23,16 @@ async function signIn(client) {
 }
 
 async function join(client) {
-  const { data, error } = await client.rpc('bootstrap_household', {
-    access_key_input: accessKey,
-    display_name_input: 'Smoke test device'
-  }).single()
-  if (error) throw error
-  return data
+  for (let attempt = 1; attempt <= 5; attempt += 1) {
+    const { data, error } = await client.rpc('bootstrap_household', {
+      access_key_input: accessKey,
+      display_name_input: 'Smoke test device'
+    }).single()
+    if (!error) return data
+    if (error.code !== 'PGRST303' || attempt === 5) throw error
+    // Auth and Data API nodes can briefly disagree on the current second.
+    await new Promise((resolve) => setTimeout(resolve, 2_000))
+  }
 }
 
 const first = device()
@@ -114,6 +118,8 @@ const { error: cleanupError } = await first
 if (cleanupError) throw cleanupError
 
 await second.removeChannel(channel)
+await Promise.all([first.removeAllChannels(), second.removeAllChannels(), outsider.removeAllChannels()])
+await Promise.all([first.auth.signOut(), second.auth.signOut(), outsider.auth.signOut()])
 console.log(JSON.stringify({
   anonymousAuth: true,
   pairedHousehold: true,
