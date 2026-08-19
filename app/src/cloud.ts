@@ -1,5 +1,6 @@
 import { createClient, type RealtimeChannel, type SupabaseClient } from '@supabase/supabase-js'
 import { db, getPreference, setPreference } from './db'
+import { isStandaloneLaunch, pairingAccessKey } from './pairing'
 import type { EventType, HouseholdMembership, PuppyEvent } from './types'
 
 const cloudUrl = import.meta.env.VITE_SUPABASE_URL as string | undefined
@@ -29,8 +30,10 @@ export async function ensureCloudSession(): Promise<void> {
 }
 
 export async function loadMembership(): Promise<HouseholdMembership | undefined> {
-  const hash = new URLSearchParams(window.location.hash.slice(1))
-  const linkAccessKey = hash.get('sync')?.trim()
+  const linkAccessKey = pairingAccessKey(window.location.hash)
+  // Safari must retain the capability in the installation URL. With no fixed
+  // manifest start_url, the first Home Screen launch inherits this exact URL.
+  if (linkAccessKey && !isStandaloneLaunch()) return undefined
   if (linkAccessKey) {
     await setPreference(accessKeyPreference, linkAccessKey)
     window.history.replaceState(null, '', window.location.pathname + window.location.search)
