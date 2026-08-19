@@ -104,8 +104,9 @@ ate, water, sleep, and wake tracking, plus immediately logged accidents with
 optional arbitrary tags.
 Activity timestamps can be edited afterward from the history screen.
 Optional Supabase household sync lets two phones share one offline-first event
-feed after opening the same private capability link once. Pairing and subsequent
-sync are invisible in the app; setup SQL lives in `supabase/schema.sql`.
+feed. The primary caregiver taps **Add phone** once to create and share a private
+installation link; pairing then disappears and subsequent sync is invisible in
+the app. Setup SQL lives in `supabase/schema.sql`.
 The Today screen calculates the next potty trip from the latest logged pee using
 the puppy's completed age in months plus one hour (birth date: June 8, 2026), and
 keeps a live remaining/overdue countdown on screen.

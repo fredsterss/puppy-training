@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { pairingAccessKey, shouldConsumePairingLink } from './pairing'
+import { newPairingAccessKey, pairingAccessKey, pairingInviteUrl, shouldConsumePairingLink } from './pairing'
 
 describe('pairing install handoff', () => {
   it('preserves the private link while Safari adds the app to the Home Screen', () => {
@@ -14,5 +14,13 @@ describe('pairing install handoff', () => {
   it('ignores ordinary launches', () => {
     expect(pairingAccessKey('')).toBeUndefined()
     expect(shouldConsumePairingLink('', true)).toBe(false)
+  })
+
+  it('creates a high-entropy private invitation for another phone', () => {
+    const uuids = ['11111111-1111-4111-8111-111111111111', '22222222-2222-4222-8222-222222222222']
+    const accessKey = newPairingAccessKey(() => uuids.shift()!)
+    expect(accessKey).toHaveLength(64)
+    expect(pairingInviteUrl('https://example.com', '/puppy-training/', accessKey))
+      .toBe(`https://example.com/puppy-training/#sync=${accessKey}`)
   })
 })

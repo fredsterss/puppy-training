@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import DOMPurify from 'dompurify'
 import { marked } from 'marked'
-import { cloudConfigured, loadMembership, subscribeToHousehold, syncEvents, unsubscribeFromHousehold } from './cloud'
+import { cloudConfigured, createPhoneInvite, loadMembership, subscribeToHousehold, syncEvents, unsubscribeFromHousehold } from './cloud'
 import { db, getPreference, setPreference } from './db'
 import { bladderHoldHours, eventsToday, filterArticlesByView, formatPottyCountdown, formatRelativeTime, formatViewSummary, labelForEvent, mostRecent, nextPottyAt, normalizeTags, puppyAgeInMonths, searchArticles } from './domain'
 import type { Article, ArticleBundle, ArticleView, ArticleViewFilter, ChecklistProgress, EventType, HouseholdMembership, PuppyEvent, Screen } from './types'
@@ -143,6 +143,24 @@ function App() {
       void unsubscribeFromHousehold(channel)
     }
   }, [ready, refreshCloudEvents])
+
+  const addPhone = useCallback(async () => {
+    try {
+      const invite = await createPhoneInvite()
+      setMembership(invite.membership)
+      await refreshCloudEvents(invite.membership)
+      if (navigator.share) {
+        await navigator.share({ title: 'Puppy Companion', text: 'Open this private link and add Puppy Companion to your Home Screen.', url: invite.url })
+        setMessage('Private phone invitation shared')
+      } else {
+        await navigator.clipboard.writeText(invite.url)
+        setMessage('Private phone invitation copied')
+      }
+    } catch (error) {
+      if (error instanceof DOMException && error.name === 'AbortError') return
+      setMessage(error instanceof Error ? error.message : 'Could not add that phone. Try again.')
+    }
+  }, [refreshCloudEvents])
 
   const navigate = useCallback((destination: Screen) => {
     setScreen(destination)
@@ -303,7 +321,7 @@ function App() {
           <p className="eyebrow">Puppy companion</p>
           <h1>{screen === 'today' ? 'Good day, pup' : screens.find(({ id }) => id === screen)?.label}</h1>
         </div>
-        <div className="avatar" aria-hidden="true">🐾</div>
+        <button className="add-phone-button" onClick={() => void addPhone()}>+ Add phone</button>
       </header>
 
       {message && <div className="toast" role="status">{message}</div>}
