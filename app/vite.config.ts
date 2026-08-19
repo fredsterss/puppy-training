@@ -16,7 +16,7 @@ export default defineConfig({
         theme_color: '#244238',
         background_color: '#f7f3ea',
         display: 'standalone',
-        start_url: './',
+        start_url: undefined,
         icons: [
           {
             src: 'puppy-icon.svg',
