@@ -103,6 +103,8 @@ checklist, per-article view counts and last-viewed history, one-tap pee, poo,
 ate, water, sleep, and wake tracking, plus immediately logged accidents with
 optional arbitrary tags.
 Activity timestamps can be edited afterward from the history screen.
+Tapping a poo in the activity timeline lets either caregiver record or update
+its consistency as firm, normal, soft, or watery.
 Optional Supabase household sync lets two phones share one offline-first event
 feed. The primary caregiver taps **Add phone** once to create and share a private
 installation link; pairing then disappears and subsequent sync is invisible in

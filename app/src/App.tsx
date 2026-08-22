@@ -3,8 +3,8 @@ import DOMPurify from 'dompurify'
 import { marked } from 'marked'
 import { cloudConfigured, createPhoneInvite, loadMembership, subscribeToHousehold, syncEvents, unsubscribeFromHousehold } from './cloud'
 import { db, getPreference, setPreference } from './db'
-import { bladderHoldHours, eventsToday, filterArticlesByView, formatPottyCountdown, formatRelativeTime, formatViewSummary, labelForEvent, mostRecent, nextPottyAt, normalizeTags, puppyAgeInMonths, searchArticles } from './domain'
-import type { Article, ArticleBundle, ArticleView, ArticleViewFilter, ChecklistProgress, EventType, HouseholdMembership, PuppyEvent, Screen } from './types'
+import { bladderHoldHours, eventsToday, filterArticlesByView, formatPottyCountdown, formatRelativeTime, formatViewSummary, labelForEvent, labelForPooConsistency, mostRecent, nextPottyAt, normalizeTags, pooConsistencyOptions, puppyAgeInMonths, searchArticles } from './domain'
+import type { Article, ArticleBundle, ArticleView, ArticleViewFilter, ChecklistProgress, EventType, HouseholdMembership, PooConsistency, PuppyEvent, Screen } from './types'
 
 const screens: Array<{ id: Screen; label: string; icon: string }> = [
   { id: 'today', label: 'Today', icon: '⌂' },
@@ -53,6 +53,7 @@ function App() {
   const [accidentTags, setAccidentTags] = useState('')
   const [editingEventId, setEditingEventId] = useState<number>()
   const [eventTime, setEventTime] = useState('')
+  const [editingPooId, setEditingPooId] = useState<number>()
   const [membership, setMembership] = useState<HouseholdMembership>()
   const [now, setNow] = useState(() => new Date())
   const readerRef = useRef<HTMLElement>(null)
@@ -283,6 +284,28 @@ function App() {
     }
   }, [editingEventId, eventTime, membership, refreshCloudEvents])
 
+  const editPooConsistency = useCallback((event: PuppyEvent) => {
+    if (event.type !== 'poo' || event.id === undefined) return
+    setEditingPooId(event.id)
+  }, [])
+
+  const savePooConsistency = useCallback(async (consistency?: PooConsistency) => {
+    if (editingPooId === undefined) return
+    try {
+      const updatedAt = new Date().toISOString()
+      await db.events.update(editingPooId, { consistency, updatedAt, syncState: 'pending' })
+      setEvents((current) => current.map((event) => event.id === editingPooId
+        ? { ...event, consistency, updatedAt, syncState: 'pending' as const }
+        : event))
+      setEditingPooId(undefined)
+      setMessage(consistency ? `${labelForPooConsistency(consistency)} consistency saved` : 'Poo consistency cleared')
+      window.setTimeout(() => setMessage(undefined), 1800)
+      if (membership) void refreshCloudEvents(membership)
+    } catch {
+      setMessage('Could not save poo consistency. Please try again.')
+    }
+  }, [editingPooId, membership, refreshCloudEvents])
+
   const toggleChecklist = useCallback(async (id: string) => {
     const completed = !progress.get(id)?.completed
     const item: ChecklistProgress = {
@@ -420,11 +443,24 @@ function App() {
             <div className="section-heading"><h2>Recent activity</h2><span>{events.length} total</span></div>
             <div className="timeline">
               {events.slice(0, 100).map((event) => (
-                <article key={event.id} className={event.type === 'accident' ? 'accident-entry' : undefined}>
+                <article
+                  key={event.id}
+                  className={[event.type === 'accident' ? 'accident-entry' : '', event.type === 'poo' ? 'poo-entry' : ''].filter(Boolean).join(' ') || undefined}
+                  onClick={event.type === 'poo' ? () => editPooConsistency(event) : undefined}
+                  onKeyDown={event.type === 'poo' ? (keyEvent) => {
+                    if (keyEvent.key === 'Enter' || keyEvent.key === ' ') {
+                      keyEvent.preventDefault()
+                      editPooConsistency(event)
+                    }
+                  } : undefined}
+                  role={event.type === 'poo' ? 'button' : undefined}
+                  tabIndex={event.type === 'poo' ? 0 : undefined}
+                  aria-label={event.type === 'poo' ? `Edit poo consistency${event.consistency ? `, currently ${labelForPooConsistency(event.consistency)}` : ''}` : undefined}
+                >
                   <span className={`event-dot ${event.type}`} />
-                  <div><strong>{labelForEvent(event.type)}</strong><button className="edit-time" onClick={() => editEventTime(event)}>{new Date(event.occurredAt).toLocaleString([], { weekday: 'short', hour: 'numeric', minute: '2-digit' })} · Edit</button>{event.type === 'accident' && <div className="tag-list">{event.tags?.map((tag) => <span key={tag}>#{tag}</span>)}<button onClick={() => editAccidentTags(event)}>{event.tags?.length ? 'Edit tags' : '+ Add tags'}</button></div>}</div>
+                  <div><strong>{labelForEvent(event.type)}</strong>{event.type === 'poo' && <span className={`poo-consistency ${event.consistency ? 'saved' : ''}`}>{event.consistency ? labelForPooConsistency(event.consistency) : 'Tap to add consistency'}</span>}<button className="edit-time" onClick={(clickEvent) => { clickEvent.stopPropagation(); editEventTime(event) }}>{new Date(event.occurredAt).toLocaleString([], { weekday: 'short', hour: 'numeric', minute: '2-digit' })} · Edit</button>{event.type === 'accident' && <div className="tag-list">{event.tags?.map((tag) => <span key={tag}>#{tag}</span>)}<button onClick={() => editAccidentTags(event)}>{event.tags?.length ? 'Edit tags' : '+ Add tags'}</button></div>}</div>
                   <span>{formatRelativeTime(event.occurredAt)}</span>
-                  <button className="delete-event" aria-label={`Remove ${labelForEvent(event.type)} entry`} onClick={() => void removeEvent(event)}>×</button>
+                  <button className="delete-event" aria-label={`Remove ${labelForEvent(event.type)} entry`} onClick={(clickEvent) => { clickEvent.stopPropagation(); void removeEvent(event) }}>×</button>
                 </article>
               ))}
               {!events.length && <div className="empty-state"><strong>No activity yet</strong><p>Use a button above to start today’s log.</p></div>}
@@ -451,6 +487,19 @@ function App() {
             <label>Date and time<input type="datetime-local" value={eventTime} onChange={(event) => setEventTime(event.target.value)} required /></label>
             <button className="primary-button" type="submit">Save time</button>
           </form>
+        </div>
+      )}
+
+      {editingPooId !== undefined && (
+        <div className="sheet-backdrop" role="presentation" onClick={() => setEditingPooId(undefined)}>
+          <section className="consistency-sheet" aria-label="Edit poo consistency" onClick={(event) => event.stopPropagation()}>
+            <div className="sheet-heading"><div><p className="eyebrow">Poo details</p><h2>Consistency</h2></div><button type="button" aria-label="Close consistency editor" onClick={() => setEditingPooId(undefined)}>×</button></div>
+            <p>How was it?</p>
+            <div className="consistency-options">
+              {pooConsistencyOptions.map(({ value, label }) => <button className={events.find(({ id }) => id === editingPooId)?.consistency === value ? 'selected' : ''} key={value} type="button" onClick={() => void savePooConsistency(value)}>{label}</button>)}
+            </div>
+            {events.find(({ id }) => id === editingPooId)?.consistency && <button className="clear-consistency" type="button" onClick={() => void savePooConsistency(undefined)}>Clear consistency</button>}
+          </section>
         </div>
       )}
 

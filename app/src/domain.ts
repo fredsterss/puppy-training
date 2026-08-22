@@ -1,4 +1,4 @@
-import type { Article, ArticleView, ArticleViewFilter, EventType, PuppyEvent } from './types'
+import type { Article, ArticleView, ArticleViewFilter, EventType, PooConsistency, PuppyEvent } from './types'
 
 const eventLabels: Record<EventType, string> = {
   pee: 'Pee',
@@ -12,6 +12,17 @@ const eventLabels: Record<EventType, string> = {
 
 export function labelForEvent(type: EventType): string {
   return eventLabels[type]
+}
+
+export const pooConsistencyOptions: Array<{ value: PooConsistency; label: string }> = [
+  { value: 'firm', label: 'Firm' },
+  { value: 'normal', label: 'Normal' },
+  { value: 'soft', label: 'Soft' },
+  { value: 'watery', label: 'Watery' }
+]
+
+export function labelForPooConsistency(consistency: PooConsistency): string {
+  return pooConsistencyOptions.find(({ value }) => value === consistency)?.label ?? consistency
 }
 
 export function normalizeTags(rawTags: string): string[] {

@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { bladderHoldHours, eventsToday, filterArticlesByView, formatPottyCountdown, formatRelativeTime, formatViewSummary, labelForEvent, nextPottyAt, normalizeTags, puppyAgeInMonths, searchArticles } from './domain'
+import { bladderHoldHours, eventsToday, filterArticlesByView, formatPottyCountdown, formatRelativeTime, formatViewSummary, labelForEvent, labelForPooConsistency, nextPottyAt, normalizeTags, pooConsistencyOptions, puppyAgeInMonths, searchArticles } from './domain'
 import type { Article, ArticleView, PuppyEvent } from './types'
 
 const articles: Article[] = [
@@ -72,6 +72,10 @@ describe('care summaries', () => {
     ], localNoon)).toHaveLength(1)
   })
   it('labels a food timestamp as eaten', () => expect(labelForEvent('food')).toBe('Ate'))
+  it('offers and labels the supported poo consistencies', () => {
+    expect(pooConsistencyOptions.map(({ value }) => value)).toEqual(['firm', 'normal', 'soft', 'watery'])
+    expect(labelForPooConsistency('soft')).toBe('Soft')
+  })
   it('normalizes arbitrary accident tags', () => {
     expect(normalizeTags(' rug, #upstairs, Rug, after nap ')).toEqual(['rug', 'upstairs', 'after nap'])
   })
