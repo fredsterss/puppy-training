@@ -8,7 +8,7 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: 'autoUpdate',
-      includeAssets: ['puppy-icon.svg'],
+      includeAssets: ['daphne-icon-192.png', 'daphne-icon-512.png', 'apple-touch-icon.png'],
       manifest: {
         name: 'Puppy Companion',
         short_name: 'Puppy',
@@ -19,16 +19,22 @@ export default defineConfig({
         start_url: undefined,
         icons: [
           {
-            src: 'puppy-icon.svg',
-            sizes: 'any',
-            type: 'image/svg+xml',
+            src: 'daphne-icon-192.png',
+            sizes: '192x192',
+            type: 'image/png',
+            purpose: 'any'
+          },
+          {
+            src: 'daphne-icon-512.png',
+            sizes: '512x512',
+            type: 'image/png',
             purpose: 'any maskable'
           }
         ]
       },
       workbox: {
         maximumFileSizeToCacheInBytes: 20 * 1024 * 1024,
-        globPatterns: ['**/*.{js,css,html,svg,json}']
+        globPatterns: ['**/*.{js,css,html,svg,png,json}']
       }
     })
   ]

@@ -118,6 +118,8 @@ logging never waits for the network. A configured cloud backend silently shares
 care events between paired phones; the rest of the app remains device-local.
 Its service worker precaches the app shell and all 303 generated articles for
 offline use.
+The installed home-screen icon uses a custom close-up portrait of Daphne, with
+dedicated Apple touch and PWA icon sizes.
 
 ```bash
 cd app
