@@ -73,7 +73,7 @@ describe('care summaries', () => {
   })
   it('labels a food timestamp as eaten', () => expect(labelForEvent('food')).toBe('Ate'))
   it('offers and labels the supported poo consistencies', () => {
-    expect(pooConsistencyOptions.map(({ value }) => value)).toEqual(['firm', 'normal', 'soft', 'watery'])
+    expect(pooConsistencyOptions.map(({ value }) => value)).toEqual(['normal', 'soft'])
     expect(labelForPooConsistency('soft')).toBe('Soft')
   })
   it('normalizes arbitrary accident tags', () => {

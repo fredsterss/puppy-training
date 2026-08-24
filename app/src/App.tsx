@@ -216,7 +216,7 @@ function App() {
   const addEvent = useCallback(async (type: EventType) => {
     try {
       const now = new Date().toISOString()
-      const event: PuppyEvent = { syncId: crypto.randomUUID(), type, occurredAt: now, updatedAt: now, syncState: 'pending' }
+      const event: PuppyEvent = { syncId: crypto.randomUUID(), type, occurredAt: now, consistency: type === 'poo' ? 'normal' : undefined, updatedAt: now, syncState: 'pending' }
       const id = await db.events.add(event)
       setEvents((current) => [{ ...event, id }, ...current])
       setMessage(`${labelForEvent(type)} logged`)
@@ -289,7 +289,7 @@ function App() {
     setEditingPooId(event.id)
   }, [])
 
-  const savePooConsistency = useCallback(async (consistency?: PooConsistency) => {
+  const savePooConsistency = useCallback(async (consistency: PooConsistency) => {
     if (editingPooId === undefined) return
     try {
       const updatedAt = new Date().toISOString()
@@ -298,7 +298,7 @@ function App() {
         ? { ...event, consistency, updatedAt, syncState: 'pending' as const }
         : event))
       setEditingPooId(undefined)
-      setMessage(consistency ? `${labelForPooConsistency(consistency)} consistency saved` : 'Poo consistency cleared')
+      setMessage(`${labelForPooConsistency(consistency)} consistency saved`)
       window.setTimeout(() => setMessage(undefined), 1800)
       if (membership) void refreshCloudEvents(membership)
     } catch {
@@ -455,10 +455,10 @@ function App() {
                   } : undefined}
                   role={event.type === 'poo' ? 'button' : undefined}
                   tabIndex={event.type === 'poo' ? 0 : undefined}
-                  aria-label={event.type === 'poo' ? `Edit poo consistency${event.consistency ? `, currently ${labelForPooConsistency(event.consistency)}` : ''}` : undefined}
+                  aria-label={event.type === 'poo' ? `Edit poo consistency, currently ${labelForPooConsistency(event.consistency ?? 'normal')}` : undefined}
                 >
                   <span className={`event-dot ${event.type}`} />
-                  <div><strong>{labelForEvent(event.type)}</strong>{event.type === 'poo' && <span className={`poo-consistency ${event.consistency ? 'saved' : ''}`}>{event.consistency ? labelForPooConsistency(event.consistency) : 'Tap to add consistency'}</span>}<button className="edit-time" onClick={(clickEvent) => { clickEvent.stopPropagation(); editEventTime(event) }}>{new Date(event.occurredAt).toLocaleString([], { weekday: 'short', hour: 'numeric', minute: '2-digit' })} · Edit</button>{event.type === 'accident' && <div className="tag-list">{event.tags?.map((tag) => <span key={tag}>#{tag}</span>)}<button onClick={() => editAccidentTags(event)}>{event.tags?.length ? 'Edit tags' : '+ Add tags'}</button></div>}</div>
+                  <div><strong>{labelForEvent(event.type)}</strong>{event.type === 'poo' && <span className="poo-consistency saved">{labelForPooConsistency(event.consistency ?? 'normal')}</span>}<button className="edit-time" onClick={(clickEvent) => { clickEvent.stopPropagation(); editEventTime(event) }}>{new Date(event.occurredAt).toLocaleString([], { weekday: 'short', hour: 'numeric', minute: '2-digit' })} · Edit</button>{event.type === 'accident' && <div className="tag-list">{event.tags?.map((tag) => <span key={tag}>#{tag}</span>)}<button onClick={() => editAccidentTags(event)}>{event.tags?.length ? 'Edit tags' : '+ Add tags'}</button></div>}</div>
                   <span>{formatRelativeTime(event.occurredAt)}</span>
                   <button className="delete-event" aria-label={`Remove ${labelForEvent(event.type)} entry`} onClick={(clickEvent) => { clickEvent.stopPropagation(); void removeEvent(event) }}>×</button>
                 </article>
@@ -496,9 +496,8 @@ function App() {
             <div className="sheet-heading"><div><p className="eyebrow">Poo details</p><h2>Consistency</h2></div><button type="button" aria-label="Close consistency editor" onClick={() => setEditingPooId(undefined)}>×</button></div>
             <p>How was it?</p>
             <div className="consistency-options">
-              {pooConsistencyOptions.map(({ value, label }) => <button className={events.find(({ id }) => id === editingPooId)?.consistency === value ? 'selected' : ''} key={value} type="button" onClick={() => void savePooConsistency(value)}>{label}</button>)}
+              {pooConsistencyOptions.map(({ value, label }) => <button className={(events.find(({ id }) => id === editingPooId)?.consistency ?? 'normal') === value ? 'selected' : ''} key={value} type="button" onClick={() => void savePooConsistency(value)}>{label}</button>)}
             </div>
-            {events.find(({ id }) => id === editingPooId)?.consistency && <button className="clear-consistency" type="button" onClick={() => void savePooConsistency(undefined)}>Clear consistency</button>}
           </section>
         </div>
       )}

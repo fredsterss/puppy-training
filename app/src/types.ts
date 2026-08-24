@@ -1,5 +1,5 @@
 export type EventType = 'pee' | 'poo' | 'food' | 'accident' | 'water' | 'sleep' | 'wake'
-export type PooConsistency = 'firm' | 'normal' | 'soft' | 'watery'
+export type PooConsistency = 'normal' | 'soft'
 export type Screen = 'today' | 'learn' | 'train' | 'log'
 export type ArticleViewFilter = 'all' | 'viewed' | 'unread' | 'recent'
 
