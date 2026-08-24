@@ -34,7 +34,7 @@ create table if not exists public.puppy_events (
   deleted_at timestamptz,
   created_at timestamptz not null default now(),
   constraint puppy_events_poo_consistency_check check (
-    consistency is null or (type = 'poo' and consistency in ('firm', 'normal', 'soft', 'watery'))
+    consistency is null or (type = 'poo' and consistency in ('normal', 'soft'))
   )
 );
 

@@ -15,10 +15,8 @@ export function labelForEvent(type: EventType): string {
 }
 
 export const pooConsistencyOptions: Array<{ value: PooConsistency; label: string }> = [
-  { value: 'firm', label: 'Firm' },
   { value: 'normal', label: 'Normal' },
-  { value: 'soft', label: 'Soft' },
-  { value: 'watery', label: 'Watery' }
+  { value: 'soft', label: 'Soft' }
 ]
 
 export function labelForPooConsistency(consistency: PooConsistency): string {
