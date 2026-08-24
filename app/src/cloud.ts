@@ -1,7 +1,7 @@
 import { createClient, type RealtimeChannel, type SupabaseClient } from '@supabase/supabase-js'
 import { db, getPreference, setPreference } from './db'
 import { isStandaloneLaunch, newPairingAccessKey, pairingAccessKey, pairingInviteUrl } from './pairing'
-import type { EventType, HouseholdMembership, PuppyEvent } from './types'
+import type { EventType, HouseholdMembership, PooConsistency, PuppyEvent } from './types'
 
 const cloudUrl = import.meta.env.VITE_SUPABASE_URL as string | undefined
 const cloudKey = import.meta.env.VITE_SUPABASE_PUBLISHABLE_KEY as string | undefined
@@ -100,6 +100,7 @@ type CloudEvent = {
   type: EventType
   occurred_at: string
   amount: number | null
+  consistency: PooConsistency | null
   note: string | null
   tags: string[] | null
   updated_at: string
@@ -113,6 +114,7 @@ function toCloudEvent(event: PuppyEvent, householdId: string): CloudEvent {
     type: event.type,
     occurred_at: event.occurredAt,
     amount: event.amount ?? null,
+    consistency: event.consistency ?? null,
     note: event.note ?? null,
     tags: event.tags ?? null,
     updated_at: event.updatedAt,
@@ -136,7 +138,7 @@ export async function syncEvents(membership: HouseholdMembership): Promise<Puppy
 
   const { data, error } = await supabase
     .from('puppy_events')
-    .select('id, household_id, type, occurred_at, amount, note, tags, updated_at, deleted_at')
+    .select('id, household_id, type, occurred_at, amount, consistency, note, tags, updated_at, deleted_at')
     .eq('household_id', membership.householdId)
   if (error) throw error
 
@@ -150,6 +152,7 @@ export async function syncEvents(membership: HouseholdMembership): Promise<Puppy
         type: remote.type,
         occurredAt: remote.occurred_at,
         amount: remote.amount ?? undefined,
+        consistency: remote.consistency ?? undefined,
         note: remote.note ?? undefined,
         tags: remote.tags ?? undefined,
         updatedAt: remote.updated_at,

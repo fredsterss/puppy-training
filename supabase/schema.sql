@@ -26,12 +26,16 @@ create table if not exists public.puppy_events (
   type text not null check (type in ('pee', 'poo', 'food', 'accident', 'water', 'sleep', 'wake')),
   occurred_at timestamptz not null,
   amount numeric,
+  consistency text,
   note text,
   tags text[],
   created_by uuid not null default auth.uid() references auth.users(id),
   updated_at timestamptz not null,
   deleted_at timestamptz,
-  created_at timestamptz not null default now()
+  created_at timestamptz not null default now(),
+  constraint puppy_events_poo_consistency_check check (
+    consistency is null or (type = 'poo' and consistency in ('firm', 'normal', 'soft', 'watery'))
+  )
 );
 
 create index if not exists puppy_events_household_time_idx
