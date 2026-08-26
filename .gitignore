@@ -12,3 +12,6 @@ app/.env*
 app/public/content/articles.json
 app/*.tsbuildinfo
 supabase/.temp/
+.DS_Store
+mac/PuppyMenuBar/.build/
+mac/PuppyMenuBar/dist/
