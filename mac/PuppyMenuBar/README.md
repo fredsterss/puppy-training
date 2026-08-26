@@ -19,3 +19,5 @@ the macOS Keychain. The app is read-only and all database access remains subject
 to the existing household RLS policies.
 
 Use the **Launch at login** switch after moving the bundle to `/Applications`.
+GitHub Actions also tests the Swift package and publishes the signed app bundle
+as a build artifact whenever the Mac companion changes.
