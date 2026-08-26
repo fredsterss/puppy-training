@@ -121,6 +121,13 @@ offline use.
 The installed home-screen icon uses a custom close-up portrait of Daphne, with
 dedicated Apple touch and PWA icon sizes.
 
+A native read-only macOS companion lives under `mac/PuppyMenuBar/`. It shows the
+latest shared event and elapsed time directly in the menu bar, refreshes once per
+minute, pairs with the existing private **Add phone** link, and stores all cloud
+credentials in Keychain. Build and setup instructions are in
+`mac/PuppyMenuBar/README.md`; its architecture is recorded in
+`docs/ADR-002-native-mac-menu-bar-companion.md`.
+
 ```bash
 cd app
 npm install

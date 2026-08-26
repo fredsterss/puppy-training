@@ -1,0 +1,36 @@
+name: Test Mac Menu Bar
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'mac/PuppyMenuBar/**'
+      - 'app/public/daphne-icon-512.png'
+      - '.github/workflows/test-mac-menubar.yml'
+  pull_request:
+    paths:
+      - 'mac/PuppyMenuBar/**'
+      - 'app/public/daphne-icon-512.png'
+      - '.github/workflows/test-mac-menubar.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  test-and-build:
+    runs-on: macos-latest
+    defaults:
+      run:
+        working-directory: mac/PuppyMenuBar
+    steps:
+      - uses: actions/checkout@v4
+      - name: Test
+        run: swift test
+      - name: Build app bundle
+        run: ./build-app.sh
+      - name: Upload app bundle
+        uses: actions/upload-artifact@v4
+        with:
+          name: Daphne-Menu-Bar
+          path: mac/PuppyMenuBar/dist/Daphne Menu Bar.app
+          if-no-files-found: error
