@@ -35,6 +35,22 @@ export function normalizeTags(rawTags: string): string[] {
     })
 }
 
+export function buildPottyDetailChanges(
+  event: Pick<PuppyEvent, 'type'>,
+  isAccident: boolean,
+  rawTags: string,
+  consistency: PooConsistency,
+  updatedAt: string
+): Pick<PuppyEvent, 'isAccident' | 'consistency' | 'tags' | 'updatedAt' | 'syncState'> {
+  return {
+    isAccident,
+    consistency: event.type === 'poo' ? consistency : undefined,
+    tags: isAccident ? normalizeTags(rawTags) : [],
+    updatedAt,
+    syncState: 'pending'
+  }
+}
+
 export function searchArticles(articles: Article[], rawQuery: string): Article[] {
   const terms = rawQuery.toLocaleLowerCase().trim().split(/\s+/).filter(Boolean)
   if (!terms.length) return articles

@@ -23,3 +23,13 @@ import Testing
     #expect(soft.label == "Poo · Soft · Accident")
     #expect(soft.icon == "⚠️")
 }
+
+@Test func decodesAndPresentsAPeeAccident() throws {
+    let json = Data(#"{"id":"11111111-1111-4111-8111-111111111111","type":"pee","occurred_at":"2026-08-26T12:00:00Z","consistency":null,"is_accident":true,"tags":["rug"]}"#.utf8)
+    let event = try JSONDecoder().decode(PuppyEvent.self, from: json)
+
+    #expect(event.isAccident)
+    #expect(event.tags == ["rug"])
+    #expect(event.label == "Pee · Accident")
+    #expect(event.icon == "⚠️")
+}

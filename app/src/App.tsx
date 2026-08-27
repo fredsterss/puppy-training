@@ -3,7 +3,7 @@ import DOMPurify from 'dompurify'
 import { marked } from 'marked'
 import { cloudConfigured, createPhoneInvite, loadMembership, subscribeToHousehold, syncEvents, unsubscribeFromHousehold } from './cloud'
 import { db, getPreference, setPreference } from './db'
-import { bladderHoldHours, eventsToday, filterArticlesByView, formatPottyCountdown, formatRelativeTime, formatViewSummary, labelForEvent, labelForPooConsistency, mostRecent, nextPottyAt, normalizeTags, pooConsistencyOptions, puppyAgeInMonths, searchArticles } from './domain'
+import { bladderHoldHours, buildPottyDetailChanges, eventsToday, filterArticlesByView, formatPottyCountdown, formatRelativeTime, formatViewSummary, labelForEvent, labelForPooConsistency, mostRecent, nextPottyAt, pooConsistencyOptions, puppyAgeInMonths, searchArticles } from './domain'
 import type { Article, ArticleBundle, ArticleView, ArticleViewFilter, ChecklistProgress, EventType, HouseholdMembership, PooConsistency, PuppyEvent, Screen } from './types'
 
 const screens: Array<{ id: Screen; label: string; icon: string }> = [
@@ -239,10 +239,9 @@ function App() {
     if (editingPottyId === undefined) return
     const current = events.find(({ id }) => id === editingPottyId)
     if (!current) return
-    const tags = pottyIsAccident ? normalizeTags(pottyTags) : []
     try {
       const updatedAt = new Date().toISOString()
-      const changes = { isAccident: pottyIsAccident, consistency: current.type === 'poo' ? pottyConsistency : undefined, tags, updatedAt, syncState: 'pending' as const }
+      const changes = buildPottyDetailChanges(current, pottyIsAccident, pottyTags, pottyConsistency, updatedAt)
       await db.events.update(editingPottyId, changes)
       setEvents((items) => items.map((event) => event.id === editingPottyId ? { ...event, ...changes } : event))
       setEditingPottyId(undefined)
@@ -426,6 +425,7 @@ function App() {
                   className={event.type === 'pee' || event.type === 'poo' ? 'potty-entry' : undefined}
                   onClick={event.type === 'pee' || event.type === 'poo' ? () => editPottyDetails(event) : undefined}
                   onKeyDown={event.type === 'pee' || event.type === 'poo' ? (keyEvent) => {
+                    if (keyEvent.target !== keyEvent.currentTarget) return
                     if (keyEvent.key === 'Enter' || keyEvent.key === ' ') {
                       keyEvent.preventDefault()
                       editPottyDetails(event)

@@ -94,7 +94,7 @@ export async function createPhoneInvite(): Promise<{ membership: HouseholdMember
   return { membership, url: pairingInviteUrl(window.location.origin, window.location.pathname, accessKey) }
 }
 
-type CloudEvent = {
+export type CloudEvent = {
   id: string
   household_id: string
   type: EventType | 'accident'
@@ -108,7 +108,7 @@ type CloudEvent = {
   deleted_at: string | null
 }
 
-function toCloudEvent(event: PuppyEvent, householdId: string): CloudEvent {
+export function toCloudEvent(event: PuppyEvent, householdId: string): CloudEvent {
   return {
     id: event.syncId,
     household_id: householdId,
@@ -122,6 +122,29 @@ function toCloudEvent(event: PuppyEvent, householdId: string): CloudEvent {
     updated_at: event.updatedAt,
     deleted_at: event.deletedAt ?? null
   }
+}
+
+export function fromCloudEvent(remote: CloudEvent, localId?: number): PuppyEvent {
+  const legacyAccident = remote.type === 'accident'
+  const type = (legacyAccident ? 'pee' : remote.type) as EventType
+  return {
+    id: localId,
+    syncId: remote.id,
+    type,
+    occurredAt: remote.occurred_at,
+    amount: remote.amount ?? undefined,
+    consistency: remote.consistency ?? undefined,
+    isAccident: legacyAccident || remote.is_accident,
+    note: remote.note ?? undefined,
+    tags: remote.tags ?? undefined,
+    updatedAt: remote.updated_at,
+    deletedAt: remote.deleted_at ?? undefined,
+    syncState: 'synced'
+  }
+}
+
+export function shouldKeepPendingLocalEvent(local: PuppyEvent | undefined, remote: Pick<CloudEvent, 'updated_at'>): boolean {
+  return local?.syncState === 'pending' && local.updatedAt > remote.updated_at
 }
 
 export async function syncEvents(membership: HouseholdMembership): Promise<PuppyEvent[]> {
@@ -147,24 +170,8 @@ export async function syncEvents(membership: HouseholdMembership): Promise<Puppy
   await db.transaction('rw', db.events, async () => {
     for (const remote of data as CloudEvent[]) {
       const local = await db.events.where('syncId').equals(remote.id).first()
-      if (local?.syncState === 'pending' && local.updatedAt > remote.updated_at) continue
-      const legacyAccident = remote.type === 'accident'
-      const type = (legacyAccident ? 'pee' : remote.type) as EventType
-      const next: PuppyEvent = {
-        id: local?.id,
-        syncId: remote.id,
-        type,
-        occurredAt: remote.occurred_at,
-        amount: remote.amount ?? undefined,
-        consistency: remote.consistency ?? undefined,
-        isAccident: legacyAccident || remote.is_accident,
-        note: remote.note ?? undefined,
-        tags: remote.tags ?? undefined,
-        updatedAt: remote.updated_at,
-        deletedAt: remote.deleted_at ?? undefined,
-        syncState: 'synced'
-      }
-      await db.events.put(next)
+      if (shouldKeepPendingLocalEvent(local, remote)) continue
+      await db.events.put(fromCloudEvent(remote, local?.id))
     }
   })
 
