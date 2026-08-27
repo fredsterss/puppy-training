@@ -17,8 +17,9 @@ import Testing
 }
 
 @Test func labelsPooConsistency() {
-    let normal = PuppyEvent(id: UUID(), type: "poo", occurredAt: "2026-08-26T12:00:00Z", consistency: "normal", tags: nil)
-    let soft = PuppyEvent(id: UUID(), type: "poo", occurredAt: "2026-08-26T12:00:00Z", consistency: "soft", tags: nil)
+    let normal = PuppyEvent(id: UUID(), type: "poo", occurredAt: "2026-08-26T12:00:00Z", consistency: "normal", isAccident: false, tags: nil)
+    let soft = PuppyEvent(id: UUID(), type: "poo", occurredAt: "2026-08-26T12:00:00Z", consistency: "soft", isAccident: true, tags: ["rug"])
     #expect(normal.label == "Poo · Normal")
-    #expect(soft.label == "Poo · Soft")
+    #expect(soft.label == "Poo · Soft · Accident")
+    #expect(soft.icon == "⚠️")
 }

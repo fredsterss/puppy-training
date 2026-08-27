@@ -27,6 +27,7 @@ create table if not exists public.puppy_events (
   occurred_at timestamptz not null,
   amount numeric,
   consistency text,
+  is_accident boolean not null default false,
   note text,
   tags text[],
   created_by uuid not null default auth.uid() references auth.users(id),
@@ -35,8 +36,32 @@ create table if not exists public.puppy_events (
   created_at timestamptz not null default now(),
   constraint puppy_events_poo_consistency_check check (
     consistency is null or (type = 'poo' and consistency in ('normal', 'soft'))
+  ),
+  constraint puppy_events_accident_property_check check (
+    not is_accident or type in ('pee', 'poo')
   )
 );
+
+-- Keep old cached PWA clients compatible while storing only the new canonical
+-- pee/poo event shape.
+create or replace function public.normalize_legacy_accident_event()
+returns trigger
+language plpgsql
+set search_path = ''
+as $$
+begin
+  if new.type = 'accident' then
+    new.type := 'pee';
+    new.is_accident := true;
+  end if;
+  return new;
+end;
+$$;
+
+drop trigger if exists normalize_legacy_accident_event on public.puppy_events;
+create trigger normalize_legacy_accident_event
+before insert or update on public.puppy_events
+for each row execute function public.normalize_legacy_accident_event();
 
 create index if not exists puppy_events_household_time_idx
   on public.puppy_events (household_id, occurred_at desc);

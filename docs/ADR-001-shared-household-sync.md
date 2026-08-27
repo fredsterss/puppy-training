@@ -14,6 +14,8 @@ Use Supabase Auth, Postgres, Row Level Security, and Realtime as the shared serv
 
 On connection, the app uploads pending changes, downloads the household dataset, merges by UUID with newest-update-wins semantics, and subscribes to household event changes. Deletes are tombstones so they propagate to the other phone.
 
+Pee and poo remain the canonical potty event types. Accident is a boolean property on either type, with optional context tags, rather than a standalone event type. Existing standalone accident records are migrated to pee accidents because the legacy data did not capture which kind of potty event occurred; their original occurrence time and tags are retained. The database temporarily accepts the old event type so an older cached PWA can upload pending data, then immediately normalizes that write to a pee accident.
+
 ## Options considered
 
 ### Supabase
@@ -44,6 +46,7 @@ Lowest complexity, but cannot satisfy shared household access or protect history
 
 - Logging remains instant and works offline.
 - Existing phone events migrate and upload after the first household is created or joined.
+- Potty summaries and timing continue to count accidents because the underlying event remains pee or poo.
 - Both phones see changes shortly after sync or realtime delivery.
 - The private capability link grants household access and must only be sent to intended caregivers. Its 128+ bits of entropy make guessing impractical, while keeping authorization out of the public JavaScript bundle.
 - Anonymous device accounts are intentionally lightweight. Clearing all site data requires opening the private capability link again.

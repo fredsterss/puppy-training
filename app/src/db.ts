@@ -1,6 +1,8 @@
 import Dexie, { type EntityTable } from 'dexie'
 import type { ArticleView, ChecklistProgress, Preference, PuppyEvent } from './types'
 
+type LegacyPuppyEvent = Omit<PuppyEvent, 'type'> & { type: PuppyEvent['type'] | 'accident' }
+
 class PuppyDatabase extends Dexie {
   events!: EntityTable<PuppyEvent, 'id'>
   checklistProgress!: EntityTable<ChecklistProgress, 'id'>
@@ -30,6 +32,20 @@ class PuppyDatabase extends Dexie {
         event.syncId = event.syncId ?? crypto.randomUUID()
         event.updatedAt = event.updatedAt ?? event.occurredAt
         event.syncState = event.syncState ?? 'pending'
+      })
+    })
+    this.version(4).stores({
+      events: '++id, &syncId, type, occurredAt, updatedAt, syncState',
+      checklistProgress: 'id, completed, completedAt',
+      preferences: 'key',
+      articleViews: 'articleId, lastViewedAt'
+    }).upgrade(async (transaction) => {
+      await transaction.table<LegacyPuppyEvent, number>('events').toCollection().modify((event) => {
+        if (event.type !== 'accident') return
+        event.type = 'pee'
+        event.isAccident = true
+        event.updatedAt = new Date().toISOString()
+        event.syncState = 'pending'
       })
     })
   }

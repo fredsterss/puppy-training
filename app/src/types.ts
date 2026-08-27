@@ -1,4 +1,4 @@
-export type EventType = 'pee' | 'poo' | 'food' | 'accident' | 'water' | 'sleep' | 'wake'
+export type EventType = 'pee' | 'poo' | 'food' | 'water' | 'sleep' | 'wake'
 export type PooConsistency = 'normal' | 'soft'
 export type Screen = 'today' | 'learn' | 'train' | 'log'
 export type ArticleViewFilter = 'all' | 'viewed' | 'unread' | 'recent'
@@ -31,6 +31,7 @@ export interface PuppyEvent {
   occurredAt: string
   amount?: number
   consistency?: PooConsistency
+  isAccident?: boolean
   note?: string
   tags?: string[]
   updatedAt: string

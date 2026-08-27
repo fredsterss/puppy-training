@@ -97,10 +97,11 @@ export async function createPhoneInvite(): Promise<{ membership: HouseholdMember
 type CloudEvent = {
   id: string
   household_id: string
-  type: EventType
+  type: EventType | 'accident'
   occurred_at: string
   amount: number | null
   consistency: PooConsistency | null
+  is_accident: boolean
   note: string | null
   tags: string[] | null
   updated_at: string
@@ -115,6 +116,7 @@ function toCloudEvent(event: PuppyEvent, householdId: string): CloudEvent {
     occurred_at: event.occurredAt,
     amount: event.amount ?? null,
     consistency: event.consistency ?? null,
+    is_accident: event.isAccident ?? false,
     note: event.note ?? null,
     tags: event.tags ?? null,
     updated_at: event.updatedAt,
@@ -138,7 +140,7 @@ export async function syncEvents(membership: HouseholdMembership): Promise<Puppy
 
   const { data, error } = await supabase
     .from('puppy_events')
-    .select('id, household_id, type, occurred_at, amount, consistency, note, tags, updated_at, deleted_at')
+    .select('id, household_id, type, occurred_at, amount, consistency, is_accident, note, tags, updated_at, deleted_at')
     .eq('household_id', membership.householdId)
   if (error) throw error
 
@@ -146,13 +148,16 @@ export async function syncEvents(membership: HouseholdMembership): Promise<Puppy
     for (const remote of data as CloudEvent[]) {
       const local = await db.events.where('syncId').equals(remote.id).first()
       if (local?.syncState === 'pending' && local.updatedAt > remote.updated_at) continue
+      const legacyAccident = remote.type === 'accident'
+      const type = (legacyAccident ? 'pee' : remote.type) as EventType
       const next: PuppyEvent = {
         id: local?.id,
         syncId: remote.id,
-        type: remote.type,
+        type,
         occurredAt: remote.occurred_at,
         amount: remote.amount ?? undefined,
         consistency: remote.consistency ?? undefined,
+        isAccident: legacyAccident || remote.is_accident,
         note: remote.note ?? undefined,
         tags: remote.tags ?? undefined,
         updatedAt: remote.updated_at,

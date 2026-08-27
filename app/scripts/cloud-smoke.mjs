@@ -78,6 +78,7 @@ const { error: insertError } = await first.from('puppy_events').insert({
   household_id: householdId,
   type: 'poo',
   consistency: 'normal',
+  is_accident: true,
   occurred_at: occurredAt,
   updated_at: occurredAt
 })
@@ -90,11 +91,12 @@ await Promise.race([
 
 const { data: sharedRows, error: sharedReadError } = await second
   .from('puppy_events')
-  .select('id, household_id, type, consistency')
+  .select('id, household_id, type, consistency, is_accident')
   .eq('id', eventId)
 if (sharedReadError) throw sharedReadError
 assert.equal(sharedRows.length, 1, 'Paired device could not read the event')
 assert.equal(sharedRows[0].consistency, 'normal', 'Paired device could not read poo consistency')
+assert.equal(sharedRows[0].is_accident, true, 'Paired device could not read the accident property')
 
 const { data: outsiderRows, error: outsiderReadError } = await outsider
   .from('puppy_events')

@@ -4,7 +4,6 @@ const eventLabels: Record<EventType, string> = {
   pee: 'Pee',
   poo: 'Poo',
   food: 'Ate',
-  accident: 'Accident',
   water: 'Water',
   sleep: 'Sleep',
   wake: 'Wake'
