@@ -109,7 +109,8 @@ add tags, and switch poo consistency between normal and soft.
 Optional Supabase household sync lets two phones share one offline-first event
 feed. The primary caregiver taps **Add phone** once to create and share a private
 installation link; pairing then disappears and subsequent sync is invisible in
-the app. Setup SQL lives in `supabase/schema.sql`.
+the app. Setup SQL lives in `supabase/schema.sql`; the synchronization design is
+recorded in `docs/ADR-001-shared-household-sync.md`.
 The Today screen calculates the next potty trip from the latest logged pee using
 the puppy's completed age in months plus one hour (birth date: June 8, 2026), and
 keeps a live remaining/overdue countdown on screen.
