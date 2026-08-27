@@ -94,20 +94,21 @@ export async function createPhoneInvite(): Promise<{ membership: HouseholdMember
   return { membership, url: pairingInviteUrl(window.location.origin, window.location.pathname, accessKey) }
 }
 
-type CloudEvent = {
+export type CloudEvent = {
   id: string
   household_id: string
-  type: EventType
+  type: EventType | 'accident'
   occurred_at: string
   amount: number | null
   consistency: PooConsistency | null
+  is_accident: boolean
   note: string | null
   tags: string[] | null
   updated_at: string
   deleted_at: string | null
 }
 
-function toCloudEvent(event: PuppyEvent, householdId: string): CloudEvent {
+export function toCloudEvent(event: PuppyEvent, householdId: string): CloudEvent {
   return {
     id: event.syncId,
     household_id: householdId,
@@ -115,11 +116,35 @@ function toCloudEvent(event: PuppyEvent, householdId: string): CloudEvent {
     occurred_at: event.occurredAt,
     amount: event.amount ?? null,
     consistency: event.consistency ?? null,
+    is_accident: event.isAccident ?? false,
     note: event.note ?? null,
     tags: event.tags ?? null,
     updated_at: event.updatedAt,
     deleted_at: event.deletedAt ?? null
   }
+}
+
+export function fromCloudEvent(remote: CloudEvent, localId?: number): PuppyEvent {
+  const legacyAccident = remote.type === 'accident'
+  const type = (legacyAccident ? 'pee' : remote.type) as EventType
+  return {
+    id: localId,
+    syncId: remote.id,
+    type,
+    occurredAt: remote.occurred_at,
+    amount: remote.amount ?? undefined,
+    consistency: remote.consistency ?? undefined,
+    isAccident: legacyAccident || remote.is_accident,
+    note: remote.note ?? undefined,
+    tags: remote.tags ?? undefined,
+    updatedAt: remote.updated_at,
+    deletedAt: remote.deleted_at ?? undefined,
+    syncState: 'synced'
+  }
+}
+
+export function shouldKeepPendingLocalEvent(local: PuppyEvent | undefined, remote: Pick<CloudEvent, 'updated_at'>): boolean {
+  return local?.syncState === 'pending' && local.updatedAt > remote.updated_at
 }
 
 export async function syncEvents(membership: HouseholdMembership): Promise<PuppyEvent[]> {
@@ -138,28 +163,15 @@ export async function syncEvents(membership: HouseholdMembership): Promise<Puppy
 
   const { data, error } = await supabase
     .from('puppy_events')
-    .select('id, household_id, type, occurred_at, amount, consistency, note, tags, updated_at, deleted_at')
+    .select('id, household_id, type, occurred_at, amount, consistency, is_accident, note, tags, updated_at, deleted_at')
     .eq('household_id', membership.householdId)
   if (error) throw error
 
   await db.transaction('rw', db.events, async () => {
     for (const remote of data as CloudEvent[]) {
       const local = await db.events.where('syncId').equals(remote.id).first()
-      if (local?.syncState === 'pending' && local.updatedAt > remote.updated_at) continue
-      const next: PuppyEvent = {
-        id: local?.id,
-        syncId: remote.id,
-        type: remote.type,
-        occurredAt: remote.occurred_at,
-        amount: remote.amount ?? undefined,
-        consistency: remote.consistency ?? undefined,
-        note: remote.note ?? undefined,
-        tags: remote.tags ?? undefined,
-        updatedAt: remote.updated_at,
-        deletedAt: remote.deleted_at ?? undefined,
-        syncState: 'synced'
-      }
-      await db.events.put(next)
+      if (shouldKeepPendingLocalEvent(local, remote)) continue
+      await db.events.put(fromCloudEvent(remote, local?.id))
     }
   })
 

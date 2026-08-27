@@ -3,7 +3,8 @@
 A read-only native macOS companion for Puppy Companion. The menu-bar title
 shows the latest shared event and elapsed time; its panel shows the latest
 timestamp and five recent events. It refreshes on launch, on demand, and every
-60 seconds.
+60 seconds. Accident-marked pee and poo entries keep their potty label and use
+an accident warning icon in both views.
 
 ## Build and connect
 

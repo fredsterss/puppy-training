@@ -5,11 +5,13 @@ struct PuppyEvent: Codable, Identifiable, Sendable, Equatable {
     let type: String
     let occurredAt: String
     let consistency: String?
+    let isAccident: Bool
     let tags: [String]?
 
     enum CodingKeys: String, CodingKey {
         case id, type, consistency, tags
         case occurredAt = "occurred_at"
+        case isAccident = "is_accident"
     }
 
     var date: Date {
@@ -17,11 +19,11 @@ struct PuppyEvent: Codable, Identifiable, Sendable, Equatable {
     }
 
     var icon: String {
-        switch type {
+        if isAccident && (type == "pee" || type == "poo") { return "⚠️" }
+        return switch type {
         case "pee": "💧"
         case "poo": "💩"
         case "food": "🍽️"
-        case "accident": "⚠️"
         case "water": "🥤"
         case "sleep": "🌙"
         case "wake": "☀️"
@@ -30,16 +32,16 @@ struct PuppyEvent: Codable, Identifiable, Sendable, Equatable {
     }
 
     var label: String {
-        switch type {
+        let base = switch type {
         case "pee": "Pee"
         case "poo": consistency == "soft" ? "Poo · Soft" : "Poo · Normal"
         case "food": "Ate"
-        case "accident": "Accident"
         case "water": "Water"
         case "sleep": "Sleep"
         case "wake": "Wake"
         default: type.capitalized
         }
+        return isAccident && (type == "pee" || type == "poo") ? "\(base) · Accident" : base
     }
 }
 

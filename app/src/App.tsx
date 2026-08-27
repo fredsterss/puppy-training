@@ -3,7 +3,7 @@ import DOMPurify from 'dompurify'
 import { marked } from 'marked'
 import { cloudConfigured, createPhoneInvite, loadMembership, subscribeToHousehold, syncEvents, unsubscribeFromHousehold } from './cloud'
 import { db, getPreference, setPreference } from './db'
-import { bladderHoldHours, eventsToday, filterArticlesByView, formatPottyCountdown, formatRelativeTime, formatViewSummary, labelForEvent, labelForPooConsistency, mostRecent, nextPottyAt, normalizeTags, pooConsistencyOptions, puppyAgeInMonths, searchArticles } from './domain'
+import { bladderHoldHours, buildPottyDetailChanges, eventsToday, filterArticlesByView, formatPottyCountdown, formatRelativeTime, formatViewSummary, labelForEvent, labelForPooConsistency, mostRecent, nextPottyAt, pooConsistencyOptions, puppyAgeInMonths, searchArticles } from './domain'
 import type { Article, ArticleBundle, ArticleView, ArticleViewFilter, ChecklistProgress, EventType, HouseholdMembership, PooConsistency, PuppyEvent, Screen } from './types'
 
 const screens: Array<{ id: Screen; label: string; icon: string }> = [
@@ -17,7 +17,6 @@ const quickEvents: Array<{ type: EventType; icon: string }> = [
   { type: 'pee', icon: '💧' },
   { type: 'poo', icon: '●' },
   { type: 'food', icon: '◒' },
-  { type: 'accident', icon: '!' },
   { type: 'water', icon: '◡' },
   { type: 'sleep', icon: '☾' },
   { type: 'wake', icon: '☀' }
@@ -49,11 +48,12 @@ function App() {
   const [viewFilter, setViewFilter] = useState<ArticleViewFilter>('all')
   const [ready, setReady] = useState(false)
   const [message, setMessage] = useState<string>()
-  const [taggingAccidentId, setTaggingAccidentId] = useState<number>()
-  const [accidentTags, setAccidentTags] = useState('')
+  const [editingPottyId, setEditingPottyId] = useState<number>()
+  const [pottyIsAccident, setPottyIsAccident] = useState(false)
+  const [pottyTags, setPottyTags] = useState('')
+  const [pottyConsistency, setPottyConsistency] = useState<PooConsistency>('normal')
   const [editingEventId, setEditingEventId] = useState<number>()
   const [eventTime, setEventTime] = useState('')
-  const [editingPooId, setEditingPooId] = useState<number>()
   const [membership, setMembership] = useState<HouseholdMembership>()
   const [now, setNow] = useState(() => new Date())
   const readerRef = useRef<HTMLElement>(null)
@@ -220,10 +220,6 @@ function App() {
       const id = await db.events.add(event)
       setEvents((current) => [{ ...event, id }, ...current])
       setMessage(`${labelForEvent(type)} logged`)
-      if (type === 'accident') {
-        setTaggingAccidentId(id)
-        setAccidentTags('')
-      }
       window.setTimeout(() => setMessage(undefined), 1800)
       if (membership) void refreshCloudEvents(membership)
     } catch {
@@ -231,28 +227,31 @@ function App() {
     }
   }, [membership, refreshCloudEvents])
 
-  const editAccidentTags = useCallback((event: PuppyEvent) => {
-    if (event.id === undefined) return
-    setTaggingAccidentId(event.id)
-    setAccidentTags((event.tags ?? []).join(', '))
+  const editPottyDetails = useCallback((event: PuppyEvent) => {
+    if ((event.type !== 'pee' && event.type !== 'poo') || event.id === undefined) return
+    setEditingPottyId(event.id)
+    setPottyIsAccident(event.isAccident ?? false)
+    setPottyTags((event.tags ?? []).join(', '))
+    setPottyConsistency(event.consistency ?? 'normal')
   }, [])
 
-  const saveAccidentTags = useCallback(async () => {
-    if (taggingAccidentId === undefined) return
-    const tags = normalizeTags(accidentTags)
+  const savePottyDetails = useCallback(async () => {
+    if (editingPottyId === undefined) return
+    const current = events.find(({ id }) => id === editingPottyId)
+    if (!current) return
     try {
       const updatedAt = new Date().toISOString()
-      await db.events.update(taggingAccidentId, { tags, updatedAt, syncState: 'pending' })
-      setEvents((current) => current.map((event) => event.id === taggingAccidentId ? { ...event, tags, updatedAt, syncState: 'pending' } : event))
-      setTaggingAccidentId(undefined)
-      setAccidentTags('')
-      setMessage(tags.length ? 'Accident tags saved' : 'Accident saved')
+      const changes = buildPottyDetailChanges(current, pottyIsAccident, pottyTags, pottyConsistency, updatedAt)
+      await db.events.update(editingPottyId, changes)
+      setEvents((items) => items.map((event) => event.id === editingPottyId ? { ...event, ...changes } : event))
+      setEditingPottyId(undefined)
+      setMessage(`${labelForEvent(current.type)} details saved`)
       window.setTimeout(() => setMessage(undefined), 1800)
       if (membership) void refreshCloudEvents(membership)
     } catch {
-      setMessage('Could not save those tags. Please try again.')
+      setMessage('Could not save those details. Please try again.')
     }
-  }, [accidentTags, membership, refreshCloudEvents, taggingAccidentId])
+  }, [editingPottyId, events, membership, pottyConsistency, pottyIsAccident, pottyTags, refreshCloudEvents])
 
   const editEventTime = useCallback((event: PuppyEvent) => {
     if (event.id === undefined) return
@@ -283,28 +282,6 @@ function App() {
       setMessage('Could not update that time. Please try again.')
     }
   }, [editingEventId, eventTime, membership, refreshCloudEvents])
-
-  const editPooConsistency = useCallback((event: PuppyEvent) => {
-    if (event.type !== 'poo' || event.id === undefined) return
-    setEditingPooId(event.id)
-  }, [])
-
-  const savePooConsistency = useCallback(async (consistency: PooConsistency) => {
-    if (editingPooId === undefined) return
-    try {
-      const updatedAt = new Date().toISOString()
-      await db.events.update(editingPooId, { consistency, updatedAt, syncState: 'pending' })
-      setEvents((current) => current.map((event) => event.id === editingPooId
-        ? { ...event, consistency, updatedAt, syncState: 'pending' as const }
-        : event))
-      setEditingPooId(undefined)
-      setMessage(`${labelForPooConsistency(consistency)} consistency saved`)
-      window.setTimeout(() => setMessage(undefined), 1800)
-      if (membership) void refreshCloudEvents(membership)
-    } catch {
-      setMessage('Could not save poo consistency. Please try again.')
-    }
-  }, [editingPooId, membership, refreshCloudEvents])
 
   const toggleChecklist = useCallback(async (id: string) => {
     const completed = !progress.get(id)?.completed
@@ -445,20 +422,21 @@ function App() {
               {events.slice(0, 100).map((event) => (
                 <article
                   key={event.id}
-                  className={[event.type === 'accident' ? 'accident-entry' : '', event.type === 'poo' ? 'poo-entry' : ''].filter(Boolean).join(' ') || undefined}
-                  onClick={event.type === 'poo' ? () => editPooConsistency(event) : undefined}
-                  onKeyDown={event.type === 'poo' ? (keyEvent) => {
+                  className={event.type === 'pee' || event.type === 'poo' ? 'potty-entry' : undefined}
+                  onClick={event.type === 'pee' || event.type === 'poo' ? () => editPottyDetails(event) : undefined}
+                  onKeyDown={event.type === 'pee' || event.type === 'poo' ? (keyEvent) => {
+                    if (keyEvent.target !== keyEvent.currentTarget) return
                     if (keyEvent.key === 'Enter' || keyEvent.key === ' ') {
                       keyEvent.preventDefault()
-                      editPooConsistency(event)
+                      editPottyDetails(event)
                     }
                   } : undefined}
-                  role={event.type === 'poo' ? 'button' : undefined}
-                  tabIndex={event.type === 'poo' ? 0 : undefined}
-                  aria-label={event.type === 'poo' ? `Edit poo consistency, currently ${labelForPooConsistency(event.consistency ?? 'normal')}` : undefined}
+                  role={event.type === 'pee' || event.type === 'poo' ? 'button' : undefined}
+                  tabIndex={event.type === 'pee' || event.type === 'poo' ? 0 : undefined}
+                  aria-label={event.type === 'pee' || event.type === 'poo' ? `Edit ${labelForEvent(event.type).toLowerCase()} details${event.isAccident ? ', marked as an accident' : ''}` : undefined}
                 >
                   <span className={`event-dot ${event.type}`} />
-                  <div><strong>{labelForEvent(event.type)}</strong>{event.type === 'poo' && <span className="poo-consistency saved">{labelForPooConsistency(event.consistency ?? 'normal')}</span>}<button className="edit-time" onClick={(clickEvent) => { clickEvent.stopPropagation(); editEventTime(event) }}>{new Date(event.occurredAt).toLocaleString([], { weekday: 'short', hour: 'numeric', minute: '2-digit' })} · Edit</button>{event.type === 'accident' && <div className="tag-list">{event.tags?.map((tag) => <span key={tag}>#{tag}</span>)}<button onClick={() => editAccidentTags(event)}>{event.tags?.length ? 'Edit tags' : '+ Add tags'}</button></div>}</div>
+                  <div><strong>{labelForEvent(event.type)}</strong><div className="event-badges">{event.type === 'poo' && <span className="poo-consistency saved">{labelForPooConsistency(event.consistency ?? 'normal')}</span>}{event.isAccident && <span className="accident-badge">Accident</span>}</div><button className="edit-time" onClick={(clickEvent) => { clickEvent.stopPropagation(); editEventTime(event) }}>{new Date(event.occurredAt).toLocaleString([], { weekday: 'short', hour: 'numeric', minute: '2-digit' })} · Edit</button>{event.isAccident && Boolean(event.tags?.length) && <div className="tag-list">{event.tags?.map((tag) => <span key={tag}>#{tag}</span>)}</div>}</div>
                   <span>{formatRelativeTime(event.occurredAt)}</span>
                   <button className="delete-event" aria-label={`Remove ${labelForEvent(event.type)} entry`} onClick={(clickEvent) => { clickEvent.stopPropagation(); void removeEvent(event) }}>×</button>
                 </article>
@@ -468,17 +446,6 @@ function App() {
           </section>
         )}
       </main>
-
-      {taggingAccidentId !== undefined && (
-        <div className="sheet-backdrop" role="presentation" onClick={() => setTaggingAccidentId(undefined)}>
-          <form className="tag-sheet" aria-label="Tag accident" onSubmit={(event) => { event.preventDefault(); void saveAccidentTags() }} onClick={(event) => event.stopPropagation()}>
-            <div className="sheet-heading"><div><p className="eyebrow">Accident logged</p><h2>Add context</h2></div><button type="button" aria-label="Close accident tags" onClick={() => setTaggingAccidentId(undefined)}>×</button></div>
-            <p>Optional tags make patterns easier to spot later.</p>
-            <label>Tags, separated by commas<input value={accidentTags} onChange={(event) => setAccidentTags(event.target.value)} placeholder="rug, upstairs, after nap" autoFocus /></label>
-            <button className="primary-button" type="submit">Save tags</button>
-          </form>
-        </div>
-      )}
 
       {editingEventId !== undefined && (
         <div className="sheet-backdrop" role="presentation" onClick={() => setEditingEventId(undefined)}>
@@ -490,17 +457,19 @@ function App() {
         </div>
       )}
 
-      {editingPooId !== undefined && (
-        <div className="sheet-backdrop" role="presentation" onClick={() => setEditingPooId(undefined)}>
-          <section className="consistency-sheet" aria-label="Edit poo consistency" onClick={(event) => event.stopPropagation()}>
-            <div className="sheet-heading"><div><p className="eyebrow">Poo details</p><h2>Consistency</h2></div><button type="button" aria-label="Close consistency editor" onClick={() => setEditingPooId(undefined)}>×</button></div>
-            <p>How was it?</p>
-            <div className="consistency-options">
-              {pooConsistencyOptions.map(({ value, label }) => <button className={(events.find(({ id }) => id === editingPooId)?.consistency ?? 'normal') === value ? 'selected' : ''} key={value} type="button" onClick={() => void savePooConsistency(value)}>{label}</button>)}
-            </div>
-          </section>
+      {editingPottyId !== undefined && (() => {
+        const pottyEvent = events.find(({ id }) => id === editingPottyId)
+        if (!pottyEvent) return null
+        return <div className="sheet-backdrop" role="presentation" onClick={() => setEditingPottyId(undefined)}>
+          <form className="potty-sheet" aria-label={`Edit ${pottyEvent.type} details`} onSubmit={(event) => { event.preventDefault(); void savePottyDetails() }} onClick={(event) => event.stopPropagation()}>
+            <div className="sheet-heading"><div><p className="eyebrow">Potty event</p><h2>{labelForEvent(pottyEvent.type)} details</h2></div><button type="button" aria-label="Close potty details" onClick={() => setEditingPottyId(undefined)}>×</button></div>
+            {pottyEvent.type === 'poo' && <fieldset><legend>Consistency</legend><div className="consistency-options">{pooConsistencyOptions.map(({ value, label }) => <button className={pottyConsistency === value ? 'selected' : ''} key={value} type="button" onClick={() => setPottyConsistency(value)}>{label}</button>)}</div></fieldset>}
+            <label className="accident-toggle"><span><strong>Accident</strong><small>Mark this potty event as an accident</small></span><input type="checkbox" checked={pottyIsAccident} onChange={(event) => setPottyIsAccident(event.target.checked)} /></label>
+            {pottyIsAccident && <label>Tags, separated by commas<input value={pottyTags} onChange={(event) => setPottyTags(event.target.value)} placeholder="rug, upstairs, after nap" autoFocus /></label>}
+            <button className="primary-button" type="submit">Save details</button>
+          </form>
         </div>
-      )}
+      })()}
 
       <nav className="bottom-nav" aria-label="Primary navigation">
         {screens.map((item) => <button key={item.id} className={screen === item.id ? 'active' : ''} onClick={() => navigate(item.id)}><span>{item.icon}</span>{item.label}</button>)}

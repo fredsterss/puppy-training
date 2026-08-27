@@ -99,16 +99,18 @@ normalization and purged from existing exports.
 The repository now includes a phone-first progressive web app under `app/`.
 It turns the curated archive into an installable offline library with local
 search, exact reading-position restoration, a persistent 23-step training
-checklist, per-article view counts and last-viewed history, one-tap pee, poo,
-ate, water, sleep, and wake tracking, plus immediately logged accidents with
-optional arbitrary tags.
+checklist, per-article view counts and last-viewed history, and one-tap pee, poo,
+ate, water, sleep, and wake tracking. Pee and poo entries can be marked as
+accidents afterward and given optional arbitrary tags.
 Activity timestamps can be edited afterward from the history screen.
-Poo events default to normal consistency. Tapping one in the activity timeline
-lets either caregiver switch it between normal and soft.
+Poo events default to normal consistency. Tapping any pee or poo in the activity
+timeline opens its potty details, where either caregiver can mark an accident,
+add tags, and switch poo consistency between normal and soft.
 Optional Supabase household sync lets two phones share one offline-first event
 feed. The primary caregiver taps **Add phone** once to create and share a private
 installation link; pairing then disappears and subsequent sync is invisible in
-the app. Setup SQL lives in `supabase/schema.sql`.
+the app. Setup SQL lives in `supabase/schema.sql`; the synchronization design is
+recorded in `docs/ADR-001-shared-household-sync.md`.
 The Today screen calculates the next potty trip from the latest logged pee using
 the puppy's completed age in months plus one hour (birth date: June 8, 2026), and
 keeps a live remaining/overdue countdown on screen.

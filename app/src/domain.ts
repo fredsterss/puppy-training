@@ -4,7 +4,6 @@ const eventLabels: Record<EventType, string> = {
   pee: 'Pee',
   poo: 'Poo',
   food: 'Ate',
-  accident: 'Accident',
   water: 'Water',
   sleep: 'Sleep',
   wake: 'Wake'
@@ -34,6 +33,22 @@ export function normalizeTags(rawTags: string): string[] {
       seen.add(key)
       return true
     })
+}
+
+export function buildPottyDetailChanges(
+  event: Pick<PuppyEvent, 'type'>,
+  isAccident: boolean,
+  rawTags: string,
+  consistency: PooConsistency,
+  updatedAt: string
+): Pick<PuppyEvent, 'isAccident' | 'consistency' | 'tags' | 'updatedAt' | 'syncState'> {
+  return {
+    isAccident,
+    consistency: event.type === 'poo' ? consistency : undefined,
+    tags: isAccident ? normalizeTags(rawTags) : [],
+    updatedAt,
+    syncState: 'pending'
+  }
 }
 
 export function searchArticles(articles: Article[], rawQuery: string): Article[] {

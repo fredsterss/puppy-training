@@ -102,7 +102,7 @@ actor SupabaseService {
     private func requestEvents(_ active: StoredConnection) async throws -> [PuppyEvent] {
         var components = URLComponents(url: Self.projectURL.appendingPathComponent("rest/v1/puppy_events"), resolvingAgainstBaseURL: false)!
         components.queryItems = [
-            URLQueryItem(name: "select", value: "id,type,occurred_at,consistency,tags"),
+            URLQueryItem(name: "select", value: "id,type,occurred_at,consistency,is_accident,tags"),
             URLQueryItem(name: "household_id", value: "eq.\(active.householdId.uuidString.lowercased())"),
             URLQueryItem(name: "deleted_at", value: "is.null"),
             URLQueryItem(name: "order", value: "occurred_at.desc"),

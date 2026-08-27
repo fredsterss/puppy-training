@@ -11,7 +11,7 @@ The first release is an installable progressive web app (PWA). It has four prima
 - **Today**: recent care events, an estimated next potty check, and training progress.
 - **Learn**: offline full-text search, persistent view history, viewed/unread/recent filters, and a readable article view.
 - **Train**: persistent checklist progress, initially sourced from “Perfect Puppy Manners, Just 23 Steps.”
-- **Log**: one-tap recording for pee, poo, food, water, sleep, wake, and tagged accident events, with editable timestamps.
+- **Log**: one-tap recording for pee, poo, food, water, sleep, and wake, with editable timestamps and potty details for marking pee or poo as an accident.
 
 The app is offline-first. IndexedDB remains usable without an account or network; background household sync uses Supabase anonymous device identities, a one-time private capability link, Postgres Row Level Security, and Realtime. Pairing and sync have no visible application UI. A future native wrapper can reuse the web code if reliable offline scheduled notifications become essential.
 
@@ -48,11 +48,13 @@ preferences
 events
   id: auto-increment integer
   syncId: device-generated UUID
-  type: pee | poo | food | accident | water | sleep | wake
+  type: pee | poo | food | water | sleep | wake
   occurredAt: ISO timestamp
   amount?: number
+  consistency?: normal | soft (poo only)
+  isAccident?: boolean (pee or poo only)
   note?: string
-  tags?: arbitrary string[] (accidents)
+  tags?: arbitrary string[] (accident-marked potty events)
   updatedAt: ISO timestamp
   deletedAt?: ISO timestamp tombstone
   syncState: pending | synced
@@ -82,7 +84,7 @@ Reader state is stored as preferences: current destination, current article iden
 - Legacy preformatted prose, long links, lists, and tables are constrained to the mobile reader width.
 - The installed iPhone reader uses a dedicated header/content grid so article controls and metadata remain below the status-bar-safe header.
 - Food tracking is deliberately one tap: “Ate” records only the current timestamp.
-- Accident tracking records immediately, then offers optional arbitrary comma-separated tags that remain editable from history.
+- Pee and poo record immediately. Their history rows open potty details where either event can be marked as an accident and given optional arbitrary comma-separated tags.
 - Every activity timestamp can be corrected from its history row; editing updates and re-sorts the existing event.
 - Tracking guidance is an estimate, not medical advice; the user can always log or correct events manually.
 

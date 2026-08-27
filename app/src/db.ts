@@ -1,6 +1,13 @@
 import Dexie, { type EntityTable } from 'dexie'
 import type { ArticleView, ChecklistProgress, Preference, PuppyEvent } from './types'
 
+export type LegacyPuppyEvent = Omit<PuppyEvent, 'type'> & { type: PuppyEvent['type'] | 'accident' }
+
+export function normalizeLegacyLocalEvent(event: LegacyPuppyEvent, updatedAt = new Date().toISOString()): LegacyPuppyEvent {
+  if (event.type !== 'accident') return event
+  return { ...event, type: 'pee', isAccident: true, updatedAt, syncState: 'pending' }
+}
+
 class PuppyDatabase extends Dexie {
   events!: EntityTable<PuppyEvent, 'id'>
   checklistProgress!: EntityTable<ChecklistProgress, 'id'>
@@ -30,6 +37,16 @@ class PuppyDatabase extends Dexie {
         event.syncId = event.syncId ?? crypto.randomUUID()
         event.updatedAt = event.updatedAt ?? event.occurredAt
         event.syncState = event.syncState ?? 'pending'
+      })
+    })
+    this.version(4).stores({
+      events: '++id, &syncId, type, occurredAt, updatedAt, syncState',
+      checklistProgress: 'id, completed, completedAt',
+      preferences: 'key',
+      articleViews: 'articleId, lastViewedAt'
+    }).upgrade(async (transaction) => {
+      await transaction.table<LegacyPuppyEvent, number>('events').toCollection().modify((event) => {
+        Object.assign(event, normalizeLegacyLocalEvent(event))
       })
     })
   }
